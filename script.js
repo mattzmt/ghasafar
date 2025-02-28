@@ -1,8 +1,6 @@
-// Define initial filters
 let currentLanguageFilters = new Set(["en", "mt", "scn"]);
 let currentRarityFilters = new Set(["Common", "Uncommon", "Rare"]);
 
-// Cache DOM elements
 const root = document.documentElement;
 const c1 = getComputedStyle(root).getPropertyValue('--c1');
 const c2 = getComputedStyle(root).getPropertyValue('--c2');
@@ -24,8 +22,7 @@ const rarityFilters = document.querySelectorAll("#rty-filters button");
 
 let data = [];
 
-// Fetch data
-fetch('/data.json')
+fetch('data.json')
 	.then(response => response.json())
 	.then(jsonData => {
 		data = jsonData;
@@ -35,7 +32,6 @@ fetch('/data.json')
 	.catch(error => console.error("Error loading data:", error));
 
 function normalizeText(text) {
-	// Optimized normalization using a single regex replacement
 	return text
 		.toLowerCase()
 		.replace(/[żġħċ]-/g, (match) => ({ 'ż': 'z', 'ġ': 'g', 'ħ': 'h', 'ċ': 'c' })[match[0]] || match)
@@ -43,8 +39,8 @@ function normalizeText(text) {
 }
 
 function displayItems(items) {
-	container.innerHTML = ""; // Clear previous items
-	const fragment = document.createDocumentFragment(); // Use document fragment for batch DOM manipulation
+	container.innerHTML = "";
+	const fragment = document.createDocumentFragment();
 
 	items.forEach(item => {
 		const clone = template.content.cloneNode(true);
@@ -55,7 +51,7 @@ function displayItems(items) {
 		clone.querySelector(".more").addEventListener("click", () => showPopup(item));
 		fragment.appendChild(clone);
 	});
-	container.appendChild(fragment); // Append once
+	container.appendChild(fragment);
 
 	const resultText = items.length === 1 ? "Showing 1 result" : `Showing ${items.length} results`;
 	resultsCount.textContent = resultText;
@@ -101,9 +97,8 @@ searchInput.addEventListener("input", debounce(function() {
 	const query = normalizeText(this.value);
 	displayItems(filterItems(query));
 	updateTagColors();
-}, 300)); // 300ms debounce to avoid filtering on every keystroke
+}, 300));
 
-// Debounce function to limit the frequency of function execution
 function debounce(func, wait) {
 	let timeout;
 	return function(...args) {
@@ -137,7 +132,6 @@ function handleFilterClick(event, set, filter) {
 	toggleFilter(set, filter, query);
 }
 
-// Generalized event listeners for filter buttons
 document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "en"));
 document.getElementById("mt-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "mt"));
 document.getElementById("scn-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "scn"));
