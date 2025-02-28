@@ -1,0 +1,3530 @@
+[
+	{
+		"en": "Red-Throated Loon",
+		"mt": "Bughaddas",
+		"scn": "Gavia stellata",
+		"desc": "Insert description here",
+		"img": "/images/birds/RedThroatedLoon.jpg",
+		"alt": "By David Karnå / Wikimedia Commons, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27003078",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Grebe",
+		"mt": "Blongun Zghir",
+		"scn": "Tachybaptus ruficollis",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleGrebe.jpg",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33505667",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Crested Grebe",
+		"mt": "Blongun Prim",
+		"scn": "Podiceps cristatus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatCrestedGrebe.jpg",
+		"alt": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=115633653",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-necked Grebe",
+		"mt": "Blongun Sekond",
+		"scn": "Podiceps nigricollis",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlackNeckedGrebe.jpg",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33521634",
+		"rty": "Common"
+	},
+	{
+		"en": "Cory's (Scopoli's) Shearwater",
+		"mt": "Ciefa",
+		"scn": "Calonectris diomedea",
+		"desc": "Insert description here",
+		"img": "/images/birds/ScopolisShearwater.jpg",
+		"alt": "By Telegro - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71425634",
+		"rty": "Common"
+	},
+	{
+		"en": "Sooty Shearwater",
+		"mt": "Garnija Sewda",
+		"scn": "Puffinus griseus",
+		"desc": "Insert description here",
+		"img": "/images/birds/SootyShearwater.jpg",
+		"alt": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19625171",
+		"rty": "Common"
+	},
+	{
+		"en": "Manx Shearwater",
+		"mt": "Garnija tal-Atlantiku",
+		"scn": "Puffinus puffinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/ManxShearwater.jpg",
+		"alt": "By Ómar Runólfsson - Manx Shearwater - Puffinus puffinus - SkrofaUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=16473743",
+		"rty": "Common"
+	},
+	{
+		"en": "Yelkouan Shearwater",
+		"mt": "Garnija",
+		"scn": "Puffinus Yelkouan",
+		"desc": "Insert description here",
+		"img": "/images/birds/YelkouanShearwater.jpg",
+		"alt": "By Julien Renoult - https://www.inaturalist.org/photos/140249998, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=124452180",
+		"rty": "Common"
+	},
+	{
+		"en": "Balearic Shearwater",
+		"mt": "Garnija tal-Baleariku",
+		"scn": "Puffinus mauretanicus",
+		"desc": "Insert description here",
+		"img": "/images/birds/BalearicShearwater.jpg",
+		"alt": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - http://www.caib.es/sacmicrofront/contenido.do?mkey=M08092209023624284631&lang=CA&cont=22021, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15076773",
+		"rty": "Common"
+	},
+	{
+		"en": "Mediterranean Storm Petrel",
+		"mt": "Kangu ta' Filfla",
+		"scn": "Hydrobates pelagicus",
+		"desc": "Insert description here",
+		"img": "/images/birds/MediterraneanStormPetrel.jpg",
+		"alt": "By Richard Crossley - Richard Crossley, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25987162",
+		"rty": "Common"
+	},
+	{
+		"en": "Leach's Storm Petrel",
+		"mt": "Kangu tal-Atlantiku",
+		"scn": "Hydrobates leucorhous",
+		"desc": "Insert description here",
+		"img": "/images/birds/LeachsStormPetrel.jpg",
+		"alt": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=140184275",
+		"rty": "Common"
+	},
+	{
+		"en": "Northern Gannet",
+		"mt": "Sula",
+		"scn": "Morus bassanus",
+		"desc": "Insert description here",
+		"img": "/images/birds/NorthernGannet.jpg",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=339367",
+		"rty": "Common"
+	},
+	{
+		"en": "Pygmy Cormorant",
+		"mt": "Margun Zghir",
+		"scn": "Microcarbo pygmaeus",
+		"desc": "Insert description here",
+		"img": "/images/birds/PygmyCormorant.jpg",
+		"alt": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12693769",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Cormorant",
+		"mt": "Margun",
+		"scn": "Phalacrocorax carbo",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatCormorant.jpg",
+		"alt": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107560873",
+		"rty": "Common"
+	},
+	{
+		"en": "European Shag",
+		"mt": "Margun tat-Toppu",
+		"scn": "Phalacrocorax aristotelis",
+		"desc": "Insert description here",
+		"img": "/images/birds/EuropeanShag.jpg",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=15765052",
+		"rty": "Common"
+	},
+	{
+		"en": "White Pelican",
+		"mt": "Pellikan",
+		"scn": "Pelecanus onocrotalus",
+		"desc": "Insert description here",
+		"img": "/images/birds/WhitePelican.jpg",
+		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66151818",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Bittern",
+		"mt": "Kappun",
+		"scn": "Botaurus stellaris",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatBittern.jpg",
+		"alt": "By Jo Garbutt - Flickr: Bittern, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=33043685",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Bittern",
+		"mt": "Russett tas-Sigar",
+		"scn": "Botaurus minutus",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleBittern.jpg",
+		"alt": "By Biser Todorov - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=40954200",
+		"rty": "Common"
+	},
+	{
+		"en": "Night Heron",
+		"mt": "Kwakka",
+		"scn": "Nycticorax nycticorax",
+		"desc": "Insert description here",
+		"img": "/images/birds/NightHeron.jpg",
+		"alt": "By ramidos - https://www.inaturalist.org/photos/371561572, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156941524",
+		"rty": "Common"
+	},
+	{
+		"en": "Squacco Heron",
+		"mt": "Agrett Isfar",
+		"scn": "Ardeola ralloides",
+		"desc": "Insert description here",
+		"img": "/images/birds/SquaccoHeron.jpg",
+		"alt": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30117976",
+		"rty": "Common"
+	},
+	{
+		"en": "Cattle Egret",
+		"mt": "Agrett tal-Bhejjem",
+		"scn": "Ardea ibis",
+		"desc": "Insert description here",
+		"img": "/images/birds/CattleEgret.jpg",
+		"alt": "By Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=20329327",
+		"rty": "Common"
+	},
+	{
+		"en": "Western Reef Heron",
+		"mt": "Agrett tax-Xatt",
+		"scn": "Egretta gularis",
+		"desc": "Insert description here",
+		"img": "/images/birds/WesternReefHeron.jpg",
+		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115914728",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Egret",
+		"mt": "Agrett Abjad",
+		"scn": "Egretta garzetta",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleEgret.jpg",
+		"alt": "By Prosthetic Head - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47024149",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Egret",
+		"mt": "Russett Abjad",
+		"scn": "Ardea alba",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatEgret.png",
+		"alt": "By Chuck Homler (FocusOnWildlife.Me) - This photograph was taken with a Canon EOS R5 by u:Needsmoreritalin., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118398608",
+		"rty": "Common"
+	},
+	{
+		"en": "Grey Heron",
+		"mt": "Russet Griz",
+		"scn": "Ardea cinerea",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreyHeron.jpg",
+		"alt": "By Savithri Singh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108480213",
+		"rty": "Common"
+	},
+	{
+		"en": "Purple Heron",
+		"mt": "Russett Ahmar",
+		"scn": "Ardea purpurea",
+		"desc": "Insert description here",
+		"img": "/images/birds/PurpleHeron.jpg",
+		"alt": "By Steve Garvie from Dunfermline, Fife, Scotland - Purple Heron (Ardea purpurea)Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12124206",
+		"rty": "Common"
+	},
+	{
+		"en": "Black Stork",
+		"mt": "Cikonja Sewda",
+		"scn": "Ciconia nigra",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlackStork.jpg",
+		"alt": "By Lennart Tange from Eindhoven, The Netherlands - Black StorkUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25053802",
+		"rty": "Common"
+	},
+	{
+		"en": "White Stork",
+		"mt": "Cikonja Bajda",
+		"scn": "Ciconia ciconia",
+		"desc": "Insert description here",
+		"img": "/images/birds/WhiteStork.jpg",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20503096",
+		"rty": "Common"
+	},
+	{
+		"en": "Glossy Ibis",
+		"mt": "Velleran",
+		"scn": "Plegadis falcinellus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GlossyIbis.jpg",
+		"alt": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084451",
+		"rty": "Common"
+	},
+	{
+		"en": "Eurasian Spoonbill ",
+		"mt": "Paletta",
+		"scn": "Platalea leucorodia",
+		"desc": "Insert description here",
+		"img": "/images/birds/EurasianSpoonbill.jpg",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20213339",
+		"rty": "Common"
+	},
+	{
+		"en": "Greater Flamingo",
+		"mt": "Fjamingu",
+		"scn": "Phoenicopterus roseus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreaterFlamingo.jpg",
+		"alt": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084146",
+		"rty": "Common"
+	},
+	{
+		"en": "Mute Swan",
+		"mt": "Cinju",
+		"scn": "Cygnus olor",
+		"desc": "Insert description here",
+		"img": "/images/birds/MuteSwan.jpg",
+		"alt": "By (c) Codrin Bucur, some rights reserved (CC BY) - https://www.inaturalist.org/photos/113908808, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156494355",
+		"rty": "Common"
+	},
+	{
+		"en": "Bean Goose",
+		"mt": "Wizza tal-Ful",
+		"scn": "Anser fabalis",
+		"desc": "Insert description here",
+		"img": "/images/birds/BeanGoose.jpg",
+		"alt": "By agulivanov - https://www.inaturalist.org/photos/431929438, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158346328",
+		"rty": "Common"
+	},
+	{
+		"en": "White-Fronted Goose",
+		"mt": "Wizza tal-Maskra",
+		"scn": "Anser albifrons",
+		"desc": "Insert description here",
+		"img": "/images/birds/White-FrontedGoose.jpg",
+		"alt": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125974338",
+		"rty": "Common"
+	},
+	{
+		"en": "Greylag Goose",
+		"mt": "Wizza Griza",
+		"scn": "Anser anser",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreylagGoose.jpg",
+		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1385555",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-Breasted Goose",
+		"mt": "Wizza Hamra",
+		"scn": "Branta ruficollis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-BreastedGoose.jpg",
+		"alt": "By Dick Daniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11201743",
+		"rty": "Common"
+	},
+	{
+		"en": "Egyptian Goose",
+		"mt": "Wizza ta' l-Egittu",
+		"scn": "Alopochen aegyptiacus",
+		"desc": "Insert description here",
+		"img": "/images/birds/EgyptianGoose.jpg",
+		"alt": "By Kimberly Reid - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93302493",
+		"rty": "Common"
+	},
+	{
+		"en": "Ruddy Shelduck",
+		"mt": "Kuluvert Ahmar",
+		"scn": "Tadorna ferruginea",
+		"desc": "Insert description here",
+		"img": "/images/birds/RuddyShelduck.jpg",
+		"alt": "By Mprasannak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56389475",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Shelduck",
+		"mt": "Kuluvert tas-Salib",
+		"scn": "Tadorna tadorna",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonShelduck.jpg",
+		"alt": "By Hobbyfotowiki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=84357543",
+		"rty": "Common"
+	},
+	{
+		"en": "Eurasian Wigeon",
+		"mt": "Silfjun Ewropej",
+		"scn": "Mareca penelope",
+		"desc": "Insert description here",
+		"img": "/images/birds/EurasianWigeon.jpg",
+		"alt": "By Anas_penelope_kuribo.jpg: Kuribo from Osaka, Japanderivative work: Bogbumper (talk) - Anas_penelope_kuribo.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10662048",
+		"rty": "Common"
+	},
+	{
+		"en": "Falcated Duck",
+		"mt": "Silfjun Asjatiku",
+		"scn": "Anas falcata",
+		"desc": "Insert description here",
+		"img": "/images/birds/FalcatedDuck.jpg",
+		"alt": "By Francis C. Franklin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35774036",
+		"rty": "Common"
+	},
+	{
+		"en": "Gadwall",
+		"mt": "Kuluvert Griz",
+		"scn": "Mareca strepera",
+		"desc": "Insert description here",
+		"img": "/images/birds/Gadwall.jpg",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32475737",
+		"rty": "Common"
+	},
+	{
+		"en": "Baikal Teal",
+		"mt": "Sarsella tas-Siberja",
+		"scn": "Sibirionetta formosa",
+		"desc": "Insert description here",
+		"img": "/images/birds/BaikalTeal.jpg",
+		"alt": "By Formosa (Flickr) - https://www.flickr.com/photos/suneko/96282324/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3674844",
+		"rty": "Common"
+	},
+	{
+		"en": "Blue-winged Teal",
+		"mt": "Sarsella tal-Gewnah Ikhal",
+		"scn": "Anas discors",
+		"desc": "Insert description here",
+		"img": "/images/birds/Blue-wingedTeal.jpg",
+		"alt": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118451553",
+		"rty": "Common"
+	},
+	{
+		"en": "Eurasian Teal",
+		"mt": "Sarsella",
+		"scn": "Anas crecca",
+		"desc": "Insert description here",
+		"img": "/images/birds/EurasianTeal.jpg",
+		"alt": "By Jeslu - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3976534",
+		"rty": "Common"
+	},
+	{
+		"en": "Mallard",
+		"mt": "Kuluvert",
+		"scn": "Anas platyrhynchos",
+		"desc": "Insert description here",
+		"img": "/images/birds/Mallard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pintail",
+		"mt": "Silfjun",
+		"scn": "Anas acuta",
+		"desc": "Insert description here",
+		"img": "/images/birds/Pintail.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Garganey",
+		"mt": "Sarsella Hamra",
+		"scn": "Anas querquedula",
+		"desc": "Insert description here",
+		"img": "/images/birds/Garganey.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Shoveler",
+		"mt": "Palettuna",
+		"scn": "Anas clypeata",
+		"desc": "Insert description here",
+		"img": "/images/birds/Shoveler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Marbled Teal",
+		"mt": "Sarsella Mnaqqxa",
+		"scn": "Marmaronetta angustirostris",
+		"desc": "Insert description here",
+		"img": "/images/birds/MarbledTeal.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red Crested Pochard",
+		"mt": "Brajmla Prima",
+		"scn": "Netta rufina",
+		"desc": "Insert description here",
+		"img": "/images/birds/RedCrestedPochard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Pochard",
+		"mt": "Brajmla",
+		"scn": "Aythya ferina",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonPochard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Ferruginous Duck",
+		"mt": "Brajmla Hamra",
+		"scn": "Aythya nyroca",
+		"desc": "Insert description here",
+		"img": "/images/birds/FerruginousDuck.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Tufted Duck",
+		"mt": "Brajmla tat-Toppu",
+		"scn": "Aythya fuligula",
+		"desc": "Insert description here",
+		"img": "/images/birds/TuftedDuck.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Greater Scaup",
+		"mt": "Brajmla Rasha Sewda",
+		"scn": "Aythya marila",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreaterScaup.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Scotter",
+		"mt": "Brajmla Sewda",
+		"scn": "Melanitta nigra",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonScotter.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Goldeneye",
+		"mt": "Brajmla ta' l-Ghajn",
+		"scn": "Bucephala clangula",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonGoldeneye.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Smew",
+		"mt": "Serra Bajda",
+		"scn": "Mergellus albellus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Smew.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-Breasted Merganser",
+		"mt": "Serra",
+		"scn": "Mergus serrator",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-BreastedMerganser.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Goosander",
+		"mt": "Serra Prima",
+		"scn": "Mergus merganser",
+		"desc": "Insert description here",
+		"img": "/images/birds/Goosander.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White-Headed Duck",
+		"mt": "Brajmla Rasha Bajda",
+		"scn": "Oxyura leucocephala",
+		"desc": "Insert description here",
+		"img": "/images/birds/White-HeadedDuck.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Honey Buzzard",
+		"mt": "Kuccarda",
+		"scn": "Pernis apivorus",
+		"desc": "Insert description here",
+		"img": "/images/birds/HoneyBuzzard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black Kite",
+		"mt": "Astun Iswed",
+		"scn": "Milvus migrans",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlackKite.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red Kite",
+		"mt": "Astun Ahmar",
+		"scn": "Milvus milvus",
+		"desc": "Insert description here",
+		"img": "/images/birds/RedKite.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White -Tailed Eagle",
+		"mt": "Ajkla tal-Bahar",
+		"scn": "Haliaeetus albicilla",
+		"desc": "Insert description here",
+		"img": "/images/birds/White-TailedEagle.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Egyptian Vulture",
+		"mt": "Avultun Abjad",
+		"scn": "Neophron percnopterus",
+		"desc": "Insert description here",
+		"img": "/images/birds/EgyptianVulture.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Griffon Vulture",
+		"mt": "Avultun Prim",
+		"scn": "Gyps fulvus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GriffonVulture.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Short-toed Eagle",
+		"mt": "Ajkla Bajda",
+		"scn": "Circaetus gallicus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Short-toedEagle.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Marsh Harrier",
+		"mt": "Baghdan Ahmar",
+		"scn": "Circus aeruginosus",
+		"desc": "Insert description here",
+		"img": "/images/birds/MarshHarrier.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Hen Harrier",
+		"mt": "Baghadan Ikhal",
+		"scn": "Circus cyaneus",
+		"desc": "Insert description here",
+		"img": "/images/birds/HenHarrier.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pallid Harrier",
+		"mt": "Baghdan Abjad",
+		"scn": "Circus macrourus",
+		"desc": "Insert description here",
+		"img": "/images/birds/PallidHarrier.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Montagu's Harrier",
+		"mt": "Baghadan Griz",
+		"scn": "Circus pygargus",
+		"desc": "Insert description here",
+		"img": "/images/birds/MontagusHarrier.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eurasian Sparrowhawk",
+		"mt": "Sparvier",
+		"scn": "Accipiter nisus",
+		"desc": "Insert description here",
+		"img": "/images/birds/EurasianSparrowhawk.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Buzzard",
+		"mt": "Kuccarda Prima",
+		"scn": "Buteo buteo",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonBuzzard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Long Legged Buzzard",
+		"mt": "Kuccarda Hamra",
+		"scn": "Buteo rufinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/LongLeggedBuzzard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rough Legged Buzzard",
+		"mt": "Kuccarda tal-Kalzetti",
+		"scn": "Buteo lagopus",
+		"desc": "Insert description here",
+		"img": "/images/birds/RoughLeggedBuzzard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lesser Spotted Eagle",
+		"mt": "Ajkla tat-Tikek",
+		"scn": "Aquila pomarina",
+		"desc": "Insert description here",
+		"img": "/images/birds/LesserSpottedEagle.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Golden Eagle",
+		"mt": "Ajkla Rjali",
+		"scn": "Aquila chrysaetos",
+		"desc": "Insert description here",
+		"img": "/images/birds/GoldenEagle.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Booted Eagle",
+		"mt": "Ajkla tal-Kalzetti",
+		"scn": "Aquila pennatus",
+		"desc": "Insert description here",
+		"img": "/images/birds/BootedEagle.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Osprey",
+		"mt": "Arpa",
+		"scn": "Pandion haliaetus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Osprey.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lesser Kestrel",
+		"mt": "Spanjulett Sekond",
+		"scn": "Falco naumanni",
+		"desc": "Insert description here",
+		"img": "/images/birds/LesserKestrel.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Kestrel",
+		"mt": "Spanjulett",
+		"scn": "Falco tinnunculus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonKestrel.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "American Kestrel",
+		"mt": "Spanjulett Amerikan",
+		"scn": "Falco sparverius",
+		"desc": "Insert description here",
+		"img": "/images/birds/AmericanKestrel.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-footed Falcon",
+		"mt": "Zumbrell",
+		"scn": "Falco vespertinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-footedFalcon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Merlin",
+		"mt": "Seqer ta' Denbu",
+		"scn": "Falco columbarius",
+		"desc": "Insert description here",
+		"img": "/images/birds/Merlin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Hobby",
+		"mt": "Seqer tal-Hannieqa",
+		"scn": "Falco subbuteo",
+		"desc": "Insert description here",
+		"img": "/images/birds/Hobby.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eleonora's Falcon",
+		"mt": "Bies tar-Regina",
+		"scn": "Falco eleonorae",
+		"desc": "Insert description here",
+		"img": "/images/birds/EleonorasFalcon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sooty Falcon",
+		"mt": "Zumbrell Gharbi",
+		"scn": "Falco concolor",
+		"desc": "Insert description here",
+		"img": "/images/birds/SootyFalcon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lanner Falcon",
+		"mt": "Bies tad-Dezert",
+		"scn": "Falco biarmicus",
+		"desc": "Insert description here",
+		"img": "/images/birds/LannerFalcon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Saker Falcon",
+		"mt": "Bies tal-Lvant",
+		"scn": "Falco cherrug",
+		"desc": "Insert description here",
+		"img": "/images/birds/SakerFalcon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Peregrine Falcon",
+		"mt": "Bies",
+		"scn": "Falco peregrinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/PeregrineFalcon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Barbary Falcon",
+		"mt": "Bies ta' Barbarija",
+		"scn": "Falco pelegrinoides",
+		"desc": "Insert description here",
+		"img": "/images/birds/BarbaryFalcon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Quail",
+		"mt": "Summiena",
+		"scn": "Coturnix coturnix",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonQuail.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Water Rail",
+		"mt": "Gallozz tax-Xitwa",
+		"scn": "Rallus aquaticus",
+		"desc": "Insert description here",
+		"img": "/images/birds/WaterRail.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Spotted Crake",
+		"mt": "Gallozz tat-Tikek",
+		"scn": "Porzana porzana",
+		"desc": "Insert description here",
+		"img": "/images/birds/SpottedCrake.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Crake",
+		"mt": "Gallozz Zghir",
+		"scn": "Porzana parva",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleCrake.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Baillon's Crake",
+		"mt": "Gallozz Tal-Faxxi",
+		"scn": "Porzana pusilla",
+		"desc": "Insert description here",
+		"img": "/images/birds/BaillonsCrake.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Corn Crake",
+		"mt": "Gallozz Ahmar",
+		"scn": "Crex crex",
+		"desc": "Insert description here",
+		"img": "/images/birds/CornCrake.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Striped Crake",
+		"mt": "Gallozz ta' l-Istrixxi",
+		"scn": "Aenigmatolimnas marginalis",
+		"desc": "Insert description here",
+		"img": "/images/birds/StripedCrake.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Moorhen",
+		"mt": "Gallozz Iswed",
+		"scn": "Gallinula chloropus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Moorhen.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Allen's Gallinule",
+		"mt": "Gallozz ta' l-Afrika",
+		"scn": "Porphyrio alleni",
+		"desc": "Insert description here",
+		"img": "/images/birds/AllensGallinule.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "American Purple Gallinule",
+		"mt": "Gallozz ta' l-Amerika",
+		"scn": "Porphyrio martinica",
+		"desc": "Insert description here",
+		"img": "/images/birds/AmericanPurpleGallinule.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Purple Gallinule",
+		"mt": "Gallozz Prim",
+		"scn": "Porphyrio porphyrio",
+		"desc": "Insert description here",
+		"img": "/images/birds/PurpleGallinule.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Coot",
+		"mt": "Tigiega tal-Bahar",
+		"scn": "Fulica atra",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonCoot.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-Knobbed Coot",
+		"mt": "Tigiega tat-Toppu",
+		"scn": "Fulica cristata",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-KnobbedCoot.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Crane",
+		"mt": "Grawwa",
+		"scn": "Grus grus ",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonCrane.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Demoiselle Crane",
+		"mt": "Damigella",
+		"scn": "Anthropoides virgo",
+		"desc": "Insert description here",
+		"img": "/images/birds/DemoiselleCrane.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Bustard",
+		"mt": "Pitarra",
+		"scn": "Tetrax tetrax",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleBustard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Houbara Bustard",
+		"mt": "Ghubara",
+		"scn": "Chlamydotis undulata",
+		"desc": "Insert description here",
+		"img": "/images/birds/HoubaraBustard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Bustard",
+		"mt": "Pitarrun",
+		"scn": "Otis tarda",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatBustard.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Oystercatcher",
+		"mt": "Gallina tal-Bahar",
+		"scn": "Haematopus ostralegus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Oystercatcher.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-winged Stilt",
+		"mt": "Fras-Servjent",
+		"scn": "Himantopus himantopus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Black-wingedStilt.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Avocet",
+		"mt": "Xifa",
+		"scn": "Recurvirostra avosetta",
+		"desc": "Insert description here",
+		"img": "/images/birds/Avocet.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Stone Curlew",
+		"mt": "Tellerita",
+		"scn": "Burhinus oedicnemus",
+		"desc": "Insert description here",
+		"img": "/images/birds/StoneCurlew.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Cream Coloured Courser",
+		"mt": "Nankina",
+		"scn": "Cursorius cursor",
+		"desc": "Insert description here",
+		"img": "/images/birds/CreamColouredCourser.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Collared Pratincole",
+		"mt": "Pernicjotta",
+		"scn": "Glareola pratincola",
+		"desc": "Insert description here",
+		"img": "/images/birds/CollaredPratincole.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Ringed Plover",
+		"mt": "Monakella",
+		"scn": "Charadrius dubius",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleRingedPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Ringed Plover",
+		"mt": "Monakella Prima",
+		"scn": "Charadrius hiaticula",
+		"desc": "Insert description here",
+		"img": "/images/birds/RingedPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Kentish Plover",
+		"mt": "Monakella Zghira",
+		"scn": "Charadrius alexandrinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/KentishPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Greater Sand Plover",
+		"mt": "Birwina tal-Lvant",
+		"scn": "Charadrius leschenaultii",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreaterSandPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Caspian Plover",
+		"mt": "Birwina ta' l-Asja",
+		"scn": "Charadrius asiaticus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CaspianPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Dotterel",
+		"mt": "Birwina",
+		"scn": "Charadrius morinellus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Dotterel.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pacific Golden Plover",
+		"mt": "Pluviera Zghira",
+		"scn": "Pluvialis fulva",
+		"desc": "Insert description here",
+		"img": "/images/birds/PacificGoldenPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "European Golden Plover",
+		"mt": "Pluviera",
+		"scn": "Pluvialis apricaria",
+		"desc": "Insert description here",
+		"img": "/images/birds/EuropeanGoldenPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Grey Plover",
+		"mt": "Pluviera Griza",
+		"scn": "Pluvialis squatarola",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreyPlover.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Spur-Winged Lapwing",
+		"mt": "Venewwa ta' l-Ixpuni",
+		"scn": "Vanellus spinosus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Spur-WingedLapwing.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sociable Lapwing",
+		"mt": "Venewwa tal-Qtajja'",
+		"scn": "Vanellus gregarius",
+		"desc": "Insert description here",
+		"img": "/images/birds/SociableLapwing.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White-Tailed Lapwing",
+		"mt": "Venewwa Denbha Abjad",
+		"scn": "Vanellus leucurus",
+		"desc": "Insert description here",
+		"img": "/images/birds/White-TailedLapwing.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Northern Lapwing",
+		"mt": "Venewwa",
+		"scn": "Vanellus vanellus",
+		"desc": "Insert description here",
+		"img": "/images/birds/NorthernLapwing.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red Knot",
+		"mt": "Pispisella Prima",
+		"scn": "Calidris canutus",
+		"desc": "Insert description here",
+		"img": "/images/birds/RedKnot.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sanderling",
+		"mt": "Pispisella Bajda",
+		"scn": "Calidris alba",
+		"desc": "Insert description here",
+		"img": "/images/birds/Sanderling.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Stint",
+		"mt": "Tertuxa",
+		"scn": "Calidris minuta",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleStint.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Temminck's Stint",
+		"mt": "Tertuxa Griza",
+		"scn": "Calidris temminckii",
+		"desc": "Insert description here",
+		"img": "/images/birds/TemmincksStint.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pectoral Sandpiper",
+		"mt": "Pispisella Amerikana",
+		"scn": "Calidris melanotos",
+		"desc": "Insert description here",
+		"img": "/images/birds/PectoralSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Curlew Sandpiper",
+		"mt": "Pispisell Hamra",
+		"scn": "Calidris ferruginea",
+		"desc": "Insert description here",
+		"img": "/images/birds/CurlewSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Purple Sandpiper",
+		"mt": "Pispisaella tal-Bagar",
+		"scn": "Calidris maritima",
+		"desc": "Insert description here",
+		"img": "/images/birds/PurpleSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Dunlin",
+		"mt": "Pispisella tad-Dabra",
+		"scn": "Calidris alpina",
+		"desc": "Insert description here",
+		"img": "/images/birds/Dunlin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Broad-billed Sandpiper",
+		"mt": "Pispisell Bumunqar",
+		"scn": "Limicola falcinellus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Broad-billedSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Buff-Breasted Sandpiper",
+		"mt": "Girwiel Amerikan",
+		"scn": "Tryngites subruficollis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Buff-BreastedSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Ruff",
+		"mt": "Girwiel",
+		"scn": "Philomachus pugnax",
+		"desc": "Insert description here",
+		"img": "/images/birds/Ruff.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Jack Snipe",
+		"mt": "Cinkonja",
+		"scn": "Lymnocryptes minimus",
+		"desc": "Insert description here",
+		"img": "/images/birds/JackSnipe.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Snipe",
+		"mt": "Bekkacc",
+		"scn": "Gallinago gallinago",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonSnipe.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Snipe",
+		"mt": "Bekkacc ta' Mejju",
+		"scn": "Gallinago media",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatSnipe.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Woodcock",
+		"mt": "Gallina",
+		"scn": "Scolopax rusticola",
+		"desc": "Insert description here",
+		"img": "/images/birds/Woodcock.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-tailed Godwit",
+		"mt": "Girwiel Prim",
+		"scn": "Limosa limosa",
+		"desc": "Insert description here",
+		"img": "/images/birds/Black-tailedGodwit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Bar-Tailed Godwit",
+		"mt": "Girwiel Nordiku",
+		"scn": "Limosa lapponica",
+		"desc": "Insert description here",
+		"img": "/images/birds/Bar-TailedGodwit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Whimbrel",
+		"mt": "Gurlin Sekond",
+		"scn": "Numenius phaeopus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Whimbrel.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Slender Billed Curlew",
+		"mt": "Gurlin Zghir",
+		"scn": "Numenius tenuirostris",
+		"desc": "Insert description here",
+		"img": "/images/birds/SlenderBilledCurlew.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eurasian Curlew",
+		"mt": "Gurlin",
+		"scn": "Numenius arquata",
+		"desc": "Insert description here",
+		"img": "/images/birds/EurasianCurlew.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Upland Sandpiper",
+		"mt": "Pluverott ta' Denbu",
+		"scn": "Bartramia longicauda",
+		"desc": "Insert description here",
+		"img": "/images/birds/UplandSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Spotted Redshank",
+		"mt": "Cuvett",
+		"scn": "Tringa erythropus",
+		"desc": "Insert description here",
+		"img": "/images/birds/SpottedRedshank.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Redshank",
+		"mt": "Pluverott",
+		"scn": "Tringa totanus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonRedshank.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Marsh Sandpiper",
+		"mt": "Cewcewwa Zghira",
+		"scn": "Tringa stagnatilis",
+		"desc": "Insert description here",
+		"img": "/images/birds/MarshSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Greenshank",
+		"mt": "Cewcewwa",
+		"scn": "Tringa nebularia",
+		"desc": "Insert description here",
+		"img": "/images/birds/Greenshank.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Green Sandpiper",
+		"mt": "Swejda",
+		"scn": "Tringa ochropus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreenSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Wood Sandpiper",
+		"mt": "Swejda Cara",
+		"scn": "Tringa glareola",
+		"desc": "Insert description here",
+		"img": "/images/birds/WoodSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Terek Sandpiper",
+		"mt": "Pispisella tax-Xifa",
+		"scn": "Xenus cinereus",
+		"desc": "Insert description here",
+		"img": "/images/birds/TerekSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Sandpiper",
+		"mt": "Pispisella",
+		"scn": "Actitis hypoleucos",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonSandpiper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Turnstone",
+		"mt": "Monakella Imperjali",
+		"scn": "Arenaria interpres",
+		"desc": "Insert description here",
+		"img": "/images/birds/Turnstone.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-Necked Phalarope",
+		"mt": "Baruza",
+		"scn": "Phalaropus lobatus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-NeckedPhalarope.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Grey Phalarope",
+		"mt": "Baruza Griza",
+		"scn": "Phalaropus fulicarius",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreyPhalarope.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pomarine Skua",
+		"mt": "Skua",
+		"scn": "Stercorarius pomarinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/PomarineSkua.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Arctic Skua",
+		"mt": "Skua tal-Artiku",
+		"scn": "Stercorarius Parasiticus",
+		"desc": "Insert description here",
+		"img": "/images/birds/ArcticSkua.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Long-Tailed Skua",
+		"mt": "Skua Denba Twil",
+		"scn": "Stercorarius longicaudus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Long-TailedSkua.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Skua",
+		"mt": "Skua Prima",
+		"scn": "Stercorarius skua",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatSkua.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Black-Headed Gull",
+		"mt": "Gawwija Imperjali",
+		"scn": "Larus marinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatBlack-HeadedGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Mediterranean Gull",
+		"mt": "Gawwija Rasha sewda",
+		"scn": "Larus melanocephalus",
+		"desc": "Insert description here",
+		"img": "/images/birds/MediterraneanGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Gull",
+		"mt": "Gawwija Zghira",
+		"scn": "Larus minutus",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-headed Gull",
+		"mt": "Gawwija Rasha Kannella",
+		"scn": "Larus ridibundus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Black-headedGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Slender-billed Gull",
+		"mt": "Gawwija Munqarha Rqiq",
+		"scn": "Larus genei",
+		"desc": "Insert description here",
+		"img": "/images/birds/Slender-billedGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Audouin's Gull",
+		"mt": "Gawwija Munqarha Ahmar",
+		"scn": "Larus audouinii",
+		"desc": "Insert description here",
+		"img": "/images/birds/AudouinsGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Gull",
+		"mt": "Gawwija Sekonda",
+		"scn": "Larus canus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lesser Black-Backed Gull",
+		"mt": "Gawwija Darha Iswed",
+		"scn": "Larus fuscus",
+		"desc": "Insert description here",
+		"img": "/images/birds/LesserBlack-BackedGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Herring Gull",
+		"mt": "Gawwija Saqajha Roza",
+		"scn": "Larus argentatus",
+		"desc": "Insert description here",
+		"img": "/images/birds/HerringGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Yellow Legged Gull",
+		"mt": "Gawwija Prima",
+		"scn": "Larus michahellis",
+		"desc": "Insert description here",
+		"img": "/images/birds/YellowLeggedGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Caspian Gull",
+		"mt": "Gawwija tal-Kaspju",
+		"scn": "Larus cachinnans",
+		"desc": "Insert description here",
+		"img": "/images/birds/CaspianGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Glaucous Gull",
+		"mt": "Gawwija Bajda",
+		"scn": "Larus hyperboreus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GlaucousGull.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Kittiwake",
+		"mt": "Gawwija ta' l-Ingilterra",
+		"scn": "Larus tridactylia",
+		"desc": "Insert description here",
+		"img": "/images/birds/Kittiwake.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Gull-Billed Tern",
+		"mt": "Cirlewwa Bumunqar",
+		"scn": "Sterna nilotica",
+		"desc": "Insert description here",
+		"img": "/images/birds/Gull-BilledTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Caspian Tern",
+		"mt": "Cirlewwa Prima",
+		"scn": "Sterna caspia",
+		"desc": "Insert description here",
+		"img": "/images/birds/CaspianTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sandwich Tern",
+		"mt": "Cirlewwa tax-Xitwa",
+		"scn": "Sterna sandvicensis",
+		"desc": "Insert description here",
+		"img": "/images/birds/SandwichTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Roseate Tern",
+		"mt": "Cirlewwa Roza",
+		"scn": "Sterna dougallii",
+		"desc": "Insert description here",
+		"img": "/images/birds/RoseateTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Tern",
+		"mt": "Cirlewwa tal-Bahar",
+		"scn": "Sterna hirundo",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Arctic Tern",
+		"mt": "Cirlewwa tal-Artiku",
+		"scn": "Sterna paradisaea",
+		"desc": "Insert description here",
+		"img": "/images/birds/ArcticTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Tern",
+		"mt": "Cirlewwa Zghira",
+		"scn": "Sterna albifrons",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Whiskered Tern",
+		"mt": "Cirlewwa tal-Mustacci",
+		"scn": "Chlidonias hybridus",
+		"desc": "Insert description here",
+		"img": "/images/birds/WhiskeredTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black Tern",
+		"mt": "Cirlewwa Sewda",
+		"scn": "Chlidonias niger",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlackTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White-Winged Black Tern",
+		"mt": "Cirlewwa tal-Lvant",
+		"scn": "Chlidonias leucopterus",
+		"desc": "Insert description here",
+		"img": "/images/birds/White-WingedBlackTern.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Guillemot",
+		"mt": "Mus Irqiq",
+		"scn": "Uria aalge",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonGuillemot.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Razorbill",
+		"mt": "Mus",
+		"scn": "Alca torda",
+		"desc": "Insert description here",
+		"img": "/images/birds/Razorbill.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Auk",
+		"mt": "Purcinell Zghir",
+		"scn": "Alle alle",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleAuk.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Puffin",
+		"mt": "Purcinell",
+		"scn": "Fratercula arctica",
+		"desc": "Insert description here",
+		"img": "/images/birds/Puffin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-Bellied Sandgrouse",
+		"mt": "Ganga ta' Spanja",
+		"scn": "Pterocles orientalis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Black-BelliedSandgrouse.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pin-Tailed Sandgrouse",
+		"mt": "Ganga",
+		"scn": "Pterocles alchata",
+		"desc": "Insert description here",
+		"img": "/images/birds/Pin-TailedSandgrouse.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rock Dove",
+		"mt": "Tudun tal-Gebel",
+		"scn": "Columba livia",
+		"desc": "Insert description here",
+		"img": "/images/birds/RockDove.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Stock Dove",
+		"mt": "Tudun tas-Sigar",
+		"scn": "Columba oenas",
+		"desc": "Insert description here",
+		"img": "/images/birds/StockDove.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Wood Pigeon",
+		"mt": "Tudun",
+		"scn": "Columba palumbus",
+		"desc": "Insert description here",
+		"img": "/images/birds/WoodPigeon.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Collared Dove",
+		"mt": "Gamiema tal-Kullar",
+		"scn": "Streptopelia decaocto",
+		"desc": "Insert description here",
+		"img": "/images/birds/CollaredDove.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Turtle Dove",
+		"mt": "Gamiema",
+		"scn": "Streptopelia turtur",
+		"desc": "Insert description here",
+		"img": "/images/birds/TurtleDove.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Laughing Dove",
+		"mt": "Gamiema ta' l-Ilwien",
+		"scn": "Streptopelia senegalensis",
+		"desc": "Insert description here",
+		"img": "/images/birds/LaughingDove.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Spotted Cuckoo",
+		"mt": "Daqquqa Prima",
+		"scn": "Clamator glandarius",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatSpottedCuckoo.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Cuckoo",
+		"mt": "Daqquqa Kahla",
+		"scn": "Cuculus canorus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonCuckoo.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Barn Owl",
+		"mt": "Barbagann",
+		"scn": "Tyto alba",
+		"desc": "Insert description here",
+		"img": "/images/birds/BarnOwl.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Scops Owl",
+		"mt": "Kokka",
+		"scn": "Otus scops",
+		"desc": "Insert description here",
+		"img": "/images/birds/ScopsOwl.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Owl",
+		"mt": "Kokka tat-Tikek",
+		"scn": "Athene noctua",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleOwl.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Long Eared Owl",
+		"mt": "Qattus",
+		"scn": "Asio otus",
+		"desc": "Insert description here",
+		"img": "/images/birds/LongEaredOwl.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Short Eared Owl",
+		"mt": "Kokka tax-Xaghri",
+		"scn": "Asio flammeus",
+		"desc": "Insert description here",
+		"img": "/images/birds/ShortEaredOwl.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "European Nightjar",
+		"mt": "Buqrajq",
+		"scn": "Caprimulgus europaeus",
+		"desc": "Insert description here",
+		"img": "/images/birds/EuropeanNightjar.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-Necked Nightjar",
+		"mt": "Buqrajq Ahmar",
+		"scn": "Caprimulgus ruficollis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-NeckedNightjar.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Egyptian Nightjar",
+		"mt": "Buqrajq Abjad",
+		"scn": "Caprimulgus aegyptius",
+		"desc": "Insert description here",
+		"img": "/images/birds/EgyptianNightjar.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White-Throated Needletailed Swift",
+		"mt": "Rundun tal-Labar",
+		"scn": "Hirundapus caudacutus",
+		"desc": "Insert description here",
+		"img": "/images/birds/White-ThroatedNeedletailedSwift.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Alpine Swift",
+		"mt": "Rundun Zaqqu Bajda",
+		"scn": "Tachymarptis melba",
+		"desc": "Insert description here",
+		"img": "/images/birds/AlpineSwift.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Swift",
+		"mt": "Rundun",
+		"scn": "Apus apus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonSwift.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pallid Swift",
+		"mt": "Rundun Kanneli",
+		"scn": "Apus pallidus",
+		"desc": "Insert description here",
+		"img": "/images/birds/PallidSwift.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White Rumped Swift",
+		"mt": "Rundun tal-Hawwief",
+		"scn": "Zoonavena sylvatica",
+		"desc": "Insert description here",
+		"img": "/images/birds/WhiteRumpedSwift.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Swift",
+		"mt": "Rundun Zghir",
+		"scn": "Apus affinis",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleSwift.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Kingfisher",
+		"mt": "Ghasfur ta' San Martin",
+		"scn": "Alcedo atthis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Kingfisher.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Bee-Eater",
+		"mt": "Qerd in-Nahal",
+		"scn": "Merops apiaster",
+		"desc": "Insert description here",
+		"img": "/images/birds/Bee-Eater.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Blue Cheeked Bee Eater",
+		"mt": "Qerd in-Nahal Ahdar",
+		"scn": "Merops persicus",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlueCheekedBeeEater.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Roller",
+		"mt": "Farrug",
+		"scn": "Coracias garrulus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Roller.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Hoopoe",
+		"mt": "Daqquqa tat-Toppu",
+		"scn": "Upupa epops",
+		"desc": "Insert description here",
+		"img": "/images/birds/Hoopoe.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Wryneck",
+		"mt": "Bulebbiet",
+		"scn": "Jynx torquilla",
+		"desc": "Insert description here",
+		"img": "/images/birds/Wryneck.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Green Woodpecker",
+		"mt": "Bulebbiet Ahdar",
+		"scn": "Picus viridis",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreenWoodpecker.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Bar-tailed Lark",
+		"mt": "Alwetta Qastanija",
+		"scn": "Ammomanes cinctures",
+		"desc": "Insert description here",
+		"img": "/images/birds/Bar-tailedLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Hoopoe Lark",
+		"mt": "Alwetta Bumunqar",
+		"scn": "Alaemon alaudipes",
+		"desc": "Insert description here",
+		"img": "/images/birds/HoopoeLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Dupont's Lark",
+		"mt": "Alwetta tad-Dezert",
+		"scn": "Chersophilus duponti",
+		"desc": "Insert description here",
+		"img": "/images/birds/DupontsLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Calandra Lark",
+		"mt": "Kalandra",
+		"scn": "Melanocorypha calandra",
+		"desc": "Insert description here",
+		"img": "/images/birds/CalandraLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White Winged Lark",
+		"mt": "Kalandra tal-Gewnah Abjad",
+		"scn": "Melanocorypha leucoptera",
+		"desc": "Insert description here",
+		"img": "/images/birds/WhiteWingedLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black Lark",
+		"mt": "Kalandra Sewda",
+		"scn": "Melanocorypha yeltoniensis",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlackLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Short-toed Lark",
+		"mt": "Bilbla",
+		"scn": "Calandrella brachydactyla",
+		"desc": "Insert description here",
+		"img": "/images/birds/Short-toedLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lesser Short-toed Lark",
+		"mt": "Bilbla Sekonda",
+		"scn": "Calandrella rufescens",
+		"desc": "Insert description here",
+		"img": "/images/birds/LesserShort-toedLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Crested Lark",
+		"mt": "Cuqlajta tat-Toppu",
+		"scn": "Galerida cristata",
+		"desc": "Insert description here",
+		"img": "/images/birds/CrestedLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Wood Lark",
+		"mt": "Cuqlajta",
+		"scn": "Lullula arborea",
+		"desc": "Insert description here",
+		"img": "/images/birds/WoodLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sky Lark",
+		"mt": "Alwetta",
+		"scn": "Alauda arvensis",
+		"desc": "Insert description here",
+		"img": "/images/birds/SkyLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Shore Lark",
+		"mt": "Alwetta Safra",
+		"scn": "Eremophila alpestris",
+		"desc": "Insert description here",
+		"img": "/images/birds/ShoreLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Teminck's Lark",
+		"mt": "Alwetta tal-Qrun",
+		"scn": "Eremophila bilopha",
+		"desc": "Insert description here",
+		"img": "/images/birds/TemincksLark.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sand Martin",
+		"mt": "Hawwiefa tax-Xtut",
+		"scn": "Riparia riparia",
+		"desc": "Insert description here",
+		"img": "/images/birds/SandMartin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Crag Martin",
+		"mt": "Hawwiefa tal-Blat",
+		"scn": "Ptyonoprogne rupestris",
+		"desc": "Insert description here",
+		"img": "/images/birds/CragMartin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Barn Swallow",
+		"mt": "Huttafa",
+		"scn": "Hirundo rustica",
+		"desc": "Insert description here",
+		"img": "/images/birds/BarnSwallow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-rumped Swallow",
+		"mt": "Regina Tal-Huttaf",
+		"scn": "Cecropis daurica",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-rumpedSwallow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "House Martin",
+		"mt": "Hawwiefa",
+		"scn": "Delichon urbica",
+		"desc": "Insert description here",
+		"img": "/images/birds/HouseMartin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Richard's Pipit",
+		"mt": "Bilblun Prim",
+		"scn": "Anthus richardi",
+		"desc": "Insert description here",
+		"img": "/images/birds/RichardsPipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Tawny Pipit",
+		"mt": "Bilblun",
+		"scn": "Anthus campestris",
+		"desc": "Insert description here",
+		"img": "/images/birds/TawnyPipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Olive-Backed Pipit",
+		"mt": "Dizz tal-Lvant",
+		"scn": "Anthus hodgsoni",
+		"desc": "Insert description here",
+		"img": "/images/birds/Olive-BackedPipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Tree Pipit",
+		"mt": "Dizz",
+		"scn": "Anthus trivialis",
+		"desc": "Insert description here",
+		"img": "/images/birds/TreePipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Meadow Pipit",
+		"mt": "Pespus",
+		"scn": "Anthus pratensis",
+		"desc": "Insert description here",
+		"img": "/images/birds/MeadowPipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-Throated pipit",
+		"mt": "Dizz Ahmar",
+		"scn": "Anthus cervinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-Throatedpipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Water Pipit",
+		"mt": "Dizz ta' l-Ilma",
+		"scn": "Anthus spinoletta",
+		"desc": "Insert description here",
+		"img": "/images/birds/WaterPipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rock Pipit",
+		"mt": "Dizz tal-Blat",
+		"scn": "Anthus petrosus",
+		"desc": "Insert description here",
+		"img": "/images/birds/RockPipit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Yellow Wagtail",
+		"mt": "Isfar",
+		"scn": "Motacilla flava",
+		"desc": "Insert description here",
+		"img": "/images/birds/YellowWagtail.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Grey Wagtail",
+		"mt": "Zakak tad-Dell",
+		"scn": "Motacilla cinerea",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreyWagtail.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White Wagtail",
+		"mt": "Zakak Abjad",
+		"scn": "Motacilla alba",
+		"desc": "Insert description here",
+		"img": "/images/birds/WhiteWagtail.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Waxwing",
+		"mt": "Sultan l-Isponsuni",
+		"scn": "Bombycilla garrulus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Waxwing.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Dipper",
+		"mt": "Ghasfur tax-Xmajjar",
+		"scn": "Cinclus cinclus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Dipper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Wren",
+		"mt": "Bumistur",
+		"scn": "Troglodytes Troglodytes",
+		"desc": "Insert description here",
+		"img": "/images/birds/Wren.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Dunnock",
+		"mt": "Ziemel",
+		"scn": "Prunella modularis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Dunnock.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Alpine Accentor",
+		"mt": "Ziemel ta' l-Alpi",
+		"scn": "Prunella collaris",
+		"desc": "Insert description here",
+		"img": "/images/birds/AlpineAccentor.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rufous Bush Chat",
+		"mt": "Rozinjol tax-Xaghri",
+		"scn": "Cercotrichas galactotes",
+		"desc": "Insert description here",
+		"img": "/images/birds/RufousBushChat.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Robin",
+		"mt": "Pitirros",
+		"scn": "Erithacus rubecula",
+		"desc": "Insert description here",
+		"img": "/images/birds/Robin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Nightingale",
+		"mt": "Rozinjol",
+		"scn": "Luscinia megarhynchos",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonNightingale.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Thrush Nightingale",
+		"mt": "Rozinjol Prim",
+		"scn": "Luscinia luscinia",
+		"desc": "Insert description here",
+		"img": "/images/birds/ThrushNightingale.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Siberian Rubythroat",
+		"mt": "Rozinjol tas-Siberja",
+		"scn": "Luscinia calliope",
+		"desc": "Insert description here",
+		"img": "/images/birds/SiberianRubythroat.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Bluethroat",
+		"mt": "Rozinjol Ikhal",
+		"scn": "Luscinia svecica",
+		"desc": "Insert description here",
+		"img": "/images/birds/Bluethroat.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black Redstart",
+		"mt": "Fjamma Sewda",
+		"scn": "Phoenicurus ochruros",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlackRedstart.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Redstart",
+		"mt": "Fjamma",
+		"scn": "Phoenicurus phoenicurus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonRedstart.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Moussier's Redstart",
+		"mt": "Fjamma tat-Tunezija",
+		"scn": "Phoenicurus moussieri",
+		"desc": "Insert description here",
+		"img": "/images/birds/MoussiersRedstart.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Whinchat",
+		"mt": "Bucaqq tas-Silla",
+		"scn": "Saxicola rubetra",
+		"desc": "Insert description here",
+		"img": "/images/birds/Whinchat.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Stonechat",
+		"mt": "Bucaqq tax-Xitwa",
+		"scn": "Saxicola rubicola",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonStonechat.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Northern Wheatear",
+		"mt": "Kuda",
+		"scn": "Oenanthe oenanthe",
+		"desc": "Insert description here",
+		"img": "/images/birds/NorthernWheatear.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Isabelline Wheatear",
+		"mt": "Kuda Ramlija",
+		"scn": "Oenanthe isabellina",
+		"desc": "Insert description here",
+		"img": "/images/birds/IsabellineWheatear.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pied Wheatear",
+		"mt": "Kuda tal-Lvant",
+		"scn": "Oenanthe pleschanka",
+		"desc": "Insert description here",
+		"img": "/images/birds/PiedWheatear.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-Eared Wheatear",
+		"mt": "Kuda Dumnikana",
+		"scn": "Oenanthe hispanica",
+		"desc": "Insert description here",
+		"img": "/images/birds/Black-EaredWheatear.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Desert Wheatear",
+		"mt": "Kuda tad-Dezert",
+		"scn": "Oenanthe deserti",
+		"desc": "Insert description here",
+		"img": "/images/birds/DesertWheatear.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White Crowned Black Wheatear",
+		"mt": "Kuda Rasha Bajda",
+		"scn": "Oenanthe leucopyga",
+		"desc": "Insert description here",
+		"img": "/images/birds/WhiteCrownedBlackWheatear.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black Wheatear",
+		"mt": "Kuda Sewda",
+		"scn": "Oenanthe leucura",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlackWheatear.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rock Thrush",
+		"mt": "Ganbublu",
+		"scn": "Monticola saxatilis",
+		"desc": "Insert description here",
+		"img": "/images/birds/RockThrush.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Blue Rock Thrush",
+		"mt": "Merill",
+		"scn": "Monticola solitarius",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlueRockThrush.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Siberian Trush",
+		"mt": "Malvizz tas-Siberja",
+		"scn": "Zoothera sibirica",
+		"desc": "Insert description here",
+		"img": "/images/birds/SiberianTrush.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Ring Ouzel",
+		"mt": "Malvizz tas-Sidra",
+		"scn": "Turdus torquatus",
+		"desc": "Insert description here",
+		"img": "/images/birds/RingOuzel.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Blackbird",
+		"mt": "Malvizz Iswed",
+		"scn": "Turdus merula",
+		"desc": "Insert description here",
+		"img": "/images/birds/Blackbird.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eyebrowed Trush",
+		"mt": "Malvizz Nordiku",
+		"scn": "Turdus obscurus",
+		"desc": "Insert description here",
+		"img": "/images/birds/EyebrowedTrush.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Fieldfare",
+		"mt": "Malvizzun tal-Qtajja",
+		"scn": "Turdus pilaris",
+		"desc": "Insert description here",
+		"img": "/images/birds/Fieldfare.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Song Thrush",
+		"mt": "Malvizz",
+		"scn": "Turdus philomelos",
+		"desc": "Insert description here",
+		"img": "/images/birds/SongThrush.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Redwing",
+		"mt": "Malvizz Ahmar",
+		"scn": "Turdus iliacus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Redwing.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Mistle Trush",
+		"mt": "Malvizzun Prim",
+		"scn": "Turdus viscivorus",
+		"desc": "Insert description here",
+		"img": "/images/birds/MistleTrush.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Cetti's Warbler",
+		"mt": "Bufula ta' l-Ghollieq",
+		"scn": "Cettia cetti",
+		"desc": "Insert description here",
+		"img": "/images/birds/CettisWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Zitting Cisticola",
+		"mt": "Bufula ta' l-Imrewha",
+		"scn": "Cisticola juncidis",
+		"desc": "Insert description here",
+		"img": "/images/birds/ZittingCisticola.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Grasshopper Warbler",
+		"mt": "Bufula tal-Gurati",
+		"scn": "Locustella naevia",
+		"desc": "Insert description here",
+		"img": "/images/birds/GrasshopperWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "River Warbler",
+		"mt": "Bufula tax-Xmajjar",
+		"scn": "Locustella fluviatilis",
+		"desc": "Insert description here",
+		"img": "/images/birds/RiverWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Savi's Warbler",
+		"mt": "Bufula tal-Buda",
+		"scn": "Locustella luscinioides",
+		"desc": "Insert description here",
+		"img": "/images/birds/SavisWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Moustached Warbler",
+		"mt": "Bufula Qastanija",
+		"scn": "Acrocephalus melanopogon",
+		"desc": "Insert description here",
+		"img": "/images/birds/MoustachedWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Aquatic Warbler",
+		"mt": "Bufula tal-Bwar",
+		"scn": "Acrocephalus paludicola",
+		"desc": "Insert description here",
+		"img": "/images/birds/AquaticWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sedge Warbler",
+		"mt": "Bufula tas-Simar",
+		"scn": "Acrocephalus schoenobaenus",
+		"desc": "Insert description here",
+		"img": "/images/birds/SedgeWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Paddyfield Warbler",
+		"mt": "Bufala tas-Saqwi",
+		"scn": "Acrocephalus agricola",
+		"desc": "Insert description here",
+		"img": "/images/birds/PaddyfieldWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Blyth's Reed Warbler",
+		"mt": "Bufula tal-Baghli",
+		"scn": "Acrocephalus dumetorum",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlythsReedWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Marsh Warbler",
+		"mt": "Bufula ta' l-Ghadajjar",
+		"scn": "Acrocephalus palustris",
+		"desc": "Insert description here",
+		"img": "/images/birds/MarshWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Reed Warbler",
+		"mt": "Bufula tal-Qasab",
+		"scn": "Acrocephalus scirpaceus",
+		"desc": "Insert description here",
+		"img": "/images/birds/ReedWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Reed Warbler",
+		"mt": "Bufula Prima",
+		"scn": "Acrocephalus arundinaceus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatReedWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eastern Olivaceous Warbler",
+		"mt": "Bekkafik Griz",
+		"scn": "Hippolais pallida",
+		"desc": "Insert description here",
+		"img": "/images/birds/EasternOlivaceousWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Western Olivaceous Warbler",
+		"mt": "Bekkafik Griz",
+		"scn": "Hippolais opaca",
+		"desc": "Insert description here",
+		"img": "/images/birds/WesternOlivaceousWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Icterine Warbler",
+		"mt": "Bekkafik Isfar",
+		"scn": "Hippolais icterina",
+		"desc": "Insert description here",
+		"img": "/images/birds/IcterineWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Melodious Warbler",
+		"mt": "Bekkafik ta' l-Ghana",
+		"scn": "Hippolais polyglotta",
+		"desc": "Insert description here",
+		"img": "/images/birds/MelodiousWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Blackcap",
+		"mt": "Kapinera",
+		"scn": "Sylvia atricapilla",
+		"desc": "Insert description here",
+		"img": "/images/birds/Blackcap.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Garden Warbler",
+		"mt": "Bekkafik",
+		"scn": "Sylvia borin",
+		"desc": "Insert description here",
+		"img": "/images/birds/GardenWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Barred Warbler",
+		"mt": "Bekkafik ta' l-Istrixxi",
+		"scn": "Sylvia nisoria",
+		"desc": "Insert description here",
+		"img": "/images/birds/BarredWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lesser Whitethroat",
+		"mt": "Bekkafik Irmiedi",
+		"scn": "Sylvia curruca",
+		"desc": "Insert description here",
+		"img": "/images/birds/LesserWhitethroat.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Western Orphean Warbler",
+		"mt": "Bekkafik Sewdini tal-Punent",
+		"scn": "Sylvia hortensis",
+		"desc": "Insert description here",
+		"img": "/images/birds/WesternOrpheanWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eastern Orphean Warbler",
+		"mt": "Bekkafik Sewdini tal-Lvant",
+		"scn": "Sylvia crassirostris",
+		"desc": "Insert description here",
+		"img": "/images/birds/EasternOrpheanWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "African Desert Warbler",
+		"mt": "Bekkafik tad-Dezert",
+		"scn": "Sylvia deserti",
+		"desc": "Insert description here",
+		"img": "/images/birds/AfricanDesertWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Whitethroat",
+		"mt": "Bekkafik Ahmar",
+		"scn": "Sylvia communis",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonWhitethroat.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Dartford Warbler",
+		"mt": "Bufula tax-Xaghri",
+		"scn": "Sylvia undata",
+		"desc": "Insert description here",
+		"img": "/images/birds/DartfordWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Marmora's Warbler",
+		"mt": "Bufula Griza",
+		"scn": "Sylvia sarda",
+		"desc": "Insert description here",
+		"img": "/images/birds/MarmorasWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Tristram's Warbler",
+		"mt": "Bufula tat-Tunezija",
+		"scn": "Sylvia deserticola",
+		"desc": "Insert description here",
+		"img": "/images/birds/TristramsWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Spectacled Warbler",
+		"mt": "Bufula Hamra",
+		"scn": "Sylvia conspicillata",
+		"desc": "Insert description here",
+		"img": "/images/birds/SpectacledWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Subalpine Warbler",
+		"mt": "Bufula Passarija",
+		"scn": "Sylvia cantillans",
+		"desc": "Insert description here",
+		"img": "/images/birds/SubalpineWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Sardinian Warbler",
+		"mt": "Bufula Sewda",
+		"scn": "Sylvia melanocephala",
+		"desc": "Insert description here",
+		"img": "/images/birds/SardinianWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Ruppell's Warbler",
+		"mt": "Bufula tal-Pavalor",
+		"scn": "Sylvia rueppelli",
+		"desc": "Insert description here",
+		"img": "/images/birds/RuppellsWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Arctic Warbler",
+		"mt": "Vjolin ta' l-Artiku",
+		"scn": "Phylloscopus borealis",
+		"desc": "Insert description here",
+		"img": "/images/birds/ArcticWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Greenish Warbler",
+		"mt": "Vjolin Ahdar tal-Faxx",
+		"scn": "Phylloscopus trochiloides",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreenishWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pallas's Leaf Warbler",
+		"mt": "Vjolin tal-Ferq",
+		"scn": "Phylloscopus proregulus",
+		"desc": "Insert description here",
+		"img": "/images/birds/PallassLeafWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Yellow Browed Warbler",
+		"mt": "Vjolin tal-Faxx",
+		"scn": "Phylloscopus inornatus",
+		"desc": "Insert description here",
+		"img": "/images/birds/YellowBrowedWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Radde's Warbler",
+		"mt": "Vjolin tas-Siberja",
+		"scn": "Phylloscopus schwarzi",
+		"desc": "Insert description here",
+		"img": "/images/birds/RaddesWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Dusky Warbler",
+		"mt": "Vjolin Skur",
+		"scn": "Phylloscopus fuscatus",
+		"desc": "Insert description here",
+		"img": "/images/birds/DuskyWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Western Bonelli's Warbler",
+		"mt": "Vjolin Bajdani",
+		"scn": "Phylloscopus bonelli",
+		"desc": "Insert description here",
+		"img": "/images/birds/WesternBonellisWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eastern Bonelli's Warbler",
+		"mt": "Vjolin tal-Lvant",
+		"scn": "Phylloscopus orientalis",
+		"desc": "Insert description here",
+		"img": "/images/birds/EasternBonellisWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Wood Warbler",
+		"mt": "Vjolin Hadrani",
+		"scn": "Phylloscopus sibilatrix",
+		"desc": "Insert description here",
+		"img": "/images/birds/WoodWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Chiffchaff",
+		"mt": "Vjolin tax-Xitwa",
+		"scn": "Phylloscopus collybita",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonChiffchaff.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Iberian Chiffchaff",
+		"mt": "Vjolin ta' l-Iberja",
+		"scn": "Phylloscopus ibericus",
+		"desc": "Insert description here",
+		"img": "/images/birds/IberianChiffchaff.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Willow Warbler",
+		"mt": "Vjolin Safrani",
+		"scn": "Phylloscopus trochilus",
+		"desc": "Insert description here",
+		"img": "/images/birds/WillowWarbler.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Goldcrest",
+		"mt": "Bufula tal-Qamar",
+		"scn": "Regulus regulus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Goldcrest.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Firecrest",
+		"mt": "Bufula tax-Xemx",
+		"scn": "Regulus ignicapillus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Firecrest.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Spotted Flycatcher",
+		"mt": "Zanzarell tat-Tikek",
+		"scn": "Muscicapa striata",
+		"desc": "Insert description here",
+		"img": "/images/birds/SpottedFlycatcher.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-breasted Flycatcher",
+		"mt": "Zanzarell Zghir",
+		"scn": "Ficedula parva",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-breastedFlycatcher.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Semi-collared Flycatcher",
+		"mt": "Zanzarell tal-Lvant",
+		"scn": "Ficedula semitorquata",
+		"desc": "Insert description here",
+		"img": "/images/birds/Semi-collaredFlycatcher.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Collared Flycatcher",
+		"mt": "Zanzarell tal-Kullar",
+		"scn": "Ficedula albicollis",
+		"desc": "Insert description here",
+		"img": "/images/birds/CollaredFlycatcher.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pied Flycatcher",
+		"mt": "Zanzarell Iswed",
+		"scn": "Ficedula hypoleuca",
+		"desc": "Insert description here",
+		"img": "/images/birds/PiedFlycatcher.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Blue Tit",
+		"mt": "Primavera",
+		"scn": "Cyanistes caeruleus",
+		"desc": "Insert description here",
+		"img": "/images/birds/BlueTit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Tit",
+		"mt": "Fjorentin",
+		"scn": "Parus major",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatTit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Wallcreeper",
+		"mt": "Daqquqa tal-Gebel",
+		"scn": "Tichodroma muraria",
+		"desc": "Insert description here",
+		"img": "/images/birds/Wallcreeper.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Penduline Tit",
+		"mt": "Pendulin",
+		"scn": "Remiz pendulinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/PendulineTit.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Golden Oriole",
+		"mt": "Tajra Safra",
+		"scn": "Oriolus oriolus",
+		"desc": "Insert description here",
+		"img": "/images/birds/GoldenOriole.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Woodchat Shrike",
+		"mt": "Kaccamendula",
+		"scn": "Lanius senator",
+		"desc": "Insert description here",
+		"img": "/images/birds/WoodchatShrike.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-backed Shrike",
+		"mt": "Kaccamendula Hamra",
+		"scn": "Lanius collurio",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-backedShrike.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lesser Grey Shrike",
+		"mt": "Kaccamendula Griza",
+		"scn": "Lanius minor",
+		"desc": "Insert description here",
+		"img": "/images/birds/LesserGreyShrike.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Great Grey Shrike",
+		"mt": "Kaccamendula Nordika",
+		"scn": "Lanius excubitor",
+		"desc": "Insert description here",
+		"img": "/images/birds/GreatGreyShrike.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Southern Grey Shrike",
+		"mt": "Kaccamendula Prima",
+		"scn": "Lanius meridionalis",
+		"desc": "Insert description here",
+		"img": "/images/birds/SouthernGreyShrike.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Masked Shrike",
+		"mt": "Kaccamendula tal-Maskra",
+		"scn": "Lanius nubicus",
+		"desc": "Insert description here",
+		"img": "/images/birds/MaskedShrike.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Eurasian Jay",
+		"mt": "Sultan ic-Cawl",
+		"scn": "Garrulus glandarius",
+		"desc": "Insert description here",
+		"img": "/images/birds/EurasianJay.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Western Jackdaw",
+		"mt": "Cawla",
+		"scn": "Corvus monedula",
+		"desc": "Insert description here",
+		"img": "/images/birds/WesternJackdaw.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rook",
+		"mt": "Korvu",
+		"scn": "Corvus frugilegus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Rook.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Carrion Crow",
+		"mt": "Cawlun",
+		"scn": "Corvus corone",
+		"desc": "Insert description here",
+		"img": "/images/birds/CarrionCrow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Hooded Crow",
+		"mt": "Cawlun Griz",
+		"scn": "Corvus cornix",
+		"desc": "Insert description here",
+		"img": "/images/birds/HoodedCrow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Raven",
+		"mt": "Gharab",
+		"scn": "Corvus corax",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonRaven.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Starling",
+		"mt": "Sturnell",
+		"scn": "Sturnus vulgaris",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonStarling.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Spotless Starling",
+		"mt": "Sturnell Iswed",
+		"scn": "Sturnus unicolor",
+		"desc": "Insert description here",
+		"img": "/images/birds/SpotlessStarling.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rose-Coloured Starling",
+		"mt": "Sturnell Roza",
+		"scn": "Pastor roseus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Rose-ColouredStarling.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Spanish Sparrow",
+		"mt": "Ghasfur tal-Bejt",
+		"scn": "Passer hispaniolensis",
+		"desc": "Insert description here",
+		"img": "/images/birds/SpanishSparrow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Tree Sparrow",
+		"mt": "Gahgah",
+		"scn": "Passer montanus",
+		"desc": "Insert description here",
+		"img": "/images/birds/TreeSparrow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rock Sparrow",
+		"mt": "Ghammiel tal-Blat",
+		"scn": "Petronia petronia",
+		"desc": "Insert description here",
+		"img": "/images/birds/RockSparrow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Snowfinch",
+		"mt": "Sponsun tas-Silg",
+		"scn": "Montifringilla nivalis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Snowfinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Red-eyed Vireo",
+		"mt": "Virju",
+		"scn": "Vireo olivaceus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Red-eyedVireo.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Chaffinch",
+		"mt": "Sponsun",
+		"scn": "Fringilla coelebs",
+		"desc": "Insert description here",
+		"img": "/images/birds/Chaffinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Brambling",
+		"mt": "Sponsun Selvagg",
+		"scn": "Fringilla montifringilla",
+		"desc": "Insert description here",
+		"img": "/images/birds/Brambling.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "European Serin",
+		"mt": "Apparell",
+		"scn": "Serinus serinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/EuropeanSerin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Greenfinch",
+		"mt": "Verdun",
+		"scn": "Carduelis chloris",
+		"desc": "Insert description here",
+		"img": "/images/birds/Greenfinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Goldfinch",
+		"mt": "Gardell",
+		"scn": "Carduelis carduelis",
+		"desc": "Insert description here",
+		"img": "/images/birds/Goldfinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Siskin",
+		"mt": "Ekru",
+		"scn": "Carduelis spinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Siskin.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Linnet",
+		"mt": "Gojjin",
+		"scn": "Carduelis cannabina",
+		"desc": "Insert description here",
+		"img": "/images/birds/Linnet.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lesser Redpoll",
+		"mt": "Gojjin Qerqni",
+		"scn": "Carduelis cabaret",
+		"desc": "Insert description here",
+		"img": "/images/birds/LesserRedpoll.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Redpoll",
+		"mt": "Gojjin Sekond",
+		"scn": "Carduelis flammea",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonRedpoll.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Crossbill",
+		"mt": "Krucjat",
+		"scn": "Loxia curvirostra",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonCrossbill.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Trumpeter Finch",
+		"mt": "Trumbettier",
+		"scn": "Bucanetes githaginea",
+		"desc": "Insert description here",
+		"img": "/images/birds/TrumpeterFinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Rosefinch",
+		"mt": "Bumunqar",
+		"scn": "Carpodacus erythrinus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CommonRosefinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Bullfinch",
+		"mt": "Bugeddum",
+		"scn": "Pyrrhula pyrrhula",
+		"desc": "Insert description here",
+		"img": "/images/birds/Bullfinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Hawfinch",
+		"mt": "Taz-Zebbug",
+		"scn": "Coccothraustes coccothraustes",
+		"desc": "Insert description here",
+		"img": "/images/birds/Hawfinch.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "White-Throated Sparrow",
+		"mt": "Durrajsa Amerikana",
+		"scn": "Zonotrichia albicollis",
+		"desc": "Insert description here",
+		"img": "/images/birds/White-ThroatedSparrow.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Lapland Bunting",
+		"mt": "Durrajsa Nordika",
+		"scn": "Calcarius lapponicus",
+		"desc": "Insert description here",
+		"img": "/images/birds/LaplandBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Snow Bunting",
+		"mt": "Durrajsa Bajda",
+		"scn": "Plectrophenax nivalis",
+		"desc": "Insert description here",
+		"img": "/images/birds/SnowBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pine Bunting",
+		"mt": "Durrajsa Rasha Bajda",
+		"scn": "Emberiza leucocephalos",
+		"desc": "Insert description here",
+		"img": "/images/birds/PineBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Yellohammer",
+		"mt": "Durrajsa Safra",
+		"scn": "Emberiza citrinella",
+		"desc": "Insert description here",
+		"img": "/images/birds/Yellohammer.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Cirl Bunting",
+		"mt": "Ortolan Iswed",
+		"scn": "Emberiza cirlus",
+		"desc": "Insert description here",
+		"img": "/images/birds/CirlBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rock Bunting",
+		"mt": "Ortolan tal-Blat",
+		"scn": "Emberiza cia",
+		"desc": "Insert description here",
+		"img": "/images/birds/RockBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Ortolan Bunting",
+		"mt": "Ortolan",
+		"scn": "Emberiza hortulana",
+		"desc": "Insert description here",
+		"img": "/images/birds/OrtolanBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Cretzschmar's Bunting",
+		"mt": "Ortolan Rasu Blu",
+		"scn": "Emberiza caesia",
+		"desc": "Insert description here",
+		"img": "/images/birds/CretzschmarsBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rustic Bunting",
+		"mt": "Durrajsa Qastnija",
+		"scn": "Emberiza rustica",
+		"desc": "Insert description here",
+		"img": "/images/birds/RusticBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Little Bunting",
+		"mt": "Durrajsa Qerqnija",
+		"scn": "Emberiza pusilla",
+		"desc": "Insert description here",
+		"img": "/images/birds/LittleBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Chestnut Bunting",
+		"mt": "Durrajsa tal-Lvant",
+		"scn": "Emberiza rutila",
+		"desc": "Insert description here",
+		"img": "/images/birds/ChestnutBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Yellow-Breasted Bunting",
+		"mt": "Ortolan tal-Lvant",
+		"scn": "Emberiza aureola",
+		"desc": "Insert description here",
+		"img": "/images/birds/Yellow-BreastedBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Reed Bunting",
+		"mt": "Durrajsa tal-Qasab",
+		"scn": "Emberiza schoeniclus",
+		"desc": "Insert description here",
+		"img": "/images/birds/ReedBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-Headed Bunting",
+		"mt": "Durrajsa Rasha Sewda",
+		"scn": "Emberiza melanocephala",
+		"desc": "Insert description here",
+		"img": "/images/birds/Black-HeadedBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Corn Bunting",
+		"mt": "Durrajsa",
+		"scn": "Emberiza calandra",
+		"desc": "Insert description here",
+		"img": "/images/birds/CornBunting.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Rose-Breasted Grosbeak",
+		"mt": "Bumunqar Amerikan",
+		"scn": "Pheucticus ludovicianus",
+		"desc": "Insert description here",
+		"img": "/images/birds/Rose-BreastedGrosbeak.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	}
+]
