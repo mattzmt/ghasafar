@@ -135,9 +135,9 @@ button:focus {
   display: flex;
   flex-direction: row;
   margin: 0 20px 20px 20px;
-  min-width: 250px;
+  min-width: 300px;
   width: 100%;
-  max-width: 350px;
+  max-width: 400px;
   height: fit-content;
   background: var(--c5);
   border-radius: 15px;
