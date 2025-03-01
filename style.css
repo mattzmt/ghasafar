@@ -118,8 +118,8 @@ button:focus {
   flex-wrap: wrap;
   width: calc(100% - 100px);
   height: 100%;
-  gap: 50px;
-  margin: 50px;
+  gap: 25px;
+  margin: 25px;
 }
 
 .item {
