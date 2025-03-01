@@ -125,6 +125,7 @@ button:focus {
 }
 
 .item {
+  flex: 1 1 auto;
   user-select: none;
   cursor: default;
   position: relative;
