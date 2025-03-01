@@ -43,7 +43,7 @@ html {
   padding: 0 15px 10px 15px;
   border-radius: 0.5vw;
   background: var(--c5);
-  margin: 0 auto 15px auto;
+  margin: 0 auto 50px auto;
 }
 
 #lang-filters span,
@@ -99,11 +99,6 @@ button:focus {
   outline: none;
 }
 
-#language-filters,
-#rarity-filters {
-  margin-bottom: 50px;
-}
-
 #results-count {
   display: block;
   background: var(--c5);
@@ -121,7 +116,7 @@ button:focus {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  width: 100%;
+  width: calc(100% - 100px);
   height: 100%;
   gap: 50px;
   margin: 50px;
