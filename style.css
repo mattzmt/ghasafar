@@ -30,7 +30,7 @@ html {
   width: 50%;
   max-width: calc(100% - 70px);
   max-width: 100%;
-  margin: 50px auto;
+  margin: 15px auto;
   padding: 15px 20px;
   font-size: 15px;
 }
@@ -43,7 +43,7 @@ html {
   padding: 0 15px 10px 15px;
   border-radius: 0.5vw;
   background: var(--c5);
-  margin: 0 auto 50px auto;
+  margin: 0 auto 15px auto;
 }
 
 #lang-filters span,
