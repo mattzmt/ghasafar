@@ -135,8 +135,6 @@ button:focus {
   max-width: 400px;
   height: fit-content;
   background: var(--c5);
-  border-radius: 15px;
-  overflow: hidden;
   flex: 1;
 }
 
@@ -148,8 +146,8 @@ button:focus {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  overflow: hidden;
   aspect-ratio: 1;
+  border-radius: 15px;
 }
 
 .details::before {
@@ -161,6 +159,19 @@ button:focus {
   height: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6));
   z-index: 0;
+}
+
+.details::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  filter: blur(10px);
+  z-index: -1;
+  opacity: 0.5;
 }
 
 .details>* {
@@ -319,9 +330,9 @@ button:focus {
   top: 10px;
   right: 10px;
   transition: ease-in-out 5s;
-  width: calc(100% - 50px);
-  height: auto;
-  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  object-fit: contain;
   object-position: center;
   border-radius: 15px;
 }
