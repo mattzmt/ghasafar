@@ -217,7 +217,7 @@
 	},
 	{
 		"en": "Grey Heron",
-		"mt": "Russet Griz",
+		"mt": "Russet Griż",
 		"scn": "Ardea cinerea",
 		"desc": "Insert description here",
 		"img": "images/birds/GreyHeron.jpg",
@@ -2278,7 +2278,7 @@
 	},
 	{
 		"en": "Dipper",
-		"mt": "Ghasfur tax-Xmajjar",
+		"mt": "Għasfur tax-Xmajjar",
 		"scn": "Cinclus cinclus",
 		"desc": "Insert description here",
 		"img": "images/birds/Dipper.jpg",
@@ -2296,7 +2296,7 @@
 	},
 	{
 		"en": "Dunnock",
-		"mt": "Ziemel",
+		"mt": "Żiemel",
 		"scn": "Prunella modularis",
 		"desc": "Insert description here",
 		"img": "images/birds/Dunnock.jpg",
@@ -2305,7 +2305,7 @@
 	},
 	{
 		"en": "Alpine Accentor",
-		"mt": "Ziemel ta' l-Alpi",
+		"mt": "Żiemel ta' l-Alpi",
 		"scn": "Prunella collaris",
 		"desc": "Insert description here",
 		"img": "images/birds/AlpineAccentor.jpg",
@@ -2314,7 +2314,7 @@
 	},
 	{
 		"en": "Rufous Bush Chat",
-		"mt": "Rozinjol tax-Xaghri",
+		"mt": "Rożinjol tax-Xagħri",
 		"scn": "Cercotrichas galactotes",
 		"desc": "Insert description here",
 		"img": "images/birds/RufousBushChat.jpg",
@@ -2323,7 +2323,7 @@
 	},
 	{
 		"en": "Robin",
-		"mt": "Pitirros",
+		"mt": "Pitirross",
 		"scn": "Erithacus rubecula",
 		"desc": "Insert description here",
 		"img": "images/birds/Robin.jpg",
@@ -2332,7 +2332,7 @@
 	},
 	{
 		"en": "Common Nightingale",
-		"mt": "Rozinjol",
+		"mt": "Rożinjol",
 		"scn": "Luscinia megarhynchos",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonNightingale.jpg",
@@ -2341,7 +2341,7 @@
 	},
 	{
 		"en": "Thrush Nightingale",
-		"mt": "Rozinjol Prim",
+		"mt": "Rożinjol Prim",
 		"scn": "Luscinia luscinia",
 		"desc": "Insert description here",
 		"img": "images/birds/ThrushNightingale.jpg",
@@ -2350,7 +2350,7 @@
 	},
 	{
 		"en": "Siberian Rubythroat",
-		"mt": "Rozinjol tas-Siberja",
+		"mt": "Rożinjol tas-Siberja",
 		"scn": "Luscinia calliope",
 		"desc": "Insert description here",
 		"img": "images/birds/SiberianRubythroat.jpg",
@@ -2359,7 +2359,7 @@
 	},
 	{
 		"en": "Bluethroat",
-		"mt": "Rozinjol Ikhal",
+		"mt": "Rożinjol Ikħal",
 		"scn": "Luscinia svecica",
 		"desc": "Insert description here",
 		"img": "images/birds/Bluethroat.jpg",
@@ -2386,7 +2386,7 @@
 	},
 	{
 		"en": "Moussier's Redstart",
-		"mt": "Fjamma tat-Tunezija",
+		"mt": "Fjamma tat-Tuneżija",
 		"scn": "Phoenicurus moussieri",
 		"desc": "Insert description here",
 		"img": "images/birds/MoussiersRedstart.jpg",
@@ -2395,7 +2395,7 @@
 	},
 	{
 		"en": "Whinchat",
-		"mt": "Bucaqq tas-Silla",
+		"mt": "Buċaqq tas-Silla",
 		"scn": "Saxicola rubetra",
 		"desc": "Insert description here",
 		"img": "images/birds/Whinchat.jpg",
@@ -2404,7 +2404,7 @@
 	},
 	{
 		"en": "Common Stonechat",
-		"mt": "Bucaqq tax-Xitwa",
+		"mt": "Buċaqq tax-Xitwa",
 		"scn": "Saxicola rubicola",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonStonechat.jpg",
@@ -2449,7 +2449,7 @@
 	},
 	{
 		"en": "Desert Wheatear",
-		"mt": "Kuda tad-Dezert",
+		"mt": "Kuda tad-Deżert",
 		"scn": "Oenanthe deserti",
 		"desc": "Insert description here",
 		"img": "images/birds/DesertWheatear.jpg",
@@ -2548,7 +2548,7 @@
 	},
 	{
 		"en": "Redwing",
-		"mt": "Malvizz Ahmar",
+		"mt": "Malvizz Aħmar",
 		"scn": "Turdus iliacus",
 		"desc": "Insert description here",
 		"img": "images/birds/Redwing.jpg",
@@ -2566,7 +2566,7 @@
 	},
 	{
 		"en": "Cetti's Warbler",
-		"mt": "Bufula ta' l-Ghollieq",
+		"mt": "Bufula ta' l-Għollieq",
 		"scn": "Cettia cetti",
 		"desc": "Insert description here",
 		"img": "images/birds/CettisWarbler.jpg",
@@ -2575,7 +2575,7 @@
 	},
 	{
 		"en": "Zitting Cisticola",
-		"mt": "Bufula ta' l-Imrewha",
+		"mt": "Bufula ta' l-Imrewħa",
 		"scn": "Cisticola juncidis",
 		"desc": "Insert description here",
 		"img": "images/birds/ZittingCisticola.jpg",
@@ -2584,7 +2584,7 @@
 	},
 	{
 		"en": "Grasshopper Warbler",
-		"mt": "Bufula tal-Gurati",
+		"mt": "Bufula tal-Ġurati",
 		"scn": "Locustella naevia",
 		"desc": "Insert description here",
 		"img": "images/birds/GrasshopperWarbler.jpg",
@@ -2647,7 +2647,7 @@
 	},
 	{
 		"en": "Blyth's Reed Warbler",
-		"mt": "Bufula tal-Baghli",
+		"mt": "Bufula tal-Bagħli",
 		"scn": "Acrocephalus dumetorum",
 		"desc": "Insert description here",
 		"img": "images/birds/BlythsReedWarbler.jpg",
@@ -2656,7 +2656,7 @@
 	},
 	{
 		"en": "Marsh Warbler",
-		"mt": "Bufula ta' l-Ghadajjar",
+		"mt": "Bufula ta' l-Għadajjar",
 		"scn": "Acrocephalus palustris",
 		"desc": "Insert description here",
 		"img": "images/birds/MarshWarbler.jpg",
@@ -2683,7 +2683,7 @@
 	},
 	{
 		"en": "Eastern Olivaceous Warbler",
-		"mt": "Bekkafik Griz",
+		"mt": "Bekkafik Griż",
 		"scn": "Hippolais pallida",
 		"desc": "Insert description here",
 		"img": "images/birds/EasternOlivaceousWarbler.jpg",
@@ -2692,7 +2692,7 @@
 	},
 	{
 		"en": "Western Olivaceous Warbler",
-		"mt": "Bekkafik Griz",
+		"mt": "Bekkafik Griż",
 		"scn": "Hippolais opaca",
 		"desc": "Insert description here",
 		"img": "images/birds/WesternOlivaceousWarbler.jpg",
@@ -2710,7 +2710,7 @@
 	},
 	{
 		"en": "Melodious Warbler",
-		"mt": "Bekkafik ta' l-Ghana",
+		"mt": "Bekkafik ta' l-Għana",
 		"scn": "Hippolais polyglotta",
 		"desc": "Insert description here",
 		"img": "images/birds/MelodiousWarbler.jpg",
@@ -2755,7 +2755,7 @@
 	},
 	{
 		"en": "Western Orphean Warbler",
-		"mt": "Bekkafik Sewdini tal-Punent",
+		"mt": "Bekkafik Sewdieni tal-Punent",
 		"scn": "Sylvia hortensis",
 		"desc": "Insert description here",
 		"img": "images/birds/WesternOrpheanWarbler.jpg",
@@ -2764,7 +2764,7 @@
 	},
 	{
 		"en": "Eastern Orphean Warbler",
-		"mt": "Bekkafik Sewdini tal-Lvant",
+		"mt": "Bekkafik Sewdieni tal-Lvant",
 		"scn": "Sylvia crassirostris",
 		"desc": "Insert description here",
 		"img": "images/birds/EasternOrpheanWarbler.jpg",
@@ -2773,7 +2773,7 @@
 	},
 	{
 		"en": "African Desert Warbler",
-		"mt": "Bekkafik tad-Dezert",
+		"mt": "Bekkafik tad-Deżert",
 		"scn": "Sylvia deserti",
 		"desc": "Insert description here",
 		"img": "images/birds/AfricanDesertWarbler.jpg",
@@ -2782,7 +2782,7 @@
 	},
 	{
 		"en": "Common Whitethroat",
-		"mt": "Bekkafik Ahmar",
+		"mt": "Bekkafik Aħmar",
 		"scn": "Sylvia communis",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonWhitethroat.jpg",
@@ -2791,7 +2791,7 @@
 	},
 	{
 		"en": "Dartford Warbler",
-		"mt": "Bufula tax-Xaghri",
+		"mt": "Bufula tax-Xagħri",
 		"scn": "Sylvia undata",
 		"desc": "Insert description here",
 		"img": "images/birds/DartfordWarbler.jpg",
@@ -2800,7 +2800,7 @@
 	},
 	{
 		"en": "Marmora's Warbler",
-		"mt": "Bufula Griza",
+		"mt": "Bufula Griża",
 		"scn": "Sylvia sarda",
 		"desc": "Insert description here",
 		"img": "images/birds/MarmorasWarbler.jpg",
@@ -2809,7 +2809,7 @@
 	},
 	{
 		"en": "Tristram's Warbler",
-		"mt": "Bufula tat-Tunezija",
+		"mt": "Bufula tat-Tuneżija",
 		"scn": "Sylvia deserticola",
 		"desc": "Insert description here",
 		"img": "images/birds/TristramsWarbler.jpg",
@@ -2818,7 +2818,7 @@
 	},
 	{
 		"en": "Spectacled Warbler",
-		"mt": "Bufula Hamra",
+		"mt": "Bufula Ħamra",
 		"scn": "Sylvia conspicillata",
 		"desc": "Insert description here",
 		"img": "images/birds/SpectacledWarbler.jpg",
@@ -2863,7 +2863,7 @@
 	},
 	{
 		"en": "Greenish Warbler",
-		"mt": "Vjolin Ahdar tal-Faxx",
+		"mt": "Vjolin Aħdar tal-Faxx",
 		"scn": "Phylloscopus trochiloides",
 		"desc": "Insert description here",
 		"img": "images/birds/GreenishWarbler.jpg",
@@ -2926,7 +2926,7 @@
 	},
 	{
 		"en": "Wood Warbler",
-		"mt": "Vjolin Hadrani",
+		"mt": "Vjolin Ħadrani",
 		"scn": "Phylloscopus sibilatrix",
 		"desc": "Insert description here",
 		"img": "images/birds/WoodWarbler.jpg",
@@ -2980,7 +2980,7 @@
 	},
 	{
 		"en": "Spotted Flycatcher",
-		"mt": "Zanzarell tat-Tikek",
+		"mt": "Żanżarell tat-Tikek",
 		"scn": "Muscicapa striata",
 		"desc": "Insert description here",
 		"img": "images/birds/SpottedFlycatcher.jpg",
@@ -2989,7 +2989,7 @@
 	},
 	{
 		"en": "Red-breasted Flycatcher",
-		"mt": "Zanzarell Zghir",
+		"mt": "Żanżarell Zgħir",
 		"scn": "Ficedula parva",
 		"desc": "Insert description here",
 		"img": "images/birds/Red-breastedFlycatcher.jpg",
@@ -2998,7 +2998,7 @@
 	},
 	{
 		"en": "Semi-collared Flycatcher",
-		"mt": "Zanzarell tal-Lvant",
+		"mt": "Żanżarell tal-Lvant",
 		"scn": "Ficedula semitorquata",
 		"desc": "Insert description here",
 		"img": "images/birds/Semi-collaredFlycatcher.jpg",
@@ -3007,7 +3007,7 @@
 	},
 	{
 		"en": "Collared Flycatcher",
-		"mt": "Zanzarell tal-Kullar",
+		"mt": "Żanżarell tal-Kullar",
 		"scn": "Ficedula albicollis",
 		"desc": "Insert description here",
 		"img": "images/birds/CollaredFlycatcher.jpg",
@@ -3016,7 +3016,7 @@
 	},
 	{
 		"en": "Pied Flycatcher",
-		"mt": "Zanzarell Iswed",
+		"mt": "Żanżarell Iswed",
 		"scn": "Ficedula hypoleuca",
 		"desc": "Insert description here",
 		"img": "images/birds/PiedFlycatcher.jpg",
@@ -3043,7 +3043,7 @@
 	},
 	{
 		"en": "Wallcreeper",
-		"mt": "Daqquqa tal-Gebel",
+		"mt": "Daqquqa tal-Ġebel",
 		"scn": "Tichodroma muraria",
 		"desc": "Insert description here",
 		"img": "images/birds/Wallcreeper.jpg",
@@ -3070,7 +3070,7 @@
 	},
 	{
 		"en": "Woodchat Shrike",
-		"mt": "Kaccamendula",
+		"mt": "Kaċċamendula",
 		"scn": "Lanius senator",
 		"desc": "Insert description here",
 		"img": "images/birds/WoodchatShrike.jpg",
@@ -3079,7 +3079,7 @@
 	},
 	{
 		"en": "Red-backed Shrike",
-		"mt": "Kaccamendula Hamra",
+		"mt": "Kaċċamendula Ħamra",
 		"scn": "Lanius collurio",
 		"desc": "Insert description here",
 		"img": "images/birds/Red-backedShrike.jpg",
@@ -3088,7 +3088,7 @@
 	},
 	{
 		"en": "Lesser Grey Shrike",
-		"mt": "Kaccamendula Griza",
+		"mt": "Kaċċamendula Griża",
 		"scn": "Lanius minor",
 		"desc": "Insert description here",
 		"img": "images/birds/LesserGreyShrike.jpg",
@@ -3097,7 +3097,7 @@
 	},
 	{
 		"en": "Great Grey Shrike",
-		"mt": "Kaccamendula Nordika",
+		"mt": "Kaċċamendula Nordika",
 		"scn": "Lanius excubitor",
 		"desc": "Insert description here",
 		"img": "images/birds/GreatGreyShrike.jpg",
@@ -3106,7 +3106,7 @@
 	},
 	{
 		"en": "Southern Grey Shrike",
-		"mt": "Kaccamendula Prima",
+		"mt": "Kaċċamendula Prima",
 		"scn": "Lanius meridionalis",
 		"desc": "Insert description here",
 		"img": "images/birds/SouthernGreyShrike.jpg",
@@ -3115,7 +3115,7 @@
 	},
 	{
 		"en": "Masked Shrike",
-		"mt": "Kaccamendula tal-Maskra",
+		"mt": "Kaċċamendula tal-Maskra",
 		"scn": "Lanius nubicus",
 		"desc": "Insert description here",
 		"img": "images/birds/MaskedShrike.jpg",
@@ -3124,7 +3124,7 @@
 	},
 	{
 		"en": "Eurasian Jay",
-		"mt": "Sultan ic-Cawl",
+		"mt": "Sultan iċ-Ċawl",
 		"scn": "Garrulus glandarius",
 		"desc": "Insert description here",
 		"img": "images/birds/EurasianJay.jpg",
@@ -3133,7 +3133,7 @@
 	},
 	{
 		"en": "Western Jackdaw",
-		"mt": "Cawla",
+		"mt": "Ċawla",
 		"scn": "Corvus monedula",
 		"desc": "Insert description here",
 		"img": "images/birds/WesternJackdaw.jpg",
@@ -3151,7 +3151,7 @@
 	},
 	{
 		"en": "Carrion Crow",
-		"mt": "Cawlun",
+		"mt": "Ċawlun",
 		"scn": "Corvus corone",
 		"desc": "Insert description here",
 		"img": "images/birds/CarrionCrow.jpg",
@@ -3160,7 +3160,7 @@
 	},
 	{
 		"en": "Hooded Crow",
-		"mt": "Cawlun Griz",
+		"mt": "Ċawlun Griċ",
 		"scn": "Corvus cornix",
 		"desc": "Insert description here",
 		"img": "images/birds/HoodedCrow.jpg",
@@ -3169,7 +3169,7 @@
 	},
 	{
 		"en": "Common Raven",
-		"mt": "Gharab",
+		"mt": "Għarab",
 		"scn": "Corvus corax",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonRaven.jpg",
@@ -3196,7 +3196,7 @@
 	},
 	{
 		"en": "Rose-Coloured Starling",
-		"mt": "Sturnell Roza",
+		"mt": "Sturnell Roża",
 		"scn": "Pastor roseus",
 		"desc": "Insert description here",
 		"img": "images/birds/Rose-ColouredStarling.jpg",
@@ -3205,7 +3205,7 @@
 	},
 	{
 		"en": "Spanish Sparrow",
-		"mt": "Ghasfur tal-Bejt",
+		"mt": "Għasfur tal-Bejt",
 		"scn": "Passer hispaniolensis",
 		"desc": "Insert description here",
 		"img": "images/birds/SpanishSparrow.jpg",
@@ -3223,7 +3223,7 @@
 	},
 	{
 		"en": "Rock Sparrow",
-		"mt": "Ghammiel tal-Blat",
+		"mt": "Għammiel tal-Blat",
 		"scn": "Petronia petronia",
 		"desc": "Insert description here",
 		"img": "images/birds/RockSparrow.jpg",
@@ -3232,7 +3232,7 @@
 	},
 	{
 		"en": "Snowfinch",
-		"mt": "Sponsun tas-Silg",
+		"mt": "Sponsun tas-Silġ",
 		"scn": "Montifringilla nivalis",
 		"desc": "Insert description here",
 		"img": "images/birds/Snowfinch.jpg",
@@ -3259,7 +3259,7 @@
 	},
 	{
 		"en": "Brambling",
-		"mt": "Sponsun Selvagg",
+		"mt": "Sponsun Selvaġġ",
 		"scn": "Fringilla montifringilla",
 		"desc": "Insert description here",
 		"img": "images/birds/Brambling.jpg",
@@ -3304,7 +3304,7 @@
 	},
 	{
 		"en": "Linnet",
-		"mt": "Gojjin",
+		"mt": "Ġojjin",
 		"scn": "Carduelis cannabina",
 		"desc": "Insert description here",
 		"img": "images/birds/Linnet.jpg",
@@ -3313,7 +3313,7 @@
 	},
 	{
 		"en": "Lesser Redpoll",
-		"mt": "Gojjin Qerqni",
+		"mt": "Ġojjin Qerqni",
 		"scn": "Carduelis cabaret",
 		"desc": "Insert description here",
 		"img": "images/birds/LesserRedpoll.jpg",
@@ -3322,7 +3322,7 @@
 	},
 	{
 		"en": "Common Redpoll",
-		"mt": "Gojjin Sekond",
+		"mt": "Ġojjin Sekond",
 		"scn": "Carduelis flammea",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonRedpoll.jpg",
@@ -3331,7 +3331,7 @@
 	},
 	{
 		"en": "Common Crossbill",
-		"mt": "Krucjat",
+		"mt": "Kruċjat",
 		"scn": "Loxia curvirostra",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonCrossbill.jpg",
@@ -3367,7 +3367,7 @@
 	},
 	{
 		"en": "Hawfinch",
-		"mt": "Taz-Zebbug",
+		"mt": "Taż-Żebbug",
 		"scn": "Coccothraustes coccothraustes",
 		"desc": "Insert description here",
 		"img": "images/birds/Hawfinch.jpg",
