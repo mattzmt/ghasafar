@@ -288,6 +288,33 @@
 		"rty": "Common"
 	},
 	{
+		"en": "Barnacle Goose",
+		"mt": "Wiżża tal-Koċċli",
+		"scn": "Anser fabalis",
+		"desc": "Insert description here",
+		"img": "images/birds/BarnacleGoose.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Bar-headed Goose",
+		"mt": "Wiżża tal-Indja",
+		"scn": "Anser fabalis",
+		"desc": "Insert description here",
+		"img": "images/birds/Bar-headedGoose.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Pink-footed Goose",
+		"mt": "Wiżża tal-Ful",
+		"scn": "Anser fabalis",
+		"desc": "Insert description here",
+		"img": "images/birds/Pink-footedGoose.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
 		"en": "Bean Goose",
 		"mt": "Wiżża tal-Ful",
 		"scn": "Anser fabalis",
@@ -298,7 +325,7 @@
 	},
 	{
 		"en": "White-Fronted Goose",
-		"mt": "Wiżża tal-Maskra",
+		"mt": "Wiżża tal-Maskra Bajda",
 		"scn": "Anser albifrons",
 		"desc": "Insert description here",
 		"img": "images/birds/White-FrontedGoose.jpg",
@@ -325,7 +352,7 @@
 	},
 	{
 		"en": "Egyptian Goose",
-		"mt": "Wiżża ta' l-Eġittu",
+		"mt": "Wiżża tal-Eġittu",
 		"scn": "Alopochen aegyptiacus",
 		"desc": "Insert description here",
 		"img": "images/birds/EgyptianGoose.jpg",
@@ -451,7 +478,7 @@
 	},
 	{
 		"en": "Red Crested Pochard",
-		"mt": "Brajmla Prima",
+		"mt": "Brajmla tat-Toppu Aħmar",
 		"scn": "Netta rufina",
 		"desc": "Insert description here",
 		"img": "images/birds/RedCrestedPochard.jpg",
@@ -469,7 +496,7 @@
 	},
 	{
 		"en": "Ferruginous Duck",
-		"mt": "Brajmla Ħamra",
+		"mt": "Brajmla t'Għajna Bajda",
 		"scn": "Aythya nyroca",
 		"desc": "Insert description here",
 		"img": "images/birds/FerruginousDuck.jpg",
@@ -496,7 +523,7 @@
 	},
 	{
 		"en": "Common Scoter",
-		"mt": "Brajmla Sewda",
+		"mt": "Borka Sewda",
 		"scn": "Melanitta nigra",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonScoter.jpg",
@@ -505,7 +532,7 @@
 	},
 	{
 		"en": "Common Goldeneye",
-		"mt": "Brajmla ta' l-Għajn",
+		"mt": "Brajmla tal-Għajn",
 		"scn": "Bucephala clangula",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonGoldeneye.jpg",
@@ -883,7 +910,7 @@
 	},
 	{
 		"en": "Striped Crake",
-		"mt": "Gallozz ta' l-Istrixxi",
+		"mt": "Gallozz tal-Istrixxi",
 		"scn": "Aenigmatolimnas marginalis",
 		"desc": "Insert description here",
 		"img": "images/birds/StripedCrake.jpg",
@@ -901,7 +928,7 @@
 	},
 	{
 		"en": "Allen's Gallinule",
-		"mt": "Gallozz ta' l-Afrika",
+		"mt": "Gallozz tal-Afrika",
 		"scn": "Porphyrio alleni",
 		"desc": "Insert description here",
 		"img": "images/birds/AllensGallinule.jpg",
@@ -910,7 +937,7 @@
 	},
 	{
 		"en": "American Purple Gallinule",
-		"mt": "Gallozz ta' l-Amerika",
+		"mt": "Gallozz tal-Amerika",
 		"scn": "Porphyrio martinica",
 		"desc": "Insert description here",
 		"img": "images/birds/AmericanPurpleGallinule.jpg",
@@ -1081,7 +1108,7 @@
 	},
 	{
 		"en": "Caspian Plover",
-		"mt": "Birwina ta' l-Asja",
+		"mt": "Birwina tal-Asja",
 		"scn": "Charadrius asiaticus",
 		"desc": "Insert description here",
 		"img": "images/birds/CaspianPlover.jpg",
@@ -1126,7 +1153,7 @@
 	},
 	{
 		"en": "Spur-Winged Lapwing",
-		"mt": "Venewwa ta' l-Ixpuni",
+		"mt": "Venewwa tal-Ixpuni",
 		"scn": "Vanellus spinosus",
 		"desc": "Insert description here",
 		"img": "images/birds/Spur-WingedLapwing.jpg",
@@ -1594,7 +1621,7 @@
 	},
 	{
 		"en": "Kittiwake",
-		"mt": "Gawwija ta' l-Ingilterra",
+		"mt": "Gawwija tal-Ingilterra",
 		"scn": "Larus tridactylia",
 		"desc": "Insert description here",
 		"img": "images/birds/Kittiwake.jpg",
@@ -1792,7 +1819,7 @@
 	},
 	{
 		"en": "Laughing Dove",
-		"mt": "Gamiema ta' l-Ilwien",
+		"mt": "Gamiema tal-Ilwien",
 		"scn": "Streptopelia senegalensis",
 		"desc": "Insert description here",
 		"img": "images/birds/LaughingDove.jpg",
@@ -2224,7 +2251,7 @@
 	},
 	{
 		"en": "Water Pipit",
-		"mt": "Diżż ta' l-Ilma",
+		"mt": "Diżż tal-Ilma",
 		"scn": "Anthus spinoletta",
 		"desc": "Insert description here",
 		"img": "images/birds/WaterPipit.jpg",
@@ -2305,7 +2332,7 @@
 	},
 	{
 		"en": "Alpine Accentor",
-		"mt": "Żiemel ta' l-Alpi",
+		"mt": "Żiemel tal-Alpi",
 		"scn": "Prunella collaris",
 		"desc": "Insert description here",
 		"img": "images/birds/AlpineAccentor.jpg",
@@ -2566,7 +2593,7 @@
 	},
 	{
 		"en": "Cetti's Warbler",
-		"mt": "Bufula ta' l-Għollieq",
+		"mt": "Bufula tal-Għollieq",
 		"scn": "Cettia cetti",
 		"desc": "Insert description here",
 		"img": "images/birds/CettisWarbler.jpg",
@@ -2575,7 +2602,7 @@
 	},
 	{
 		"en": "Zitting Cisticola",
-		"mt": "Bufula ta' l-Imrewħa",
+		"mt": "Bufula tal-Imrewħa",
 		"scn": "Cisticola juncidis",
 		"desc": "Insert description here",
 		"img": "images/birds/ZittingCisticola.jpg",
@@ -2656,7 +2683,7 @@
 	},
 	{
 		"en": "Marsh Warbler",
-		"mt": "Bufula ta' l-Għadajjar",
+		"mt": "Bufula tal-Għadajjar",
 		"scn": "Acrocephalus palustris",
 		"desc": "Insert description here",
 		"img": "images/birds/MarshWarbler.jpg",
@@ -2710,7 +2737,7 @@
 	},
 	{
 		"en": "Melodious Warbler",
-		"mt": "Bekkafik ta' l-Għana",
+		"mt": "Bekkafik tal-Għana",
 		"scn": "Hippolais polyglotta",
 		"desc": "Insert description here",
 		"img": "images/birds/MelodiousWarbler.jpg",
@@ -2737,7 +2764,7 @@
 	},
 	{
 		"en": "Barred Warbler",
-		"mt": "Bekkafik ta' l-Istrixxi",
+		"mt": "Bekkafik tal-Istrixxi",
 		"scn": "Sylvia nisoria",
 		"desc": "Insert description here",
 		"img": "images/birds/BarredWarbler.jpg",
@@ -2854,7 +2881,7 @@
 	},
 	{
 		"en": "Arctic Warbler",
-		"mt": "Vjolin ta' l-Artiku",
+		"mt": "Vjolin tal-Artiku",
 		"scn": "Phylloscopus borealis",
 		"desc": "Insert description here",
 		"img": "images/birds/ArcticWarbler.jpg",
@@ -2944,7 +2971,7 @@
 	},
 	{
 		"en": "Iberian Chiffchaff",
-		"mt": "Vjolin ta' l-Iberja",
+		"mt": "Vjolin tal-Iberja",
 		"scn": "Phylloscopus ibericus",
 		"desc": "Insert description here",
 		"img": "images/birds/IberianChiffchaff.jpg",
@@ -3526,5 +3553,14 @@
 		"img": "images/birds/Rose-BreastedGrosbeak.jpg",
 		"alt": "boi ts tuff asl",
 		"rty": "Common"
-	}
+	},
+	{
+		"en": "Common Eider",
+		"mt": "Ajder",
+		"scn": "Somateria mollissima",
+		"desc": "Insert description here",
+		"img": "images/birds/.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
 ]
