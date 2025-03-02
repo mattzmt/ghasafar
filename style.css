@@ -116,7 +116,7 @@ button:focus {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  width: calc(100% - 100px);
+  width: calc(100% - 50px);
   height: 100%;
   gap: 25px;
   margin: 25px;
