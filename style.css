@@ -22,13 +22,21 @@ html {
   font-weight: normal;
 }
 
+#tools {
+  width: 100%;
+  height: fit-content;
+  padding: 15px;
+  background: rgba(50, 50, 50, 0.25);
+  filter: blur(10px);
+}
+
 #search {
   border: none;
   border-radius: 10px;
   background: var(--c5);
   display: block;
   width: 50%;
-  max-width: calc(100% - 70px);
+  max-width: calc(100% - 50px);
   max-width: 100%;
   margin: 15px auto;
   padding: 15px 20px;
