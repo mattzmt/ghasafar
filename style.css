@@ -22,20 +22,6 @@ html {
   font-weight: normal;
 }
 
-#tools {
-  position: fixed;
-  z-index: 1;
-  width: 100%;
-  height: fit-content;
-  padding: 15px;
-  background: rgba(50, 50, 50, 0.25);
-  filter: blur(10px);
-}
-
-#tools>* {
-  z-index: 2;
-}
-
 #search {
   border: none;
   border-radius: 10px;
