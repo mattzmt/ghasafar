@@ -1,7 +1,7 @@
 [
 	{
 		"en": "Red-Throated Loon",
-		"mt": "Bughaddas",
+		"mt": "Bugħaddas",
 		"scn": "Gavia stellata",
 		"desc": "Insert description here",
 		"img": "images/birds/RedThroatedLoon.jpg",
@@ -10,7 +10,7 @@
 	},
 	{
 		"en": "Little Grebe",
-		"mt": "Blongun Zghir",
+		"mt": "Blongun Zgħir",
 		"scn": "Tachybaptus ruficollis",
 		"desc": "Insert description here",
 		"img": "images/birds/LittleGrebe.jpg",
@@ -109,7 +109,7 @@
 	},
 	{
 		"en": "Pygmy Cormorant",
-		"mt": "Margun Zghir",
+		"mt": "Margun Zgħir",
 		"scn": "Microcarbo pygmaeus",
 		"desc": "Insert description here",
 		"img": "images/birds/PygmyCormorant.jpg",
@@ -505,7 +505,7 @@
 	},
 	{
 		"en": "Common Goldeneye",
-		"mt": "Brajmla ta' l-Ghajn",
+		"mt": "Brajmla ta' l-Għajn",
 		"scn": "Bucephala clangula",
 		"desc": "Insert description here",
 		"img": "images/birds/CommonGoldeneye.jpg",
@@ -613,7 +613,7 @@
 	},
 	{
 		"en": "Marsh Harrier",
-		"mt": "Baghdan Ahmar",
+		"mt": "Bagħdan Ahmar",
 		"scn": "Circus aeruginosus",
 		"desc": "Insert description here",
 		"img": "images/birds/MarshHarrier.jpg",
@@ -622,7 +622,7 @@
 	},
 	{
 		"en": "Hen Harrier",
-		"mt": "Baghadan Ikhal",
+		"mt": "Bagħadan Ikhal",
 		"scn": "Circus cyaneus",
 		"desc": "Insert description here",
 		"img": "images/birds/HenHarrier.jpg",
