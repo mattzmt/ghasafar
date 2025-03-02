@@ -1,10 +1,19 @@
 [
 	{
-		"en": "Red-Throated Loon",
-		"mt": "Bugħaddas",
+		"en": "Red Throated Loon",
+		"mt": "Bugħaddas tal-Maltemp",
 		"scn": "Gavia stellata",
 		"desc": "Insert description here",
 		"img": "images/birds/RedThroatedLoon.jpg",
+		"alt": "By David Karnå / Wikimedia Commons, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27003078",
+		"rty": "Common"
+	},
+	{
+		"en": "Black-throated Loon",
+		"mt": "Bugħaddas Iswed tal-Maltemp",
+		"scn": "Gavia arctica",
+		"desc": "Insert description here",
+		"img": "images/birds/Black-throatedLoon.jpg",
 		"alt": "By David Karnå / Wikimedia Commons, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27003078",
 		"rty": "Common"
 	},
@@ -1729,10 +1738,19 @@
 	},
 	{
 		"en": "Razorbill",
-		"mt": "Mus",
+		"mt": "Mus tal-Baħar",
 		"scn": "Alca torda",
 		"desc": "Insert description here",
 		"img": "images/birds/Razorbill.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	},
+	{
+		"en": "Common Murre",
+		"mt": "Mus Munqaru Rqiq",
+		"scn": "Uria aalge",
+		"desc": "Insert description here",
+		"img": "images/birds/CommonMurre.jpg",
 		"alt": "boi ts tuff asl",
 		"rty": "Common"
 	},
@@ -1746,8 +1764,8 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Puffin",
-		"mt": "Purċinell",
+		"en": "Atlantic Puffin",
+		"mt": "Purċinell tal-Baħar",
 		"scn": "Fratercula arctica",
 		"desc": "Insert description here",
 		"img": "images/birds/Puffin.jpg",
@@ -3563,4 +3581,13 @@
 		"alt": "boi ts tuff asl",
 		"rty": "Common"
 	},
+	{
+		"en": "Brown Booby",
+		"mt": "Sula Kannellija",
+		"scn": "Sula leucogaster",
+		"desc": "Insert description here",
+		"img": "images/birds/.jpg",
+		"alt": "boi ts tuff asl",
+		"rty": "Common"
+	}
 ]
