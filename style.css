@@ -154,10 +154,10 @@ button:focus {
 .details::before {
   content: "";
   position: absolute;
-  width: 110%;
-  height: 110%;
-  left: -5%;
-  top: -5%;
+  width: 90%;
+  height: 90%;
+  left: 5%;
+  top: 5%;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6));
   z-index: 0;
   overflow: hidden;
