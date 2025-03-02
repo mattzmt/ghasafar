@@ -24,7 +24,7 @@ html {
 
 #search {
   border: none;
-  border-radius: 0.5vw;
+  border-radius: 10px;
   background: var(--c5);
   display: block;
   width: 50%;
@@ -41,7 +41,7 @@ html {
   width: fit-content;
   height: fit-content;
   padding: 0 15px 10px 15px;
-  border-radius: 0.5vw;
+  border-radius: 10px;
   background: var(--c5);
   margin: 0 auto 15px auto;
 }
@@ -59,7 +59,7 @@ html {
   padding: 10px 15px;
   cursor: pointer;
   border: none;
-  border-radius: 0.5vw;
+  border-radius: 10px;
   position: relative;
   font-size: 15px;
 }
@@ -107,7 +107,7 @@ button:focus {
   padding: 10px 15px;
   width: fit-content;
   height: fit-content;
-  border-radius: 0.5vw;
+  border-radius: 10px;
 }
 
 #items {
@@ -246,14 +246,14 @@ button:focus {
   background: var(--c5);
   width: 100%;
   height: fit-content;
-  border-radius: 0.5vw;
+  border-radius: 15px;
 }
 
 #popup-details {
   padding: 10px;
   width: calc(100% - 20px);
   background: var(--c6);
-  border-radius: 0.5vw;
+  border-radius: 15px;
 }
 
 #popup-details>h1,
@@ -306,7 +306,7 @@ button:focus {
   top: 0;
   right: -55px;
   cursor: pointer;
-  border-radius: 0.5vw;
+  border-radius: 10px;
 }
 
 #close-popup:hover {
@@ -319,12 +319,11 @@ button:focus {
   top: 10px;
   right: 10px;
   transition: ease-in-out 5s;
-  height: 50vh;
-  width: auto;
-  max-width: calc(100vw - 30px);
+  width: calc(100% - 50px)
+  height: auto;
   object-fit: cover;
   object-position: center;
-  border-radius: 0.5vw;
+  border-radius: 15px;
 }
 
 body.no-scroll {
