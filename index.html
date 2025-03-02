@@ -12,41 +12,43 @@
 </head>
 
 <body>
-    <input type="text" id="search" placeholder="Search for birds..." />
+    <div id="tools">
+        <input type="text" id="search" placeholder="Search for birds..." />
 
-    <div id="lang-filters">
-        <span>Search using:</span>
-        <button id="en-filter">
-            English names
-            <img class="tick" src="images/ui/tick.svg" />
-        </button>
-        <button id="mt-filter">
-            Maltese names
-            <img class="tick" src="images/ui/tick.svg" />
-        </button>
-        <button id="scn-filter">
-            Scientific names
-            <img class="tick" src="images/ui/tick.svg" />
-        </button>
+        <div id="lang-filters">
+            <span>Search using:</span>
+            <button id="en-filter">
+                English names
+                <img class="tick" src="images/ui/tick.svg" />
+            </button>
+            <button id="mt-filter">
+                Maltese names
+                <img class="tick" src="images/ui/tick.svg" />
+            </button>
+            <button id="scn-filter">
+                Scientific names
+                <img class="tick" src="images/ui/tick.svg" />
+            </button>
+        </div>
+
+        <div id="rty-filters">
+            <span>Only show birds of rarity:</span>
+            <button id="common-filter">
+                Common
+                <img class="tick" src="images/ui/tick.svg" />
+            </button>
+            <button id="uncommon-filter">
+                Uncommon
+                <img class="tick" src="images/ui/tick.svg" />
+            </button>
+            <button id="rare-filter">
+                Rare
+                <img class="tick" src="images/ui/tick.svg" />
+            </button>
+        </div>
+
+        <div id="results-count"></div>
     </div>
-
-    <div id="rty-filters">
-        <span>Only show birds of rarity:</span>
-        <button id="common-filter">
-            Common
-            <img class="tick" src="images/ui/tick.svg" />
-        </button>
-        <button id="uncommon-filter">
-            Uncommon
-            <img class="tick" src="images/ui/tick.svg" />
-        </button>
-        <button id="rare-filter">
-            Rare
-            <img class="tick" src="images/ui/tick.svg" />
-        </button>
-    </div>
-
-    <div id="results-count"></div>
 
     <div id="items"></div>
 
