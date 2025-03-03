@@ -143,7 +143,6 @@ body {
   }
   to {
     clip-path: inset(0 100% 0 0);
-    pointer-events: none;
   } 
 }
 
@@ -153,16 +152,17 @@ body {
   }
   100% {
     clip-path: inset(0);
-    pointer-events: auto;
   }
 }
 
 .clip {
   animation: clip 0.5s ease-in forwards;
+  pointer-events: none;
 }
 
 .undoClip {
   animation: undoClip 0.5s ease-in forwards;
+  pointer-events: auto;
 }
 
 #filters {
