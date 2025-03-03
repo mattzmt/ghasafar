@@ -135,6 +135,7 @@ function handleFilterClick(event, set, filter) {
 document.querySelector("#filter-toggle").addEventListener("click", function () {
     const filters = document.querySelector("#filters");
     const toggleImg = document.querySelector("#filter-toggle > img");
+	const toggleText = document.querySelector("#filter-toggle > span");
 
     if (filters.classList.contains("clip")) {
         filters.classList.remove("clip");
@@ -142,12 +143,16 @@ document.querySelector("#filter-toggle").addEventListener("click", function () {
 
         toggleImg.classList.remove("flipLeft");
         toggleImg.classList.add("flipRight");
+
+		toggleText.textContent = "Hide Filters";
     } else {
         filters.classList.remove("undoClip");
         filters.classList.add("clip");
 
         toggleImg.classList.remove("flipRight");
         toggleImg.classList.add("flipLeft");
+
+		toggleText.textContent = "Show Filters";
     }
 });	
 

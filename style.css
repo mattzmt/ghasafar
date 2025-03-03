@@ -4,8 +4,8 @@
   --inactive: rgba(50, 50, 50, 0.5);
   --inactiveHover: rgba(75, 75, 75, 0.5);
   --subText: rgba(255, 255, 255, 0.65);
-  --fixed: rgba(50, 50, 50, 0.25);
-  --fixedHover: rgba(75, 75, 75, 0.25);
+  --glossy: rgba(50, 50, 50, 0.25);
+  --glossyHover: rgba(75, 75, 75, 0.25);
   --c5: #252525;
   --c6: #101010;
   --c7: #414e5f;
@@ -14,7 +14,7 @@
 body {
   height: 100%;
   width: 100%;
-  background: var(--c6);
+  background: #202020;
   margin: 0;
   padding: 0;
 }
@@ -33,14 +33,13 @@ body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  position: sticky;
+  position: fixed;
   top: 0;
   left: 0;
-  margin: 0 15px;
+  margin: 15px;
   width: calc(100% - 30px);
   height: fit-content;
   z-index: 1;
-  padding: 15px 0 0 0;
   gap: 15px;
 }
 
@@ -65,7 +64,7 @@ body {
   height: 1fr;
   border: none;
   border-radius: 10px;
-  background: var(--fixed);
+  background: var(--glossy);
   backdrop-filter: blur(10px);
   display: block;
   padding: 15px 20px;
@@ -76,7 +75,7 @@ body {
   text-align: center;
   user-select: none;
   display: block;
-  background: var(--fixed);
+  background: var(--glossy);
   backdrop-filter: blur(10px);
   font-size: 15px;
   padding: 15px;
@@ -89,7 +88,7 @@ body {
   transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
-  background: var(--fixed);
+  background: var(--glossy);
   backdrop-filter: blur(10px);
   font-size: 15px;
   padding: 15px;
@@ -104,7 +103,7 @@ body {
 }
 
 #filter-toggle:hover {
-  background: var(--fixedHover);
+  background: var(--glossyHover);
 }
 
 @keyframes flipLeft {
@@ -190,7 +189,7 @@ body {
   align-items: center;
   padding: 15px;
   border-radius: 10px;
-  background: var(--fixed);
+  background: var(--glossy);
   backdrop-filter: blur(10px);
   gap: 10px;
 }
@@ -213,12 +212,12 @@ body {
 #rty-filters>button {
   background: var(--inactive);
   transition: ease-in-out 0.25s;
-  padding: 10px 15px;
+  padding: 10px;
   cursor: pointer;
   border: none;
   border-radius: 10px;
   position: relative;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 #lang-filters>button:hover,
@@ -257,6 +256,7 @@ button:focus, #search:focus {
 }
 
 #items {
+  top: 175px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -357,7 +357,7 @@ button:focus, #search:focus {
   display: flex;
   flex-direction: row;
   align-items: center;
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--glossy);
   font-size: 17px;
   color: #fff;
   text-decoration: none;
@@ -365,6 +365,10 @@ button:focus, #search:focus {
   border-radius: 10px;
   cursor: pointer;
   backdrop-filter: blur(10px);
+}
+
+.more:hover {
+  background: var(--glossyHover);
 }
 
 .more>img {
