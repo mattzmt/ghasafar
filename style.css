@@ -26,6 +26,20 @@ body {
   font-weight: normal;
 }
 
+header {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  width: calc(100% - 30px);
+  height: 50px;
+}
+
+header>img {
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
 #tools {
   pointer-events: none;
   display: flex;
@@ -34,7 +48,7 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   position: fixed;
-  top: 0;
+  top: 80px;
   left: 0;
   margin: 15px;
   width: calc(100% - 30px);
