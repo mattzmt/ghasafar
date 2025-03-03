@@ -134,7 +134,7 @@ function handleFilterClick(event, set, filter) {
 
 document.querySelector("#filter-toggle").addEventListener("click", function () {
     const filters = document.querySelector("#filters");
-    const toggleImg = document.querySelector("#toggle-filter > img");
+    const toggleImg = document.querySelector("#filter-toggle > img");
 
     if (filters.classList.contains("clip")) {
         filters.classList.remove("clip");
