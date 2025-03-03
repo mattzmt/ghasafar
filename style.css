@@ -1,5 +1,5 @@
 :root {
-  --c1: #556880;
+  --c1: rgba(125, 184, 255, 0.25);
   --c2: rgba(255, 255, 255, 0.7);
   --c3: #7a8ea7;
   --c4: #2e3844;
@@ -52,6 +52,7 @@ body {
 }
 
 #results-count {
+  user-select: none;
   display: block;
   background: rgba(50, 50, 50, 0.25);
   backdrop-filter: blur(10px);
@@ -64,6 +65,7 @@ body {
 }
 
 #filter-toggle {
+  user-select: none;
   outline: none;
   display: block;
   background: rgba(50, 50, 50, 0.25);
@@ -75,6 +77,10 @@ body {
   height: fit-content;
   border-radius: 10px;
   cursor: pointer;
+}
+
+#filter-toggle:hover {
+
 }
 
 @keyframes clip {
@@ -105,6 +111,7 @@ body {
 
 #lang-filters,
 #rty-filters {
+  user-select: none;
   display: block;
   width: fit-content;
   height: fit-content;
