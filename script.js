@@ -138,10 +138,3 @@ document.getElementById("scn-filter").addEventListener("click", (event) => handl
 document.getElementById("common-filter").addEventListener("click", (event) => handleFilterClick(event, currentRarityFilters, "Common"));
 document.getElementById("uncommon-filter").addEventListener("click", (event) => handleFilterClick(event, currentRarityFilters, "Uncommon"));
 document.getElementById("rare-filter").addEventListener("click", (event) => handleFilterClick(event, currentRarityFilters, "Rare"));
-
-const toggleButton = document.getElementById("toggle-filters");
-const filters = document.querySelectorAll("#lang-filters, #rty-filters");
-
-toggleButton.addEventListener("click", () => {
-    filters.forEach(filter => filter.classList.toggle("hidden"));
-});

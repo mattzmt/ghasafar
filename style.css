@@ -49,6 +49,17 @@ body {
   backdrop-filter: blur(10px);
 }
 
+@keyframes clip1 {
+  from {
+    clip-path: inset(0);
+  }
+
+  to {
+    clip-path: inset(100% 0 0 0);
+  } 
+  
+}
+
 #lang-filters,
 #rty-filters {
   display: block;
@@ -58,6 +69,7 @@ body {
   border-radius: 10px;
   background: var(--c5);
   margin: 0 auto 15px auto;
+  animation: clip1 1s ease-in-out 3s;
 }
 
 #lang-filters span,
