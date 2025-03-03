@@ -365,6 +365,7 @@ button:focus, #search:focus {
 }
 
 .more {
+  transition: ease-in-out 0.25s;
   position: absolute;
   bottom: 15px;
   left: 15px;
