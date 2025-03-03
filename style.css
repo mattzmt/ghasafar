@@ -167,10 +167,10 @@ button:focus {
 .details::after {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  top: -1%;
+  left: -1%;
+  width: 102%;
+  height: 102%;
   background: inherit;
   filter: blur(10px);
   z-index: -1;
