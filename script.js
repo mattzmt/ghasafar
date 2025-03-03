@@ -133,16 +133,23 @@ function handleFilterClick(event, set, filter) {
 }
 
 document.querySelector("#filter-toggle").addEventListener("click", function () {
-	const filters = document.querySelector("#filters");
-  
-	if (filters.classList.contains("clip")) {
-	  filters.classList.remove("clip");
-	  filters.classList.add("undoClip");
-	} else {
-	  filters.classList.remove("undoClip");
-	  filters.classList.add("clip");
-	}
-  });	
+    const filters = document.querySelector("#filters");
+    const toggleImg = document.querySelector("#toggle-filter > img");
+
+    if (filters.classList.contains("clip")) {
+        filters.classList.remove("clip");
+        filters.classList.add("undoClip");
+
+        toggleImg.classList.remove("flipLeft");
+        toggleImg.classList.add("flipRight");
+    } else {
+        filters.classList.remove("undoClip");
+        filters.classList.add("clip");
+
+        toggleImg.classList.remove("flipRight");
+        toggleImg.classList.add("flipLeft");
+    }
+});	
 
 document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "en"));
 document.getElementById("mt-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "mt"));

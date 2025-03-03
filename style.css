@@ -1,8 +1,8 @@
 :root {
-  --c1: rgba(125, 184, 255, 0.25);
-  --c2: rgba(255, 255, 255, 0.7);
-  --c3: #7a8ea7;
-  --c4: #2e3844;
+  --active: rgba(53, 86, 128, 0.5);
+  --activeHover: rgba(124, 157, 204, 0.5);
+  --inactive: rgba(50, 50, 50, 0.5);
+  --inactiveHover: rgba(75, 75, 75, 0.5);
   --c5: #252525;
   --c6: #101010;
   --c7: #414e5f;
@@ -24,29 +24,45 @@ body {
 }
 
 #tools {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
   position: sticky;
   top: 0;
   left: 0;
-  width: 100%;
+  margin: 0 15px;
+  width: calc(100% - 30px);
   height: fit-content;
   z-index: 1;
   padding: 15px 0 0 0;
+  gap: 15px;
 }
 
 #tools>* {
   z-index: 1;
 }
 
+#srt {
+  width: 100%;
+  height: 100%;
+  flex: 1;
+  min-width: 160px;
+  display: grid;
+  grid-template-columns: 3;
+  grid-template-rows: auto;
+  gap: 15px;
+}
+
 #search {
+  width: calc(100% - 40px);
+  height: 1fr;
   border: none;
   border-radius: 10px;
   background: rgba(50, 50, 50, 0.25);
   backdrop-filter: blur(10px);
   display: block;
-  width: 50%;
-  max-width: calc(100% - 50px);
-  max-width: 100%;
-  margin: 0 auto 15px auto;
   padding: 15px 20px;
   font-size: 15px;
 }
@@ -57,10 +73,9 @@ body {
   background: rgba(50, 50, 50, 0.25);
   backdrop-filter: blur(10px);
   font-size: 15px;
-  margin: 0 auto;
   padding: 10px 15px;
-  width: fit-content;
-  height: fit-content;
+  width: calc(100% - 30px);
+  height: 1fr;
   border-radius: 10px;
 }
 
@@ -71,16 +86,47 @@ body {
   background: rgba(50, 50, 50, 0.25);
   backdrop-filter: blur(10px);
   font-size: 15px;
-  margin: 15px auto;
-  padding: 10px 15px;
-  width: fit-content;
-  height: fit-content;
+  padding: 15px;
+  width: calc(100% - 30px);
+  height: 1fr;
   border-radius: 10px;
   cursor: pointer;
 }
 
 #filter-toggle:hover {
+  background: var;
+}
 
+@keyframes flipLeft {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(180deg);
+  }
+}
+
+@keyframes flipRight {
+  from {
+    transform: rotateY(180deg);
+  }
+  to {
+    transform: rotateY(0deg);
+  }
+  
+}
+
+.flipLeft {
+  animation: flipLeft 0.5s ease-in forwards;
+}
+
+.flipRight {
+  animation: flipRight 0.5s ease-in forwards;
+}
+
+#filter-toggle>img {
+  height: 15px;
+  margin-left: 5px;
 }
 
 @keyframes clip {
@@ -88,51 +134,73 @@ body {
     clip-path: inset(0);
   }
   to {
-    clip-path: inset(0 0 100% 0);
+    clip-path: inset(0 100% 0 0);
   } 
 }
 
 @keyframes undoClip {
   from {
-    clip-path: inset(0 0 100% 0);
+    clip-path: inset(0 100% 0 0);
   }
-  to {
+  100% {
     clip-path: inset(0);
   }
 }
 
 .clip {
-  animation: clip 1s ease-in forwards;
+  animation: clip 0.5s ease-in forwards;
 }
 
 .undoClip {
-  animation: undoClip 1s ease-in forwards;
+  animation: undoClip 0.5s ease-in forwards;
+}
+
+#filters {
+  flex: 2;
+  display: grid;
+  grid-template-columns: 2;
+  grid-template-rows: auto;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
 }
 
 #lang-filters,
 #rty-filters {
   user-select: none;
-  display: block;
-  width: fit-content;
-  height: fit-content;
+  display: flex;
   align-items: center;
-  padding: 0 15px 10px 15px;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: calc(100% - 30px);
+  height: 45px;
+  align-items: center;
+  padding: 15px;
   border-radius: 10px;
   background: rgba(50, 50, 50, 0.25);
   backdrop-filter: blur(10px);
-  margin: 0 auto 15px auto;
+  gap: 10px;
 }
 
 #lang-filters span,
 #rty-filters span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
   font-size: 15px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
 #lang-filters>button,
 #rty-filters>button {
-  background: var(--c4);
+  background: var(--inactive);
   transition: ease-in-out 0.25s;
-  margin: 10px 0 0 10px;
   padding: 10px 15px;
   cursor: pointer;
   border: none;
@@ -141,19 +209,19 @@ body {
   font-size: 15px;
 }
 
+#lang-filters>button:hover,
+#rty-filters>button:hover {
+  background: var(--inactiveHover);
+}
+
 #lang-filters>button.active,
 #rty-filters>button.active {
-  background: var(--c1);
+  background: var(--active);
 }
 
 #lang-filters>button.active:hover,
 #rty-filters>button.active:hover {
-  background: var(--c3);
-}
-
-#lang-filters>button:hover,
-#rty-filters>button:hover {
-  background: var(--c7);
+  background: var(--activeHover);
 }
 
 #lang-filters>button>.tick,
@@ -324,6 +392,7 @@ button:focus, #search:focus {
 
 #popup>*{
   z-index: 2;
+}
 
 #popup-content {
   padding: 15px;
