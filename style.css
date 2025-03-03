@@ -282,6 +282,7 @@ button:focus, #search:focus {
   padding: 10px 15px;
   border-radius: 10px;
   cursor: pointer;
+  backdrop-filter: blur(10px);
 }
 
 .more>img {
@@ -304,6 +305,7 @@ button:focus, #search:focus {
 }
 
 #popup {
+  z-index: 2;
   overflow-y: auto;
   max-height: 100vh;
   flex-direction: row;
@@ -319,6 +321,9 @@ button:focus, #search:focus {
   opacity: 0;
   animation: fadeIn 0.3s ease-out forwards;
 }
+
+#popup>*{
+  z-index: 2;
 
 #popup-content {
   padding: 15px;
