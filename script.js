@@ -140,14 +140,14 @@ document.querySelector("#filter-toggle").addEventListener("click", function () {
         filters.classList.remove("clip");
         filters.classList.add("undoClip");
 
-        toggleImg.classList.remove("flipRight");
-        toggleImg.classList.add("flipLeft");
+        toggleImg.classList.remove("flipLeft");
+        toggleImg.classList.add("flipRight");
     } else {
         filters.classList.remove("undoClip");
         filters.classList.add("clip");
 
-        toggleImg.classList.remove("flipLeft");
-        toggleImg.classList.add("flipRight");
+        toggleImg.classList.remove("flipRight");
+        toggleImg.classList.add("flipLeft");
     }
 });	
 
