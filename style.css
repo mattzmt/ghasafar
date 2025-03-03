@@ -12,6 +12,8 @@ body {
   height: 100%;
   width: 100%;
   background: var(--c6);
+  margin: 0;
+  padding: 0;
 }
 
 * {
