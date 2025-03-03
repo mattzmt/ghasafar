@@ -29,10 +29,10 @@ body {
 header {
   z-index: 1;
   position: fixed;
-  top: 15px;
-  left: 15px;
+  top: 20px;
+  left: 20px;
   width: calc(100% - 30px);
-  height: 50px;
+  height: 40px;
 }
 
 header>img {
@@ -49,7 +49,7 @@ header>img {
   justify-content: center;
   flex-wrap: wrap;
   position: fixed;
-  top: 65px;
+  top: 60px;
   left: 0;
   margin: 15px;
   width: calc(100% - 30px);
@@ -272,7 +272,7 @@ button:focus, #search:focus {
 
 #items {
   position: absolute;
-  top: 255px;
+  top: 250px;
   display: flex;
   flex-direction: row;
   align-items: center;
