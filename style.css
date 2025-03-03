@@ -39,6 +39,7 @@ header {
 }
 
 header>img {
+  position: relative;
   top: 10px;
   left: 10px;
   height: calc(100% - 20px);
@@ -149,6 +150,32 @@ header>img {
 
 .flipRight {
   animation: flipRight 0.5s ease-in forwards;
+}
+
+keyframes flipUpDown {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(90deg);
+  }
+}
+
+@keyframes flipDownUp {
+  from {
+    transform: rotate(90deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.flipUpDown {
+  animation: flipUpDown 0.5s ease-in forwards;
+}
+
+.flipDownUp {
+  animation: flipDownUp 0.5s ease-in forwards;
 }
 
 #filter-toggle>img {
