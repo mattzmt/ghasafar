@@ -31,7 +31,7 @@ header {
   position: fixed;
   top: 15px;
   left: 15px;
-  width: calc(100% - 30px);
+  width: fit-content;
   height: 50px;
   background: var(--glossy);
   backdrop-filter: blur(10px);
@@ -39,9 +39,7 @@ header {
 }
 
 header>img {
-  position: relative;
-  top: 10px;
-  left: 10px;
+  margin: 10px;
   height: calc(100% - 20px);
 }
 
