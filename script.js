@@ -135,36 +135,24 @@ function handleFilterClick(event, set, filter) {
 document.querySelector("#filter-toggle").addEventListener("click", function () {
     const filters = document.querySelector("#filters");
     const toggleImg = document.querySelector("#filter-toggle > img");
-    const toggleText = document.querySelector("#filter-toggle > span");
-
-    const filtersWrapped = filters.getBoundingClientRect().top > document.getElementById("srt").getBoundingClientRect().bottom;
+	const toggleText = document.querySelector("#filter-toggle > span");
 
     if (filters.classList.contains("clip")) {
         filters.classList.remove("clip");
         filters.classList.add("undoClip");
 
-        if (filtersWrapped) {
-            toggleImg.classList.remove("flipDownUp");
-            toggleImg.classList.add("flipUpDown");
-        } else {
-            toggleImg.classList.remove("flipLeft");
-            toggleImg.classList.add("flipRight");
-        }
+        toggleImg.classList.remove("flipLeft");
+        toggleImg.classList.add("flipRight");
 
-        toggleText.textContent = "Hide Filters";
+		toggleText.textContent = "Hide Filters";
     } else {
         filters.classList.remove("undoClip");
         filters.classList.add("clip");
 
-        if (filtersWrapped) {
-            toggleImg.classList.remove("flipUpDown");
-            toggleImg.classList.add("flipDownUp");
-        } else {
-            toggleImg.classList.remove("flipRight");
-            toggleImg.classList.add("flipLeft");
-        }
+        toggleImg.classList.remove("flipRight");
+        toggleImg.classList.add("flipLeft");
 
-        toggleText.textContent = "Show Filters";
+		toggleText.textContent = "Show Filters";
     }
 });
 
