@@ -74,7 +74,7 @@ body {
   background: rgba(50, 50, 50, 0.25);
   backdrop-filter: blur(10px);
   font-size: 15px;
-  padding: 10px 15px;
+  padding: 15px;
   width: calc(100% - 30px);
   height: 1fr;
   border-radius: 10px;
@@ -83,7 +83,6 @@ body {
 #filter-toggle {
   user-select: none;
   outline: none;
-  display: block;
   background: rgba(50, 50, 50, 0.25);
   backdrop-filter: blur(10px);
   font-size: 15px;
@@ -92,6 +91,10 @@ body {
   height: 1fr;
   border-radius: 10px;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
 }
 
 #filter-toggle:hover {
@@ -127,7 +130,7 @@ body {
 
 #filter-toggle>img {
   height: 15px;
-  margin-left: 5px;
+  display: block;
 }
 
 @keyframes clip {
