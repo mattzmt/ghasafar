@@ -3,6 +3,7 @@
   --activeHover: rgba(124, 157, 204, 0.5);
   --inactive: rgba(50, 50, 50, 0.5);
   --inactiveHover: rgba(75, 75, 75, 0.5);
+  --subText: rgba(255, 255, 255, 0.65);
   --c5: #252525;
   --c6: #101010;
   --c7: #414e5f;
@@ -157,9 +158,8 @@ body {
 
 #filters {
   flex: 2;
-  display: grid;
-  grid-template-columns: 2;
-  grid-template-rows: auto;
+  display: flex;
+  flex-direction: column;
   gap: 15px;
   align-items: center;
   justify-content: center;
@@ -318,17 +318,19 @@ button:focus, #search:focus {
 }
 
 .details>h1 {
+  margin: 0;
   display: block;
   font-size: 25px;
   font-weight: bold;
 }
 
 .mt {
-  color: var(--c2);
+  margin-top: 2px !important;
+  color: var(--subText);
 }
 
 .details>h2 {
-  color: var(--c2);
+  color: var(--subText);
   margin: 5px 0 80px 0;
   font-size: 16px;
   font-style: italic;
@@ -339,7 +341,7 @@ button:focus, #search:focus {
   bottom: 15px;
   left: 15px;
   width: fit-content;
-  height: 25px;
+  height: 20px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -347,7 +349,7 @@ button:focus, #search:focus {
   font-size: 17px;
   color: #fff;
   text-decoration: none;
-  padding: 10px 15px;
+  padding: 10px 8px 10px 15px;
   border-radius: 10px;
   cursor: pointer;
   backdrop-filter: blur(10px);
