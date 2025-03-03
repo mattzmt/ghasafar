@@ -4,6 +4,8 @@
   --inactive: rgba(50, 50, 50, 0.5);
   --inactiveHover: rgba(75, 75, 75, 0.5);
   --subText: rgba(255, 255, 255, 0.65);
+  --fixed: rgba(50, 50, 50, 0.25);
+  --fixedHover: rgba(75, 75, 75, 0.25);
   --c5: #252525;
   --c6: #101010;
   --c7: #414e5f;
@@ -47,21 +49,21 @@ body {
 
 #srt {
   width: 100%;
-  height: 100%;
+  height: 160px;
   flex: 1;
   min-width: 160px;
-  display: grid;
-  grid-template-columns: 3;
-  grid-template-rows: auto;
-  gap: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 #search {
+  text-align: center;
   width: calc(100% - 40px);
   height: 1fr;
   border: none;
   border-radius: 10px;
-  background: rgba(50, 50, 50, 0.25);
+  background: var(--fixed);
   backdrop-filter: blur(10px);
   display: block;
   padding: 15px 20px;
@@ -69,9 +71,10 @@ body {
 }
 
 #results-count {
+  text-align: center;
   user-select: none;
   display: block;
-  background: rgba(50, 50, 50, 0.25);
+  background: var(--fixed);
   backdrop-filter: blur(10px);
   font-size: 15px;
   padding: 15px;
@@ -81,9 +84,10 @@ body {
 }
 
 #filter-toggle {
+  transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
-  background: rgba(50, 50, 50, 0.25);
+  background: var(--fixed);
   backdrop-filter: blur(10px);
   font-size: 15px;
   padding: 15px;
@@ -98,7 +102,7 @@ body {
 }
 
 #filter-toggle:hover {
-  background: var;
+  background: var(--fixedHover);
 }
 
 @keyframes flipLeft {
@@ -139,6 +143,7 @@ body {
   }
   to {
     clip-path: inset(0 100% 0 0);
+    pointer-events: none;
   } 
 }
 
@@ -148,6 +153,7 @@ body {
   }
   100% {
     clip-path: inset(0);
+    pointer-events: auto;
   }
 }
 
@@ -163,9 +169,9 @@ body {
   flex: 2;
   display: flex;
   flex-direction: column;
-  gap: 15px;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  height: 160px;
 }
 
 #lang-filters,
@@ -181,7 +187,7 @@ body {
   align-items: center;
   padding: 15px;
   border-radius: 10px;
-  background: rgba(50, 50, 50, 0.25);
+  background: var(--fixed);
   backdrop-filter: blur(10px);
   gap: 10px;
 }
