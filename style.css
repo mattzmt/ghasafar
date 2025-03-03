@@ -27,6 +27,7 @@ body {
 }
 
 #tools {
+  pointer-events: none;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -68,6 +69,7 @@ body {
   display: block;
   padding: 15px 20px;
   font-size: 15px;
+  pointer-events: auto;
 }
 
 #results-count {
@@ -99,6 +101,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 5px;
+  pointer-events: auto;
 }
 
 #filter-toggle:hover {
@@ -157,12 +160,10 @@ body {
 
 .clip {
   animation: clip 0.5s ease-in forwards;
-  pointer-events: none;
 }
 
 .undoClip {
   animation: undoClip 0.5s ease-in forwards;
-  pointer-events: auto;
 }
 
 #filters {
@@ -216,6 +217,7 @@ body {
   border-radius: 10px;
   position: relative;
   font-size: 15px;
+  pointer-events: auto;
 }
 
 #lang-filters>button:hover,
