@@ -22,6 +22,19 @@ body {
   font-weight: normal;
 }
 
+#tools {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: fit-content;
+  z-index: 1;
+}
+
+#tools>* {
+  z-index: 1;
+}
+
 #search {
   border: none;
   border-radius: 10px;
@@ -34,10 +47,6 @@ body {
   padding: 15px 20px;
   font-size: 15px;
   backdrop-filter: blur(10px);
-  position: fixed;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 1;
 }
 
 #lang-filters,
