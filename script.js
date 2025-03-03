@@ -132,6 +132,18 @@ function handleFilterClick(event, set, filter) {
 	toggleFilter(set, filter, query);
 }
 
+document.querySelector("#filter-toggle").addEventListener("click", function () {
+	const filters = document.querySelector("#filters");
+  
+	if (filters.classList.contains("clip")) {
+	  filters.classList.remove("clip");
+	  filters.classList.add("undoClip");
+	} else {
+	  filters.classList.remove("undoClip");
+	  filters.classList.add("clip");
+	}
+  });	
+
 document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "en"));
 document.getElementById("mt-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "mt"));
 document.getElementById("scn-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "scn"));

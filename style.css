@@ -39,6 +39,7 @@ body {
   border: none;
   border-radius: 10px;
   background: rgba(50, 50, 50, 0.25);
+  backdrop-filter: blur(10px);
   display: block;
   width: 50%;
   max-width: calc(100% - 50px);
@@ -46,18 +47,58 @@ body {
   margin: 15px auto;
   padding: 15px 20px;
   font-size: 15px;
-  backdrop-filter: blur(10px);
 }
 
-@keyframes clip1 {
+#results-count {
+  display: block;
+  background: rgba(50, 50, 50, 0.25);
+  backdrop-filter: blur(10px);
+  font-size: 15px;
+  margin: 0 auto;
+  padding: 10px 15px;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 10px;
+}
+
+#filter-toggle {
+  outline: none;
+  display: block;
+  background: rgba(50, 50, 50, 0.25);
+  backdrop-filter: blur(10px);
+  font-size: 15px;
+  margin: 15px auto;
+  padding: 10px 15px;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+@keyframes clip {
   from {
     clip-path: inset(0);
   }
-
   to {
-    clip-path: inset(100% 0 0 0);
+    clip-path: inset(0 0 100% 0);
   } 
-  
+}
+
+@keyframes undoClip {
+  from {
+    clip-path: inset(0 0 100% 0);
+  }
+  to {
+    clip-path: inset(0);
+  }
+}
+
+.clip {
+  animation: clip 1s ease-in forwards;
+}
+
+.undoClip {
+  animation: undoClip 1s ease-in forwards;
 }
 
 #lang-filters,
@@ -65,11 +106,12 @@ body {
   display: block;
   width: fit-content;
   height: fit-content;
+  align-items: center;
   padding: 0 15px 10px 15px;
   border-radius: 10px;
-  background: var(--c5);
+  background: rgba(50, 50, 50, 0.25);
+  backdrop-filter: blur(10px);
   margin: 0 auto 15px auto;
-  animation: clip1 1s ease-in-out 3s;
 }
 
 #lang-filters span,
@@ -121,19 +163,8 @@ body {
   transform: scale(1);
 }
 
-button:focus {
+button:focus, #search:focus {
   outline: none;
-}
-
-#results-count {
-  display: block;
-  background: var(--c5);
-  font-size: 15px;
-  margin: 0 auto;
-  padding: 10px 15px;
-  width: fit-content;
-  height: fit-content;
-  border-radius: 10px;
 }
 
 #items {
