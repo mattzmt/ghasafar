@@ -1,94 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>għasafar.com / Home</title>
+        <link rel="icon" type="image/x-icon" href="images/ui/favicon.svg">
+        <link rel="stylesheet" href="style.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+    </head>
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>għasafar.com</title>
-    <link rel="icon" type="image/x-icon" href="images/ui/favicon.svg">
-    <link rel="stylesheet" href="style.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
-</head>
-
-<body>
-    <header>
-        <img src="images/ui/logo.svg" />
-    </header>
-
-    <div id="tools">
-        <div id="srt">
-            <input type="text" id="search" placeholder="Search for birds..." />
-            <div id="results-count">Showing 0 results</div>
-            <div id="filter-toggle"><span>Hide filters</span><img src="images/ui/expand.svg"></div>
-        </div>
-        
-        <div id="filters">
-            <div id="lang-filters">
-                <span>Use:</span>
-                <button id="en-filter">
-                    English names
-                    <img class="tick" src="images/ui/tick.svg" />
-                </button>
-                <button id="mt-filter">
-                    Maltese names
-                    <img class="tick" src="images/ui/tick.svg" />
-                </button>
-                <button id="scn-filter">
-                    Scientific names
-                    <img class="tick" src="images/ui/tick.svg" />
-                </button>
-            </div>
-
-            <div id="rty-filters">
-                <span>Rarities:</span>
-                <button id="common-filter">
-                    Common
-                    <img class="tick" src="images/ui/tick.svg" />
-                </button>
-                <button id="uncommon-filter">
-                    Uncommon
-                    <img class="tick" src="images/ui/tick.svg" />
-                </button>
-                <button id="rare-filter">
-                    Rare
-                    <img class="tick" src="images/ui/tick.svg" />
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <div id="items"></div>
-
-    <div id="popup" class="hidden">
-        <div id="popup-content">
-            <img id="close-popup" src="images/ui/close.svg">
-            <div id="popup-details">
-                <h1>English name: </h1>
-                <h1 id="popup-en"></h1><br>
-                <h2>Maltese name: </h2>
-                <h2 id="popup-mt"></h2><br>
-                <h3>Scientific name: </h3>
-                <h3 id="popup-scn"></h3>
-                <h4 id="popup-desc"></h4>
-            </div>
-        </div>
-        <img id="popup-image">
-    </div>
-
-    <template id="template">
-        <div class="item">
-            <div class="details">
-                <h1 class="en"></h1>
-                <h1 class="mt"></h1>
-                <h2 class="scn"></h2>
-                <div class="more">View details<img src="images/ui/arrow.svg" /></div>
-            </div>
-        </div>
-    </template>
-
-    <script src="script.js"></script>
-</body>
-
+    <body>
+        <a href="search/">Go to search</a>
+    </body>
 </html>
