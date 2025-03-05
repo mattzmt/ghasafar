@@ -22,7 +22,7 @@ const rarityFilters = document.querySelectorAll("#rty-filters button");
 
 let data = [];
 
-fetch('/js/birds.json')
+fetch('js/birds.json')
 	.then(response => response.json())
 	.then(jsonData => {
 		data = jsonData;
