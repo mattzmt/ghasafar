@@ -9,8 +9,6 @@
 }
 
 body {
-  height: 100%;
-  width: 100%;
   background: #151515;
   margin: 0;
   padding: 0;
@@ -30,7 +28,7 @@ header {
   left: 0;
   width: 100vw;
   height: 75px;
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
   pointer-events: none;
 }
 
@@ -40,7 +38,7 @@ header>a {
   top: 25px;
   left: 25px;
   width: fit-content;
-  height: 45px;
+  height: 30px;
   background: rgba(75, 75, 75, 0.25);
   backdrop-filter: blur(10px);
   border-radius: 10px;
@@ -50,21 +48,20 @@ header>a {
 
 header>a>img {
   width: auto;
-  height: 45px;
+  height: 100%;
 }
 
 #tools {
   pointer-events: none;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   position: fixed;
-  bottom: 0;
-  left: 0;
-  margin: 10px;
-  width: calc(100% - 30px);
+  bottom: 10px;
+  left: 10px;
+  width: calc(100vw - 20px);
   height: fit-content;
   z-index: 1;
   gap: 15px;
@@ -186,7 +183,7 @@ header>a>img {
   from {
     clip-path: inset(0 100% 0 0);
   }
-  100% {
+  to {
     clip-path: inset(0);
   }
 }
@@ -219,7 +216,7 @@ header>a>img {
   justify-content: center;
   flex-direction: row;
   flex-wrap: nowrap;
-  width: calc(100% - 30px);
+  width: calc(100vw - 20px);
   height: 45px;
   align-items: center;
   padding: 15px;
@@ -240,7 +237,6 @@ header>a>img {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
 }
 
 #lang-filters>button,
@@ -292,22 +288,20 @@ button:focus, #search:focus {
 
 #items {
   position: absolute;
-  top: 250px;
+  top: 80px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  width: calc(100% - 50px);
-  height: 100%;
-  gap: 25px;
-  margin: 25px;
+  width: calc(100vw - 60px);
+  height: fit-content;
+  gap: 50px;
+  margin: 0 30px 70px 30px;
 }
 
 .item {
   flex: 1 1 auto;
-  user-select: none;
-  cursor: default;
   position: relative;
   display: flex;
   flex-direction: row;
@@ -315,25 +309,16 @@ button:focus, #search:focus {
   min-width: 300px;
   width: 100%;
   max-width: 400px;
-  height: fit-content;
-  background: var(--c5);
-  border-radius: 15px;
-  flex: 1;
-}
-
-.details {
-  position: relative;
-  width: 100%;
-  height: 100%;
+  aspect-ratio: 1;
   padding: 15px;
+  border-radius: 10px;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  aspect-ratio: 1;
-  border-radius: 15px;
+  flex: 1;
 }
 
-.details::before {
+.item::before {
   content: "";
   position: absolute;
   top: 0;
@@ -346,7 +331,7 @@ button:focus, #search:focus {
   overflow: hidden;
 }
 
-.details::after {
+.item::after {
   content: "";
   position: absolute;
   top: 0;
@@ -360,12 +345,12 @@ button:focus, #search:focus {
   border-radius: inherit;
 }
 
-.details>* {
+.item>* {
   position: relative;
   z-index: 0;
 }
 
-.details>h1 {
+.item>h1 {
   margin: 0;
   display: block;
   font-size: 25px;
@@ -377,7 +362,7 @@ button:focus, #search:focus {
   color: var(--subText);
 }
 
-.details>h2 {
+.item>h2 {
   color: var(--subText);
   margin: 5px 0 80px 0;
   font-size: 16px;
