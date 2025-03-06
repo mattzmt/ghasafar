@@ -349,15 +349,18 @@ button:focus, #search:focus {
 }
 
 .item>h1 {
+  margin: 0;
   font-size: 25px;
   font-weight: bold;
 }
 
 .mt {
+  margin: 5px 0 0 0 !important;
   color: var(--subText);
 }
 
 .item>h2 {
+  margin: 10px 0 0 0 !important;
   color: var(--subText);
   font-size: 16px;
   font-style: italic;
