@@ -53,7 +53,7 @@ function displayItems(items) {
 	});
 	container.appendChild(fragment);
 
-	const resultText = items.length === 1 ? "Showing 1 result" : `Showing ${items.length} results`;
+	const resultText = items.length === 1 ? "1 result" : `${items.length} results`;
 	resultsCount.textContent = resultText;
 }
 
