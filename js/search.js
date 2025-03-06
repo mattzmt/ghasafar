@@ -26,7 +26,7 @@ fetch('../js/birds.json')
 	.then(response => response.json())
 	.then(jsonData => {
 		data = jsonData;
-		displayItemsLazy();
+		displayItems(data);
 		updateTagColors();
 	})
 	.catch(error => console.error("Error loading data:", error));
@@ -38,12 +38,11 @@ function normalizeText(text) {
 		.replace(/ie/g, "ie");
 }
 
-let visibleCount = 20;
-
-function displayItemsLazy() {
+function displayItems(items) {
 	container.innerHTML = "";
 	const fragment = document.createDocumentFragment();
-	data.slice(0, visibleCount).forEach(item => {
+
+	items.forEach(item => {
 		const clone = template.content.cloneNode(true);
 		clone.querySelector(".en").textContent = item["en"];
 		clone.querySelector(".mt").textContent = item["mt"];
@@ -53,15 +52,10 @@ function displayItemsLazy() {
 		fragment.appendChild(clone);
 	});
 	container.appendChild(fragment);
-	resultsCount.textContent = `Showing ${Math.min(visibleCount, data.length)} of ${data.length} results`;
-}
 
-window.addEventListener("scroll", () => {
-	if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
-		visibleCount += 20;
-		displayItemsLazy();
-	}
-});
+	const resultText = items.length === 1 ? "Showing 1 result" : `Showing ${items.length} results`;
+	resultsCount.textContent = resultText;
+}
 
 function showPopup(item) {
 	popupEn.textContent = item["en"];
