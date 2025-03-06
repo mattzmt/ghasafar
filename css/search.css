@@ -28,15 +28,15 @@ header {
   left: 0;
   width: 100vw;
   height: 75px;
-  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
   pointer-events: none;
 }
 
 header>a {
   position: relative;
   display: block;
-  top: 25px;
-  left: 25px;
+  top: 10px;
+  left: 10px;
   width: fit-content;
   height: 30px;
   background: rgba(75, 75, 75, 0.25);
