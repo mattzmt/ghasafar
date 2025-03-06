@@ -39,8 +39,8 @@ header>a {
   left: 10px;
   width: fit-content;
   height: 30px;
-  background: rgba(75, 75, 75, 0.25);
-  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
   border-radius: 10px;
   padding: 10px;
   pointer-events: auto;
@@ -355,12 +355,12 @@ button:focus, #search:focus {
 }
 
 .mt {
-  margin: 5px 0 0 0 !important;
+  margin: 2px 0 0 0 !important;
   color: var(--subText);
 }
 
 .item>h2 {
-  margin: 10px 0 0 0 !important;
+  margin: 4px 0 0 0 !important;
   color: var(--subText);
   font-size: 16px;
   font-style: italic;
@@ -376,17 +376,19 @@ button:focus, #search:focus {
   display: flex;
   flex-direction: row;
   align-items: center;
-  background: rgba(75, 75, 75, 0.25);
+  background: rgba(0, 0, 0, 0.25);
   font-size: 17px;
   color: #fff;
   text-decoration: none;
   padding: 10px 8px 10px 15px;
   border-radius: 10px;
   cursor: pointer;
+  backdrop-filter: blur(3px);
 }
 
 .more:hover {
-  background: rgba(100, 100, 100, 0.5);
+  background: rgba(50, 50, 50, 0.5);
+  backdrop-filter: blur(5px);
 }
 
 .more>img {
