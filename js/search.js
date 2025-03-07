@@ -53,7 +53,7 @@ function displayItems(items) {
 	});
 	container.appendChild(fragment);
 
-	const resultText = items.length === 1 ? "1 result" : `${items.length} results`;
+	const resultText = items.length === 1 ? "1" : `${items.length}`;
 	resultsCount.textContent = resultText;
 }
 
@@ -134,25 +134,13 @@ function handleFilterClick(event, set, filter) {
 
 document.querySelector("#filter-toggle").addEventListener("click", function () {
     const filters = document.querySelector("#filters");
-    const toggleImg = document.querySelector("#filter-toggle > img");
-	const toggleText = document.querySelector("#filter-toggle > span");
 
     if (filters.classList.contains("clip")) {
         filters.classList.remove("clip");
         filters.classList.add("undoClip");
-
-        toggleImg.classList.remove("flipLeft");
-        toggleImg.classList.add("flipRight");
-
-		toggleText.textContent = "Hide Filters";
     } else {
         filters.classList.remove("undoClip");
         filters.classList.add("clip");
-
-        toggleImg.classList.remove("flipRight");
-        toggleImg.classList.add("flipLeft");
-
-		toggleText.textContent = "Show Filters";
     }
 });
 

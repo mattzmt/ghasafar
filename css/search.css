@@ -62,7 +62,7 @@ header>a>img {
   bottom: 0;
   left: 0;
   width: calc(100vw - 20px);
-  height: 145px;
+  height: 225px;
   z-index: 1;
   gap: 15px;
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
@@ -76,18 +76,19 @@ header>a>img {
   bottom: 0;
   left: 0;
   pointer-events: auto;
-  width: 100vw;
+  width: calc(100vw - 30px);
   height: 50px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   gap: 15px;
+  margin: 0 15px;
 }
 
 #search {
   text-align: center;
   width: 100%;
-  height: 35px;
+  height: 20px;
   border: none;
   border-radius: 15px 5px 5px 15px;
   background: var(--standard);
@@ -96,50 +97,48 @@ header>a>img {
   font-size: 15px;
 }
 
+#search:focus {
+  background: var(--standardHover);
+  outline: none;
+}
+
 #results {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 65px;
+  width: 200px;
   height: 50px;
   font-size: 15px;
+  border-radius: 5px;
+  font-size: 12px;
+  color: var(--subText);
 }
 
 #results-count {
   text-align: center;
   user-select: none;
-  display: block;
-  background: var(--glossy);
   font-size: 20px;
-  padding: 15px;
-  width: calc(100% - 30px);
-  height: 1fr;
-  border-radius: 10px;
+  color: #fff;
 }
 
 #filter-toggle {
   transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
-  background: var(--glossy);
-  font-size: 15px;
+  background: var(--standard);
   padding: 15px;
   width: calc(100% - 30px);
-  height: 1fr;
-  border-radius: 10px;
+  height: 20px;
+  border-radius: 5px 15px 15px 5px;
   cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 5px;
 }
 
 #filter-toggle:hover {
-  background: var(--glossyHover);
+  background: var(--standardHover);
 }
 
-@keyframes flipLeft {
+/*@keyframes flipLeft {
   from {
     transform: rotateY(0deg);
   }
@@ -164,49 +163,55 @@ header>a>img {
 
 .flipRight {
   animation: flipRight 0.5s ease-in forwards;
-}
+}*/
 
 #filter-toggle>img {
-  height: 15px;
+  height: 20px;
   display: block;
+  margin: 0 auto;
 }
 
 @keyframes clip {
   from {
     clip-path: inset(0);
+    transform: translateY(0);
   }
   to {
     clip-path: inset(0 100% 0 0);
+    transform: translateY(80px);
   } 
 }
 
 @keyframes undoClip {
   from {
     clip-path: inset(0 100% 0 0);
+    transform: translateY(80px);
   }
   to {
     clip-path: inset(0);
+    transform: translateY(0);
   }
 }
 
 .clip {
   animation: clip 0.5s ease-in forwards;
-  pointer-events: none;
+  pointer-events: none !important;
 }
 
 .undoClip {
   animation: undoClip 0.5s ease-in forwards;
-  pointer-events: auto;
+  pointer-events: auto !important;
 }
 
 #filters {
   pointer-events: auto;
-  flex: 2;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  height: 80px;
+  width: calc(100vw - 30px);
+  height: 145px;
+  margin: 0 15px;
 }
 
 #lang-filters,
@@ -217,26 +222,30 @@ header>a>img {
   justify-content: center;
   flex-direction: row;
   flex-wrap: nowrap;
-  width: calc(100vw - 20px);
-  height: 45px;
+  width: 100%;
+  height: 35px;
   align-items: center;
   padding: 15px;
-  border-radius: 10px;
-  background: var(--glossy);
+  background: var(--standard);
   gap: 10px;
+}
+
+#lang-filters {
+  border-radius: 15px 15px 5px 5px;
+}
+
+#rty-filters {
+  border-radius: 5px 5px 15px 15px;
 }
 
 #lang-filters span,
 #rty-filters span {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100%;
-  font-size: 15px;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  font-size: 15px;
 }
 
 #lang-filters>button,
@@ -282,10 +291,6 @@ header>a>img {
   transform: scale(1);
 }
 
-button:focus, #search:focus {
-  outline: none;
-}
-
 #items {
   position: absolute;
   top: 80px;
@@ -301,12 +306,11 @@ button:focus, #search:focus {
 }
 
 .item {
-  flex: 1 1 auto;
+  flex: 1;
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 5px;
   min-width: 300px;
   width: 100%;
   max-width: 400px;
@@ -316,7 +320,6 @@ button:focus, #search:focus {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  flex: 1;
 }
 
 .item::before {
@@ -374,11 +377,11 @@ button:focus, #search:focus {
   position: absolute;
   bottom: 15px;
   left: 15px;
-  width: fit-content;
-  height: 20px;
   display: flex;
   flex-direction: row;
   align-items: center;
+  width: fit-content;
+  height: 20px;
   background: rgba(0, 0, 0, 0.25);
   font-size: 17px;
   color: #fff;
