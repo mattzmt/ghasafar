@@ -1,8 +1,8 @@
 :root {
   --active: #22416b;
   --activeHover: #2564B7;
-  --inactive: #353535;
-  --inactiveHover: #454545;
+  --inactive: #252525;
+  --inactiveHover: #353535;
   --subText: rgba(255, 255, 255, 0.65);
   --standard: #212d3f;
   --standardHover: #22416b;
@@ -59,12 +59,13 @@ header>a>img {
   justify-content: center;
   flex-wrap: nowrap;
   position: fixed;
-  bottom: 10px;
-  left: 10px;
+  bottom: 0;
+  left: 0;
   width: calc(100vw - 20px);
-  height: fit-content;
+  height: 145px;
   z-index: 1;
   gap: 15px;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
 }
 
 #tools>* {
@@ -72,13 +73,15 @@ header>a>img {
 }
 
 #srt {
+  bottom: 0;
+  left: 0;
   pointer-events: auto;
-  width: 100%;
+  width: 100vw;
   height: 50px;
-  flex: 1;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  gap: 15px;
 }
 
 #search {
@@ -87,7 +90,7 @@ header>a>img {
   height: 35px;
   border: none;
   border-radius: 15px 5px 5px 15px;
-  background: var(--glossy);
+  background: var(--standard);
   display: block;
   padding: 15px 20px;
   font-size: 15px;
@@ -400,7 +403,6 @@ button:focus, #search:focus {
   from {
     opacity: 0;
   }
-
   to {
     opacity: 1;
   }
