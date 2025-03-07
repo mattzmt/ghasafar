@@ -26,8 +26,9 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100vw;
-    height: 75px;
+    width: calc(100vw - 20px);
+    height: 50px;
+    padding: 10px;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
     pointer-events: none;
     display: flex;
@@ -38,10 +39,6 @@ header {
 }
 
 header>#logo {
-    position: relative;
-    display: block;
-    top: 10px;
-    left: 10px;
     width: fit-content;
     height: 30px;
     background: rgba(0, 0, 0, 0.25);
@@ -57,9 +54,6 @@ header>#logo {
 }
 
 nav {
-    position: relative;
-    top: 10px;
-    right: 10px;
     width: fit-content;
     padding: 0 10px;
     height: 50px;
