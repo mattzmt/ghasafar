@@ -112,6 +112,7 @@ header>a>img {
   font-size: 15px;
   border-radius: 5px;
   font-size: 12px;
+  background: var(--standard);
   color: var(--subText);
 }
 
@@ -177,15 +178,15 @@ header>a>img {
     transform: translateY(0);
   }
   to {
-    clip-path: inset(0 100% 0 0);
-    transform: translateY(80px);
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(145px);
   } 
 }
 
 @keyframes undoClip {
   from {
-    clip-path: inset(0 100% 0 0);
-    transform: translateY(80px);
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(145px);
   }
   to {
     clip-path: inset(0);
