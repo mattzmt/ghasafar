@@ -61,7 +61,7 @@ header>a>img {
   position: fixed;
   bottom: 0;
   left: 0;
-  width: calc(100vw - 20px);
+  width: 100vw;
   height: 225px;
   z-index: 1;
   gap: 15px;
@@ -129,7 +129,7 @@ header>a>img {
   outline: none;
   background: var(--standard);
   padding: 15px;
-  width: calc(100% - 30px);
+  width: 200px;
   height: 20px;
   border-radius: 5px 15px 15px 5px;
   cursor: pointer;
