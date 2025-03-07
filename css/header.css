@@ -40,7 +40,7 @@ header {
 header>#logo {
     position: relative;
     display: block;
-    top: 10px;
+    top: 0;
     left: 10px;
     width: fit-content;
     height: 30px;
