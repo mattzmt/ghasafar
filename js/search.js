@@ -138,6 +138,7 @@ document.querySelector("#filter-toggle").addEventListener("click", function () {
     if (filters.classList.contains("clip")) {
         filters.classList.remove("clip");
         filters.classList.add("undoClip");
+		filters.style.visibility = "visible";
     } else {
         filters.classList.remove("undoClip");
         filters.classList.add("clip");
