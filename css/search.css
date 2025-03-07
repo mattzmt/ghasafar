@@ -195,12 +195,12 @@ header>a>img {
 }
 
 .clip {
-  animation: clip 0.5s ease-in forwards;
+  animation: clip 0.5s ease-in-out forwards;
   pointer-events: none !important;
 }
 
 .undoClip {
-  animation: undoClip 0.5s ease-in forwards;
+  animation: undoClip 0.5s ease-in-out forwards;
   pointer-events: auto !important;
 }
 
@@ -253,6 +253,7 @@ header>a>img {
   position: relative;
   font-size: 13px;
   width: min-content;
+  height: min-content;
 }
 
 #lang-filters>button:hover,
