@@ -1,3 +1,26 @@
+:root {
+    --active: #22416b;
+    --activeHover: #2564B7;
+    --inactive: #252525;
+    --inactiveHover: #353535;
+    --subText: rgba(255, 255, 255, 0.65);
+    --standard: #212d3f;
+    --standardHover: #22416b;
+}
+
+body {
+    background: #151515;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    padding: 0;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #fff;
+    font-weight: normal;
+}
+
 header {
     z-index: 1;
     position: fixed;
@@ -9,7 +32,7 @@ header {
     pointer-events: none;
 }
 
-header>a {
+header>#logo {
     position: relative;
     display: block;
     top: 10px;
@@ -23,7 +46,45 @@ header>a {
     pointer-events: auto;
 }
 
-header>a>img {
+#logo>img {
     width: auto;
     height: 100%;
+}
+
+nav {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: fit-content;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    pointer-events: auto;
+    user-select: none;
+}
+
+nav>a {
+    width: fit-content;
+    height: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--subText);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav>a:hover {
+    color: #fff;
+}
+
+#selected {
+    color: #fff;
+    text-decoration: underline;
 }
