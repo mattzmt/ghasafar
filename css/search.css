@@ -21,36 +21,6 @@ body {
   font-weight: normal;
 }
 
-header {
-  z-index: 1;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 75px;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
-  pointer-events: none;
-}
-
-header>a {
-  position: relative;
-  display: block;
-  top: 10px;
-  left: 10px;
-  width: fit-content;
-  height: 30px;
-  background: rgba(0, 0, 0, 0.25);
-  backdrop-filter: blur(5px);
-  border-radius: 10px;
-  padding: 10px;
-  pointer-events: auto;
-}
-
-header>a>img {
-  width: auto;
-  height: 100%;
-}
-
 #tools {
   pointer-events: none;
   display: flex;
@@ -307,9 +277,9 @@ header>a>img {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  min-width: 300px;
+  min-width: 270px;
   width: 100%;
-  max-width: 400px;
+  max-width: 320px;
   aspect-ratio: 1;
   padding: 15px;
   border-radius: 10px;
