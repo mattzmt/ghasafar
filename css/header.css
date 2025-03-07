@@ -30,6 +30,11 @@ header {
     height: 75px;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
     pointer-events: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 header>#logo {
