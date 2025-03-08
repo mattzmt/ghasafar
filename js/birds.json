@@ -1,6 +1,6 @@
 [
 	{
-		"en": "Red Throated Loon",
+		"en": "Red-Throated Loon",
 		"mt": "Bugħaddas tal-Maltemp",
 		"scn": "Gavia stellata",
 		"desc": "Insert description here",
@@ -9,12 +9,12 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Black-throated Loon",
+		"en": "Black-Throated Loon",
 		"mt": "Bugħaddas Iswed tal-Maltemp",
 		"scn": "Gavia arctica",
 		"desc": "Insert description here",
-		"img": "../images/birds/Black-throatedLoon.jpg",
-		"alt": "boi ts tuff asl",
+		"img": "../images/birds/BlackThroatedLoon.jpg",
+		"alt": "By Francesco Veronesi from Italy - Arctic ( Black-throated ) Loon ( Diver ) - Oulu - Finland 02, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39971078",
 		"rty": "Common"
 	},
 	{
@@ -36,7 +36,7 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Black-necked Grebe",
+		"en": "Black-Necked Grebe",
 		"mt": "Blongun Sekond",
 		"scn": "Podiceps nigricollis",
 		"desc": "Insert description here",
@@ -45,7 +45,7 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Cory's (Scopoli's) Shearwater",
+		"en": "Scopoli's Shearwater",
 		"mt": "Ċiefa",
 		"scn": "Calonectris diomedea",
 		"desc": "Insert description here",
@@ -90,11 +90,11 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Mediterranean Storm Petrel",
+		"en": "European Storm Petrel",
 		"mt": "Kangu ta' Filfla",
 		"scn": "Hydrobates pelagicus",
 		"desc": "Insert description here",
-		"img": "../images/birds/MediterraneanStormPetrel.jpg",
+		"img": "../images/birds/EuropeanStormPetrel.jpg",
 		"alt": "By Richard Crossley - Richard Crossley, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25987162",
 		"rty": "Common"
 	},
@@ -144,20 +144,20 @@
 		"rty": "Common"
 	},
 	{
-		"en": "White Pelican",
+		"en": "Great White Pelican",
 		"mt": "Pellikan",
 		"scn": "Pelecanus onocrotalus",
 		"desc": "Insert description here",
-		"img": "../images/birds/WhitePelican.jpg",
+		"img": "../images/birds/GreatWhitePelican.jpg",
 		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66151818",
 		"rty": "Common"
 	},
 	{
-		"en": "Great Bittern",
+		"en": "Eurasian Bittern",
 		"mt": "Kappun",
 		"scn": "Botaurus stellaris",
 		"desc": "Insert description here",
-		"img": "../images/birds/GreatBittern.jpg",
+		"img": "../images/birds/EurasianBittern.jpg",
 		"alt": "By Jo Garbutt - Flickr: Bittern, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=33043685",
 		"rty": "Common"
 	},
@@ -171,11 +171,11 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Night Heron",
+		"en": "Black-Crowned Night Heron",
 		"mt": "Kwakka",
 		"scn": "Nycticorax nycticorax",
 		"desc": "Insert description here",
-		"img": "../images/birds/NightHeron.jpg",
+		"img": "../images/birds/BlackCrownedNightHeron.jpg",
 		"alt": "By ramidos - https://www.inaturalist.org/photos/371561572, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156941524",
 		"rty": "Common"
 	},
@@ -189,11 +189,11 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Cattle Egret",
+		"en": "Western Cattle Egret",
 		"mt": "Agrett tal-Bħejjem",
 		"scn": "Ardea ibis",
 		"desc": "Insert description here",
-		"img": "../images/birds/CattleEgret.jpg",
+		"img": "../images/birds/WesternCattleEgret.jpg",
 		"alt": "By Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=20329327",
 		"rty": "Common"
 	},
@@ -299,45 +299,45 @@
 	{
 		"en": "Barnacle Goose",
 		"mt": "Wiżża tal-Koċċli",
-		"scn": "Anser fabalis",
+		"scn": "Branta leucopsis",
 		"desc": "Insert description here",
 		"img": "../images/birds/BarnacleGoose.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32487518",
 		"rty": "Common"
 	},
 	{
-		"en": "Bar-headed Goose",
+		"en": "Bar-Headed Goose",
 		"mt": "Wiżża tal-Indja",
-		"scn": "Anser fabalis",
+		"scn": "Anser indicus",
 		"desc": "Insert description here",
-		"img": "../images/birds/Bar-headedGoose.jpg",
+		"img": "../images/birds/BarHeadedGoose.jpg",
+		"alt": "By Diliff - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=1385514",
+		"rty": "Common"
+	},
+	{
+		"en": "Pink-Footed Goose",
+		"mt": "Wiżża tal-Ful",
+		"scn": "Anser brachyrhynchus",
+		"desc": "Insert description here",
+		"img": "../images/birds/PinkFootedGoose.jpg",
 		"alt": "boi ts tuff asl",
 		"rty": "Common"
 	},
 	{
-		"en": "Pink-footed Goose",
+		"en": "Taiga Bean Goose",
 		"mt": "Wiżża tal-Ful",
 		"scn": "Anser fabalis",
 		"desc": "Insert description here",
-		"img": "../images/birds/Pink-footedGoose.jpg",
-		"alt": "boi ts tuff asl",
-		"rty": "Common"
-	},
-	{
-		"en": "Bean Goose",
-		"mt": "Wiżża tal-Ful",
-		"scn": "Anser fabalis",
-		"desc": "Insert description here",
-		"img": "../images/birds/BeanGoose.jpg",
+		"img": "../images/birds/TaigaBeanGoose.jpg",
 		"alt": "By agulivanov - https://www.inaturalist.org/photos/431929438, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158346328",
 		"rty": "Common"
 	},
 	{
-		"en": "White-Fronted Goose",
+		"en": "Greater White-Fronted Goose",
 		"mt": "Wiżża tal-Maskra Bajda",
 		"scn": "Anser albifrons",
 		"desc": "Insert description here",
-		"img": "../images/birds/White-FrontedGoose.jpg",
+		"img": "../images/birds/GreaterWhiteFrontedGoose.jpg",
 		"alt": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125974338",
 		"rty": "Common"
 	},
@@ -355,7 +355,7 @@
 		"mt": "Wiżża Ħamra",
 		"scn": "Branta ruficollis",
 		"desc": "Insert description here",
-		"img": "../images/birds/Red-BreastedGoose.jpg",
+		"img": "../images/birds/RedBreastedGoose.jpg",
 		"alt": "By Dick Daniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11201743",
 		"rty": "Common"
 	},
@@ -423,11 +423,11 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Blue-winged Teal",
+		"en": "Blue-Winged Teal",
 		"mt": "Sarsella tal-Ġewnah Ikhal",
 		"scn": "Anas discors",
 		"desc": "Insert description here",
-		"img": "../images/birds/Blue-wingedTeal.jpg",
+		"img": "../images/birds/BlueWingedTeal.jpg",
 		"alt": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118451553",
 		"rty": "Common"
 	},
@@ -450,43 +450,43 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Pintail",
+		"en": "Northern Pintail",
 		"mt": "Silfjun",
 		"scn": "Anas acuta",
 		"desc": "Insert description here",
-		"img": "../images/birds/Pintail.jpg",
+		"img": "../images/birds/NorthernPintail.jpg",
 		"alt": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=96574639",
 		"rty": "Common"
 	},
 	{
 		"en": "Garganey",
 		"mt": "Sarsella Ħamra",
-		"scn": "Anas querquedula",
+		"scn": "Spatula querquedula",
 		"desc": "Insert description here",
 		"img": "../images/birds/Garganey.jpg",
 		"alt": "By YedidyaPopper - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146782645",
 		"rty": "Common"
 	},
 	{
-		"en": "Shoveler",
+		"en": "Northern Shoveler",
 		"mt": "Palettuna",
-		"scn": "Anas clypeata",
+		"scn": "Spatula clypeata",
 		"desc": "Insert description here",
-		"img": "../images/birds/Shoveler.jpg",
+		"img": "../images/birds/NorthernShoveler.jpg",
 		"alt": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113067243",
 		"rty": "Common"
 	},
 	{
-		"en": "Marbled Teal",
+		"en": "Marbled Duck",
 		"mt": "Sarsella Mnaqqxa",
 		"scn": "Marmaronetta angustirostris",
 		"desc": "Insert description here",
-		"img": "../images/birds/MarbledTeal.jpg",
+		"img": "../images/birds/MarbledDuck.jpg",
 		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31658956",
 		"rty": "Common"
 	},
 	{
-		"en": "Red Crested Pochard",
+		"en": "Red-Crested Pochard",
 		"mt": "Brajmla tat-Toppu Aħmar",
 		"scn": "Netta rufina",
 		"desc": "Insert description here",
@@ -562,7 +562,7 @@
 		"mt": "Serra",
 		"scn": "Mergus serrator",
 		"desc": "Insert description here",
-		"img": "../images/birds/Red-BreastedMerganser.jpg",
+		"img": "../images/birds/RedBreastedMerganser.jpg",
 		"alt": "By Peter Massas - originally posted to Flickr as Drake Red-Breasted Merganser, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=8952811",
 		"rty": "Common"
 	},
@@ -580,16 +580,16 @@
 		"mt": "Brajmla Rasha Bajda",
 		"scn": "Oxyura leucocephala",
 		"desc": "Insert description here",
-		"img": "../images/birds/White-HeadedDuck.jpg",
+		"img": "../images/birds/WhiteHeadedDuck.jpg",
 		"alt": "By MissTanyaLove - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18061334",
 		"rty": "Common"
 	},
 	{
-		"en": "Honey Buzzard",
+		"en": "European Honey Buzzard",
 		"mt": "Kuċċarda",
 		"scn": "Pernis apivorus",
 		"desc": "Insert description here",
-		"img": "../images/birds/HoneyBuzzard.jpg",
+		"img": "../images/birds/EuropeanHoneyBuzzard.jpg",
 		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=54344804",
 		"rty": "Common"
 	},
@@ -612,11 +612,11 @@
 		"rty": "Common"
 	},
 	{
-		"en": "White -Tailed Eagle",
+		"en": "White-Tailed Eagle",
 		"mt": "Ajkla tal-Baħar",
 		"scn": "Haliaeetus albicilla",
 		"desc": "Insert description here",
-		"img": "../images/birds/White-TailedEagle.jpg",
+		"img": "../images/birds/WhiteTailedEagle.jpg",
 		"alt": "By Francesco Veronesi from Italy - White-tailed Sea-Eagle - Hokkaido - Japan_S4E9284, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39980862",
 		"rty": "Common"
 	},
@@ -630,29 +630,29 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Griffon Vulture",
+		"en": "Eurasian Griffon Vulture",
 		"mt": "Avultun Prim",
 		"scn": "Gyps fulvus",
 		"desc": "Insert description here",
-		"img": "../images/birds/GriffonVulture.jpg",
+		"img": "../images/birds/EurasianGriffonVulture.jpg",
 		"alt": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29066936",
 		"rty": "Common"
 	},
 	{
-		"en": "Short-toed Eagle",
+		"en": "Short-Toed Snake Eagle",
 		"mt": "Ajkla Bajda",
 		"scn": "Circaetus gallicus",
 		"desc": "Insert description here",
-		"img": "../images/birds/Short-toedEagle.jpg",
+		"img": "../images/birds/ShortToedSnakeEagle.jpg",
 		"alt": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27397932",
 		"rty": "Common"
 	},
 	{
-		"en": "Marsh Harrier",
+		"en": "Western Marsh Harrier",
 		"mt": "Bagħdan Aħmar",
 		"scn": "Circus aeruginosus",
 		"desc": "Insert description here",
-		"img": "../images/birds/MarshHarrier.jpg",
+		"img": "../images/birds/WesternMarshHarrier.jpg",
 		"alt": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24255090",
 		"rty": "Common"
 	},
@@ -698,34 +698,34 @@
 		"scn": "Buteo buteo",
 		"desc": "Insert description here",
 		"img": "../images/birds/CommonBuzzard.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Arend from Oosterhout, Netherlands - BuizerdUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18758055",
 		"rty": "Common"
 	},
 	{
-		"en": "Long Legged Buzzard",
+		"en": "Long-Legged Buzzard",
 		"mt": "Kuċċarda Ħamra",
 		"scn": "Buteo rufinus",
 		"desc": "Insert description here",
 		"img": "../images/birds/LongLeggedBuzzard.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Koshy Koshy from Faridabad, Haryana, India - Long-legged Buzzard, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=74742757",
 		"rty": "Common"
 	},
 	{
-		"en": "Rough Legged Buzzard",
+		"en": "Rough-Legged Buzzard",
 		"mt": "Kuċċarda tal-Kalzetti",
 		"scn": "Buteo lagopus",
 		"desc": "Insert description here",
 		"img": "../images/birds/RoughLeggedBuzzard.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Walter Siegmund (talk) - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3408643",
 		"rty": "Common"
 	},
 	{
 		"en": "Lesser Spotted Eagle",
 		"mt": "Ajkla tat-Tikek",
-		"scn": "Aquila pomarina",
+		"scn": "Clanga pomarina",
 		"desc": "Insert description here",
 		"img": "../images/birds/LesserSpottedEagle.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Wolbrum avner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52529734",
 		"rty": "Common"
 	},
 	{
@@ -734,16 +734,16 @@
 		"scn": "Aquila chrysaetos",
 		"desc": "Insert description here",
 		"img": "../images/birds/GoldenEagle.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By J. Glover (AUTiger). Please attribute to J. Glover - Atlanta, Georgia in usage outside of Wikimedia Foundation Projects. - en.wikipedia, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=81854",
 		"rty": "Common"
 	},
 	{
 		"en": "Booted Eagle",
 		"mt": "Ajkla tal-Kalzetti",
-		"scn": "Aquila pennatus",
+		"scn": "Hieraaetus pennatus",
 		"desc": "Insert description here",
 		"img": "../images/birds/BootedEagle.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Johnsonwang6688 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108286268",
 		"rty": "Common"
 	},
 	{
@@ -752,7 +752,7 @@
 		"scn": "Pandion haliaetus",
 		"desc": "Insert description here",
 		"img": "../images/birds/Osprey.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Calistemon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155135815",
 		"rty": "Common"
 	},
 	{
@@ -761,7 +761,7 @@
 		"scn": "Falco naumanni",
 		"desc": "Insert description here",
 		"img": "../images/birds/LesserKestrel.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98575880",
 		"rty": "Common"
 	},
 	{
@@ -770,7 +770,7 @@
 		"scn": "Falco tinnunculus",
 		"desc": "Insert description here",
 		"img": "../images/birds/CommonKestrel.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Juan Emilio from Las Palmas de Gran Canaria, España - Cernicalo vulgar (Falco tinnunculus canariensis)♂Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12319027",
 		"rty": "Common"
 	},
 	{
@@ -779,7 +779,7 @@
 		"scn": "Falco sparverius",
 		"desc": "Insert description here",
 		"img": "../images/birds/AmericanKestrel.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47655438",
 		"rty": "Common"
 	},
 	{
