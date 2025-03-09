@@ -3589,5 +3589,14 @@
 		"img": "../images/birds/.jpg",
 		"alt": "boi ts tuff asl",
 		"rty": "Common"
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "Melopsittacus undulatus",
+		"desc": "Insert description here",
+		"img": "../images/birds/Budgerigar.jpg",
+		"alt": "https://en.wikipedia.org/wiki/File%3AMelopsittacus_undulatus_%2824082227505%29.jpg",
+		"rty": "Common"
 	}
 ]
