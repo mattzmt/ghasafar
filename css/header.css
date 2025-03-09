@@ -25,7 +25,7 @@ body {
 header {
     z-index: 1;
     position: fixed;
-    top: 0;
+    top: -1px;
     left: 0;
     width: 100vw;
     height: 50px;
