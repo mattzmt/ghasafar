@@ -79,6 +79,13 @@ document.getElementById("close-popup").addEventListener("click", () => {
 	document.body.classList.remove("no-scroll");
 });
 
+document.addEventListener("keydown", function(event) {
+    if (event.key === "Escape" && popup.style.display === "flex") {
+        popup.style.display = "none";
+        document.body.classList.remove("no-scroll");
+    }
+});
+
 function filterItems(query) {
 	return data.filter(item => {
 		const matchesQuery = (
