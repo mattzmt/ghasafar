@@ -6,24 +6,11 @@ main {
     overflow: hidden;
 }
 
-@keyframes banner {
-    from {
-        left: 0;
-    }
-    to {
-        left: -200vw;
-    }
-}
-
 main>span {
-    top: 75px;
-    left: 0;
-    position: absolute;
-    width: 300vw;
+    width: 100vw;
     height: fit-content;
     background: var(--standard);
     font-size: 20px;
-    animation: banner 5s linear 0 infinite;
     text-align: center;
     padding: 10px 0;
 }
