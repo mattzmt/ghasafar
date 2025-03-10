@@ -21,7 +21,7 @@ main>h1 {
     font-weight: bold;
     font-size: 35px;
     margin: 10px 20px 0 20px;
-    animation: fadeIn 1s ease-out 0 forwards;
+    animation: fadeIn 1s ease-out 0s forwards;
 }
 
 main>h2 {
@@ -39,7 +39,7 @@ main>h2 {
     height: fit-content;
 }
 
-#wtd>div {
+#wtd>a {
     display: block;
     min-width: 170px;
     max-width: 320px;
