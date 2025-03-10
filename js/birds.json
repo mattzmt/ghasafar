@@ -194,7 +194,7 @@
 		"mt": "Kwakka",
 		"scn": "Nycticorax nycticorax",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BlackCrownedHeron (LQ).jpg",
 		"img": "../images/birds/BlackCrownedNightHeron.jpg",
 		"alt": "By ramidos - https://www.inaturalist.org/photos/371561572, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156941524",
 		"rty": "Common"
@@ -204,7 +204,7 @@
 		"mt": "Agrett Isfar",
 		"scn": "Ardeola ralloides",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/SquaccoHeron (LQ).jpg",
 		"img": "../images/birds/SquaccoHeron.jpg",
 		"alt": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30117976",
 		"rty": "Common"
@@ -214,7 +214,7 @@
 		"mt": "Agrett tal-Bħejjem",
 		"scn": "Ardea ibis",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/WesternCattleEgret (LQ).jpg",
 		"img": "../images/birds/WesternCattleEgret.jpg",
 		"alt": "By Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=20329327",
 		"rty": "Common"
@@ -224,7 +224,7 @@
 		"mt": "Agrett tax-Xatt",
 		"scn": "Egretta gularis",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/WesternReefHeron (LQ).jpg",
 		"img": "../images/birds/WesternReefHeron.jpg",
 		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115914728",
 		"rty": "Common"
@@ -234,7 +234,7 @@
 		"mt": "Agrett Abjad",
 		"scn": "Egretta garzetta",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/LittleEgret (LQ).jpg",
 		"img": "../images/birds/LittleEgret.jpg",
 		"alt": "By Prosthetic Head - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47024149",
 		"rty": "Common"
@@ -244,7 +244,7 @@
 		"mt": "Russett Abjad",
 		"scn": "Ardea alba",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreatEgret (LQ).jpg",
 		"img": "../images/birds/GreatEgret.jpg",
 		"alt": "By Chuck Homler (FocusOnWildlife.Me) - This photograph was taken with a Canon EOS R5 by u:Needsmoreritalin., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118398608",
 		"rty": "Common"
@@ -254,7 +254,7 @@
 		"mt": "Russet Griż",
 		"scn": "Ardea cinerea",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreyHeron (LQ).jpg",
 		"img": "../images/birds/GreyHeron.jpg",
 		"alt": "By Savithri Singh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108480213",
 		"rty": "Common"
@@ -264,7 +264,7 @@
 		"mt": "Russett Aħmar",
 		"scn": "Ardea purpurea",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/PurpleHeron (LQ).jpg",
 		"img": "../images/birds/PurpleHeron.jpg",
 		"alt": "By Steve Garvie from Dunfermline, Fife, Scotland - Purple Heron (Ardea purpurea)Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12124206",
 		"rty": "Common"
@@ -274,7 +274,7 @@
 		"mt": "Ċikonja Sewda",
 		"scn": "Ciconia nigra",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BlackStork (LQ).jpg",
 		"img": "../images/birds/BlackStork.jpg",
 		"alt": "By Lennart Tange from Eindhoven, The Netherlands - Black StorkUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25053802",
 		"rty": "Common"
@@ -284,7 +284,7 @@
 		"mt": "Ċikonja Bajda",
 		"scn": "Ciconia ciconia",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/WhiteStork (LQ).jpg",
 		"img": "../images/birds/WhiteStork.jpg",
 		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20503096",
 		"rty": "Common"
@@ -294,7 +294,7 @@
 		"mt": "Velleran",
 		"scn": "Plegadis falcinellus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GlossyIbis (LQ).jpg",
 		"img": "../images/birds/GlossyIbis.jpg",
 		"alt": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084451",
 		"rty": "Common"
@@ -304,7 +304,7 @@
 		"mt": "Paletta",
 		"scn": "Platalea leucorodia",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EurasianSpoonbill (LQ).jpg",
 		"img": "../images/birds/EurasianSpoonbill.jpg",
 		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20213339",
 		"rty": "Common"
@@ -314,7 +314,7 @@
 		"mt": "Fjamingu",
 		"scn": "Phoenicopterus roseus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreaterFlamingo (LQ).jpg",
 		"img": "../images/birds/GreaterFlamingo.jpg",
 		"alt": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084146",
 		"rty": "Common"
@@ -324,7 +324,7 @@
 		"mt": "Ċinju",
 		"scn": "Cygnus olor",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/MuteSwan (LQ).jpg",
 		"img": "../images/birds/MuteSwan.jpg",
 		"alt": "By (c) Codrin Bucur, some rights reserved (CC BY) - https://www.inaturalist.org/photos/113908808, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156494355",
 		"rty": "Common"
@@ -334,7 +334,7 @@
 		"mt": "Wiżża tal-Koċċli",
 		"scn": "Branta leucopsis",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BarnacleGoose (LQ).jpg",
 		"img": "../images/birds/BarnacleGoose.jpg",
 		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32487518",
 		"rty": "Common"
@@ -344,7 +344,7 @@
 		"mt": "Wiżża tal-Indja",
 		"scn": "Anser indicus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BarHeadedGoose (LQ).jpg",
 		"img": "../images/birds/BarHeadedGoose.jpg",
 		"alt": "By Diliff - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=1385514",
 		"rty": "Common"
@@ -354,7 +354,7 @@
 		"mt": "Wiżża tal-Ful",
 		"scn": "Anser brachyrhynchus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/PinkFootedGoose (LQ).jpg",
 		"img": "../images/birds/PinkFootedGoose.jpg",
 		"alt": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150443788",
 		"rty": "Common"
@@ -364,7 +364,7 @@
 		"mt": "Wiżża tal-Ful",
 		"scn": "Anser fabalis",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/TaigaBeanGoose (LQ).jpg",
 		"img": "../images/birds/TaigaBeanGoose.jpg",
 		"alt": "By agulivanov - https://www.inaturalist.org/photos/431929438, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158346328",
 		"rty": "Common"
@@ -374,7 +374,7 @@
 		"mt": "Wiżża tal-Maskra Bajda",
 		"scn": "Anser albifrons",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreaterWhiteFrontedGoose (LQ).jpg",
 		"img": "../images/birds/GreaterWhiteFrontedGoose.jpg",
 		"alt": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125974338",
 		"rty": "Common"
@@ -384,7 +384,7 @@
 		"mt": "Wiżża Griża",
 		"scn": "Anser anser",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreylagGoose (LQ).jpg",
 		"img": "../images/birds/GreylagGoose.jpg",
 		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1385555",
 		"rty": "Common"
@@ -394,7 +394,7 @@
 		"mt": "Wiżża Ħamra",
 		"scn": "Branta ruficollis",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/RedBreastedGoose (LQ).jpg",
 		"img": "../images/birds/RedBreastedGoose.jpg",
 		"alt": "By Dick Daniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11201743",
 		"rty": "Common"
@@ -404,7 +404,7 @@
 		"mt": "Wiżża tal-Eġittu",
 		"scn": "Alopochen aegyptiacus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EgyptianGoose (LQ).jpg",
 		"img": "../images/birds/EgyptianGoose.jpg",
 		"alt": "By Kimberly Reid - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93302493",
 		"rty": "Common"
@@ -414,7 +414,7 @@
 		"mt": "Kuluvert Aħmar",
 		"scn": "Tadorna ferruginea",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/RuddyShelduck (LQ).jpg",
 		"img": "../images/birds/RuddyShelduck.jpg",
 		"alt": "By Mprasannak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56389475",
 		"rty": "Common"
@@ -424,7 +424,7 @@
 		"mt": "Kuluvert tas-Salib",
 		"scn": "Tadorna tadorna",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CommonShelduck (LQ).jpg",
 		"img": "../images/birds/CommonShelduck.jpg",
 		"alt": "By Hobbyfotowiki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=84357543",
 		"rty": "Common"
@@ -434,7 +434,7 @@
 		"mt": "Silfjun Ewropej",
 		"scn": "Mareca penelope",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EurasianWigeon (LQ).jpg",
 		"img": "../images/birds/EurasianWigeon.jpg",
 		"alt": "By Anas_penelope_kuribo.jpg: Kuribo from Osaka, Japanderivative work: Bogbumper (talk) - Anas_penelope_kuribo.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10662048",
 		"rty": "Common"
@@ -444,7 +444,7 @@
 		"mt": "Silfjun Asjatiku",
 		"scn": "Anas falcata",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/FalcatedDuck (LQ).jpg",
 		"img": "../images/birds/FalcatedDuck.jpg",
 		"alt": "By Francis C. Franklin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35774036",
 		"rty": "Common"
@@ -454,7 +454,7 @@
 		"mt": "Kuluvert Griż",
 		"scn": "Mareca strepera",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Gadwall (LQ).jpg",
 		"img": "../images/birds/Gadwall.jpg",
 		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32475737",
 		"rty": "Common"
@@ -464,7 +464,7 @@
 		"mt": "Sarsella tas-Siberja",
 		"scn": "Sibirionetta formosa",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BaikalTeal (LQ).jpg",
 		"img": "../images/birds/BaikalTeal.jpg",
 		"alt": "By Formosa (Flickr) - https://www.flickr.com/photos/suneko/96282324/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3674844",
 		"rty": "Common"
@@ -474,7 +474,7 @@
 		"mt": "Sarsella tal-Ġewnah Ikhal",
 		"scn": "Anas discors",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BlueWingedTeal (LQ).jpg",
 		"img": "../images/birds/BlueWingedTeal.jpg",
 		"alt": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118451553",
 		"rty": "Common"
@@ -484,7 +484,7 @@
 		"mt": "Sarsella",
 		"scn": "Anas crecca",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EurasianTeal (LQ).jpg",
 		"img": "../images/birds/EurasianTeal.jpg",
 		"alt": "By Jeslu - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3976534",
 		"rty": "Common"
@@ -494,7 +494,7 @@
 		"mt": "Kuluvert",
 		"scn": "Anas platyrhynchos",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Mallard (LQ).jpg",
 		"img": "../images/birds/Mallard.jpg",
 		"alt": "By Chuck Homler d/b/a FocusOnwWildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147068702",
 		"rty": "Common"
@@ -504,7 +504,7 @@
 		"mt": "Silfjun",
 		"scn": "Anas acuta",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/NorthernPintail (LQ).jpg",
 		"img": "../images/birds/NorthernPintail.jpg",
 		"alt": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=96574639",
 		"rty": "Common"
@@ -514,7 +514,7 @@
 		"mt": "Sarsella Ħamra",
 		"scn": "Spatula querquedula",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Garganey (LQ).jpg",
 		"img": "../images/birds/Garganey.jpg",
 		"alt": "By YedidyaPopper - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146782645",
 		"rty": "Common"
@@ -524,7 +524,7 @@
 		"mt": "Palettuna",
 		"scn": "Spatula clypeata",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/NorthernShoveler (LQ).jpg",
 		"img": "../images/birds/NorthernShoveler.jpg",
 		"alt": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113067243",
 		"rty": "Common"
@@ -534,7 +534,7 @@
 		"mt": "Sarsella Mnaqqxa",
 		"scn": "Marmaronetta angustirostris",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/MarbledDuck (LQ).jpg",
 		"img": "../images/birds/MarbledDuck.jpg",
 		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31658956",
 		"rty": "Common"
@@ -544,7 +544,7 @@
 		"mt": "Brajmla tat-Toppu Aħmar",
 		"scn": "Netta rufina",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/RedCrestedPochard (LQ).jpg",
 		"img": "../images/birds/RedCrestedPochard.jpg",
 		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29868606",
 		"rty": "Common"
@@ -554,7 +554,7 @@
 		"mt": "Brajmla",
 		"scn": "Aythya ferina",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CommonPochard (LQ).jpg",
 		"img": "../images/birds/CommonPochard.jpg",
 		"alt": "By Tony Hisgett from Birmingham, UK - Pochard 2, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=20217242",
 		"rty": "Common"
@@ -564,7 +564,7 @@
 		"mt": "Brajmla t'Għajna Bajda",
 		"scn": "Aythya nyroca",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/FerruginousDuck (LQ).jpg",
 		"img": "../images/birds/FerruginousDuck.jpg",
 		"alt": "By © Francis C. Franklin / CC-BY-SA-3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39134586",
 		"rty": "Common"
@@ -574,7 +574,7 @@
 		"mt": "Brajmla tat-Toppu",
 		"scn": "Aythya fuligula",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/TuftedDuck (LQ).jpg",
 		"img": "../images/birds/TuftedDuck.jpg",
 		"alt": "By Charles J. Sharp - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31597261",
 		"rty": "Common"
@@ -584,7 +584,7 @@
 		"mt": "Brajmla Rasha Sewda",
 		"scn": "Aythya marila",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreaterScaup (LQ).jpg",
 		"img": "../images/birds/GreaterScaup.jpg",
 		"alt": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103152819",
 		"rty": "Common"
@@ -594,7 +594,7 @@
 		"mt": "Borka Sewda",
 		"scn": "Melanitta nigra",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CommonScoter (LQ).jpg",
 		"img": "../images/birds/CommonScoter.jpg",
 		"alt": "By Jason Thompson - Flickr: eurasian common scoter, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30890885",
 		"rty": "Common"
@@ -604,7 +604,7 @@
 		"mt": "Brajmla tal-Għajn",
 		"scn": "Bucephala clangula",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CommonGoldeneye (LQ).jpg",
 		"img": "../images/birds/CommonGoldeneye.jpg",
 		"alt": "By https://www.flickr.com/photos/sbern/ - https://www.flickr.com/photos/sbern/13471929904/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36391956",
 		"rty": "Common"
@@ -614,7 +614,7 @@
 		"mt": "Serra Bajda",
 		"scn": "Mergellus albellus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Smew (LQ).jpg",
 		"img": "../images/birds/Smew.jpg",
 		"alt": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17526412",
 		"rty": "Common"
@@ -624,7 +624,7 @@
 		"mt": "Serra",
 		"scn": "Mergus serrator",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/RedBreastedMerganser (LQ).jpg",
 		"img": "../images/birds/RedBreastedMerganser.jpg",
 		"alt": "By Peter Massas - originally posted to Flickr as Drake Red-Breasted Merganser, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=8952811",
 		"rty": "Common"
@@ -634,7 +634,7 @@
 		"mt": "Serra Prima",
 		"scn": "Mergus merganser",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Goosander (LQ).jpg",
 		"img": "../images/birds/Goosander.jpg",
 		"alt": "By Tony Hisgett - originally posted to Flickr as Male Goosander, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9020932",
 		"rty": "Common"
@@ -644,7 +644,7 @@
 		"mt": "Brajmla Rasha Bajda",
 		"scn": "Oxyura leucocephala",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/WhiteHeadedDuck (LQ).jpg",
 		"img": "../images/birds/WhiteHeadedDuck.jpg",
 		"alt": "By MissTanyaLove - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18061334",
 		"rty": "Common"
@@ -654,7 +654,7 @@
 		"mt": "Kuċċarda",
 		"scn": "Pernis apivorus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EuropeanHoneyBuzzard (LQ).jpg",
 		"img": "../images/birds/EuropeanHoneyBuzzard.jpg",
 		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=54344804",
 		"rty": "Common"
@@ -664,7 +664,7 @@
 		"mt": "Astun Iswed",
 		"scn": "Milvus migrans",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BlackKite (LQ).jpg",
 		"img": "../images/birds/BlackKite.jpg",
 		"alt": "By nubobo - トビ, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31054775",
 		"rty": "Common"
@@ -674,7 +674,7 @@
 		"mt": "Astun Aħmar",
 		"scn": "Milvus milvus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/RedKite (LQ).jpg",
 		"img": "../images/birds/RedKite.jpg",
 		"alt": "By Etro0309 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103248580",
 		"rty": "Common"
@@ -684,7 +684,7 @@
 		"mt": "Ajkla tal-Baħar",
 		"scn": "Haliaeetus albicilla",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/WhiteTailedEagle (LQ).jpg",
 		"img": "../images/birds/WhiteTailedEagle.jpg",
 		"alt": "By Francesco Veronesi from Italy - White-tailed Sea-Eagle - Hokkaido - Japan_S4E9284, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39980862",
 		"rty": "Common"
@@ -694,7 +694,7 @@
 		"mt": "Avultun Abjad",
 		"scn": "Neophron percnopterus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EgyptianVulture (LQ).jpg",
 		"img": "../images/birds/EgyptianVulture.jpg",
 		"alt": "By Koshy Koshy from Faridabad, Haryana, India - Egyptian Vulture, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=58812344",
 		"rty": "Common"
@@ -704,7 +704,7 @@
 		"mt": "Avultun Prim",
 		"scn": "Gyps fulvus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EurasianGriffonVulture (LQ).jpg",
 		"img": "../images/birds/EurasianGriffonVulture.jpg",
 		"alt": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29066936",
 		"rty": "Common"
@@ -714,7 +714,7 @@
 		"mt": "Ajkla Bajda",
 		"scn": "Circaetus gallicus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/ShortToedSnakeEagle (LQ).jpg",
 		"img": "../images/birds/ShortToedSnakeEagle.jpg",
 		"alt": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27397932",
 		"rty": "Common"
@@ -724,7 +724,7 @@
 		"mt": "Bagħdan Aħmar",
 		"scn": "Circus aeruginosus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/WesternMarshHarrier (LQ).jpg",
 		"img": "../images/birds/WesternMarshHarrier.jpg",
 		"alt": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24255090",
 		"rty": "Common"
@@ -734,7 +734,7 @@
 		"mt": "Bagħadan Ikħal",
 		"scn": "Circus cyaneus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/HenHarrier (LQ).jpg",
 		"img": "../images/birds/HenHarrier.jpg",
 		"alt": "By Isle of Man Government - Hen Harrier, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30598443",
 		"rty": "Common"
@@ -744,7 +744,7 @@
 		"mt": "Bagħdan Abjad",
 		"scn": "Circus macrourus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/PallidHarrier.jpg",
 		"img": "../images/birds/PallidHarrier.jpg",
 		"alt": "By (c) Anton Labachou, some rights reserved (CC BY) - https://www.inaturalist.org/photos/389994827, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=149454162",
 		"rty": "Common"
@@ -754,7 +754,7 @@
 		"mt": "Bagħadan Griż",
 		"scn": "Circus pygargus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/MontagusHarrier (LQ).jpg",
 		"img": "../images/birds/MontagusHarrier.jpg",
 		"alt": "By Sumeetmoghe - This photograph was taken with a Canon EOS R5 by u:Sumeetmoghe., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148609285",
 		"rty": "Common"
@@ -764,7 +764,7 @@
 		"mt": "Sparvier",
 		"scn": "Accipiter nisus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EurasianSparrowhawk (LQ).jpg",
 		"img": "../images/birds/EurasianSparrowhawk.jpg",
 		"alt": "By Pierre Dalous - File:Accnis.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27184634",
 		"rty": "Common"
@@ -774,7 +774,7 @@
 		"mt": "Kuċċarda Prima",
 		"scn": "Buteo buteo",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CommonBuzzard (LQ).jpg",
 		"img": "../images/birds/CommonBuzzard.jpg",
 		"alt": "By Arend from Oosterhout, Netherlands - BuizerdUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18758055",
 		"rty": "Common"
@@ -784,7 +784,7 @@
 		"mt": "Kuċċarda Ħamra",
 		"scn": "Buteo rufinus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/LongLeggedBuzzard (LQ).jpg",
 		"img": "../images/birds/LongLeggedBuzzard.jpg",
 		"alt": "By Koshy Koshy from Faridabad, Haryana, India - Long-legged Buzzard, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=74742757",
 		"rty": "Common"
@@ -794,7 +794,7 @@
 		"mt": "Kuċċarda tal-Kalzetti",
 		"scn": "Buteo lagopus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/RoughLeggedBuzzard.jpg",
 		"img": "../images/birds/RoughLeggedBuzzard.jpg",
 		"alt": "By Walter Siegmund (talk) - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3408643",
 		"rty": "Common"
@@ -804,7 +804,7 @@
 		"mt": "Ajkla tat-Tikek",
 		"scn": "Clanga pomarina",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/LesserSpottedEagle (LQ).jpg",
 		"img": "../images/birds/LesserSpottedEagle.jpg",
 		"alt": "By Wolbrum avner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52529734",
 		"rty": "Common"
@@ -814,7 +814,7 @@
 		"mt": "Ajkla Rjali",
 		"scn": "Aquila chrysaetos",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GoldenEagle (LQ).jpg",
 		"img": "../images/birds/GoldenEagle.jpg",
 		"alt": "By J. Glover (AUTiger). Please attribute to J. Glover - Atlanta, Georgia in usage outside of Wikimedia Foundation Projects. - en.wikipedia, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=81854",
 		"rty": "Common"
@@ -824,7 +824,7 @@
 		"mt": "Ajkla tal-Kalzetti",
 		"scn": "Hieraaetus pennatus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BootedEagle (LQ).jpg",
 		"img": "../images/birds/BootedEagle.jpg",
 		"alt": "By Johnsonwang6688 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108286268",
 		"rty": "Common"
@@ -834,7 +834,7 @@
 		"mt": "Arpa",
 		"scn": "Pandion haliaetus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Osprey (LQ).jpg",
 		"img": "../images/birds/Osprey.jpg",
 		"alt": "By Calistemon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155135815",
 		"rty": "Common"
@@ -844,7 +844,7 @@
 		"mt": "Spanjulett Sekond",
 		"scn": "Falco naumanni",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/LesserKestrel (LQ).jpg",
 		"img": "../images/birds/LesserKestrel.jpg",
 		"alt": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98575880",
 		"rty": "Common"
@@ -854,7 +854,7 @@
 		"mt": "Spanjulett",
 		"scn": "Falco tinnunculus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CommonKestrel (LQ).jpg",
 		"img": "../images/birds/CommonKestrel.jpg",
 		"alt": "By Juan Emilio from Las Palmas de Gran Canaria, España - Cernicalo vulgar (Falco tinnunculus canariensis)♂Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12319027",
 		"rty": "Common"
@@ -864,7 +864,7 @@
 		"mt": "Spanjulett Amerikan",
 		"scn": "Falco sparverius",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/AmericanKestrel (LQ).jpg",
 		"img": "../images/birds/AmericanKestrel.jpg",
 		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47655438",
 		"rty": "Common"
@@ -3994,7 +3994,7 @@
 		"mt": "Amorin",
 		"scn": "Melopsittacus undulatus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Budgerigar (LQ).jpg",
 		"img": "../images/birds/Budgerigar.jpg",
 		"alt": "https://en.wikipedia.org/wiki/File%3AMelopsittacus_undulatus_%2824082227505%29.jpg",
 		"rty": "Common"
