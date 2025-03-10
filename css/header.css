@@ -1,98 +1,148 @@
 :root {
-    --active: #22416b;
-    --activeHover: #2564B7;
-    --inactive: #252525;
-    --inactiveHover: #353535;
-    --subText: rgba(255, 255, 255, 0.65);
-    --standard: #212d3f;
-    --standardHover: #22416b;
+  --active: #22416b;
+  --activeHover: #2564B7;
+  --inactive: #252525;
+  --inactiveHover: #353535;
+  --subText: rgba(255, 255, 255, 0.65);
+  --standard: #212d3f;
+  --standardHover: #22416b;
 }
 
 body {
-    background: #151515;
-    margin: 0;
-    padding: 0;
+  background: #151515;
+  margin: 0;
+  padding: 0;
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    font-family: 'Lexend Deca', sans-serif;
-    color: #fff;
-    font-weight: normal;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lexend Deca', sans-serif;
+  color: #fff;
+  font-weight: normal;
 }
 
 header {
-    z-index: 1;
-    position: fixed;
-    top: -5px;
-    left: 0;
-    width: 100vw;
-    height: 55px;
-    margin: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
-    pointer-events: none;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: nowrap;
-    gap: 5px;
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 50px;
+  margin: 0;
+  padding: 10px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 10px;
 }
 
 header>#logo {
-    width: fit-content;
-    height: 25px;
-    background: rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(5px);
-    border-radius: 0 0 10px 0;
-    padding: 15px 10px 10px 10px;
-    pointer-events: auto;
+  width: fit-content;
+  height: 25px;
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+  border-radius: 10px;
+  padding: 10px;
+  pointer-events: auto;
 }
 
 #logo>img {
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: auto;
-    height: 25px;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: auto;
+  height: 25px;
+}
+
+#nav-toggle {
+  transition: ease-in-out 0.25s;
+  user-select: none;
+  outline: none;
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+  padding: 15px;
+  width: 60px;
+  height: 50px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+@keyframes collapse {
+  from {
+    clip-path: inset(0);
+    transform: translateY(0);
+  }
+  to {
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(-130px);
+  } 
+}
+  
+@keyframes expand {
+  from {
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(-130px);
+  }
+  to {
+    clip-path: inset(0);
+    transform: translateY(0);
+  }
+}
+  
+.collapse {
+  animation: collapse 0.5s ease-in-out forwards;
+  pointer-events: none !important;
+}
+  
+.expand {
+  animation: expand 0.5s ease-in-out forwards;
+  pointer-events: auto !important;
 }
 
 nav {
-    width: fit-content;
-    padding: 5px 10px 0 10px;
-    height: 45px;
-    border-radius: 0 0 0 10px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 5px;
-    pointer-events: auto;
-    user-select: none;
-    background-color: rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(5px);
+  position: fixed;
+  top: 55px;
+  right: 5px;
+  width: fit-content;
+  height: 130px;
+  padding: 0 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 5px;
+  pointer-events: auto;
+  user-select: none;
+  background-color: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
 }
 
 nav>a {
-    width: fit-content;
-    height: 30px;
-    padding: 5px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: var(--subText);
-    text-decoration: none;
-    font-size: 15px;
-    font-weight: bold;
+  transition: ease-in-out 0.25s;
+  width: fit-content;
+  height: 30px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--subText);
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 nav>a:hover {
-    color: #fff;
+  color: #fff;
 }
 
 #selected {
-    color: #fff;
-    text-decoration: underline;
+  color: #fff;
+  text-decoration: underline;
 }
