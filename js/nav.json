@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Home",
+        "url": ""
+    },
+    {
+        "name": "Search",
+        "url": "search/"
+    },
+    {
+        "name": "Places",
+        "url": "places/"
+    },
+    {
+        "name": "Tips",
+        "url": "tips/"
+    },
+    {
+        "name": "Contact",
+        "url": "contact/"
+    }
+]
