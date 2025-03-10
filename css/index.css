@@ -24,20 +24,19 @@ main>title {
     animation: fadeIn 1s ease-out;
 }
 
-#wtd {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: auto;
-    grid-gap: 20px;
-    width: 100vw;
-    height: fit-content;
-}
-
-#wtd>h1 {
+main>h1 {
     display: block;
     top: 0;
     left: 0;
     font-size: 25px;
+}
+
+#wtd {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 20px;
+    width: 100vw;
+    height: fit-content;
 }
 
 #wtd>div {
