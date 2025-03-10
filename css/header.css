@@ -60,6 +60,10 @@ header>#logo {
 }
 
 #nav-toggle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
@@ -67,9 +71,15 @@ header>#logo {
   backdrop-filter: blur(5px);
   padding: 15px;
   width: 60px;
-  height: 50px;
+  min-width: 20px;
+  height: 20px;
   border-radius: 10px;
+  pointer-events: auto;
   cursor: pointer;
+}
+
+#nav-toggle:hover {
+  background: rgba(0, 0, 0, 0.5);
 }
 
 @keyframes collapse {
@@ -79,14 +89,14 @@ header>#logo {
   }
   to {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-130px);
+    transform: translateY(-110px);
   } 
 }
   
 @keyframes expand {
   from {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-130px);
+    transform: translateY(-110px);
   }
   to {
     clip-path: inset(0);
@@ -106,15 +116,15 @@ header>#logo {
 
 nav {
   position: fixed;
-  top: 55px;
-  right: 5px;
-  width: fit-content;
-  height: 130px;
-  padding: 0 10px;
+  top: 65px;
+  right: 10px;
+  width: 60px;
+  height: 100px;
+  padding: 5px 15px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: center;
   gap: 5px;
   pointer-events: auto;
@@ -127,14 +137,13 @@ nav>a {
   transition: ease-in-out 0.25s;
   width: fit-content;
   height: 30px;
-  padding: 5px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   color: var(--subText);
   text-decoration: none;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
 }
 
