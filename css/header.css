@@ -23,21 +23,22 @@ body {
 }
 
 header {
-    z-index: 1;
-    position: fixed;
-    top: -5px;
-    left: 0;
-    width: 100vw;
-    height: 55px;
-    margin: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
-    pointer-events: none;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: nowrap;
-    gap: 5px;
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: calc(100vw - 20px);
+  height: 50px;
+  margin: 0;
+  padding: 10px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 10px;
 }
 
 header>#logo {
@@ -58,20 +59,82 @@ header>#logo {
     height: 25px;
 }
 
+#nav-toggle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: ease-in-out 0.25s;
+  user-select: none;
+  outline: none;
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+  padding: 15px;
+  width: 60px;
+  min-width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+#nav-toggle:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#nav-toggle>img {
+  height: 100%;
+}
+
+@keyframes collapse {
+  from {
+    clip-path: inset(0);
+    transform: translateY(0);
+  }
+  to {
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(-110px);
+  } 
+}
+  
+@keyframes expand {
+  from {
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(-110px);
+  }
+  to {
+    clip-path: inset(0);
+    transform: translateY(0);
+  }
+}
+  
+.collapse {
+  animation: collapse 0.5s ease-in-out forwards;
+  pointer-events: none !important;
+}
+  
+.expand {
+  animation: expand 0.5s ease-in-out forwards;
+  pointer-events: auto !important;
+}
+
 nav {
-    width: fit-content;
-    padding: 5px 10px 0 10px;
-    height: 45px;
-    border-radius: 0 0 0 10px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 5px;
-    pointer-events: auto;
-    user-select: none;
-    background-color: rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(5px);
+  position: fixed;
+  top: 65px;
+  right: 10px;
+  width: 60px;
+  height: 100px;
+  padding: 5px 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+  pointer-events: auto;
+  user-select: none;
+  background-color: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
 }
 
 nav>a {

@@ -16,7 +16,8 @@
 <body>
     <header>
         <a href="../" id="logo"><img src="../images/ui/logo.svg"></a>
-        <nav>
+        <div id="nav-toggle"><img src="../images/ui/nav.svg"></div>
+        <nav class="collapse" style="visibility: hidden;">
             <a href="../">Home</a>
             <a href="../search" id="selected">Search</a>
             <a href="../contact">Contact</a>
@@ -96,6 +97,7 @@
     </template>
 
     <script src="../js/search.js"></script>
+    <script src="../js/nav.js"></script>
 </body>
 
 </html>
