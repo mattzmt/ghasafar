@@ -14,78 +14,88 @@
 </head>
 
 <body>
-    <div id="items"></div>
+    <header>
+        <a href="../" id="logo"><img src="../images/ui/logo.svg"></a>
+        <div id="nav-toggle"><img src="../images/ui/nav.svg"></div>
+        <nav class="collapse" style="visibility: hidden;">
+            <a href="../">Home</a>
+            <a href="../search" id="selected">Search</a>
+            <a href="../contact">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <div id="items"></div>
 
-    <div id="tools">
-        <div id="filters" class="clip" style="visibility: hidden;">
-            <div id="lang-filters">
-                <span>Use:</span>
-                <button id="en-filter">
-                    English names
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="mt-filter">
-                    Maltese names
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="scn-filter">
-                    Scientific names
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
+        <div id="tools">
+            <div id="filters" class="clip" style="visibility: hidden;">
+                <div id="lang-filters">
+                    <span>Use:</span>
+                    <button id="en-filter">
+                        English names
+                        <img class="tick" src="../images/ui/tick.svg">
+                    </button>
+                    <button id="mt-filter">
+                        Maltese names
+                        <img class="tick" src="../images/ui/tick.svg">
+                    </button>
+                    <button id="scn-filter">
+                        Scientific names
+                        <img class="tick" src="../images/ui/tick.svg">
+                    </button>
+                </div>
+
+                <div id="rty-filters">
+                    <span>Rarities:</span>
+                    <button id="common-filter">
+                        Common
+                        <img class="tick" src="../images/ui/tick.svg">
+                    </button>
+                    <button id="uncommon-filter">
+                        Uncommon
+                        <img class="tick" src="../images/ui/tick.svg">
+                    </button>
+                    <button id="rare-filter">
+                        Rare
+                        <img class="tick" src="../images/ui/tick.svg">
+                    </button>
+                </div>
             </div>
 
-            <div id="rty-filters">
-                <span>Rarities:</span>
-                <button id="common-filter">
-                    Common
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="uncommon-filter">
-                    Uncommon
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="rare-filter">
-                    Rare
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
+            <div id="srt">
+                <input type="text" id="search" placeholder="Search for birds..."/>
+                <div id="results">
+                    <span id="results-count">0</span>
+                    results
+                </div>
+                <div id="filter-toggle"><img src="../images/ui/filters.svg"></div>
             </div>
         </div>
 
-        <div id="srt">
-            <input type="text" id="search" placeholder="Search for birds..."/>
-            <div id="results">
-                <span id="results-count">0</span>
-                results
+        <div id="popup" class="hidden">
+            <div id="popup-content">
+                <img id="close-popup" src="../images/ui/close.svg">
+                <div id="popup-details">
+                    <h1>English name: </h1>
+                    <h1 id="popup-en"></h1><br>
+                    <h2>Maltese name: </h2>
+                    <h2 id="popup-mt"></h2><br>
+                    <h3>Scientific name: </h3>
+                    <h3 id="popup-scn"></h3>
+                    <h4 id="popup-desc"></h4>
+                </div>
             </div>
-            <div id="filter-toggle"><img src="../images/ui/filters.svg"></div>
+            <img id="popup-image">
         </div>
-    </div>
 
-    <div id="popup" class="hidden">
-        <div id="popup-content">
-            <img id="close-popup" src="../images/ui/close.svg">
-            <div id="popup-details">
-                <h1>English name: </h1>
-                <h1 id="popup-en"></h1><br>
-                <h2>Maltese name: </h2>
-                <h2 id="popup-mt"></h2><br>
-                <h3>Scientific name: </h3>
-                <h3 id="popup-scn"></h3>
-                <h4 id="popup-desc"></h4>
+        <template id="template">
+            <div class="item">
+                <h1 class="en"></h1>
+                <h1 class="mt"></h1>
+                <h2 class="scn"></h2>
+                <div class="more">View more<img src="../images/ui/arrow.svg"></div>
             </div>
-        </div>
-        <img id="popup-image">
-    </div>
-
-    <template id="template">
-        <div class="item">
-            <h1 class="en"></h1>
-            <h1 class="mt"></h1>
-            <h2 class="scn"></h2>
-            <div class="more">View more<img src="../images/ui/arrow.svg"></div>
-        </div>
-    </template>
-
+        </template>
+    </main>
     <script src="../js/search.js"></script>
     <script src="../js/nav.js"></script>
 </body>
