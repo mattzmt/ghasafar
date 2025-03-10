@@ -21,6 +21,7 @@ body {
   font-family: 'Lexend Deca', sans-serif;
   color: #fff;
   font-weight: normal;
+  user-select: none;
 }
 
 header {
@@ -163,11 +164,7 @@ nav>a:hover {
 
 .warning {
   position: relative;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  gap: 5px;
+  display: block;
   width: fit-content;
   height: fit-content;
   background: linear-gradient(to right, var(--standard), var(--background));
