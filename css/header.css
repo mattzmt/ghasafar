@@ -170,7 +170,7 @@ nav>a:hover {
   background: linear-gradient(to right, var(--standard), var(--background));
   font-size: 15px;
   text-align: center;
-  padding: 10px 20px 10px 30px;
+  padding: 10px 20px 10px 40px;
 }
 
 .warning>img {
