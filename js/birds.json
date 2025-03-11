@@ -870,13 +870,13 @@
 		"rty": "Common"
 	},
 	{
-		"en": "Red-footed Falcon",
+		"en": "Red-Footed Falcon",
 		"mt": "Zumbrell",
 		"scn": "Falco vespertinus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Red-footedFalcon.jpg",
-		"alt": "boi ts tuff asl",
+		"smallImg": "../images/birds/RedFootedFalcon (LQ).jpg",
+		"img": "../images/birds/RedFootedFalcon.jpg",
+		"alt": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12694177",
 		"rty": "Common"
 	},
 	{
@@ -884,19 +884,19 @@
 		"mt": "Seqer ta' Denbu",
 		"scn": "Falco columbarius",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/Merlin (LQ).jpg",
 		"img": "../images/birds/Merlin.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By caroline legg - Merlin -Falco columbarius, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=145896940",
 		"rty": "Common"
 	},
 	{
-		"en": "Hobby",
+		"en": "Eurasian Hobby",
 		"mt": "Seqer tal-Ħannieqa",
 		"scn": "Falco subbuteo",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Hobby.jpg",
-		"alt": "boi ts tuff asl",
+		"smallImg": "../images/birds/EurasianHobby (LQ).jpg",
+		"img": "../images/birds/EurasianHobby.jpg",
+		"alt": "By Shantanu Kuveskar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111860073",
 		"rty": "Common"
 	},
 	{
@@ -904,9 +904,9 @@
 		"mt": "Bies tar-Reġina",
 		"scn": "Falco eleonorae",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EleonorasFalcon (LQ).jpg",
 		"img": "../images/birds/EleonorasFalcon.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - La Conselleria de Medi Ambient i Mobilitat amplia la Zona d'Especial Protecció per a les Aus de s'Albufera de Mallorca, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15139074",
 		"rty": "Common"
 	},
 	{
@@ -914,9 +914,9 @@
 		"mt": "Zumbrell Għarbi",
 		"scn": "Falco concolor",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/SootyFalcon (LQ).jpg",
 		"img": "../images/birds/SootyFalcon.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Frank Vassen - Flickr: Sooty Falcon, Allée des Baobabs near Morondava, Madagascar, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=14461738",
 		"rty": "Common"
 	},
 	{
@@ -924,9 +924,9 @@
 		"mt": "Bies tad-Deżert",
 		"scn": "Falco biarmicus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/LannerFalcon (LQ).jpg",
 		"img": "../images/birds/LannerFalcon.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Bernard DUPONT from FRANCE - Lanner Falcon (Falco biarmicus) after a foot bath ..., CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=74758511",
 		"rty": "Common"
 	},
 	{
@@ -934,9 +934,9 @@
 		"mt": "Bies tal-Lvant",
 		"scn": "Falco cherrug",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/SakerFalcon (LQ).jpg",
 		"img": "../images/birds/SakerFalcon.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17035991",
 		"rty": "Common"
 	},
 	{
@@ -944,19 +944,19 @@
 		"mt": "Bies",
 		"scn": "Falco peregrinus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/PeregrineFalcon (LQ).jpg",
 		"img": "../images/birds/PeregrineFalcon.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102038195",
 		"rty": "Common"
 	},
 	{
 		"en": "Barbary Falcon",
 		"mt": "Bies ta' Barbarija",
-		"scn": "Falco pelegrinoides",
+		"scn": "Falco peregrinus pelegrinoides",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/BarbaryFalcon (LQ).jpg",
 		"img": "../images/birds/BarbaryFalcon.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Frank Vassen - Flickr: Barbary Falcon, \"El Rubicón\" plains, Lanzarote, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18526340",
 		"rty": "Common"
 	},
 	{
@@ -964,9 +964,9 @@
 		"mt": "Summiena",
 		"scn": "Coturnix coturnix",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CommonQuail (LQ).jpg",
 		"img": "../images/birds/CommonQuail.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By christoph_moning - https://www.inaturalist.org/photos/93239255, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=127002883",
 		"rty": "Common"
 	},
 	{
@@ -974,9 +974,9 @@
 		"mt": "Gallozz tax-Xitwa",
 		"scn": "Rallus aquaticus",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/WaterRail (LQ).jpg",
 		"img": "../images/birds/WaterRail.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=117594481",
 		"rty": "Common"
 	},
 	{
@@ -984,9 +984,9 @@
 		"mt": "Gallozz tat-Tikek",
 		"scn": "Porzana porzana",
 		"desc": "Insert description here",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/SpottedCrake (LQ).jpg",
 		"img": "../images/birds/SpottedCrake.jpg",
-		"alt": "boi ts tuff asl",
+		"alt": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79210",
 		"rty": "Common"
 	},
 	{
