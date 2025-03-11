@@ -357,14 +357,25 @@
   z-index: 2;
 }
 
+@keyframes grow {
+  to {
+    top: 0;
+    left: 0;
+    transform: scale(1);
+  }
+}
+
 #popup-content {
   padding: 15px;
   position: relative;
-  margin: 15px 65px 15px 15px;
-  background: var(--c5);
+  top: 15px;
+  left: 15px;
+  margin: 0 65px 15px 0;
+  background: var(--standard);
   width: 100%;
   height: fit-content;
   border-radius: 10px;
+  animation: grow 1s ease-in-out forwards;
 }
 
 #popup-details {
@@ -429,19 +440,6 @@
 
 #close-popup:hover {
   background: var(--c4);
-}
-
-#popup-image {
-  display: block;
-  margin: 0 auto 50px auto;
-  top: 10px;
-  right: 10px;
-  transition: ease-in-out 5s;
-  width: 100vw;
-  height: 100vh;
-  object-fit: contain;
-  object-position: center;
-  border-radius: 10px;
 }
 
 .hidden {

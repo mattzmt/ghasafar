@@ -11,6 +11,7 @@ const container = document.getElementById("items");
 const resultsCount = document.getElementById("results-count");
 const template = document.getElementById("template");
 const popup = document.getElementById("popup");
+const popupCont = document.getElementById("popup-content");
 const popupEn = document.getElementById("popup-en");
 const popupMt = document.getElementById("popup-mt");
 const popupScn = document.getElementById("popup-scn");
@@ -62,7 +63,9 @@ function showPopup(item) {
 	popupMt.textContent = item["mt"];
 	popupScn.textContent = item["scn"];
 	popupDesc.textContent = item["desc"];
-	popupImage.src = item["img"];
+	popupCont.style.left = `${e.clientX}px`;
+	popupCont.style.top = `${e.clientY}px`;
+	popupCont.style.transform = `scale(${0})`;
 	popup.style.display = "flex";
 	document.body.classList.add("no-scroll");
 }
