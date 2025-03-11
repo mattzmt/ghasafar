@@ -1,51 +1,57 @@
 main {
-    position: absolute;
-    top: 75px;
-    width: 100vw;
-    height: fit-content;
-    overflow: hidden;
+  position: absolute;
+  top: 75px;
+  width: 100vw;
+  height: fit-content;
+  overflow: hidden;
 }
 
 @keyframes fadeIn {
-    from {
-        transform: translateX(-200px);
-        opacity: 0;
-    }
-    to {
-        transform: translateX(0);
-        opacity: 1;
-    }
+  from {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
 }
 
 main>h1 {
-    font-weight: bold;
-    font-size: 35px;
-    margin: 10px 20px 0 20px;
-    animation: fadeIn 1s ease-out 0s forwards;
+  font-weight: bold;
+  font-size: 35px;
+  margin: 10px 20px 0 20px;
+  animation: fadeIn 1s ease-out 0s forwards;
 }
 
 main>h2 {
-    font-size: 20px;
-    margin: 10px 25px 0 25px;
-    animation: fadeIn 1s ease-out 0.5s forwards;
+  font-size: 20px;
+  margin: 10px 20px 0 20px;
+  animation: fadeIn 1s ease-out 0.5s forwards;
 }
 
 #wtd {
-    margin: 10px 20px 0 20px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-    gap: 50px;
-    width: 100vw;
-    height: fit-content;
+  margin: 10px 20px 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: 20px;
+  width: calc(100vw - 40px);
+  height: fit-content;
 }
 
 #wtd>a {
-    display: block;
-    min-width: 170px;
-    max-width: 320px;
-    width: 100%;
-    height: 120px;
-    padding: 15px;
-    border-radius: 10px;
-    background: var(--standard);
+  display: block;
+  min-width: 170px;
+  max-width: 320px;
+  width: 100%;
+  height: 120px;
+  padding: 15px;
+  border-radius: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  aspect-ratio: 1;
 }
