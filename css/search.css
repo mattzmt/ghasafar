@@ -2,7 +2,6 @@
 
 #items {
   position: relative;
-  top: 85px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -11,7 +10,7 @@
   width: calc(100vw - 60px);
   height: fit-content;
   gap: 50px;
-  margin: 0 30px 170px 30px;
+  margin: 30px 30px 170px 30px;
 }
 
 .item {
