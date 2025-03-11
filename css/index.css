@@ -42,7 +42,7 @@ main>h2 {
   height: fit-content;
 }
 
-#wtd-item {
+.wtd-item {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -59,7 +59,7 @@ main>h2 {
   overflow: hidden;
 }
 
-#wtd-item::before {
+.wtd-item::before {
     content: "";
     position: absolute;
     top: 0;
@@ -72,7 +72,7 @@ main>h2 {
     overflow: hidden;
   }
 
-#wtd-item>a {
+.wtd-item>a {
     display: block;
     width: fit-content;
     height: fit-content;
