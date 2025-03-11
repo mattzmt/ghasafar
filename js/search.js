@@ -63,9 +63,11 @@ function showPopup(item) {
 	popupMt.textContent = item["mt"];
 	popupScn.textContent = item["scn"];
 	popupDesc.textContent = item["desc"];
-	popupCont.style.left = `${e.clientX}px`;
-	popupCont.style.top = `${e.clientY}px`;
-	popupCont.style.transform = `scale(${0})`;
+	document.addEventListener("mousemove", (e) => {
+		popupCont.style.left = `${e.clientX}px`;
+		popupCont.style.top = `${e.clientY}px`;
+		popupCont.style.transform = `scale(${0})`;
+	}, { once: true });
 	popup.style.display = "flex";
 	document.body.classList.add("no-scroll");
 }

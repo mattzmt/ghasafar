@@ -359,8 +359,8 @@
 
 @keyframes grow {
   to {
-    top: 0;
-    left: 0;
+    top: 15px;
+    left: 15px;
     transform: scale(1);
   }
 }
