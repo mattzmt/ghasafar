@@ -98,7 +98,3 @@ main>h2 {
   font-size: 20px;
   font-weight: bold;
 }
-
-.wtd-item:hover {
-  transform: scale(1.1);
-}
