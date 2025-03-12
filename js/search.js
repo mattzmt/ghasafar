@@ -20,6 +20,8 @@ const popupImage = document.getElementById("popup-image");
 const searchInput = document.getElementById("search");
 const langFilters = document.querySelectorAll("#lang-filters button");
 const rarityFilters = document.querySelectorAll("#rty-filters button");
+const backToTop = document.getElementById("go-top");
+
 
 let data = [];
 
@@ -155,6 +157,10 @@ document.querySelector("#filter-toggle").addEventListener("click", function () {
         filters.classList.remove("undoClip");
         filters.classList.add("clip");
     }
+});
+
+backToTop.addEventListener("click", () => {
+	window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
 document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "en"));

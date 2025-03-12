@@ -248,9 +248,9 @@
   transform: scale(1);
 }
 
-/* ---------- SRT ---------- */
+/* ---------- BOTTOM BAR ---------- */
 
-#srt {
+#btm-bar {
   bottom: 0;
   left: 0;
   pointer-events: auto;
@@ -307,9 +307,9 @@
   outline: none;
   background: var(--standard);
   padding: 15px 0;
-  min-width: 75px;
+  min-width: 60px;
   height: 20px;
-  border-radius: 5px 10px 10px 5px;
+  border-radius: 5px;
   cursor: pointer;
 }
 
@@ -318,6 +318,28 @@
 }
 
 #filter-toggle>img {
+  height: 20px;
+  display: block;
+  margin: 0 auto;
+}
+
+#go-top {
+  transition: ease-in-out 0.25s;
+  user-select: none;
+  outline: none;
+  background: var(--standard);
+  padding: 15px 0;
+  min-width: 60px;
+  height: 20px;
+  border-radius: 5px 10px 10px 5px;
+  cursor: pointer;
+}
+
+#go-top:hover {
+  background: var(--standardHover);
+}
+
+#go-top>img {
   height: 20px;
   display: block;
   margin: 0 auto;

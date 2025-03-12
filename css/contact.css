@@ -13,10 +13,9 @@ main {
 
 main>a {
     transition: ease-in-out 0.25s;
-    width: 75%;
-    min-width: fit-content;
+    width: fit-content;
     height: fit-content;
-    padding: 10px;
+    padding: 15px 20px;
     background: var(--active);
     text-decoration: none;
     font-weight: bold;
