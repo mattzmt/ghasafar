@@ -1,22 +1,22 @@
 [
 	{
 		"en": "Red-Throated Loon",
-		"mt": "Bugħaddas tal-Maltemp",
+		"mt": "Bugħaddas tal-Mcreditemp",
 		"scn": "Gavia stellata",
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedThroatedLoon (LQ).jpg",
 		"img": "../images/birds/RedThroatedLoon.jpg",
-		"alt": "By David Karnå / Wikimedia Commons, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27003078",
+		"credit": "By David Karnå / Wikimedia Commons, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27003078",
 		"rty": "Common"
 	},
 	{
 		"en": "Black-Throated Loon",
-		"mt": "Bugħaddas Iswed tal-Maltemp",
+		"mt": "Bugħaddas Iswed tal-Mcreditemp",
 		"scn": "Gavia arctica",
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlackThroatedLoon (LQ).jpg",
 		"img": "../images/birds/BlackThroatedLoon.jpg",
-		"alt": "By Francesco Veronesi from Italy - Arctic ( Black-throated ) Loon ( Diver ) - Oulu - Finland 02, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39971078",
+		"credit": "By Francesco Veronesi from Italy - Arctic ( Black-throated ) Loon ( Diver ) - Oulu - Finland 02, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39971078",
 		"rty": "Common"
 	},
 	{
@@ -26,7 +26,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LittleGrebe (LQ).jpg",
 		"img": "../images/birds/LittleGrebe.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33505667",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33505667",
 		"rty": "Common"
 	},
 	{
@@ -36,7 +36,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreatCrestedGrebe (LQ).jpg",
 		"img": "../images/birds/GreatCrestedGrebe.jpg",
-		"alt": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=115633653",
+		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=115633653",
 		"rty": "Common"
 	},
 	{
@@ -46,7 +46,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlackNeckedGrebe (LQ).jpg",
 		"img": "../images/birds/BlackNeckedGrebe.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33521634",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33521634",
 		"rty": "Common"
 	},
 	{
@@ -56,7 +56,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/ScopolisShearwater (LQ).jpg",
 		"img": "../images/birds/ScopolisShearwater.jpg",
-		"alt": "By Telegro - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71425634",
+		"credit": "By Telegro - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71425634",
 		"rty": "Common"
 	},
 	{
@@ -66,7 +66,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/SootyShearwater (LQ).jpg",
 		"img": "../images/birds/SootyShearwater.jpg",
-		"alt": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19625171",
+		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19625171",
 		"rty": "Common"
 	},
 	{
@@ -76,7 +76,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/ManxShearwater (LQ).jpg",
 		"img": "../images/birds/ManxShearwater.jpg",
-		"alt": "By Ómar Runólfsson - Manx Shearwater - Puffinus puffinus - SkrofaUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=16473743",
+		"credit": "By Ómar Runólfsson - Manx Shearwater - Puffinus puffinus - SkrofaUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=16473743",
 		"rty": "Common"
 	},
 	{
@@ -86,7 +86,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/YelkouanShearwater (LQ).jpg",
 		"img": "../images/birds/YelkouanShearwater.jpg",
-		"alt": "By Julien Renoult - https://www.inaturalist.org/photos/140249998, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=124452180",
+		"credit": "By Julien Renoult - https://www.inaturalist.org/photos/140249998, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=124452180",
 		"rty": "Common"
 	},
 	{
@@ -96,7 +96,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BalearicShearwater (LQ).jpg",
 		"img": "../images/birds/BalearicShearwater.jpg",
-		"alt": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - http://www.caib.es/sacmicrofront/contenido.do?mkey=M08092209023624284631&lang=CA&cont=22021, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15076773",
+		"credit": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - http://www.caib.es/sacmicrofront/contenido.do?mkey=M08092209023624284631&lang=CA&cont=22021, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15076773",
 		"rty": "Common"
 	},
 	{
@@ -106,7 +106,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EuropeanStormPetrel (LQ).jpg",
 		"img": "../images/birds/EuropeanStormPetrel.jpg",
-		"alt": "By Richard Crossley - Richard Crossley, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25987162",
+		"credit": "By Richard Crossley - Richard Crossley, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25987162",
 		"rty": "Common"
 	},
 	{
@@ -116,7 +116,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LeachsStormPetrel (LQ).jpg",
 		"img": "../images/birds/LeachsStormPetrel.jpg",
-		"alt": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=140184275",
+		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=140184275",
 		"rty": "Common"
 	},
 	{
@@ -126,7 +126,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/NorthernGannet (LQ).jpg",
 		"img": "../images/birds/NorthernGannet.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=339367",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=339367",
 		"rty": "Common"
 	},
 	{
@@ -136,7 +136,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/PygmyCormorant (LQ).jpg",
 		"img": "../images/birds/PygmyCormorant.jpg",
-		"alt": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12693769",
+		"credit": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12693769",
 		"rty": "Common"
 	},
 	{
@@ -146,7 +146,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreatCormorant (LQ).jpg",
 		"img": "../images/birds/GreatCormorant.jpg",
-		"alt": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107560873",
+		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107560873",
 		"rty": "Common"
 	},
 	{
@@ -156,7 +156,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EuropeanShag (LQ).jpg",
 		"img": "../images/birds/EuropeanShag.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=15765052",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=15765052",
 		"rty": "Common"
 	},
 	{
@@ -166,7 +166,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreatWhitePelican (LQ).jpg",
 		"img": "../images/birds/GreatWhitePelican.jpg",
-		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66151818",
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66151818",
 		"rty": "Common"
 	},
 	{
@@ -176,7 +176,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianBittern (LQ).jpg",
 		"img": "../images/birds/EurasianBittern.jpg",
-		"alt": "By Jo Garbutt - Flickr: Bittern, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=33043685",
+		"credit": "By Jo Garbutt - Flickr: Bittern, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=33043685",
 		"rty": "Common"
 	},
 	{
@@ -186,7 +186,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LittleBittern (LQ).jpg",
 		"img": "../images/birds/LittleBittern.jpg",
-		"alt": "By Biser Todorov - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=40954200",
+		"credit": "By Biser Todorov - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=40954200",
 		"rty": "Common"
 	},
 	{
@@ -196,7 +196,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlackCrownedNightHeron (LQ).jpg",
 		"img": "../images/birds/BlackCrownedNightHeron.jpg",
-		"alt": "By ramidos - https://www.inaturalist.org/photos/371561572, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156941524",
+		"credit": "By ramidos - https://www.inaturalist.org/photos/371561572, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156941524",
 		"rty": "Common"
 	},
 	{
@@ -206,7 +206,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/SquaccoHeron (LQ).jpg",
 		"img": "../images/birds/SquaccoHeron.jpg",
-		"alt": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30117976",
+		"credit": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30117976",
 		"rty": "Common"
 	},
 	{
@@ -216,7 +216,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WesternCattleEgret (LQ).jpg",
 		"img": "../images/birds/WesternCattleEgret.jpg",
-		"alt": "By Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=20329327",
+		"credit": "By Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=20329327",
 		"rty": "Common"
 	},
 	{
@@ -226,7 +226,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WesternReefHeron (LQ).jpg",
 		"img": "../images/birds/WesternReefHeron.jpg",
-		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115914728",
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115914728",
 		"rty": "Common"
 	},
 	{
@@ -236,7 +236,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LittleEgret (LQ).jpg",
 		"img": "../images/birds/LittleEgret.jpg",
-		"alt": "By Prosthetic Head - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47024149",
+		"credit": "By Prosthetic Head - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47024149",
 		"rty": "Common"
 	},
 	{
@@ -246,7 +246,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreatEgret (LQ).jpg",
 		"img": "../images/birds/GreatEgret.jpg",
-		"alt": "By Chuck Homler (FocusOnWildlife.Me) - This photograph was taken with a Canon EOS R5 by u:Needsmoreritalin., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118398608",
+		"credit": "By Chuck Homler (FocusOnWildlife.Me) - This photograph was taken with a Canon EOS R5 by u:Needsmoreritalin., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118398608",
 		"rty": "Common"
 	},
 	{
@@ -256,7 +256,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreyHeron (LQ).jpg",
 		"img": "../images/birds/GreyHeron.jpg",
-		"alt": "By Savithri Singh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108480213",
+		"credit": "By Savithri Singh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108480213",
 		"rty": "Common"
 	},
 	{
@@ -266,7 +266,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/PurpleHeron (LQ).jpg",
 		"img": "../images/birds/PurpleHeron.jpg",
-		"alt": "By Steve Garvie from Dunfermline, Fife, Scotland - Purple Heron (Ardea purpurea)Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12124206",
+		"credit": "By Steve Garvie from Dunfermline, Fife, Scotland - Purple Heron (Ardea purpurea)Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12124206",
 		"rty": "Common"
 	},
 	{
@@ -276,7 +276,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlackStork (LQ).jpg",
 		"img": "../images/birds/BlackStork.jpg",
-		"alt": "By Lennart Tange from Eindhoven, The Netherlands - Black StorkUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25053802",
+		"credit": "By Lennart Tange from Eindhoven, The Netherlands - Black StorkUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25053802",
 		"rty": "Common"
 	},
 	{
@@ -286,7 +286,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WhiteStork (LQ).jpg",
 		"img": "../images/birds/WhiteStork.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20503096",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20503096",
 		"rty": "Common"
 	},
 	{
@@ -296,7 +296,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GlossyIbis (LQ).jpg",
 		"img": "../images/birds/GlossyIbis.jpg",
-		"alt": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084451",
+		"credit": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084451",
 		"rty": "Common"
 	},
 	{
@@ -306,7 +306,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianSpoonbill (LQ).jpg",
 		"img": "../images/birds/EurasianSpoonbill.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20213339",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20213339",
 		"rty": "Common"
 	},
 	{
@@ -316,7 +316,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreaterFlamingo (LQ).jpg",
 		"img": "../images/birds/GreaterFlamingo.jpg",
-		"alt": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084146",
+		"credit": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084146",
 		"rty": "Common"
 	},
 	{
@@ -326,7 +326,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/MuteSwan (LQ).jpg",
 		"img": "../images/birds/MuteSwan.jpg",
-		"alt": "By (c) Codrin Bucur, some rights reserved (CC BY) - https://www.inaturalist.org/photos/113908808, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156494355",
+		"credit": "By (c) Codrin Bucur, some rights reserved (CC BY) - https://www.inaturalist.org/photos/113908808, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156494355",
 		"rty": "Common"
 	},
 	{
@@ -336,7 +336,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BarnacleGoose (LQ).jpg",
 		"img": "../images/birds/BarnacleGoose.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32487518",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32487518",
 		"rty": "Common"
 	},
 	{
@@ -346,7 +346,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BarHeadedGoose (LQ).jpg",
 		"img": "../images/birds/BarHeadedGoose.jpg",
-		"alt": "By Diliff - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=1385514",
+		"credit": "By Diliff - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=1385514",
 		"rty": "Common"
 	},
 	{
@@ -356,7 +356,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/PinkFootedGoose (LQ).jpg",
 		"img": "../images/birds/PinkFootedGoose.jpg",
-		"alt": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150443788",
+		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150443788",
 		"rty": "Common"
 	},
 	{
@@ -366,7 +366,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/TaigaBeanGoose (LQ).jpg",
 		"img": "../images/birds/TaigaBeanGoose.jpg",
-		"alt": "By agulivanov - https://www.inaturalist.org/photos/431929438, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158346328",
+		"credit": "By agulivanov - https://www.inaturalist.org/photos/431929438, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158346328",
 		"rty": "Common"
 	},
 	{
@@ -376,7 +376,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreaterWhiteFrontedGoose (LQ).jpg",
 		"img": "../images/birds/GreaterWhiteFrontedGoose.jpg",
-		"alt": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125974338",
+		"credit": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125974338",
 		"rty": "Common"
 	},
 	{
@@ -386,7 +386,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreylagGoose (LQ).jpg",
 		"img": "../images/birds/GreylagGoose.jpg",
-		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1385555",
+		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1385555",
 		"rty": "Common"
 	},
 	{
@@ -396,7 +396,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedBreastedGoose (LQ).jpg",
 		"img": "../images/birds/RedBreastedGoose.jpg",
-		"alt": "By Dick Daniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11201743",
+		"credit": "By Dick Daniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11201743",
 		"rty": "Common"
 	},
 	{
@@ -406,7 +406,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EgyptianGoose (LQ).jpg",
 		"img": "../images/birds/EgyptianGoose.jpg",
-		"alt": "By Kimberly Reid - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93302493",
+		"credit": "By Kimberly Reid - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93302493",
 		"rty": "Common"
 	},
 	{
@@ -416,7 +416,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RuddyShelduck (LQ).jpg",
 		"img": "../images/birds/RuddyShelduck.jpg",
-		"alt": "By Mprasannak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56389475",
+		"credit": "By Mprasannak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56389475",
 		"rty": "Common"
 	},
 	{
@@ -426,7 +426,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonShelduck (LQ).jpg",
 		"img": "../images/birds/CommonShelduck.jpg",
-		"alt": "By Hobbyfotowiki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=84357543",
+		"credit": "By Hobbyfotowiki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=84357543",
 		"rty": "Common"
 	},
 	{
@@ -436,7 +436,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianWigeon (LQ).jpg",
 		"img": "../images/birds/EurasianWigeon.jpg",
-		"alt": "By Anas_penelope_kuribo.jpg: Kuribo from Osaka, Japanderivative work: Bogbumper (talk) - Anas_penelope_kuribo.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10662048",
+		"credit": "By Anas_penelope_kuribo.jpg: Kuribo from Osaka, Japanderivative work: Bogbumper (talk) - Anas_penelope_kuribo.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10662048",
 		"rty": "Common"
 	},
 	{
@@ -446,7 +446,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/FalcatedDuck (LQ).jpg",
 		"img": "../images/birds/FalcatedDuck.jpg",
-		"alt": "By Francis C. Franklin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35774036",
+		"credit": "By Francis C. Franklin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35774036",
 		"rty": "Common"
 	},
 	{
@@ -456,7 +456,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Gadwall (LQ).jpg",
 		"img": "../images/birds/Gadwall.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32475737",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32475737",
 		"rty": "Common"
 	},
 	{
@@ -464,9 +464,9 @@
 		"mt": "Sarsella tas-Siberja",
 		"scn": "Sibirionetta formosa",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/BaikalTeal (LQ).jpg",
-		"img": "../images/birds/BaikalTeal.jpg",
-		"alt": "By Formosa (Flickr) - https://www.flickr.com/photos/suneko/96282324/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3674844",
+		"smallImg": "../images/birds/Baikcrediteal (LQ).jpg",
+		"img": "../images/birds/Baikcrediteal.jpg",
+		"credit": "By Formosa (Flickr) - https://www.flickr.com/photos/suneko/96282324/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3674844",
 		"rty": "Common"
 	},
 	{
@@ -476,7 +476,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlueWingedTeal (LQ).jpg",
 		"img": "../images/birds/BlueWingedTeal.jpg",
-		"alt": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118451553",
+		"credit": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118451553",
 		"rty": "Common"
 	},
 	{
@@ -486,7 +486,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianTeal (LQ).jpg",
 		"img": "../images/birds/EurasianTeal.jpg",
-		"alt": "By Jeslu - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3976534",
+		"credit": "By Jeslu - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3976534",
 		"rty": "Common"
 	},
 	{
@@ -496,7 +496,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Mallard (LQ).jpg",
 		"img": "../images/birds/Mallard.jpg",
-		"alt": "By Chuck Homler d/b/a FocusOnwWildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147068702",
+		"credit": "By Chuck Homler d/b/a FocusOnwWildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147068702",
 		"rty": "Common"
 	},
 	{
@@ -506,7 +506,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/NorthernPintail (LQ).jpg",
 		"img": "../images/birds/NorthernPintail.jpg",
-		"alt": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=96574639",
+		"credit": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=96574639",
 		"rty": "Common"
 	},
 	{
@@ -516,7 +516,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Garganey (LQ).jpg",
 		"img": "../images/birds/Garganey.jpg",
-		"alt": "By YedidyaPopper - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146782645",
+		"credit": "By YedidyaPopper - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146782645",
 		"rty": "Common"
 	},
 	{
@@ -526,7 +526,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/NorthernShoveler (LQ).jpg",
 		"img": "../images/birds/NorthernShoveler.jpg",
-		"alt": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113067243",
+		"credit": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113067243",
 		"rty": "Common"
 	},
 	{
@@ -536,7 +536,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/MarbledDuck (LQ).jpg",
 		"img": "../images/birds/MarbledDuck.jpg",
-		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31658956",
+		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31658956",
 		"rty": "Common"
 	},
 	{
@@ -546,7 +546,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedCrestedPochard (LQ).jpg",
 		"img": "../images/birds/RedCrestedPochard.jpg",
-		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29868606",
+		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29868606",
 		"rty": "Common"
 	},
 	{
@@ -556,7 +556,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonPochard (LQ).jpg",
 		"img": "../images/birds/CommonPochard.jpg",
-		"alt": "By Tony Hisgett from Birmingham, UK - Pochard 2, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=20217242",
+		"credit": "By Tony Hisgett from Birmingham, UK - Pochard 2, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=20217242",
 		"rty": "Common"
 	},
 	{
@@ -566,7 +566,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/FerruginousDuck (LQ).jpg",
 		"img": "../images/birds/FerruginousDuck.jpg",
-		"alt": "By © Francis C. Franklin / CC-BY-SA-3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39134586",
+		"credit": "By © Francis C. Franklin / CC-BY-SA-3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39134586",
 		"rty": "Common"
 	},
 	{
@@ -576,7 +576,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/TuftedDuck (LQ).jpg",
 		"img": "../images/birds/TuftedDuck.jpg",
-		"alt": "By Charles J. Sharp - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31597261",
+		"credit": "By Charles J. Sharp - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31597261",
 		"rty": "Common"
 	},
 	{
@@ -586,7 +586,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreaterScaup (LQ).jpg",
 		"img": "../images/birds/GreaterScaup.jpg",
-		"alt": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103152819",
+		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103152819",
 		"rty": "Common"
 	},
 	{
@@ -596,7 +596,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonScoter (LQ).jpg",
 		"img": "../images/birds/CommonScoter.jpg",
-		"alt": "By Jason Thompson - Flickr: eurasian common scoter, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30890885",
+		"credit": "By Jason Thompson - Flickr: eurasian common scoter, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30890885",
 		"rty": "Common"
 	},
 	{
@@ -606,7 +606,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonGoldeneye (LQ).jpg",
 		"img": "../images/birds/CommonGoldeneye.jpg",
-		"alt": "By https://www.flickr.com/photos/sbern/ - https://www.flickr.com/photos/sbern/13471929904/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36391956",
+		"credit": "By https://www.flickr.com/photos/sbern/ - https://www.flickr.com/photos/sbern/13471929904/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36391956",
 		"rty": "Common"
 	},
 	{
@@ -616,7 +616,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Smew (LQ).jpg",
 		"img": "../images/birds/Smew.jpg",
-		"alt": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17526412",
+		"credit": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17526412",
 		"rty": "Common"
 	},
 	{
@@ -626,7 +626,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedBreastedMerganser (LQ).jpg",
 		"img": "../images/birds/RedBreastedMerganser.jpg",
-		"alt": "By Peter Massas - originally posted to Flickr as Drake Red-Breasted Merganser, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=8952811",
+		"credit": "By Peter Massas - originally posted to Flickr as Drake Red-Breasted Merganser, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=8952811",
 		"rty": "Common"
 	},
 	{
@@ -636,7 +636,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Goosander (LQ).jpg",
 		"img": "../images/birds/Goosander.jpg",
-		"alt": "By Tony Hisgett - originally posted to Flickr as Male Goosander, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9020932",
+		"credit": "By Tony Hisgett - originally posted to Flickr as Male Goosander, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9020932",
 		"rty": "Common"
 	},
 	{
@@ -646,7 +646,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WhiteHeadedDuck (LQ).jpg",
 		"img": "../images/birds/WhiteHeadedDuck.jpg",
-		"alt": "By MissTanyaLove - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18061334",
+		"credit": "By MissTanyaLove - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18061334",
 		"rty": "Common"
 	},
 	{
@@ -656,7 +656,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EuropeanHoneyBuzzard (LQ).jpg",
 		"img": "../images/birds/EuropeanHoneyBuzzard.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=54344804",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=54344804",
 		"rty": "Common"
 	},
 	{
@@ -666,7 +666,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlackKite (LQ).jpg",
 		"img": "../images/birds/BlackKite.jpg",
-		"alt": "By nubobo - トビ, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31054775",
+		"credit": "By nubobo - トビ, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31054775",
 		"rty": "Common"
 	},
 	{
@@ -676,7 +676,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedKite (LQ).jpg",
 		"img": "../images/birds/RedKite.jpg",
-		"alt": "By Etro0309 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103248580",
+		"credit": "By Etro0309 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103248580",
 		"rty": "Common"
 	},
 	{
@@ -686,7 +686,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WhiteTailedEagle (LQ).jpg",
 		"img": "../images/birds/WhiteTailedEagle.jpg",
-		"alt": "By Francesco Veronesi from Italy - White-tailed Sea-Eagle - Hokkaido - Japan_S4E9284, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39980862",
+		"credit": "By Francesco Veronesi from Italy - White-tailed Sea-Eagle - Hokkaido - Japan_S4E9284, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39980862",
 		"rty": "Common"
 	},
 	{
@@ -696,7 +696,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EgyptianVulture (LQ).jpg",
 		"img": "../images/birds/EgyptianVulture.jpg",
-		"alt": "By Koshy Koshy from Faridabad, Haryana, India - Egyptian Vulture, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=58812344",
+		"credit": "By Koshy Koshy from Faridabad, Haryana, India - Egyptian Vulture, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=58812344",
 		"rty": "Common"
 	},
 	{
@@ -706,7 +706,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianGriffonVulture (LQ).jpg",
 		"img": "../images/birds/EurasianGriffonVulture.jpg",
-		"alt": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29066936",
+		"credit": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29066936",
 		"rty": "Common"
 	},
 	{
@@ -716,7 +716,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/ShortToedSnakeEagle (LQ).jpg",
 		"img": "../images/birds/ShortToedSnakeEagle.jpg",
-		"alt": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27397932",
+		"credit": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27397932",
 		"rty": "Common"
 	},
 	{
@@ -726,7 +726,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WesternMarshHarrier (LQ).jpg",
 		"img": "../images/birds/WesternMarshHarrier.jpg",
-		"alt": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24255090",
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24255090",
 		"rty": "Common"
 	},
 	{
@@ -736,7 +736,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/HenHarrier (LQ).jpg",
 		"img": "../images/birds/HenHarrier.jpg",
-		"alt": "By Isle of Man Government - Hen Harrier, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30598443",
+		"credit": "By Isle of Man Government - Hen Harrier, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30598443",
 		"rty": "Common"
 	},
 	{
@@ -746,7 +746,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/PallidHarrier (LQ).jpg",
 		"img": "../images/birds/PallidHarrier.jpg",
-		"alt": "By (c) Anton Labachou, some rights reserved (CC BY) - https://www.inaturalist.org/photos/389994827, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=149454162",
+		"credit": "By (c) Anton Labachou, some rights reserved (CC BY) - https://www.inaturalist.org/photos/389994827, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=149454162",
 		"rty": "Common"
 	},
 	{
@@ -756,7 +756,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/MontagusHarrier (LQ).jpg",
 		"img": "../images/birds/MontagusHarrier.jpg",
-		"alt": "By Sumeetmoghe - This photograph was taken with a Canon EOS R5 by u:Sumeetmoghe., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148609285",
+		"credit": "By Sumeetmoghe - This photograph was taken with a Canon EOS R5 by u:Sumeetmoghe., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148609285",
 		"rty": "Common"
 	},
 	{
@@ -766,7 +766,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianSparrowhawk (LQ).jpg",
 		"img": "../images/birds/EurasianSparrowhawk.jpg",
-		"alt": "By Pierre Dalous - File:Accnis.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27184634",
+		"credit": "By Pierre Dalous - File:Accnis.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27184634",
 		"rty": "Common"
 	},
 	{
@@ -776,7 +776,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonBuzzard (LQ).jpg",
 		"img": "../images/birds/CommonBuzzard.jpg",
-		"alt": "By Arend from Oosterhout, Netherlands - BuizerdUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18758055",
+		"credit": "By Arend from Oosterhout, Netherlands - BuizerdUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18758055",
 		"rty": "Common"
 	},
 	{
@@ -786,7 +786,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LongLeggedBuzzard (LQ).jpg",
 		"img": "../images/birds/LongLeggedBuzzard.jpg",
-		"alt": "By Koshy Koshy from Faridabad, Haryana, India - Long-legged Buzzard, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=74742757",
+		"credit": "By Koshy Koshy from Faridabad, Haryana, India - Long-legged Buzzard, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=74742757",
 		"rty": "Common"
 	},
 	{
@@ -796,7 +796,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RoughLeggedBuzzard (LQ).jpg",
 		"img": "../images/birds/RoughLeggedBuzzard.jpg",
-		"alt": "By Walter Siegmund (talk) - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3408643",
+		"credit": "By Wcrediter Siegmund (talk) - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3408643",
 		"rty": "Common"
 	},
 	{
@@ -806,7 +806,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LesserSpottedEagle (LQ).jpg",
 		"img": "../images/birds/LesserSpottedEagle.jpg",
-		"alt": "By Wolbrum avner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52529734",
+		"credit": "By Wolbrum avner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52529734",
 		"rty": "Common"
 	},
 	{
@@ -816,7 +816,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GoldenEagle (LQ).jpg",
 		"img": "../images/birds/GoldenEagle.jpg",
-		"alt": "By J. Glover (AUTiger). Please attribute to J. Glover - Atlanta, Georgia in usage outside of Wikimedia Foundation Projects. - en.wikipedia, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=81854",
+		"credit": "By J. Glover (AUTiger). Please attribute to J. Glover - Atlanta, Georgia in usage outside of Wikimedia Foundation Projects. - en.wikipedia, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=81854",
 		"rty": "Common"
 	},
 	{
@@ -826,7 +826,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BootedEagle (LQ).jpg",
 		"img": "../images/birds/BootedEagle.jpg",
-		"alt": "By Johnsonwang6688 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108286268",
+		"credit": "By Johnsonwang6688 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108286268",
 		"rty": "Common"
 	},
 	{
@@ -836,7 +836,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Osprey (LQ).jpg",
 		"img": "../images/birds/Osprey.jpg",
-		"alt": "By Calistemon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155135815",
+		"credit": "By Calistemon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155135815",
 		"rty": "Common"
 	},
 	{
@@ -846,7 +846,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LesserKestrel (LQ).jpg",
 		"img": "../images/birds/LesserKestrel.jpg",
-		"alt": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98575880",
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98575880",
 		"rty": "Common"
 	},
 	{
@@ -856,7 +856,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonKestrel (LQ).jpg",
 		"img": "../images/birds/CommonKestrel.jpg",
-		"alt": "By Juan Emilio from Las Palmas de Gran Canaria, España - Cernicalo vulgar (Falco tinnunculus canariensis)♂Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12319027",
+		"credit": "By Juan Emilio from Las Palmas de Gran Canaria, España - Cernicalo vulgar (Falco tinnunculus canariensis)♂Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12319027",
 		"rty": "Common"
 	},
 	{
@@ -866,7 +866,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/AmericanKestrel (LQ).jpg",
 		"img": "../images/birds/AmericanKestrel.jpg",
-		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47655438",
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47655438",
 		"rty": "Common"
 	},
 	{
@@ -876,7 +876,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedFootedFalcon (LQ).jpg",
 		"img": "../images/birds/RedFootedFalcon.jpg",
-		"alt": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12694177",
+		"credit": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12694177",
 		"rty": "Common"
 	},
 	{
@@ -886,7 +886,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Merlin (LQ).jpg",
 		"img": "../images/birds/Merlin.jpg",
-		"alt": "By caroline legg - Merlin -Falco columbarius, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=145896940",
+		"credit": "By caroline legg - Merlin -Falco columbarius, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=145896940",
 		"rty": "Common"
 	},
 	{
@@ -896,7 +896,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianHobby (LQ).jpg",
 		"img": "../images/birds/EurasianHobby.jpg",
-		"alt": "By Shantanu Kuveskar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111860073",
+		"credit": "By Shantanu Kuveskar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111860073",
 		"rty": "Common"
 	},
 	{
@@ -906,7 +906,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EleonorasFalcon (LQ).jpg",
 		"img": "../images/birds/EleonorasFalcon.jpg",
-		"alt": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - La Conselleria de Medi Ambient i Mobilitat amplia la Zona d'Especial Protecció per a les Aus de s'Albufera de Mallorca, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15139074",
+		"credit": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - La Conselleria de Medi Ambient i Mobilitat amplia la Zona d'Especial Protecció per a les Aus de s'Albufera de Mallorca, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15139074",
 		"rty": "Common"
 	},
 	{
@@ -916,7 +916,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/SootyFalcon (LQ).jpg",
 		"img": "../images/birds/SootyFalcon.jpg",
-		"alt": "By Frank Vassen - Flickr: Sooty Falcon, Allée des Baobabs near Morondava, Madagascar, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=14461738",
+		"credit": "By Frank Vassen - Flickr: Sooty Falcon, Allée des Baobabs near Morondava, Madagascar, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=14461738",
 		"rty": "Common"
 	},
 	{
@@ -926,7 +926,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LannerFalcon (LQ).jpg",
 		"img": "../images/birds/LannerFalcon.jpg",
-		"alt": "By Bernard DUPONT from FRANCE - Lanner Falcon (Falco biarmicus) after a foot bath ..., CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=74758511",
+		"credit": "By Bernard DUPONT from FRANCE - Lanner Falcon (Falco biarmicus) after a foot bath ..., CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=74758511",
 		"rty": "Common"
 	},
 	{
@@ -936,7 +936,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/SakerFalcon (LQ).jpg",
 		"img": "../images/birds/SakerFalcon.jpg",
-		"alt": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17035991",
+		"credit": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17035991",
 		"rty": "Common"
 	},
 	{
@@ -946,7 +946,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/PeregrineFalcon (LQ).jpg",
 		"img": "../images/birds/PeregrineFalcon.jpg",
-		"alt": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102038195",
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102038195",
 		"rty": "Common"
 	},
 	{
@@ -956,7 +956,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BarbaryFalcon (LQ).jpg",
 		"img": "../images/birds/BarbaryFalcon.jpg",
-		"alt": "By Frank Vassen - Flickr: Barbary Falcon, \"El Rubicón\" plains, Lanzarote, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18526340",
+		"credit": "By Frank Vassen - Flickr: Barbary Falcon, \"El Rubicón\" plains, Lanzarote, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18526340",
 		"rty": "Common"
 	},
 	{
@@ -966,7 +966,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonQuail (LQ).jpg",
 		"img": "../images/birds/CommonQuail.jpg",
-		"alt": "By christoph_moning - https://www.inaturalist.org/photos/93239255, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=127002883",
+		"credit": "By christoph_moning - https://www.inaturalist.org/photos/93239255, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=127002883",
 		"rty": "Common"
 	},
 	{
@@ -976,7 +976,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WaterRail (LQ).jpg",
 		"img": "../images/birds/WaterRail.jpg",
-		"alt": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=117594481",
+		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=117594481",
 		"rty": "Common"
 	},
 	{
@@ -986,7 +986,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/SpottedCrake (LQ).jpg",
 		"img": "../images/birds/SpottedCrake.jpg",
-		"alt": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79210",
+		"credit": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79210",
 		"rty": "Common"
 	},
 	{
@@ -996,7 +996,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LittleCrake (LQ).jpg",
 		"img": "../images/birds/LittleCrake.jpg",
-		"alt": "By ΝΙΚΟΣ ΣΑΜΑΡΙΤΑΚΗΣ from CHANIA, GREECE - Porzana parva (50), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17764549",
+		"credit": "By ΝΙΚΟΣ ΣΑΜΑΡΙΤΑΚΗΣ from CHANIA, GREECE - Porzana parva (50), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17764549",
 		"rty": "Common"
 	},
 	{
@@ -1006,7 +1006,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BaillonsCrake (LQ).jpg",
 		"img": "../images/birds/BaillonsCrake.jpg",
-		"alt": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82409147",
+		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82409147",
 		"rty": "Common"
 	},
 	{
@@ -1016,7 +1016,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CornCrake (LQ).jpg",
 		"img": "../images/birds/CornCrake.jpg",
-		"alt": "By Alpo Roikola - Own work by the original uploader, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=132715911",
+		"credit": "By Alpo Roikola - Own work by the original uploader, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=132715911",
 		"rty": "Common"
 	},
 	{
@@ -1026,7 +1026,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/StripedCrake (LQ).jpg",
 		"img": "../images/birds/StripedCrake.jpg",
-		"alt": "By Dylan Vasapolli - Birding Ecotours - Kruger NP--Punda Maria Camp (general vicinity and night drive, please be more specific), Limpopo, South Africa - 26 Dec 2020",
+		"credit": "By Dylan Vasapolli - Birding Ecotours - Kruger NP--Punda Maria Camp (general vicinity and night drive, please be more specific), Limpopo, South Africa - 26 Dec 2020",
 		"rty": "Common"
 	},
 	{
@@ -1036,7 +1036,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonMoorhen (LQ).jpg",
 		"img": "../images/birds/CommonMoorhen.jpg",
-		"alt": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=113179548",
+		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=113179548",
 		"rty": "Common"
 	},
 	{
@@ -1046,7 +1046,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/AllensGallinule (LQ).jpg",
 		"img": "../images/birds/AllensGallinule.jpg",
-		"alt": "By Martien Brand from Mariënberg, The Netherlands - 37907 Afrikaans Purperhoen / Allen's Gallinule, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9732844",
+		"credit": "By Martien Brand from Mariënberg, The Netherlands - 37907 Afrikaans Purperhoen / Allen's Gallinule, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9732844",
 		"rty": "Common"
 	},
 	{
@@ -1056,7 +1056,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/AmericanPurpleGallinule.jpg",
 		"img": "../images/birds/AmericanPurpleGallinule.jpg",
-		"alt": "By JeffreyGammon - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158156488",
+		"credit": "By JeffreyGammon - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158156488",
 		"rty": "Common"
 	},
 	{
@@ -1066,7 +1066,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/WesternSwamphen (LQ).jpg",
 		"img": "../images/birds/WesternSwamphen.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62554717",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62554717",
 		"rty": "Common"
 	},
 	{
@@ -1076,7 +1076,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianCoot (LQ).jpg",
 		"img": "../images/birds/EurasianCoot.jpg",
-		"alt": "By Dion Art - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131907877",
+		"credit": "By Dion Art - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131907877",
 		"rty": "Common"
 	},
 	{
@@ -1086,7 +1086,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedKnobbedCoot (LQ).jpg",
 		"img": "../images/birds/RedKnobbedCoot.jpg",
-		"alt": "By shi zhao - originally posted to Flickr as DSC_2547, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=9873981",
+		"credit": "By shi zhao - originally posted to Flickr as DSC_2547, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=9873981",
 		"rty": "Common"
 	},
 	{
@@ -1096,7 +1096,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/CommonCrane (LQ).jpg",
 		"img": "../images/birds/CommonCrane.jpg",
-		"alt": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28210248",
+		"credit": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28210248",
 		"rty": "Common"
 	},
 	{
@@ -1106,7 +1106,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/DemoiselleCrane (LQ).jpg",
 		"img": "../images/birds/DemoiselleCrane.jpg",
-		"alt": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31029537",
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31029537",
 		"rty": "Common"
 	},
 	{
@@ -1116,7 +1116,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/LittleBustard (LQ).jpg",
 		"img": "../images/birds/LittleBustard.jpg",
-		"alt": "By Francesco Veronesi, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=72739189",
+		"credit": "By Francesco Veronesi, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=72739189",
 		"rty": "Common"
 	},
 	{
@@ -1126,7 +1126,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/HoubaraBustard (LQ).jpg",
 		"img": "../images/birds/HoubaraBustard.jpg",
-		"alt": "By Jimfbleak - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5116662",
+		"credit": "By Jimfbleak - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5116662",
 		"rty": "Common"
 	},
 	{
@@ -1136,7 +1136,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/GreatBustard (LQ).jpg",
 		"img": "../images/birds/GreatBustard.jpg",
-		"alt": "By zh:User:Snowyowls - Photo taken at Beijing Zoo, and uploaded to zh.wikipedia 23:08, 27. Jan 2005 2005 by zh:User:Snowyowls. Moved to the Commons by User:ONAR. Link to original file zh:Image:Dabao.jpg, CC BY-SA 1.0, https://commons.wikimedia.org/w/index.php?curid=657696",
+		"credit": "By zh:User:Snowyowls - Photo taken at Beijing Zoo, and uploaded to zh.wikipedia 23:08, 27. Jan 2005 2005 by zh:User:Snowyowls. Moved to the Commons by User:ONAR. Link to original file zh:Image:Dabao.jpg, CC BY-SA 1.0, https://commons.wikimedia.org/w/index.php?curid=657696",
 		"rty": "Common"
 	},
 	{
@@ -1146,7 +1146,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianOystercatcher (LQ).jpg",
 		"img": "../images/birds/EurasianOystercatcher.jpg",
-		"alt": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33722173",
+		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33722173",
 		"rty": "Common"
 	},
 	{
@@ -1156,7 +1156,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlackWingedStilt (LQ).jpg",
 		"img": "../images/birds/BlackWingedStilt.jpg",
-		"alt": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37066105",
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37066105",
 		"rty": "Common"
 	},
 	{
@@ -1166,7 +1166,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/PiedAvocet (LQ).jpg",
 		"img": "../images/birds/PiedAvocet.jpg",
-		"alt": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=10610115",
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=10610115",
 		"rty": "Common"
 	},
 	{
@@ -1176,17 +1176,17 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/EurasianStoneCurlew (LQ).jpg",
 		"img": "../images/birds/EurasianStoneCurlew.jpg",
-		"alt": "By Frank Vassen from Brussels, Belgium - Eurasian Stone-curlew (Eastern Canary Island sub-species), Tao, Lanzarote, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25498784",
+		"credit": "By Frank Vassen from Brussels, Belgium - Eurasian Stone-curlew (Eastern Canary Island sub-species), Tao, Lanzarote, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25498784",
 		"rty": "Common"
 	},
 	{
-		"en": "Cream Coloured Courser",
+		"en": "Cream-Coloured Courser",
 		"mt": "Nankina",
 		"scn": "Cursorius cursor",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CreamColouredCourser (LQ).jpg",
 		"img": "../images/birds/CreamColouredCourser.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By Mohamed Sabry Photographer - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133184655",
 		"rty": "Common"
 	},
 	{
@@ -1194,9 +1194,9 @@
 		"mt": "Perniċjotta",
 		"scn": "Glareola pratincola",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CollaredPratincole (LQ).jpg",
 		"img": "../images/birds/CollaredPratincole.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By Steve Garvie (rainbirder) - https://www.flickr.com/photos/rainbirder/14712594973/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35853456",
 		"rty": "Common"
 	},
 	{
@@ -1204,59 +1204,59 @@
 		"mt": "Monakella",
 		"scn": "Charadrius dubius",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/LittleRingedPlover (LQ).jpg",
 		"img": "../images/birds/LittleRingedPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By Stephan Sprinz - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=139992181",
 		"rty": "Common"
 	},
 	{
-		"en": "Ringed Plover",
+		"en": "Common Ringed Plover",
 		"mt": "Monakella Prima",
 		"scn": "Charadrius hiaticula",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/RingedPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"smallImg": "../images/birds/CommonRingedPlover (LQ).jpg",
+		"img": "../images/birds/CommonRingedPlover.jpg",
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134506685",
 		"rty": "Common"
 	},
 	{
 		"en": "Kentish Plover",
 		"mt": "Monakella Zgħira",
-		"scn": "Charadrius alexandrinus",
+		"scn": "Anarhynchus alexandrinus",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/KentishPlover (LQ).jpg",
 		"img": "../images/birds/KentishPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By Original: Davidvraju, edit: MPF - File:Kentish Plover David Raju.jpg, cropped, colour adjusted, & flipped left-right for taxobox use, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69423533",
 		"rty": "Common"
 	},
 	{
 		"en": "Greater Sand Plover",
 		"mt": "Birwina tal-Lvant",
-		"scn": "Charadrius leschenaultii",
+		"scn": "Anarhynchus leschenaultii",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreaterSandPlover (LQ).jpg",
 		"img": "../images/birds/GreaterSandPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150849518",
 		"rty": "Common"
 	},
 	{
 		"en": "Caspian Plover",
 		"mt": "Birwina tal-Asja",
-		"scn": "Charadrius asiaticus",
+		"scn": "Anarhynchus asiaticus",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/CaspianPlover (LQ).jpg",
 		"img": "../images/birds/CaspianPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By Kudaibergen Amirekul - https://www.inaturalist.org/photos/206737679, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125969795",
 		"rty": "Common"
 	},
 	{
-		"en": "Dotterel",
+		"en": "Eurasian Dotterel",
 		"mt": "Birwina",
 		"scn": "Charadrius morinellus",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Dotterel.jpg",
-		"alt": "boi ts tuff asl",
+		"smallImg": "../images/birds/EurasianDotterel (LQ).jpg",
+		"img": "../images/birds/EurasianDotterel.jpg",
+		"credit": "CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=786138",
 		"rty": "Common"
 	},
 	{
@@ -1264,9 +1264,9 @@
 		"mt": "Pluviera Zgħira",
 		"scn": "Pluvialis fulva",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/PacificGoldenPlover (LQ).jpg",
 		"img": "../images/birds/PacificGoldenPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By Bering Land Bridge National Preserve - Pacific Golden PloverUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=21870271",
 		"rty": "Common"
 	},
 	{
@@ -1274,9 +1274,9 @@
 		"mt": "Pluviera",
 		"scn": "Pluvialis apricaria",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/EuropeanGoldenPlover (LQ).jpg",
 		"img": "../images/birds/EuropeanGoldenPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "By Andrej Chudý from Slovakia - Kulík zlatý (Pluvialis apricaria)_a, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39987810",
 		"rty": "Common"
 	},
 	{
@@ -1284,9 +1284,9 @@
 		"mt": "Pluviera Griża",
 		"scn": "Pluvialis squatarola",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/GreyPlover.jpg",
-		"alt": "boi ts tuff asl",
+		"smallImg": "../images/birds/GreyPlover (LQ).jpg",
+		"img": "../images/birds/GreyPlover.png",
+		"credit": "By Chuck Homler, Focus On Wildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151390421",
 		"rty": "Common"
 	},
 	{
@@ -1296,7 +1296,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Spur-WingedLapwing.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1306,7 +1306,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SociableLapwing.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1316,7 +1316,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/White-TailedLapwing.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1326,7 +1326,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/NorthernLapwing.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1336,7 +1336,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RedKnot.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1346,7 +1346,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Sanderling.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1356,7 +1356,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleStint.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1366,7 +1366,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TemmincksStint.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1376,7 +1376,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PectoralSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1386,7 +1386,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CurlewSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1396,7 +1396,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PurpleSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1406,7 +1406,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Dunlin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1416,7 +1416,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Broad-billedSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1426,7 +1426,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Buff-BreastedSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1436,7 +1436,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Ruff.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1446,7 +1446,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/JackSnipe.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1456,7 +1456,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonSnipe.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1466,7 +1466,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatSnipe.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1476,7 +1476,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Woodcock.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1486,7 +1486,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-tailedGodwit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1496,7 +1496,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bar-TailedGodwit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1506,7 +1506,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Whimbrel.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1516,7 +1516,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SlenderBilledCurlew.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1526,7 +1526,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EurasianCurlew.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1536,7 +1536,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/UplandSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1546,7 +1546,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpottedRedshank.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1556,7 +1556,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRedshank.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1566,7 +1566,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MarshSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1576,7 +1576,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Greenshank.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1586,7 +1586,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreenSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1596,7 +1596,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1606,7 +1606,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TerekSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1616,7 +1616,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonSandpiper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1626,7 +1626,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Turnstone.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1636,7 +1636,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-NeckedPhalarope.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1646,7 +1646,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreyPhalarope.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1656,7 +1656,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PomarineSkua.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1666,7 +1666,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ArcticSkua.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1676,7 +1676,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Long-TailedSkua.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1686,7 +1686,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatSkua.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1696,7 +1696,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatBlack-HeadedGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1706,7 +1706,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MediterraneanGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1716,7 +1716,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1726,7 +1726,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-headedGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1736,7 +1736,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Slender-billedGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1746,7 +1746,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AudouinsGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1756,7 +1756,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1766,7 +1766,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserBlack-BackedGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1776,7 +1776,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HerringGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1786,7 +1786,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/YellowLeggedGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1796,7 +1796,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CaspianGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1806,7 +1806,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GlaucousGull.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1816,7 +1816,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Kittiwake.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1826,7 +1826,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Gull-BilledTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1836,7 +1836,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CaspianTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1846,7 +1846,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SandwichTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1856,7 +1856,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RoseateTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1866,7 +1866,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1876,7 +1876,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ArcticTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1886,7 +1886,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1896,7 +1896,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiskeredTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1906,7 +1906,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1916,7 +1916,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/White-WingedBlackTern.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1926,7 +1926,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonGuillemot.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1936,7 +1936,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Razorbill.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1946,7 +1946,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonMurre.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1956,7 +1956,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleAuk.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1966,7 +1966,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Puffin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1976,7 +1976,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-BelliedSandgrouse.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1986,7 +1986,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Pin-TailedSandgrouse.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -1996,7 +1996,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockDove.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2006,7 +2006,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/StockDove.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2016,7 +2016,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodPigeon.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2026,7 +2026,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CollaredDove.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2036,7 +2036,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TurtleDove.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2046,7 +2046,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LaughingDove.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2056,7 +2056,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatSpottedCuckoo.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2066,7 +2066,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonCuckoo.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2076,7 +2076,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BarnOwl.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2086,7 +2086,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ScopsOwl.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2096,7 +2096,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleOwl.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2106,7 +2106,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LongEaredOwl.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2116,7 +2116,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ShortEaredOwl.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2126,7 +2126,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EuropeanNightjar.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2136,7 +2136,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-NeckedNightjar.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2146,7 +2146,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EgyptianNightjar.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2156,7 +2156,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/White-ThroatedNeedletailedSwift.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2166,7 +2166,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AlpineSwift.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2176,7 +2176,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonSwift.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2186,7 +2186,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PallidSwift.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2196,7 +2196,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteRumpedSwift.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2206,7 +2206,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleSwift.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2216,7 +2216,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Kingfisher.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2226,7 +2226,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bee-Eater.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2236,7 +2236,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlueCheekedBeeEater.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2246,7 +2246,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Roller.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2256,7 +2256,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Hoopoe.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2266,7 +2266,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Wryneck.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2276,7 +2276,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreenWoodpecker.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2286,7 +2286,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bar-tailedLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2296,7 +2296,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HoopoeLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2306,7 +2306,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DupontsLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2316,7 +2316,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CalandraLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2326,7 +2326,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteWingedLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2336,7 +2336,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2346,7 +2346,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Short-toedLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2356,7 +2356,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserShort-toedLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2366,7 +2366,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CrestedLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2376,7 +2376,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2386,7 +2386,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SkyLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2396,7 +2396,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ShoreLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2406,7 +2406,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TemincksLark.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2416,7 +2416,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SandMartin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2426,7 +2426,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CragMartin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2436,7 +2436,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BarnSwallow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2446,7 +2446,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-rumpedSwallow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2456,7 +2456,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HouseMartin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2466,7 +2466,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RichardsPipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2476,7 +2476,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TawnyPipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2486,7 +2486,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Olive-BackedPipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2496,7 +2496,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TreePipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2506,7 +2506,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MeadowPipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2516,7 +2516,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-Throatedpipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2526,7 +2526,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WaterPipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2536,7 +2536,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockPipit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2546,7 +2546,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/YellowWagtail.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2556,7 +2556,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreyWagtail.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2566,7 +2566,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteWagtail.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2576,7 +2576,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Waxwing.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2586,7 +2586,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Dipper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2596,7 +2596,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Wren.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2606,7 +2606,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Dunnock.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2616,7 +2616,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AlpineAccentor.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2626,7 +2626,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RufousBushChat.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2636,7 +2636,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Robin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2646,7 +2646,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonNightingale.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2656,7 +2656,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ThrushNightingale.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2666,7 +2666,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SiberianRubythroat.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2676,7 +2676,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bluethroat.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2686,7 +2686,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackRedstart.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2696,7 +2696,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRedstart.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2706,7 +2706,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MoussiersRedstart.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2716,7 +2716,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Whinchat.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2726,7 +2726,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonStonechat.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2736,7 +2736,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/NorthernWheatear.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2746,7 +2746,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/IsabellineWheatear.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2756,7 +2756,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PiedWheatear.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2766,7 +2766,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-EaredWheatear.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2776,7 +2776,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DesertWheatear.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2786,7 +2786,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteCrownedBlackWheatear.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2796,7 +2796,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackWheatear.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2806,7 +2806,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockThrush.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2816,7 +2816,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlueRockThrush.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2826,7 +2826,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SiberianTrush.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2836,7 +2836,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RingOuzel.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2846,7 +2846,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Blackbird.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2856,7 +2856,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EyebrowedTrush.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2866,7 +2866,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Fieldfare.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2876,7 +2876,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SongThrush.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2886,7 +2886,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Redwing.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2896,7 +2896,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MistleTrush.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2906,7 +2906,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CettisWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2916,7 +2916,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ZittingCisticola.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2926,7 +2926,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GrasshopperWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2936,7 +2936,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RiverWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2946,7 +2946,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SavisWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2956,7 +2956,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MoustachedWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2966,7 +2966,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AquaticWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2976,7 +2976,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SedgeWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2986,7 +2986,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PaddyfieldWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -2996,7 +2996,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlythsReedWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3006,7 +3006,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MarshWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3016,7 +3016,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ReedWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3026,7 +3026,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatReedWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3036,7 +3036,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EasternOlivaceousWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3046,7 +3046,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternOlivaceousWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3056,7 +3056,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/IcterineWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3066,7 +3066,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MelodiousWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3076,7 +3076,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Blackcap.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3086,7 +3086,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GardenWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3096,7 +3096,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BarredWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3106,7 +3106,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserWhitethroat.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3116,7 +3116,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternOrpheanWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3126,7 +3126,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EasternOrpheanWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3136,7 +3136,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AfricanDesertWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3146,7 +3146,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonWhitethroat.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3156,7 +3156,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DartfordWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3166,7 +3166,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MarmorasWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3176,7 +3176,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TristramsWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3186,7 +3186,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpectacledWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3196,7 +3196,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SubalpineWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3206,7 +3206,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SardinianWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3216,7 +3216,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RuppellsWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3226,7 +3226,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ArcticWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3236,7 +3236,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreenishWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3246,7 +3246,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PallassLeafWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3256,7 +3256,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/YellowBrowedWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3266,7 +3266,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RaddesWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3276,7 +3276,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DuskyWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3286,7 +3286,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternBonellisWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3296,7 +3296,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EasternBonellisWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3306,7 +3306,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3316,7 +3316,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonChiffchaff.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3326,7 +3326,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/IberianChiffchaff.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3336,7 +3336,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WillowWarbler.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3346,7 +3346,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Goldcrest.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3356,7 +3356,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Firecrest.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3366,7 +3366,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpottedFlycatcher.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3376,7 +3376,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-breastedFlycatcher.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3386,7 +3386,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Semi-collaredFlycatcher.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3396,7 +3396,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CollaredFlycatcher.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3406,7 +3406,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PiedFlycatcher.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3416,7 +3416,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlueTit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3426,7 +3426,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatTit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3436,7 +3436,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Wallcreeper.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3446,7 +3446,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PendulineTit.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3456,7 +3456,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GoldenOriole.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3466,7 +3466,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodchatShrike.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3476,7 +3476,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-backedShrike.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3486,7 +3486,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserGreyShrike.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3496,7 +3496,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatGreyShrike.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3506,7 +3506,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SouthernGreyShrike.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3516,7 +3516,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MaskedShrike.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3526,7 +3526,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EurasianJay.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3536,7 +3536,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternJackdaw.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3546,7 +3546,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Rook.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3556,7 +3556,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CarrionCrow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3566,7 +3566,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HoodedCrow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3576,7 +3576,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRaven.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3586,7 +3586,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonStarling.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3596,7 +3596,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpotlessStarling.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3606,7 +3606,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Rose-ColouredStarling.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3616,7 +3616,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpanishSparrow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3626,7 +3626,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TreeSparrow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3636,7 +3636,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockSparrow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3646,7 +3646,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Snowfinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3656,7 +3656,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-eyedVireo.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3666,7 +3666,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Chaffinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3676,7 +3676,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Brambling.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3686,7 +3686,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EuropeanSerin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3696,7 +3696,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Greenfinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3706,7 +3706,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Goldfinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3716,7 +3716,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Siskin.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3726,7 +3726,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Linnet.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3736,7 +3736,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserRedpoll.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3746,7 +3746,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRedpoll.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3756,7 +3756,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonCrossbill.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3766,7 +3766,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TrumpeterFinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3776,7 +3776,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRosefinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3786,7 +3786,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bullfinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3796,7 +3796,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Hawfinch.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3806,7 +3806,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/White-ThroatedSparrow.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3816,7 +3816,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LaplandBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3826,7 +3826,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SnowBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3836,7 +3836,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PineBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3846,7 +3846,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Yellohammer.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3856,7 +3856,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CirlBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3866,7 +3866,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3876,7 +3876,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/OrtolanBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3886,7 +3886,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CretzschmarsBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3896,7 +3896,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RusticBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3906,7 +3906,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3916,7 +3916,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ChestnutBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3926,7 +3926,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Yellow-BreastedBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3936,7 +3936,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ReedBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3946,7 +3946,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-HeadedBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3956,7 +3956,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CornBunting.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3966,7 +3966,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Rose-BreastedGrosbeak.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3976,7 +3976,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3986,7 +3986,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/.jpg",
-		"alt": "boi ts tuff asl",
+		"credit": "No image to credit",
 		"rty": "Common"
 	},
 	{
@@ -3996,7 +3996,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/Budgerigar (LQ).jpg",
 		"img": "../images/birds/Budgerigar.jpg",
-		"alt": "https://en.wikipedia.org/wiki/File%3AMelopsittacus_undulatus_%2824082227505%29.jpg",
+		"credit": "https://en.wikipedia.org/wiki/File%3AMelopsittacus_undulatus_%2824082227505%29.jpg",
 		"rty": "Common"
 	}
 ]
