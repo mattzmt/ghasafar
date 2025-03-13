@@ -36,8 +36,8 @@ main>h2 {
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  flex-wrap: nowrap;
-  gap: 40px;
+  flex-wrap: wrap;
+  gap: 50px;
   width: calc(100vw - 40px);
   height: fit-content;
 }

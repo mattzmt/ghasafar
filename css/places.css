@@ -1,0 +1,68 @@
+main {
+    position: absolute;
+    top: 75px;
+    width: 100vw;
+    height: fit-content;
+    overflow: hidden;
+}
+
+#places {
+    margin: 0 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.place {
+    flex: 1;
+    min-width: 250px;
+    width: 100%;
+    max-width: 500px;
+    aspect-ratio: 2/1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.place>h1 {
+    margin: 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.place>h2 {
+    margin: 4px 0 0 0;
+    color: var(--subText);
+    font-size: 16px;
+}
+
+.more {
+    transition: ease-in-out 0.25s;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: fit-content;
+    height: 20px;
+    background: rgba(0, 0, 0, 0.4);
+    font-size: 17px;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 8px 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+  
+.more:hover {
+    background: rgba(0, 0, 0, 0.65);
+}
+  
+.more>img {
+    margin: 2px 5px 0 5px;
+    height: 15px;
+}
