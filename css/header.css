@@ -73,7 +73,7 @@ header>#logo {
   background: rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(5px);
   padding: 15px;
-  width: 60px;
+  width: 75px;
   min-width: 20px;
   height: 20px;
   border-radius: 10px;
@@ -125,9 +125,9 @@ nav {
   position: fixed;
   top: 65px;
   left: 10px;
-  width: 60px;
-  height: 100px;
-  padding: 5px 15px;
+  width: 75px;
+  height: 140px;
+  padding: 10px 15px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -142,8 +142,11 @@ nav {
 
 nav>a {
   transition: ease-in-out 0.25s;
-  width: fit-content;
-  height: 30px;
+  width: 65px;
+  height: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.1);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -151,7 +154,6 @@ nav>a {
   color: var(--subText);
   text-decoration: none;
   font-size: 15px;
-  font-weight: bold;
 }
 
 nav>a:hover {
@@ -160,7 +162,7 @@ nav>a:hover {
 
 #selected {
   color: #fff;
-  text-decoration: underline;
+  font-weight: bold;
 }
 
 .warning {
