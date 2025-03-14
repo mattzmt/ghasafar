@@ -135,13 +135,21 @@
 /* ---------- FILTERS ---------- */
 
 @keyframes clip {
+  from {
+    clip-path: inset(0);
+    transform: translateY(0);
+  }
   to {
     clip-path: inset(0 0 100% 0);
     transform: translateY(145px);
-  } 
+  }
 }
 
 @keyframes undoClip {
+  from {
+    clip-path: inset(0 0 100% 0);
+    transform: translateY(145px);
+  }
   to {
     clip-path: inset(0);
     transform: translateY(0);
