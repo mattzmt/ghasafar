@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Name from JSON",
-		"desc": "Desc from JSON"
+		"desc": "Desc from JSON",
+		"smallImg": "../images/test.png",
+		"img": "../images/test.png"
 	}
 ]

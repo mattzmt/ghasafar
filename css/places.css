@@ -18,6 +18,8 @@ main {
 
 .place {
     flex: 1;
+    display: block;
+    position: relative;
     min-width: 220px;
     width: 100%;
     max-width: 470px;
