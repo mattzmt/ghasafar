@@ -30,6 +30,38 @@ main {
     background-size: cover;
 }
 
+.place::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+    border-radius: inherit;
+    z-index: 0;
+    overflow: hidden;
+}
+
+.place::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    filter: blur(10px);
+    z-index: -1;
+    opacity: 0.5;
+    border-radius: inherit;
+}
+
+.place>* {
+    position: relative;
+    z-index: 0;
+}
+
 .place>h1 {
     margin: 0;
     font-size: 25px;
@@ -47,7 +79,7 @@ main {
     display: inline-block;
     top: 0;
     left: 0;
-    margin: auto 0;
+    margin: auto 2px auto 0;
     height: 14px;
     opacity: 0.65;
 }

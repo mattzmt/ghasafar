@@ -96,14 +96,14 @@ header>#logo {
   }
   to {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-110px);
+    transform: translateY(-160px);
   } 
 }
   
 @keyframes expand {
   from {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-110px);
+    transform: translateY(-160px);
   }
   to {
     clip-path: inset(0);

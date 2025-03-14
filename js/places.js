@@ -7,7 +7,6 @@ let data = [];
 fetch('../js/places.json')
 	.then(response => response.json())
 	.then(jsonData => {
-		console.log("Loaded data:", jsonData);
 		data = jsonData;
 		displayItems(data);
 	})
