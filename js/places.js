@@ -1,21 +1,24 @@
-const container=document.getElementById(places);
+const root = document.documentElement;
+const container = document.getElementById("places");
+const template = document.getElementById("template");
+const backToTop = document.getElementById("go-top");
 
 let data = [];
 
-fetch('../js/birds.json')
+fetch('../js/places.json')
 	.then(response => response.json())
 	.then(jsonData => {
 		data = jsonData;
-		displayItems(data);
+		displayplaces(data);
 		updateTagColors();
 	})
 	.catch(error => console.error("Error loading data:", error));
 
-function displayItems(items) {
+function displayplaces(places) {
 	container.innerHTML = "";
 	const fragment = document.createDocumentFragment();
 
-	items.forEach(item => {
+	places.forEach(item => {
 		const clone = template.content.cloneNode(true);
 		clone.querySelector(".name").textContent = item["name"];
 		clone.querySelector(".desc").textContent = item["desc"];
@@ -25,6 +28,10 @@ function displayItems(items) {
 	});
 	container.appendChild(fragment);
 
-	const resultText = items.length === 1 ? "1" : `${items.length}`;
+	const resultText = places.length === 1 ? "1" : `${places.length}`;
 	resultsCount.textContent = resultText;
 }
+
+backToTop.addEventListener("click", () => {
+	window.scrollTo({ top: 0, behavior: "smooth" });
+});

@@ -2,11 +2,6 @@ let currentLanguageFilters = new Set(["en", "mt", "scn"]);
 let currentRarityFilters = new Set(["Common", "Uncommon", "Rare"]);
 
 const root = document.documentElement;
-const c1 = getComputedStyle(root).getPropertyValue('--c1');
-const c2 = getComputedStyle(root).getPropertyValue('--c2');
-const c3 = getComputedStyle(root).getPropertyValue('--c3');
-const c4 = getComputedStyle(root).getPropertyValue('--c4');
-const c5 = getComputedStyle(root).getPropertyValue('--c5');
 const container = document.getElementById("items");
 const resultsCount = document.getElementById("results-count");
 const template = document.getElementById("template");
