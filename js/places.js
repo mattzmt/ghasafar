@@ -1,20 +1,19 @@
 const root = document.documentElement;
 const container = document.getElementById("places");
 const template = document.getElementById("template");
-const backToTop = document.getElementById("go-top");
 
 let data = [];
 
 fetch('../js/places.json')
 	.then(response => response.json())
 	.then(jsonData => {
+		console.log("Loaded data:", jsonData);
 		data = jsonData;
-		displayplaces(data);
-		updateTagColors();
+		displayItems(data);
 	})
 	.catch(error => console.error("Error loading data:", error));
 
-function displayplaces(places) {
+function displayItems(places) {
 	container.innerHTML = "";
 	const fragment = document.createDocumentFragment();
 
@@ -27,11 +26,4 @@ function displayplaces(places) {
 		fragment.appendChild(clone);
 	});
 	container.appendChild(fragment);
-
-	const resultText = places.length === 1 ? "1" : `${places.length}`;
-	resultsCount.textContent = resultText;
 }
-
-backToTop.addEventListener("click", () => {
-	window.scrollTo({ top: 0, behavior: "smooth" });
-});
