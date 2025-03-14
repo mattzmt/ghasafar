@@ -20,7 +20,7 @@ main {
     flex: 1;
     display: block;
     position: relative;
-    min-width: 220px;
+    min-width: 320px;
     width: 100%;
     max-width: 470px;
     padding: 15px;
