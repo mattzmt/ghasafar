@@ -20,7 +20,8 @@ function displayItems(places) {
 	places.forEach(item => {
 		const clone = template.content.cloneNode(true);
 		clone.querySelector(".name").textContent = item["name"];
-		clone.querySelector(".desc").textContent = item["desc"];
+		clone.querySelector(".owner").textContent = item["owner"];
+		clone.querySelector(".loc").textContent = item["loc"];
 		clone.querySelector(".place").style.backgroundImage = `url('${item["smallImg"]}')`;
 		clone.querySelector(".more").addEventListener("click", () => showPopup(item));
 		fragment.appendChild(clone);

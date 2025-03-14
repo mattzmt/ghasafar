@@ -1,7 +1,36 @@
 [
 	{
-		"name": "Name from JSON",
-		"desc": "Desc from JSON",
+		"name": "Għadira Nature Reserve",
+		"owner": "BirdLife Malta",
+		"loc": "Il-Mellieħa, Malta",
+		"smallImg": "../images/test.png",
+		"img": "../images/test.png"
+	},
+	{
+		"name": "Simar Nature Reserve",
+		"owner": "BirdLife Malta",
+		"loc": "St. Paul's Bay, Malta",
+		"smallImg": "../images/test.png",
+		"img": "../images/test.png"
+	},
+	{
+		"name": "Salina Nature Reserve",
+		"owner": "BirdLife Malta",
+		"loc": "In-Naxxar, Malta",
+		"smallImg": "../images/test.png",
+		"img": "../images/test.png"
+	},
+	{
+		"name": "Foresta 2000",
+		"owner": "BirdLife Malta",
+		"loc": "Il-Mellieħa, Malta",
+		"smallImg": "../images/test.png",
+		"img": "../images/test.png"
+	},
+	{
+		"name": "Buskett",
+		"owner": "BirdLife Malta",
+		"loc": "Is-Siġġiewi, Malta",
 		"smallImg": "../images/test.png",
 		"img": "../images/test.png"
 	}
