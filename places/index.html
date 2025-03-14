@@ -24,13 +24,15 @@
             <a href=".." id="logo"><img src="../images/ui/logo.svg"></a>
         </header>
         <main>
-            <div id="places">
-                <div class="place" style="background: url(../images/test.png);">
-                    <h1>Test</h1>
-                    <h2>Test</h2>
-                    <div class="more"></div>
+            <template id="template">
+                <div id="places">
+                    <div class="place" style="background: url(../images/test.png);">
+                        <h1 class="name"></h1>
+                        <h2 class="desc"></h2>
+                        <div class="more"></div>
+                    </div>
                 </div>
-            </div>
+            </template>
         </main>
         <script src="../js/nav.js"></script>
         <script src="../js/places.js"></script>

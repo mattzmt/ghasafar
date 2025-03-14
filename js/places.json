@@ -1,6 +1,6 @@
 [
     {
-        "name": "",
-        "desc": ""
+        "name": "Name from JSON",
+        "desc": "Desc from JSON"
     }
 ]
