@@ -48,9 +48,12 @@ main {
 
 .loc>img {
     position: relative;
+    display: inline-block;
     top: 0;
     left: 0;
-    height: 20px;
+    margin: auto 4px auto 0;
+    height: 14px;
+    opacity: 0.65;
 }
 
 .more {
