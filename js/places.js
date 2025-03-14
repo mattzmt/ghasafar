@@ -22,7 +22,10 @@ function displayItems(places) {
 		clone.querySelector(".name").textContent = item["name"];
 		clone.querySelector(".owner").textContent = item["owner"];
 		const loc = clone.querySelector(".loc");
-		loc.insertBefore(loc.firstChild, document.createTextNode(item["loc"] + " "));
+		const locImg = loc.querySelector("img"); // Get the existing <img>
+		loc.textContent = ""; // Clear existing text to prevent duplication
+		loc.appendChild(locImg); // Append the image first
+		loc.appendChild(document.createTextNode(" " + item["loc"]));
 		clone.querySelector(".place").style.backgroundImage = `url('${item["smallImg"]}')`;
 		clone.querySelector(".more").addEventListener("click", () => showPopup(item));
 		fragment.appendChild(clone);
