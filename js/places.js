@@ -1,7 +1,6 @@
 const root = document.documentElement;
 const container = document.getElementById("places");
 const template = document.getElementById("template");
-const loc = clone.querySelector(".loc");
 
 let data = [];
 
@@ -22,6 +21,7 @@ function displayItems(places) {
 		const clone = template.content.cloneNode(true);
 		clone.querySelector(".name").textContent = item["name"];
 		clone.querySelector(".owner").textContent = item["owner"];
+		const loc = clone.querySelector(".loc");
 		locElement.insertBefore(document.createTextNode(item["loc"] + " "), locElement.firstChild);
 		clone.querySelector(".place").style.backgroundImage = `url('${item["smallImg"]}')`;
 		clone.querySelector(".more").addEventListener("click", () => showPopup(item));
