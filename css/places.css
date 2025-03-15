@@ -69,14 +69,14 @@ main {
     font-weight: bold;
 }
 
-.loc {
-    font-style: italic;
-}
-
 .place>h2 {
     margin: 4px 0 0 0;
     color: var(--subText);
     font-size: 14px;
+}
+
+.owner {
+    font-style: italic;
 }
 
 .loc>img {

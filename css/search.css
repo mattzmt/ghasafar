@@ -133,13 +133,13 @@ main {
 
 #tools {
   pointer-events: none;
+  position: fixed;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   flex-wrap: nowrap;
-  position: fixed;
-  bottom: 0;
+  bottom: 30px;
   left: 0;
   width: 100vw;
   height: 225px;
@@ -306,7 +306,7 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-width: 60px;
+  min-width: 65px;
   height: 50px;
   font-size: 15px;
   border-radius: 5px;
