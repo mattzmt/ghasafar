@@ -63,16 +63,20 @@ main {
     z-index: 0;
 }
 
-.place>h1 {
+.name {
     margin: 0;
     font-size: 25px;
     font-weight: bold;
 }
 
+.loc {
+    font-style: italic;
+}
+
 .place>h2 {
     margin: 4px 0 0 0;
     color: var(--subText);
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .loc>img {
