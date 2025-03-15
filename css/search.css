@@ -93,8 +93,9 @@ main {
   left: 15px;
   width: calc(100% - 30px);
   height: fit-content;
-  font-size: 16px;
+  font-size: 7px;
   color: var(--subText);
+  user-select: text;
 }
 
 .more {
