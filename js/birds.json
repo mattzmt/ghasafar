@@ -1,7 +1,7 @@
 [
 	{
 		"en": "Red-Throated Loon",
-		"mt": "Bugħaddas tal-Mcreditemp",
+		"mt": "Bugħaddas tal-Maltemp",
 		"scn": "Gavia stellata",
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RedThroatedLoon (LQ).jpg",
@@ -11,7 +11,7 @@
 	},
 	{
 		"en": "Black-Throated Loon",
-		"mt": "Bugħaddas Iswed tal-Mcreditemp",
+		"mt": "Bugħaddas Iswed tal-Maltemp",
 		"scn": "Gavia arctica",
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/BlackThroatedLoon (LQ).jpg",
@@ -796,7 +796,7 @@
 		"desc": "This bird is currently missing a description.",
 		"smallImg": "../images/birds/RoughLeggedBuzzard (LQ).jpg",
 		"img": "../images/birds/RoughLeggedBuzzard.jpg",
-		"credit": "By Wcrediter Siegmund (talk) - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3408643",
+		"credit": "By Walter Siegmund (talk) - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3408643",
 		"rty": "Common"
 	},
 	{
