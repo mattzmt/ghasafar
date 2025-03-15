@@ -85,6 +85,17 @@ main {
     opacity: 0.65;
 }
 
+.credit {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    width: calc(100% - 30px);
+    height: fit-content;
+    font-size: 8px;
+    color: var(--subText);
+    user-select: text;
+}
+
 .more {
     visibility: hidden;
     transition: ease-in-out 0.25s;

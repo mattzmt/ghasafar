@@ -3,6 +3,7 @@
 		"name": "Għadira Nature Reserve",
 		"owner": "BirdLife Malta",
 		"loc": "Il-Mellieħa, Malta",
+		"credit": "https://birdlifemalta.org/wp-content/uploads/2021/02/2021.02.20_GhadiraPanorama_Aron-1536x864.jpg",
 		"smallImg": "../images/places/ghadira (LQ).jpg",
 		"img": "../images/places/ghadira.jpg"
 	},
@@ -10,6 +11,7 @@
 		"name": "Simar Nature Reserve",
 		"owner": "BirdLife Malta",
 		"loc": "St. Paul's Bay, Malta",
+		"credit": "birdlifemalta.org/wp-content/uploads/2021/02/2019.08.27_SimarPanorama_Aron-1536x864.jpg",
 		"smallImg": "../images/places/simar (LQ).jpg",
 		"img": "../images/places/simar.jpg"
 	},
@@ -17,6 +19,7 @@
 		"name": "Salina Nature Reserve",
 		"owner": "BirdLife Malta",
 		"loc": "In-Naxxar, Malta",
+		"credit": "https://birdlifemalta.org/wp-content/uploads/2021/03/Salina_general_for_banner-1536x1018.jpg",
 		"smallImg": "../images/places/salina (LQ).jpg",
 		"img": "../images/places/salina.jpg"
 	},
@@ -24,6 +27,7 @@
 		"name": "Foresta 2000",
 		"owner": "BirdLife Malta, Din l-Art Ħelwa, Parks and Wildlife Directorate",
 		"loc": "Il-Mellieħa, Malta",
+		"credit": "https://birdlifemalta.org/wp-content/uploads/2021/02/Foresta-2000-1536x1152.jpg",
 		"smallImg": "../images/places/foresta2k (LQ).jpg",
 		"img": "../images/places/foresta2k.jpg"
 	},
@@ -31,6 +35,7 @@
 		"name": "Buskett",
 		"owner": "Government of Malta",
 		"loc": "Is-Siġġiewi, Malta",
+		"credit": "https://birdlifemalta.org/wp-content/uploads/2017/05/2016.09.13_panoramic8_Buskett_Aron.jpg",
 		"smallImg": "../images/places/buskett (LQ).jpg",
 		"img": "../images/places/buskett.jpg"
 	}
