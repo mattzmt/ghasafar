@@ -87,6 +87,16 @@ main {
   font-style: italic;
 }
 
+.credit {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  width: calc(100% - 30px);
+  height: fit-content;
+  font-size: 16px;
+  color: var(--subText);
+}
+
 .more {
   visibility: hidden;
   transition: ease-in-out 0.25s;

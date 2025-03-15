@@ -47,6 +47,7 @@ function displayItems(items) {
 		clone.querySelector(".en").textContent = item["en"];
 		clone.querySelector(".mt").textContent = item["mt"];
 		clone.querySelector(".scn").textContent = item["scn"];
+		clone.querySelector(".credit").textContent = "Image credit: "+item["credit"];
 		clone.querySelector(".item").style.backgroundImage = `url('${item["smallImg"]}')`;
 		clone.querySelector(".more").addEventListener("click", () => showPopup(item));
 		fragment.appendChild(clone);
