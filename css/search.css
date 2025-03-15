@@ -279,7 +279,7 @@ main {
   border-radius: 10px 5px 5px 10px;
   background: var(--standard);
   display: block;
-  padding: 15px 20px;
+  padding: 15px 5px 15px 10px;
   font-size: 15px;
 }
 
@@ -293,7 +293,7 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-width: 75px;
+  min-width: 60px;
   height: 50px;
   font-size: 15px;
   border-radius: 5px;
@@ -315,7 +315,7 @@ main {
   outline: none;
   background: var(--standard);
   padding: 15px 0;
-  min-width: 60px;
+  min-width: 50px;
   height: 20px;
   border-radius: 5px;
   cursor: pointer;
@@ -337,7 +337,7 @@ main {
   outline: none;
   background: var(--standard);
   padding: 15px 0;
-  min-width: 60px;
+  min-width: 50px;
   height: 20px;
   border-radius: 5px 10px 10px 5px;
   cursor: pointer;
