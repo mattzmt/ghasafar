@@ -143,7 +143,7 @@ main {
   left: 0;
   width: 100vw;
   height: 225px;
-  padding: 0 0 25px 0;
+  padding: 0 0 20px 0;
   z-index: 1;
   gap: 10px;
   background: linear-gradient(rgba(0, 0, 0, 0) 145px, rgba(0, 0, 0, 0.7));
