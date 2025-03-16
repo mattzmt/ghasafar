@@ -1404,8 +1404,8 @@
 		"mt": "Pispisella tad-Dabra",
 		"scn": "Calidris alpina",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/Dunlin (LQ).jpg",
-		"img": "../images/birds/Dunlin.jpg",
+		"smallImg": "../images/birds/Dunlin (LQ).png",
+		"img": "../images/birds/Dunlin.png",
 		"credit": "By Charles Homler d/b/a FocusOnWildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128322464",
 		"rty": "Common"
 	},
@@ -1434,7 +1434,7 @@
 		"mt": "Girwiel",
 		"scn": "Calidris pugnax",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/Ruff (LQ)jpg",
+		"smallImg": "../images/birds/Ruff (LQ).jpg",
 		"img": "../images/birds/Ruff.jpg",
 		"credit": "By Arjan Haverkamp - originally posted to Flickr as 2009-05-22-14h06m00.IMG_9725l, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9141547",
 		"rty": "Common"
@@ -1444,8 +1444,8 @@
 		"mt": "Ċinkonja",
 		"scn": "Lymnocryptes minimus",
 		"desc": "This bird is currently missing a description.",
-		"smallImg": "../images/birds/JackSnipe (LQ).jpg",
-		"img": "../images/birds/JackSnipe.jpg",
+		"smallImg": "../images/birds/JackSnipe (LQ).png",
+		"img": "../images/birds/JackSnipe.png",
 		"credit": "By Morhaf kamal aljanee - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138582472",
 		"rty": "Common"
 	},
