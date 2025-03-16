@@ -11,6 +11,10 @@ const popupEn = document.getElementById("popup-en");
 const popupMt = document.getElementById("popup-mt");
 const popupScn = document.getElementById("popup-scn");
 const popupDesc = document.getElementById("popup-desc");
+const popupStatus = document.getElementById("popup-status");
+const popupOrder = document.getElementById("popup-order");
+const popupFamily = document.getElementById("popup-family");
+const popupGenus = document.getElementById("popup-genus");
 const popupImage = document.getElementById("popup-image");
 const searchInput = document.getElementById("search");
 const langFilters = document.querySelectorAll("#lang-filters button");
@@ -49,7 +53,7 @@ function displayItems(items) {
 		clone.querySelector(".scn").textContent = item["scn"];
 		clone.querySelector(".credit").textContent = "Image credit: "+item["credit"];
 		clone.querySelector(".item").style.backgroundImage = `url('${item["smallImg"]}')`;
-		clone.querySelector(".more").addEventListener("click", () => showPopup(item));
+		clone.querySelector(".item").addEventListener("click", () => showPopup(item));
 		fragment.appendChild(clone);
 	});
 	container.appendChild(fragment);
@@ -59,17 +63,16 @@ function displayItems(items) {
 }
 
 function showPopup(item) {
+	document.body.classList.add("no-scroll");
 	popupEn.textContent = item["en"];
 	popupMt.textContent = item["mt"];
 	popupScn.textContent = item["scn"];
 	popupDesc.textContent = item["desc"];
-	document.addEventListener("mousemove", (e) => {
-		popupCont.style.left = `${e.clientX}px`;
-		popupCont.style.top = `${e.clientY}px`;
-		popupCont.style.transform = `scale(${0})`;
-	}, { once: true });
+	popupStatus.textContent = item["status"]
+	popupOrder.textContent = item["order"]
+	popupFamily.textContent = item["family"]
+	popupGenus.textContent = item["genus"]
 	popup.style.display = "flex";
-	document.body.classList.add("no-scroll");
 }
 
 popup.addEventListener("click", (event) => {
