@@ -431,21 +431,74 @@ main {
 }
 
 #popup-content {
-  background: var(--inactive);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
   width: 100%;
   height: fit-content;
-  padding: 15px 15px 0 15px;
+  padding: 15px;
   border-radius: 10px;
+  background: var(--dark1);
 }
 
-#popup-content>* {
-  display: block;
-  margin-bottom: 15px;
+#popup-names, #popup-info {
+  width: calc(100% - 30px);
+  height: fit-content;
+  padding: 15px;
+  border-radius: 10px;
+  background: var(--dark2);
+}
+
+#popup-names>h1 {
+  font-size: 30px;
+}
+
+#popup-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+#popup-classification {
+  width: fit-content;
+  height: fit-content;
+}
+
+#popup-classification>h1 {
+  font-size: 18px;
+}
+
+#popup-classification>h1>span {
+  font-weight: 500;
+  font-style: italic;
+}
+
+#popup-conservation {
+  width: fit-content;
+  height: fit-content;
+}
+
+#popup-conservation>h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+#popup-conservation>h2 {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 500;
+  font-style: italic;
 }
 
 #close-popup {
   transition: ease-in-out 0.1s;
-  background: var(--inactive);
+  background: var(--dark1);
   padding: 10px;
   width: 25px;
   height: 25px;
@@ -454,7 +507,7 @@ main {
 }
 
 #close-popup:hover {
-  background: var(--inactiveHover);
+  background: var(--dark2);
 }
 
 .hidden {
