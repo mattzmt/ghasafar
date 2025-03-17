@@ -424,7 +424,7 @@ main {
   padding: 10px;
   background: rgba(0, 0, 0, 0.75);
   opacity: 0;
-  animation: fadeIn 0.5s ease-out forwards;
+  animation: fadeIn 0.25s ease-out forwards;
 }
 
 #popup>*{
@@ -544,19 +544,18 @@ main {
 }
 
 #vu.statusSelected {
-  background: #fa3;
+  background: #c91;
 }
 
 #nt.statusSelected {
-  background: #096;
+  background: #087;
 }
 
 #lc.statusSelected {
-  background: #097;
+  background: #088;
 }
 
 #popup-img {
-  cursor: zoom-in;
   width: 100%;
   height: auto;
   max-height: 90vh;

@@ -81,10 +81,6 @@ header>#logo {
   cursor: pointer;
 }
 
-#nav-toggle:hover {
-  background: rgba(0, 0, 0, 0.5);
-}
-
 #nav-toggle>img {
   height: 100%;
 }
