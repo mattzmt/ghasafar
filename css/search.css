@@ -410,6 +410,7 @@ main {
 #popup {
   z-index: 2;
   overflow-y: auto;
+  max-height: calc(100vh - 20px);
   flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
@@ -423,7 +424,7 @@ main {
   padding: 10px;
   background: rgba(0, 0, 0, 0.75);
   opacity: 0;
-  animation: fadeIn 0.3s ease-out forwards;
+  animation: fadeIn 0.5s ease-out forwards;
 }
 
 #popup>*{
@@ -436,7 +437,7 @@ main {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 10px;
+  gap: 15px;
   width: 100%;
   height: fit-content;
   padding: 15px;
@@ -524,34 +525,43 @@ main {
   border-radius: 50%;
 }
 
-
-
 #ex.statusSelected {
-  background: #f33;
+  background: #f22;
+  color: #000;
+}
+
+#ew.statusSelected {
+ background: #fff;
+ color: #000;
+}
+
+#cr.statusSelected {
+  background: #f44;
 }
 
 #en.statusSelected {
-
+  background: #f63;
 }
 
-#en.statusSelected {
-
+#vu.statusSelected {
+  background: #fa3;
 }
 
-#en.statusSelected {
-
+#nt.statusSelected {
+  background: #096;
 }
 
-#en.statusSelected {
-
+#lc.statusSelected {
+  background: #097;
 }
 
-#en.statusSelected {
-
-}
-
-#en.statusSelected {
-
+#popup-img {
+  cursor: zoom-in;
+  width: 100%;
+  height: auto;
+  max-height: 90vh;
+  object-position: center;
+  object-fit: contain;
 }
 
 #close-popup {

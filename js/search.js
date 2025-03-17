@@ -15,7 +15,7 @@ const popupStatus = document.getElementById("popup-status");
 const popupOrder = document.getElementById("popup-order");
 const popupFamily = document.getElementById("popup-family");
 const popupGenus = document.getElementById("popup-genus");
-const popupImage = document.getElementById("popup-image");
+const popupImg = document.getElementById("popup-img");
 const searchInput = document.getElementById("search");
 const langFilters = document.querySelectorAll("#lang-filters button");
 const rarityFilters = document.querySelectorAll("#rty-filters button");
@@ -73,26 +73,32 @@ function showPopup(item) {
     popupOrder.textContent = item["order"];
     popupFamily.textContent = item["family"];
     popupGenus.textContent = item["genus"];
+	popupImg.style.visibility = "hidden";
+	popupImg.src = item["img"];
     popup.style.display = "flex";
 
     document.querySelectorAll("#popup-statuses h3").forEach(el => el.classList.remove("statusSelected"));
 
     const statusMap = {
         "Extinct": "ex",
-        "Extinct in the wild": "ew",
-        "Critically endangered": "cr",
+        "Extinct in the Wild": "ew",
+        "Critically Endangered": "cr",
         "Endangered": "en",
         "Vulnerable": "vu",
         "Near Threatened": "nt",
-        "Lower Risk": "lc"
+        "Least Concern": "lc"
     };
 
     const statusKey = item["status"]?.trim();
 
-    if (statusKey !== "Data Deficient" && statusMap[statusKey]) {
+    if (statusKey !== "No Data" && statusMap[statusKey]) {
         document.getElementById(statusMap[statusKey]).classList.add("statusSelected");
     }
 }
+
+popupImg.onload = function() {
+    popupImg.style.visibility = 'visible';
+};
 
 popup.addEventListener("click", (event) => {
 	if (event.target === popup) {
