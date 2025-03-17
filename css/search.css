@@ -445,7 +445,7 @@ main {
   background: var(--dark1);
 }
 
-#popup-names, #popup-info, #popup-desc {
+#popup-names, #popup-info, #popup-desc, #popup-credit {
   width: calc(100% - 30px);
   height: fit-content;
   padding: 15px;
@@ -561,6 +561,11 @@ main {
   max-height: 90vh;
   object-position: center;
   object-fit: contain;
+}
+
+#popup-credit {
+  user-select: text;
+  font-size: 18px;
 }
 
 #close-popup {

@@ -2,23 +2,28 @@ let currentLanguageFilters = new Set(["en", "mt", "scn"]);
 let currentRarityFilters = new Set(["Common", "Uncommon", "Rare"]);
 
 const root = document.documentElement;
+
 const container = document.getElementById("items");
-const resultsCount = document.getElementById("results-count");
+
 const template = document.getElementById("template");
+
 const popup = document.getElementById("popup");
 const popupCont = document.getElementById("popup-content");
 const popupEn = document.getElementById("popup-en");
 const popupMt = document.getElementById("popup-mt");
 const popupScn = document.getElementById("popup-scn");
-const popupDesc = document.getElementById("popup-desc");
-const popupStatus = document.getElementById("popup-status");
 const popupOrder = document.getElementById("popup-order");
 const popupFamily = document.getElementById("popup-family");
 const popupGenus = document.getElementById("popup-genus");
+const popupStatus = document.getElementById("popup-status");
+const popupDesc = document.getElementById("popup-desc");
 const popupImg = document.getElementById("popup-img");
-const searchInput = document.getElementById("search");
+const popupCredit = document.getElementById("popup-credit");
+
 const langFilters = document.querySelectorAll("#lang-filters button");
 const rarityFilters = document.querySelectorAll("#rty-filters button");
+const searchInput = document.getElementById("search");
+const resultsCount = document.getElementById("results-count");
 const backToTop = document.getElementById("go-top");
 
 
@@ -75,6 +80,7 @@ function showPopup(item) {
     popupGenus.textContent = item["genus"];
 	popupImg.style.visibility = "hidden";
 	popupImg.src = item["img"];
+	popupCredit.textContent = item["credit"];
     popup.style.display = "flex";
 
     document.querySelectorAll("#popup-statuses h3").forEach(el => el.classList.remove("statusSelected"));
