@@ -32,6 +32,7 @@
             <a href="../search" id="selected">Search</a>
             <a href="../places">Places</a>
             <a href="../contact">Contact</a>
+            <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank">Report</a>
         </nav>
         <a href=".." id="logo"><img src="../images/ui/logo.svg"></a>
     </header>
@@ -43,17 +44,18 @@
 
         <div id="popup" class="hidden">
             <div id="popup-content">
-                <img id="close-popup" src="../images/ui/close.svg">
                 <div id="popup-details">
-                    <h1>English name: </h1>
-                    <h1 id="popup-en"></h1><br>
-                    <h2>Maltese name: </h2>
-                    <h2 id="popup-mt"></h2><br>
-                    <h3>Scientific name: </h3>
-                    <h3 id="popup-scn"></h3>
+                    <h1>English Name: <span id="popup-en"></span></h1>
+                    <h1>Maltese Name: <span id="popup-mt"></span></h1>
+                    <h2>Binomial Name: <span id="popup-scn"></span></h2>
+                    <h2>Order: <span id="popup-order"></span></h2>
+                    <h2>Family: <span id="popup-family"></span></h2>
+                    <h2>Genus: <span id="popup-genus"></span></h2>
+                    <h3>Conservation Status: <span id="popup-status"></span></h3>
                     <h4 id="popup-desc"></h4>
                 </div>
             </div>
+            <img id="close-popup" src="../images/ui/close.svg">
         </div>
     </main>
 
@@ -113,7 +115,6 @@
             <h1 class="mt"></h1>
             <h2 class="scn"></h2>
             <h3 class="credit"></h3>
-            <div class="more">View more<img src="../images/ui/right.svg"></div>
         </div>
     </template>
 

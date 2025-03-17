@@ -3,7 +3,7 @@
   --activeHover: #2564B7;
   --inactive: #252525;
   --inactiveHover: #353535;
-  --subText: rgba(255, 255, 255, 0.65);
+  --subText: rgba(255, 255, 255, 0.8);
   --standard: #212d3f;
   --standardHover: #22416b;
   --background: #151515;
@@ -96,14 +96,14 @@ header>#logo {
   }
   to {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-160px);
+    transform: translateY(-195px);
   } 
 }
   
 @keyframes expand {
   from {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-160px);
+    transform: translateY(-195px);
   }
   to {
     clip-path: inset(0);
@@ -126,7 +126,7 @@ nav {
   top: 65px;
   left: 10px;
   width: 75px;
-  height: 140px;
+  height: 175px;
   padding: 10px 15px;
   border-radius: 10px;
   display: flex;
