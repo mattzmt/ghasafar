@@ -444,7 +444,7 @@ main {
   background: var(--dark1);
 }
 
-#popup-names, #popup-info {
+#popup-names, #popup-info, #popup-desc {
   width: calc(100% - 30px);
   height: fit-content;
   padding: 15px;
@@ -461,7 +461,7 @@ main {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  gap: 15px;
+  gap: 25px;
   flex-wrap: wrap;
 }
 
@@ -480,6 +480,11 @@ main {
 }
 
 #popup-conservation {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 5px;
   width: fit-content;
   height: fit-content;
 }
@@ -494,6 +499,59 @@ main {
   text-align: center;
   font-weight: 500;
   font-style: italic;
+}
+
+#popup-statuses {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+#popup-statuses>h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  background: var(--dark1);
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+
+
+#ex.statusSelected {
+  background: #f33;
+}
+
+#en.statusSelected {
+
+}
+
+#en.statusSelected {
+
+}
+
+#en.statusSelected {
+
+}
+
+#en.statusSelected {
+
+}
+
+#en.statusSelected {
+
+}
+
+#en.statusSelected {
+
 }
 
 #close-popup {

@@ -63,16 +63,35 @@ function displayItems(items) {
 }
 
 function showPopup(item) {
-	document.body.classList.add("no-scroll");
-	popupEn.textContent = item["en"];
-	popupMt.textContent = item["mt"];
-	popupScn.textContent = item["scn"];
-	popupDesc.textContent = item["desc"];
-	popupStatus.textContent = item["status"]
-	popupOrder.textContent = item["order"]
-	popupFamily.textContent = item["family"]
-	popupGenus.textContent = item["genus"]
-	popup.style.display = "flex";
+    document.body.classList.add("no-scroll");
+
+    popupEn.textContent = item["en"];
+    popupMt.textContent = item["mt"];
+    popupScn.textContent = item["scn"];
+    popupDesc.textContent = item["desc"];
+    popupStatus.textContent = item["status"];
+    popupOrder.textContent = item["order"];
+    popupFamily.textContent = item["family"];
+    popupGenus.textContent = item["genus"];
+    popup.style.display = "flex";
+
+    document.querySelectorAll("#popup-statuses h3").forEach(el => el.classList.remove("statusSelected"));
+
+    const statusMap = {
+        "Extinct": "ex",
+        "Extinct in the wild": "ew",
+        "Critically endangered": "cr",
+        "Endangered": "en",
+        "Vulnerable": "vu",
+        "Near Threatened": "nt",
+        "Lower Risk": "lc"
+    };
+
+    const statusKey = item["status"]?.trim();
+
+    if (statusKey !== "Data Deficient" && statusMap[statusKey]) {
+        document.getElementById(statusMap[statusKey]).classList.add("statusSelected");
+    }
 }
 
 popup.addEventListener("click", (event) => {
