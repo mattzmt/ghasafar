@@ -391,18 +391,13 @@ main {
 #popup {
   z-index: 2;
   overflow-y: auto;
-  max-height: calc(100vh - 20px);
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 10px;
+  max-height: calc(100vh - 75px);
   position: fixed;
   top: 0;
   left: 0;
-  width: calc(100vw - 20px);
-  min-height: calc(100vh - 20px);
+  width: calc(100vw - 50px);
   height: fit-content;
-  padding: 10px;
+  padding: 25px 25px 50px 25px;
   background: rgba(0, 0, 0, 0.75);
   opacity: 0;
   animation: fadeIn 0.25s ease-out forwards;
@@ -426,10 +421,21 @@ main {
   background: var(--dark1);
 }
 
-#popup-names, #popup-info, #popup-desc, #popup-credit {
+#popup-info, #popup-desc, #popup-credit {
   width: calc(100% - 30px);
   height: fit-content;
   padding: 15px;
+  border-radius: 10px;
+  background: var(--dark2);
+}
+
+#popup-names {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: calc(100% - 45px);
+  height: fit-content;
+  padding: 15px 30px 15px 15px;
   border-radius: 10px;
   background: var(--dark2);
 }
@@ -486,9 +492,9 @@ main {
 #popup-statuses {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 5px;
   margin-top: 10px;
 }
@@ -546,11 +552,15 @@ main {
 
 #popup-credit {
   user-select: text;
-  font-size: 18px;
+  font-size: 12px;
+  text-decoration: underline;
 }
 
 #close-popup {
   transition: ease-in-out 0.1s;
+  position: absolute;
+  top: 0;
+  right: 0;
   background: var(--dark1);
   padding: 10px;
   width: 25px;
