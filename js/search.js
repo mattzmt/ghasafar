@@ -81,6 +81,7 @@ function showPopup(item) {
 	popupImg.style.visibility = "hidden";
 	popupImg.src = item["img"];
 	popupCredit.textContent = item["credit"];
+	popupCredit.href = item["source"];
     popup.style.display = "flex";
 
     document.querySelectorAll("#popup-statuses h3").forEach(el => el.classList.remove("statusSelected"));

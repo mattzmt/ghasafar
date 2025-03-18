@@ -488,7 +488,7 @@ main {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 5px;
   margin-top: 10px;
 }
@@ -546,7 +546,8 @@ main {
 
 #popup-credit {
   user-select: text;
-  font-size: 18px;
+  font-size: 12px;
+  text-decoration: underline;
 }
 
 #close-popup {

@@ -11,7 +11,8 @@
 		"genus": "Gavia",
 		"smallImg": "../images/birds/RedThroatedLoon (LQ).jpg",
 		"img": "../images/birds/RedThroatedLoon.jpg",
-		"credit": "By David Karnå / Wikimedia Commons, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27003078"
+		"credit": "By David Karnå / Wikimedia Commons, CC BY 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=27003078"
 	},
 	{
 		"en": "Black-Throated Loon",
@@ -25,7 +26,8 @@
 		"genus": "Gavia",
 		"smallImg": "../images/birds/BlackThroatedLoon (LQ).jpg",
 		"img": "../images/birds/BlackThroatedLoon.jpg",
-		"credit": "By Francesco Veronesi from Italy - Arctic ( Black-throated ) Loon ( Diver ) - Oulu - Finland 02, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39971078"
+		"credit": "By Francesco Veronesi from Italy - Arctic ( Black-throated ) Loon ( Diver ) - Oulu - Finland 02, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=39971078"
 	},
 	{
 		"en": "Little Grebe",
@@ -39,7 +41,8 @@
 		"genus": "Tachybaptus",
 		"smallImg": "../images/birds/LittleGrebe (LQ).jpg",
 		"img": "../images/birds/LittleGrebe.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33505667"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=33505667"
 	},
 	{
 		"en": "Great Crested Grebe",
@@ -53,7 +56,8 @@
 		"genus": "Podiceps",
 		"smallImg": "../images/birds/GreatCrestedGrebe (LQ).jpg",
 		"img": "../images/birds/GreatCrestedGrebe.jpg",
-		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=115633653"
+		"credit": "By Alexis Lours - Own work, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=115633653"
 	},
 	{
 		"en": "Black-Necked Grebe",
@@ -67,7 +71,8 @@
 		"genus": "Podiceps",
 		"smallImg": "../images/birds/BlackNeckedGrebe (LQ).jpg",
 		"img": "../images/birds/BlackNeckedGrebe.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=33521634"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=33521634"
 	},
 	{
 		"en": "Scopoli's Shearwater",
@@ -81,7 +86,8 @@
 		"genus": "Calonectris",
 		"smallImg": "../images/birds/ScopolisShearwater (LQ).jpg",
 		"img": "../images/birds/ScopolisShearwater.jpg",
-		"credit": "By Telegro - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71425634"
+		"credit": "By Telegro - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=71425634"
 	},
 	{
 		"en": "Sooty Shearwater",
@@ -95,7 +101,8 @@
 		"genus": "Ardenna",
 		"smallImg": "../images/birds/SootyShearwater (LQ).jpg",
 		"img": "../images/birds/SootyShearwater.jpg",
-		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19625171"
+		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=19625171"
 	},
 	{
 		"en": "Manx Shearwater",
@@ -109,7 +116,8 @@
 		"genus": "Puffinus",
 		"smallImg": "../images/birds/ManxShearwater (LQ).jpg",
 		"img": "../images/birds/ManxShearwater.jpg",
-		"credit": "By Ómar Runólfsson - Manx Shearwater - Puffinus puffinus - SkrofaUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=16473743"
+		"credit": "By Ómar Runólfsson - Manx Shearwater - Puffinus puffinus - SkrofaUploaded by snowmanradio, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=16473743"
 	},
 	{
 		"en": "Yelkouan Shearwater",
@@ -123,7 +131,8 @@
 		"genus": "Puffinus",
 		"smallImg": "../images/birds/YelkouanShearwater (LQ).jpg",
 		"img": "../images/birds/YelkouanShearwater.jpg",
-		"credit": "By Julien Renoult - https://www.inaturalist.org/photos/140249998, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=124452180"
+		"credit": "By Julien Renoult - https://www.inaturalist.org/photos/140249998, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=124452180"
 	},
 	{
 		"en": "Balearic Shearwater",
@@ -137,7 +146,8 @@
 		"genus": "Puffinus",
 		"smallImg": "../images/birds/BalearicShearwater (LQ).jpg",
 		"img": "../images/birds/BalearicShearwater.jpg",
-		"credit": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - http://www.caib.es/sacmicrofront/contenido.do?mkey=M08092209023624284631&lang=CA&cont=22021, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15076773"
+		"credit": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - http://www.caib.es/sacmicrofront/contenido.do?mkey=M08092209023624284631&lang=CA&cont=22021, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=15076773"
 	},
 	{
 		"en": "European Storm Petrel",
@@ -151,7 +161,8 @@
 		"genus": "Hydrobates",
 		"smallImg": "../images/birds/EuropeanStormPetrel (LQ).jpg",
 		"img": "../images/birds/EuropeanStormPetrel.jpg",
-		"credit": "By Richard Crossley - Richard Crossley, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25987162"
+		"credit": "By Richard Crossley - Richard Crossley, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=25987162"
 	},
 	{
 		"en": "Leach's Storm Petrel",
@@ -165,7 +176,8 @@
 		"genus": "Hydrobates",
 		"smallImg": "../images/birds/LeachsStormPetrel (LQ).jpg",
 		"img": "../images/birds/LeachsStormPetrel.jpg",
-		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=140184275"
+		"credit": "By Alexis Lours - Own work, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=140184275"
 	},
 	{
 		"en": "Northern Gannet",
@@ -179,7 +191,8 @@
 		"genus": "Morus",
 		"smallImg": "../images/birds/NorthernGannet (LQ).jpg",
 		"img": "../images/birds/NorthernGannet.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=339367"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=339367"
 	},
 	{
 		"en": "Pygmy Cormorant",
@@ -193,7 +206,8 @@
 		"genus": "Microcarbo",
 		"smallImg": "../images/birds/PygmyCormorant (LQ).jpg",
 		"img": "../images/birds/PygmyCormorant.jpg",
-		"credit": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12693769"
+		"credit": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=12693769"
 	},
 	{
 		"en": "Great Cormorant",
@@ -207,7 +221,8 @@
 		"genus": "Phalacrocorax",
 		"smallImg": "../images/birds/GreatCormorant (LQ).jpg",
 		"img": "../images/birds/GreatCormorant.jpg",
-		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107560873"
+		"credit": "By MPF - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=107560873"
 	},
 	{
 		"en": "European Shag",
@@ -221,7 +236,8 @@
 		"genus": "Gulosus",
 		"smallImg": "../images/birds/EuropeanShag (LQ).jpg",
 		"img": "../images/birds/EuropeanShag.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=15765052"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=15765052"
 	},
 	{
 		"en": "Great White Pelican",
@@ -235,7 +251,8 @@
 		"genus": "Pelecanus",
 		"smallImg": "../images/birds/GreatWhitePelican (LQ).jpg",
 		"img": "../images/birds/GreatWhitePelican.jpg",
-		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66151818"
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=66151818"
 	},
 	{
 		"en": "Eurasian Bittern",
@@ -249,7 +266,8 @@
 		"genus": "Botaurus",
 		"smallImg": "../images/birds/EurasianBittern (LQ).jpg",
 		"img": "../images/birds/EurasianBittern.jpg",
-		"credit": "By Jo Garbutt - Flickr: Bittern, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=33043685"
+		"credit": "By Jo Garbutt - Flickr: Bittern, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=33043685"
 	},
 	{
 		"en": "Little Bittern",
@@ -263,7 +281,8 @@
 		"genus": "Botaurus",
 		"smallImg": "../images/birds/LittleBittern (LQ).jpg",
 		"img": "../images/birds/LittleBittern.jpg",
-		"credit": "By Biser Todorov - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=40954200"
+		"credit": "By Biser Todorov - Own work, CC BY 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=40954200"
 	},
 	{
 		"en": "Black-Crowned Night Heron",
@@ -277,7 +296,8 @@
 		"genus": "Nycticorax",
 		"smallImg": "../images/birds/BlackCrownedNightHeron (LQ).jpg",
 		"img": "../images/birds/BlackCrownedNightHeron.jpg",
-		"credit": "By ramidos - https://www.inaturalist.org/photos/371561572, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156941524"
+		"credit": "By ramidos - https://www.inaturalist.org/photos/371561572, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=156941524"
 	},
 	{
 		"en": "Squacco Heron",
@@ -291,7 +311,8 @@
 		"genus": "Ardeola",
 		"smallImg": "../images/birds/SquaccoHeron (LQ).jpg",
 		"img": "../images/birds/SquaccoHeron.jpg",
-		"credit": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30117976"
+		"credit": "By Pierre Dalous - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=30117976"
 	},
 	{
 		"en": "Western Cattle Egret",
@@ -305,7 +326,8 @@
 		"genus": "Ardea",
 		"smallImg": "../images/birds/WesternCattleEgret (LQ).jpg",
 		"img": "../images/birds/WesternCattleEgret.jpg",
-		"credit": "By Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=20329327"
+		"credit": "By Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=20329327"
 	},
 	{
 		"en": "Western Reef Heron",
@@ -319,7 +341,8 @@
 		"genus": "Egretta",
 		"smallImg": "../images/birds/WesternReefHeron (LQ).jpg",
 		"img": "../images/birds/WesternReefHeron.jpg",
-		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115914728"
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=115914728"
 	},
 	{
 		"en": "Little Egret",
@@ -333,7 +356,8 @@
 		"genus": "Egretta",
 		"smallImg": "../images/birds/LittleEgret (LQ).jpg",
 		"img": "../images/birds/LittleEgret.jpg",
-		"credit": "By Prosthetic Head - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47024149"
+		"credit": "By Prosthetic Head - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=47024149"
 	},
 	{
 		"en": "Great Egret",
@@ -347,7 +371,8 @@
 		"genus": "Ardea",
 		"smallImg": "../images/birds/GreatEgret (LQ).jpg",
 		"img": "../images/birds/GreatEgret.jpg",
-		"credit": "By Chuck Homler (FocusOnWildlife.Me) - This photograph was taken with a Canon EOS R5 by u:Needsmoreritalin., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118398608"
+		"credit": "By Chuck Homler (FocusOnWildlife.Me) - This photograph was taken with a Canon EOS R5 by u:Needsmoreritalin., CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=118398608"
 	},
 	{
 		"en": "Grey Heron",
@@ -361,7 +386,8 @@
 		"genus": "Ardea",
 		"smallImg": "../images/birds/GreyHeron (LQ).jpg",
 		"img": "../images/birds/GreyHeron.jpg",
-		"credit": "By Savithri Singh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108480213"
+		"credit": "By Savithri Singh - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=108480213"
 	},
 	{
 		"en": "Purple Heron",
@@ -375,7 +401,8 @@
 		"genus": "Ardea",
 		"smallImg": "../images/birds/PurpleHeron (LQ).jpg",
 		"img": "../images/birds/PurpleHeron.jpg",
-		"credit": "By Steve Garvie from Dunfermline, Fife, Scotland - Purple Heron (Ardea purpurea)Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12124206"
+		"credit": "By Steve Garvie from Dunfermline, Fife, Scotland - Purple Heron (Ardea purpurea)Uploaded by Snowmanradio, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=12124206"
 	},
 	{
 		"en": "Black Stork",
@@ -389,7 +416,8 @@
 		"genus": "Ciconia",
 		"smallImg": "../images/birds/BlackStork (LQ).jpg",
 		"img": "../images/birds/BlackStork.jpg",
-		"credit": "By Lennart Tange from Eindhoven, The Netherlands - Black StorkUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25053802"
+		"credit": "By Lennart Tange from Eindhoven, The Netherlands - Black StorkUploaded by snowmanradio, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=25053802"
 	},
 	{
 		"en": "White Stork",
@@ -403,7 +431,8 @@
 		"genus": "Ciconia",
 		"smallImg": "../images/birds/WhiteStork (LQ).jpg",
 		"img": "../images/birds/WhiteStork.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20503096"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=20503096"
 	},
 	{
 		"en": "Glossy Ibis",
@@ -417,7 +446,8 @@
 		"genus": "Plegadis",
 		"smallImg": "../images/birds/GlossyIbis (LQ).jpg",
 		"img": "../images/birds/GlossyIbis.jpg",
-		"credit": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084451"
+		"credit": "By Giles Laurent - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=155084451"
 	},
 	{
 		"en": "Eurasian Spoonbill ",
@@ -431,7 +461,8 @@
 		"genus": "Platalea",
 		"smallImg": "../images/birds/EurasianSpoonbill (LQ).jpg",
 		"img": "../images/birds/EurasianSpoonbill.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=20213339"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=20213339"
 	},
 	{
 		"en": "Greater Flamingo",
@@ -445,7 +476,8 @@
 		"genus": "Phoenicopterus",
 		"smallImg": "../images/birds/GreaterFlamingo (LQ).jpg",
 		"img": "../images/birds/GreaterFlamingo.jpg",
-		"credit": "By Giles Laurent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084146"
+		"credit": "By Giles Laurent - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=155084146"
 	},
 	{
 		"en": "Mute Swan",
@@ -459,7 +491,8 @@
 		"genus": "Cygnus",
 		"smallImg": "../images/birds/MuteSwan (LQ).jpg",
 		"img": "../images/birds/MuteSwan.jpg",
-		"credit": "By (c) Codrin Bucur, some rights reserved (CC BY) - https://www.inaturalist.org/photos/113908808, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156494355"
+		"credit": "By (c) Codrin Bucur, some rights reserved (CC BY) - https://www.inaturalist.org/photos/113908808, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=156494355"
 	},
 	{
 		"en": "Barnacle Goose",
@@ -473,7 +506,8 @@
 		"genus": "Branta",
 		"smallImg": "../images/birds/BarnacleGoose (LQ).jpg",
 		"img": "../images/birds/BarnacleGoose.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32487518"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=32487518"
 	},
 	{
 		"en": "Bar-Headed Goose",
@@ -487,7 +521,8 @@
 		"genus": "Anser",
 		"smallImg": "../images/birds/BarHeadedGoose (LQ).jpg",
 		"img": "../images/birds/BarHeadedGoose.jpg",
-		"credit": "By Diliff - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=1385514"
+		"credit": "By Diliff - Own work, CC BY 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=1385514"
 	},
 	{
 		"en": "Pink-Footed Goose",
@@ -501,7 +536,8 @@
 		"genus": "Anser",
 		"smallImg": "../images/birds/PinkFootedGoose (LQ).jpg",
 		"img": "../images/birds/PinkFootedGoose.jpg",
-		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150443788"
+		"credit": "By MPF - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=150443788"
 	},
 	{
 		"en": "Taiga Bean Goose",
@@ -515,7 +551,8 @@
 		"genus": "Anser",
 		"smallImg": "../images/birds/TaigaBeanGoose (LQ).jpg",
 		"img": "../images/birds/TaigaBeanGoose.jpg",
-		"credit": "By agulivanov - https://www.inaturalist.org/photos/431929438, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158346328"
+		"credit": "By agulivanov - https://www.inaturalist.org/photos/431929438, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=158346328"
 	},
 	{
 		"en": "Greater White-Fronted Goose",
@@ -529,7 +566,8 @@
 		"genus": "Anser",
 		"smallImg": "../images/birds/GreaterWhiteFrontedGoose (LQ).jpg",
 		"img": "../images/birds/GreaterWhiteFrontedGoose.jpg",
-		"credit": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125974338"
+		"credit": "By © Frank Schulenburg, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=125974338"
 	},
 	{
 		"en": "Greylag Goose",
@@ -543,7 +581,8 @@
 		"genus": "Anser",
 		"smallImg": "../images/birds/GreylagGoose (LQ).jpg",
 		"img": "../images/birds/GreylagGoose.jpg",
-		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1385555"
+		"credit": "By Diliff - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=1385555"
 	},
 	{
 		"en": "Red-Breasted Goose",
@@ -557,7 +596,8 @@
 		"genus": "Branta",
 		"smallImg": "../images/birds/RedBreastedGoose (LQ).jpg",
 		"img": "../images/birds/RedBreastedGoose.jpg",
-		"credit": "By Dick Daniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11201743"
+		"credit": "By Dick Daniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=11201743"
 	},
 	{
 		"en": "Egyptian Goose",
@@ -571,7 +611,8 @@
 		"genus": "Alopochen",
 		"smallImg": "../images/birds/EgyptianGoose (LQ).jpg",
 		"img": "../images/birds/EgyptianGoose.jpg",
-		"credit": "By Kimberly Reid - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93302493"
+		"credit": "By Kimberly Reid - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=93302493"
 	},
 	{
 		"en": "Ruddy Shelduck",
@@ -585,7 +626,8 @@
 		"genus": "Tadorna",
 		"smallImg": "../images/birds/RuddyShelduck (LQ).jpg",
 		"img": "../images/birds/RuddyShelduck.jpg",
-		"credit": "By Mprasannak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56389475"
+		"credit": "By Mprasannak - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=56389475"
 	},
 	{
 		"en": "Common Shelduck",
@@ -599,7 +641,8 @@
 		"genus": "Tadorna",
 		"smallImg": "../images/birds/CommonShelduck (LQ).jpg",
 		"img": "../images/birds/CommonShelduck.jpg",
-		"credit": "By Hobbyfotowiki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=84357543"
+		"credit": "By Hobbyfotowiki - Own work, CC0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=84357543"
 	},
 	{
 		"en": "Eurasian Wigeon",
@@ -613,7 +656,8 @@
 		"genus": "Mareca",
 		"smallImg": "../images/birds/EurasianWigeon (LQ).jpg",
 		"img": "../images/birds/EurasianWigeon.jpg",
-		"credit": "By Anas_penelope_kuribo.jpg: Kuribo from Osaka, Japanderivative work: Bogbumper (talk) - Anas_penelope_kuribo.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10662048"
+		"credit": "By Anas_penelope_kuribo.jpg: Kuribo from Osaka, Japanderivative work: Bogbumper (talk) - Anas_penelope_kuribo.jpg, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=10662048"
 	},
 	{
 		"en": "Falcated Duck",
@@ -627,7 +671,8 @@
 		"genus": "Mareca",
 		"smallImg": "../images/birds/FalcatedDuck (LQ).jpg",
 		"img": "../images/birds/FalcatedDuck.jpg",
-		"credit": "By Francis C. Franklin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35774036"
+		"credit": "By Francis C. Franklin - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=35774036"
 	},
 	{
 		"en": "Gadwall",
@@ -641,7 +686,8 @@
 		"genus": "Mareca",
 		"smallImg": "../images/birds/Gadwall (LQ).jpg",
 		"img": "../images/birds/Gadwall.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32475737"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=32475737"
 	},
 	{
 		"en": "Baikal Teal",
@@ -655,7 +701,8 @@
 		"genus": "Sibirionetta",
 		"smallImg": "../images/birds/BaikalTeal (LQ).jpg",
 		"img": "../images/birds/BaikalTeal.jpg",
-		"credit": "By Formosa (Flickr) - https://www.flickr.com/photos/suneko/96282324/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3674844"
+		"credit": "By Formosa (Flickr) - https://www.flickr.com/photos/suneko/96282324/, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=3674844"
 	},
 	{
 		"en": "Blue-Winged Teal",
@@ -669,7 +716,8 @@
 		"genus": "Spatula",
 		"smallImg": "../images/birds/BlueWingedTeal (LQ).jpg",
 		"img": "../images/birds/BlueWingedTeal.jpg",
-		"credit": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118451553"
+		"credit": "By Frank Schulenburg - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=118451553"
 	},
 	{
 		"en": "Eurasian Teal",
@@ -683,7 +731,8 @@
 		"genus": "Anas",
 		"smallImg": "../images/birds/EurasianTeal (LQ).jpg",
 		"img": "../images/birds/EurasianTeal.jpg",
-		"credit": "By Jeslu - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3976534"
+		"credit": "By Jeslu - Flickr, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=3976534"
 	},
 	{
 		"en": "Mallard",
@@ -697,7 +746,8 @@
 		"genus": "Anas",
 		"smallImg": "../images/birds/Mallard (LQ).jpg",
 		"img": "../images/birds/Mallard.jpg",
-		"credit": "By Chuck Homler d/b/a FocusOnwWildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147068702"
+		"credit": "By Chuck Homler d/b/a FocusOnwWildlife - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=147068702"
 	},
 	{
 		"en": "Northern Pintail",
@@ -711,7 +761,8 @@
 		"genus": "Anas",
 		"smallImg": "../images/birds/NorthernPintail (LQ).jpg",
 		"img": "../images/birds/NorthernPintail.jpg",
-		"credit": "By © Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=96574639"
+		"credit": "By © Frank Schulenburg, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=96574639"
 	},
 	{
 		"en": "Garganey",
@@ -725,7 +776,8 @@
 		"genus": "Spatula",
 		"smallImg": "../images/birds/Garganey (LQ).jpg",
 		"img": "../images/birds/Garganey.jpg",
-		"credit": "By YedidyaPopper - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146782645"
+		"credit": "By YedidyaPopper - Own work, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=146782645"
 	},
 	{
 		"en": "Northern Shoveler",
@@ -739,7 +791,8 @@
 		"genus": "Spatula",
 		"smallImg": "../images/birds/NorthernShoveler (LQ).jpg",
 		"img": "../images/birds/NorthernShoveler.jpg",
-		"credit": "By Frank Schulenburg - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113067243"
+		"credit": "By Frank Schulenburg - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=113067243"
 	},
 	{
 		"en": "Marbled Duck",
@@ -753,7 +806,8 @@
 		"genus": "Marmamaronetta",
 		"smallImg": "../images/birds/MarbledDuck (LQ).jpg",
 		"img": "../images/birds/MarbledDuck.jpg",
-		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31658956"
+		"credit": "By Diliff - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=31658956"
 	},
 	{
 		"en": "Red-Crested Pochard",
@@ -767,7 +821,8 @@
 		"genus": "Netta",
 		"smallImg": "../images/birds/RedCrestedPochard (LQ).jpg",
 		"img": "../images/birds/RedCrestedPochard.jpg",
-		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29868606"
+		"credit": "By Diliff - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=29868606"
 	},
 	{
 		"en": "Common Pochard",
@@ -781,7 +836,8 @@
 		"genus": "Aythya",
 		"smallImg": "../images/birds/CommonPochard (LQ).jpg",
 		"img": "../images/birds/CommonPochard.jpg",
-		"credit": "By Tony Hisgett from Birmingham, UK - Pochard 2, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=20217242"
+		"credit": "By Tony Hisgett from Birmingham, UK - Pochard 2, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=20217242"
 	},
 	{
 		"en": "Ferruginous Duck",
@@ -795,7 +851,8 @@
 		"genus": "Aythya",
 		"smallImg": "../images/birds/FerruginousDuck (LQ).jpg",
 		"img": "../images/birds/FerruginousDuck.jpg",
-		"credit": "By © Francis C. Franklin / CC-BY-SA-3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39134586"
+		"credit": "By © Francis C. Franklin / CC-BY-SA-3.0, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=39134586"
 	},
 	{
 		"en": "Tufted Duck",
@@ -809,7 +866,8 @@
 		"genus": "Aythya",
 		"smallImg": "../images/birds/TuftedDuck (LQ).jpg",
 		"img": "../images/birds/TuftedDuck.jpg",
-		"credit": "By Charles J. Sharp - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31597261"
+		"credit": "By Charles J. Sharp - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=31597261"
 	},
 	{
 		"en": "Greater Scaup",
@@ -823,7 +881,8 @@
 		"genus": "Aythya",
 		"smallImg": "../images/birds/GreaterScaup (LQ).jpg",
 		"img": "../images/birds/GreaterScaup.jpg",
-		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103152819"
+		"credit": "By MPF - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=103152819"
 	},
 	{
 		"en": "Common Scoter",
@@ -837,7 +896,8 @@
 		"genus": "Melanitta",
 		"smallImg": "../images/birds/CommonScoter (LQ).jpg",
 		"img": "../images/birds/CommonScoter.jpg",
-		"credit": "By Jason Thompson - Flickr: eurasian common scoter, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30890885"
+		"credit": "By Jason Thompson - Flickr: eurasian common scoter, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=30890885"
 	},
 	{
 		"en": "Common Goldeneye",
@@ -851,7 +911,8 @@
 		"genus": "Bucephala",
 		"smallImg": "../images/birds/CommonGoldeneye (LQ).jpg",
 		"img": "../images/birds/CommonGoldeneye.jpg",
-		"credit": "By https://www.flickr.com/photos/sbern/ - https://www.flickr.com/photos/sbern/13471929904/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36391956"
+		"credit": "By https://www.flickr.com/photos/sbern/ - https://www.flickr.com/photos/sbern/13471929904/, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=36391956"
 	},
 	{
 		"en": "Smew",
@@ -865,7 +926,8 @@
 		"genus": "Mergellus",
 		"smallImg": "../images/birds/Smew (LQ).jpg",
 		"img": "../images/birds/Smew.jpg",
-		"credit": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17526412"
+		"credit": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=17526412"
 	},
 	{
 		"en": "Red-Breasted Merganser",
@@ -879,7 +941,8 @@
 		"genus": "Mergus",
 		"smallImg": "../images/birds/RedBreastedMerganser (LQ).jpg",
 		"img": "../images/birds/RedBreastedMerganser.jpg",
-		"credit": "By Peter Massas - originally posted to Flickr as Drake Red-Breasted Merganser, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=8952811"
+		"credit": "By Peter Massas - originally posted to Flickr as Drake Red-Breasted Merganser, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=8952811"
 	},
 	{
 		"en": "Goosander",
@@ -893,7 +956,8 @@
 		"genus": "Mergus",
 		"smallImg": "../images/birds/Goosander (LQ).jpg",
 		"img": "../images/birds/Goosander.jpg",
-		"credit": "By Tony Hisgett - originally posted to Flickr as Male Goosander, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9020932"
+		"credit": "By Tony Hisgett - originally posted to Flickr as Male Goosander, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=9020932"
 	},
 	{
 		"en": "White-Headed Duck",
@@ -907,7 +971,8 @@
 		"genus": "Oxyura",
 		"smallImg": "../images/birds/WhiteHeadedDuck (LQ).jpg",
 		"img": "../images/birds/WhiteHeadedDuck.jpg",
-		"credit": "By MissTanyaLove - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18061334"
+		"credit": "By MissTanyaLove - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=18061334"
 	},
 	{
 		"en": "European Honey Buzzard",
@@ -921,7 +986,8 @@
 		"genus": "Pernis",
 		"smallImg": "../images/birds/EuropeanHoneyBuzzard (LQ).jpg",
 		"img": "../images/birds/EuropeanHoneyBuzzard.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=54344804"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=54344804"
 	},
 	{
 		"en": "Black Kite",
@@ -935,7 +1001,8 @@
 		"genus": "Milvus",
 		"smallImg": "../images/birds/BlackKite (LQ).jpg",
 		"img": "../images/birds/BlackKite.jpg",
-		"credit": "By nubobo - トビ, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31054775"
+		"credit": "By nubobo - トビ, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=31054775"
 	},
 	{
 		"en": "Red Kite",
@@ -949,7 +1016,8 @@
 		"genus": "Milvus",
 		"smallImg": "../images/birds/RedKite (LQ).jpg",
 		"img": "../images/birds/RedKite.jpg",
-		"credit": "By Etro0309 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103248580"
+		"credit": "By Etro0309 - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=103248580"
 	},
 	{
 		"en": "White-Tailed Eagle",
@@ -963,7 +1031,8 @@
 		"genus": "Haliaeetus",
 		"smallImg": "../images/birds/WhiteTailedEagle (LQ).jpg",
 		"img": "../images/birds/WhiteTailedEagle.jpg",
-		"credit": "By Francesco Veronesi from Italy - White-tailed Sea-Eagle - Hokkaido - Japan_S4E9284, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39980862"
+		"credit": "By Francesco Veronesi from Italy - White-tailed Sea-Eagle - Hokkaido - Japan_S4E9284, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=39980862"
 	},
 	{
 		"en": "Egyptian Vulture",
@@ -977,7 +1046,8 @@
 		"genus": "Gypaetinae",
 		"smallImg": "../images/birds/EgyptianVulture (LQ).jpg",
 		"img": "../images/birds/EgyptianVulture.jpg",
-		"credit": "By Koshy Koshy from Faridabad, Haryana, India - Egyptian Vulture, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=58812344"
+		"credit": "By Koshy Koshy from Faridabad, Haryana, India - Egyptian Vulture, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=58812344"
 	},
 	{
 		"en": "Eurasian Griffon Vulture",
@@ -991,7 +1061,8 @@
 		"genus": "Gyps",
 		"smallImg": "../images/birds/EurasianGriffonVulture (LQ).jpg",
 		"img": "../images/birds/EurasianGriffonVulture.jpg",
-		"credit": "By Pierre Dalous - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29066936"
+		"credit": "By Pierre Dalous - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=29066936"
 	},
 	{
 		"en": "Short-Toed Snake Eagle",
@@ -1005,7 +1076,8 @@
 		"genus": "Circaetus",
 		"smallImg": "../images/birds/ShortToedSnakeEagle (LQ).jpg",
 		"img": "../images/birds/ShortToedSnakeEagle.jpg",
-		"credit": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27397932"
+		"credit": "By Вых Пыхманн - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=27397932"
 	},
 	{
 		"en": "Western Marsh Harrier",
@@ -1019,7 +1091,8 @@
 		"genus": "Circus",
 		"smallImg": "../images/birds/WesternMarshHarrier (LQ).jpg",
 		"img": "../images/birds/WesternMarshHarrier.jpg",
-		"credit": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24255090"
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=24255090"
 	},
 	{
 		"en": "Hen Harrier",
@@ -1033,7 +1106,8 @@
 		"genus": "Circus",
 		"smallImg": "../images/birds/HenHarrier (LQ).jpg",
 		"img": "../images/birds/HenHarrier.jpg",
-		"credit": "By Isle of Man Government - Hen Harrier, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=30598443"
+		"credit": "By Isle of Man Government - Hen Harrier, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=30598443"
 	},
 	{
 		"en": "Pallid Harrier",
@@ -1047,7 +1121,8 @@
 		"genus": "Circus",
 		"smallImg": "../images/birds/PallidHarrier (LQ).jpg",
 		"img": "../images/birds/PallidHarrier.jpg",
-		"credit": "By (c) Anton Labachou, some rights reserved (CC BY) - https://www.inaturalist.org/photos/389994827, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=149454162"
+		"credit": "By (c) Anton Labachou, some rights reserved (CC BY) - https://www.inaturalist.org/photos/389994827, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=149454162"
 	},
 	{
 		"en": "Montagu's Harrier",
@@ -1061,7 +1136,8 @@
 		"genus": "Circus",
 		"smallImg": "../images/birds/MontagusHarrier (LQ).jpg",
 		"img": "../images/birds/MontagusHarrier.jpg",
-		"credit": "By Sumeetmoghe - This photograph was taken with a Canon EOS R5 by u:Sumeetmoghe., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148609285"
+		"credit": "By Sumeetmoghe - This photograph was taken with a Canon EOS R5 by u:Sumeetmoghe., CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=148609285"
 	},
 	{
 		"en": "Eurasian Sparrowhawk",
@@ -1075,7 +1151,8 @@
 		"genus": "Accipiter",
 		"smallImg": "../images/birds/EurasianSparrowhawk (LQ).jpg",
 		"img": "../images/birds/EurasianSparrowhawk.jpg",
-		"credit": "By Pierre Dalous - File:Accnis.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27184634"
+		"credit": "By Pierre Dalous - File:Accnis.jpg, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=27184634"
 	},
 	{
 		"en": "Common Buzzard",
@@ -1089,7 +1166,8 @@
 		"genus": "Buteo",
 		"smallImg": "../images/birds/CommonBuzzard (LQ).jpg",
 		"img": "../images/birds/CommonBuzzard.jpg",
-		"credit": "By Arend from Oosterhout, Netherlands - BuizerdUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18758055"
+		"credit": "By Arend from Oosterhout, Netherlands - BuizerdUploaded by snowmanradio, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=18758055"
 	},
 	{
 		"en": "Long-Legged Buzzard",
@@ -1103,7 +1181,8 @@
 		"genus": "Buteo",
 		"smallImg": "../images/birds/LongLeggedBuzzard (LQ).jpg",
 		"img": "../images/birds/LongLeggedBuzzard.jpg",
-		"credit": "By Koshy Koshy from Faridabad, Haryana, India - Long-legged Buzzard, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=74742757"
+		"credit": "By Koshy Koshy from Faridabad, Haryana, India - Long-legged Buzzard, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=74742757"
 	},
 	{
 		"en": "Rough-Legged Buzzard",
@@ -1117,7 +1196,8 @@
 		"genus": "Buteo",
 		"smallImg": "../images/birds/RoughLeggedBuzzard (LQ).jpg",
 		"img": "../images/birds/RoughLeggedBuzzard.jpg",
-		"credit": "By Walter Siegmund (talk) - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3408643"
+		"credit": "By Walter Siegmund (talk) - Own work, CC BY 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=3408643"
 	},
 	{
 		"en": "Lesser Spotted Eagle",
@@ -1131,7 +1211,8 @@
 		"genus": "Clanga",
 		"smallImg": "../images/birds/LesserSpottedEagle (LQ).jpg",
 		"img": "../images/birds/LesserSpottedEagle.jpg",
-		"credit": "By Wolbrum avner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52529734"
+		"credit": "By Wolbrum avner - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=52529734"
 	},
 	{
 		"en": "Golden Eagle",
@@ -1145,7 +1226,8 @@
 		"genus": "Aquila",
 		"smallImg": "../images/birds/GoldenEagle (LQ).jpg",
 		"img": "../images/birds/GoldenEagle.jpg",
-		"credit": "By J. Glover (AUTiger). Please attribute to J. Glover - Atlanta, Georgia in usage outside of Wikimedia Foundation Projects. - en.wikipedia, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=81854"
+		"credit": "By J. Glover (AUTiger). Please attribute to J. Glover - Atlanta, Georgia in usage outside of Wikimedia Foundation Projects. - en.wikipedia, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=81854"
 	},
 	{
 		"en": "Booted Eagle",
@@ -1159,7 +1241,8 @@
 		"genus": "Hieraaetus",
 		"smallImg": "../images/birds/BootedEagle (LQ).jpg",
 		"img": "../images/birds/BootedEagle.jpg",
-		"credit": "By Johnsonwang6688 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108286268"
+		"credit": "By Johnsonwang6688 - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=108286268"
 	},
 	{
 		"en": "Osprey",
@@ -1173,7 +1256,8 @@
 		"genus": "Pandion",
 		"smallImg": "../images/birds/Osprey (LQ).jpg",
 		"img": "../images/birds/Osprey.jpg",
-		"credit": "By Calistemon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155135815"
+		"credit": "By Calistemon - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=155135815"
 	},
 	{
 		"en": "Lesser Kestrel",
@@ -1187,7 +1271,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/LesserKestrel (LQ).jpg",
 		"img": "../images/birds/LesserKestrel.jpg",
-		"credit": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98575880"
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=98575880"
 	},
 	{
 		"en": "Common Kestrel",
@@ -1201,7 +1286,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/CommonKestrel (LQ).jpg",
 		"img": "../images/birds/CommonKestrel.jpg",
-		"credit": "By Juan Emilio from Las Palmas de Gran Canaria, España - Cernicalo vulgar (Falco tinnunculus canariensis)♂Uploaded by Snowmanradio, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12319027"
+		"credit": "By Juan Emilio from Las Palmas de Gran Canaria, España - Cernicalo vulgar (Falco tinnunculus canariensis)♂Uploaded by Snowmanradio, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=12319027"
 	},
 	{
 		"en": "American Kestrel",
@@ -1215,7 +1301,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/AmericanKestrel (LQ).jpg",
 		"img": "../images/birds/AmericanKestrel.jpg",
-		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47655438"
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=47655438"
 	},
 	{
 		"en": "Red-Footed Falcon",
@@ -1229,7 +1316,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/RedFootedFalcon (LQ).jpg",
 		"img": "../images/birds/RedFootedFalcon.jpg",
-		"credit": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12694177"
+		"credit": "By Martin Mecnarowski (http://www.photomecan.eu/) - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=12694177"
 	},
 	{
 		"en": "Merlin",
@@ -1243,7 +1331,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/Merlin (LQ).jpg",
 		"img": "../images/birds/Merlin.jpg",
-		"credit": "By caroline legg - Merlin -Falco columbarius, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=145896940"
+		"credit": "By caroline legg - Merlin -Falco columbarius, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=145896940"
 	},
 	{
 		"en": "Eurasian Hobby",
@@ -1257,7 +1346,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/EurasianHobby (LQ).jpg",
 		"img": "../images/birds/EurasianHobby.jpg",
-		"credit": "By Shantanu Kuveskar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111860073"
+		"credit": "By Shantanu Kuveskar - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=111860073"
 	},
 	{
 		"en": "Eleonora's Falcon",
@@ -1271,7 +1361,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/EleonorasFalcon (LQ).jpg",
 		"img": "../images/birds/EleonorasFalcon.jpg",
-		"credit": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - La Conselleria de Medi Ambient i Mobilitat amplia la Zona d'Especial Protecció per a les Aus de s'Albufera de Mallorca, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15139074"
+		"credit": "By Conselleria de Medi Ambient i Mobilitat, Govern des Illes Balears - La Conselleria de Medi Ambient i Mobilitat amplia la Zona d'Especial Protecció per a les Aus de s'Albufera de Mallorca, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=15139074"
 	},
 	{
 		"en": "Sooty Falcon",
@@ -1285,7 +1376,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/SootyFalcon (LQ).jpg",
 		"img": "../images/birds/SootyFalcon.jpg",
-		"credit": "By Frank Vassen - Flickr: Sooty Falcon, Allée des Baobabs near Morondava, Madagascar, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=14461738"
+		"credit": "By Frank Vassen - Flickr: Sooty Falcon, Allée des Baobabs near Morondava, Madagascar, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=14461738"
 	},
 	{
 		"en": "Lanner Falcon",
@@ -1299,7 +1391,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/LannerFalcon (LQ).jpg",
 		"img": "../images/birds/LannerFalcon.jpg",
-		"credit": "By Bernard DUPONT from FRANCE - Lanner Falcon (Falco biarmicus) after a foot bath ..., CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=74758511"
+		"credit": "By Bernard DUPONT from FRANCE - Lanner Falcon (Falco biarmicus) after a foot bath ..., CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=74758511"
 	},
 	{
 		"en": "Saker Falcon",
@@ -1313,7 +1406,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/SakerFalcon (LQ).jpg",
 		"img": "../images/birds/SakerFalcon.jpg",
-		"credit": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17035991"
+		"credit": "By DickDaniels (http://theworldbirds.org/) - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=17035991"
 	},
 	{
 		"en": "Peregrine Falcon",
@@ -1327,7 +1421,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/PeregrineFalcon (LQ).jpg",
 		"img": "../images/birds/PeregrineFalcon.jpg",
-		"credit": "By Sumeet Moghe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102038195"
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=102038195"
 	},
 	{
 		"en": "Barbary Falcon",
@@ -1341,7 +1436,8 @@
 		"genus": "Falco",
 		"smallImg": "../images/birds/BarbaryFalcon (LQ).jpg",
 		"img": "../images/birds/BarbaryFalcon.jpg",
-		"credit": "By Frank Vassen - Flickr: Barbary Falcon, \"El Rubicón\" plains, Lanzarote, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18526340"
+		"credit": "By Frank Vassen - Flickr: Barbary Falcon, \"El Rubicón\" plains, Lanzarote, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=18526340"
 	},
 	{
 		"en": "Common Quail",
@@ -1355,7 +1451,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/CommonQuail (LQ).jpg",
 		"img": "../images/birds/CommonQuail.jpg",
-		"credit": "By christoph_moning - https://www.inaturalist.org/photos/93239255, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=127002883"
+		"credit": "By christoph_moning - https://www.inaturalist.org/photos/93239255, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=127002883"
 	},
 	{
 		"en": "Water Rail",
@@ -1369,7 +1466,8 @@
 		"genus": "Coturnix",
 		"smallImg": "../images/birds/WaterRail (LQ).jpg",
 		"img": "../images/birds/WaterRail.jpg",
-		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=117594481"
+		"credit": "By Alexis Lours - Own work, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=117594481"
 	},
 	{
 		"en": "Spotted Crake",
@@ -1383,7 +1481,8 @@
 		"genus": "Porzana",
 		"smallImg": "../images/birds/SpottedCrake (LQ).jpg",
 		"img": "../images/birds/SpottedCrake.jpg",
-		"credit": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79210"
+		"credit": "CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=79210"
 	},
 	{
 		"en": "Little Crake",
@@ -1397,7 +1496,8 @@
 		"genus": "Zapornia",
 		"smallImg": "../images/birds/LittleCrake (LQ).jpg",
 		"img": "../images/birds/LittleCrake.jpg",
-		"credit": "By ΝΙΚΟΣ ΣΑΜΑΡΙΤΑΚΗΣ from CHANIA, GREECE - Porzana parva (50), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17764549"
+		"credit": "By ΝΙΚΟΣ ΣΑΜΑΡΙΤΑΚΗΣ from CHANIA, GREECE - Porzana parva (50), CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=17764549"
 	},
 	{
 		"en": "Baillon's Crake",
@@ -1411,7 +1511,8 @@
 		"genus": "Zapornia",
 		"smallImg": "../images/birds/BaillonsCrake (LQ).jpg",
 		"img": "../images/birds/BaillonsCrake.jpg",
-		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82409147"
+		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=82409147"
 	},
 	{
 		"en": "Corn Crake",
@@ -1425,7 +1526,8 @@
 		"genus": "Crex",
 		"smallImg": "../images/birds/CornCrake (LQ).jpg",
 		"img": "../images/birds/CornCrake.jpg",
-		"credit": "By Alpo Roikola - Own work by the original uploader, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=132715911"
+		"credit": "By Alpo Roikola - Own work by the original uploader, CC BY 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=132715911"
 	},
 	{
 		"en": "Striped Crake",
@@ -1439,7 +1541,8 @@
 		"genus": "Aenigmatolimnas",
 		"smallImg": "../images/birds/StripedCrake (LQ).jpg",
 		"img": "../images/birds/StripedCrake.jpg",
-		"credit": "By Dylan Vasapolli - Birding Ecotours - Kruger NP--Punda Maria Camp (general vicinity and night drive, please be more specific), Limpopo, South Africa - 26 Dec 2020"
+		"credit": "By Maans Booysen, Birding Weto - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=56669214"
 	},
 	{
 		"en": "Common Moorhen",
@@ -1453,7 +1556,8 @@
 		"genus": "Gallinula",
 		"smallImg": "../images/birds/CommonMoorhen (LQ).jpg",
 		"img": "../images/birds/CommonMoorhen.jpg",
-		"credit": "By Alexis Lours - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=113179548"
+		"credit": "By Alexis Lours - Own work, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=113179548"
 	},
 	{
 		"en": "Allen's Gallinule",
@@ -1467,7 +1571,8 @@
 		"genus": "Porphyrio",
 		"smallImg": "../images/birds/AllensGallinule (LQ).jpg",
 		"img": "../images/birds/AllensGallinule.jpg",
-		"credit": "By Martien Brand from Mariënberg, The Netherlands - 37907 Afrikaans Purperhoen / Allen's Gallinule, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9732844"
+		"credit": "By Martien Brand from Mariënberg, The Netherlands - 37907 Afrikaans Purperhoen / Allen's Gallinule, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=9732844"
 	},
 	{
 		"en": "American Purple Gallinule",
@@ -1481,7 +1586,8 @@
 		"genus": "Porphyrio",
 		"smallImg": "../images/birds/AmericanPurpleGallinule (LQ).jpg",
 		"img": "../images/birds/AmericanPurpleGallinule.jpg",
-		"credit": "By JeffreyGammon - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=158156488"
+		"credit": "By JeffreyGammon - Own work, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=158156488"
 	},
 	{
 		"en": "Western Swamphen",
@@ -1495,7 +1601,8 @@
 		"genus": "Porphyrio",
 		"smallImg": "../images/birds/WesternSwamphen (LQ).jpg",
 		"img": "../images/birds/WesternSwamphen.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62554717"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=62554717"
 	},
 	{
 		"en": "Eurasian Coot",
@@ -1509,7 +1616,8 @@
 		"genus": "Fulica",
 		"smallImg": "../images/birds/EurasianCoot (LQ).jpg",
 		"img": "../images/birds/EurasianCoot.jpg",
-		"credit": "By Dion Art - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131907877"
+		"credit": "By Dion Art - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=131907877"
 	},
 	{
 		"en": "Red-Knobbed Coot",
@@ -1523,7 +1631,8 @@
 		"genus": "Fulica",
 		"smallImg": "../images/birds/RedKnobbedCoot (LQ).jpg",
 		"img": "../images/birds/RedKnobbedCoot.jpg",
-		"credit": "By shi zhao - originally posted to Flickr as DSC_2547, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=9873981"
+		"credit": "By shi zhao - originally posted to Flickr as DSC_2547, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=9873981"
 	},
 	{
 		"en": "Common Crane",
@@ -1537,7 +1646,8 @@
 		"genus": "Grus",
 		"smallImg": "../images/birds/CommonCrane (LQ).jpg",
 		"img": "../images/birds/CommonCrane.jpg",
-		"credit": "By Вых Пыхманн - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28210248"
+		"credit": "By Вых Пыхманн - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=28210248"
 	},
 	{
 		"en": "Demoiselle Crane",
@@ -1551,7 +1661,8 @@
 		"genus": "Grus",
 		"smallImg": "../images/birds/DemoiselleCrane (LQ).jpg",
 		"img": "../images/birds/DemoiselleCrane.jpg",
-		"credit": "By Sumeet Moghe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31029537"
+		"credit": "By Sumeet Moghe - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=31029537"
 	},
 	{
 		"en": "Little Bustard",
@@ -1565,7 +1676,8 @@
 		"genus": "Tetrax",
 		"smallImg": "../images/birds/LittleBustard (LQ).jpg",
 		"img": "../images/birds/LittleBustard.jpg",
-		"credit": "By Francesco Veronesi, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=72739189"
+		"credit": "By Francesco Veronesi, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=72739189"
 	},
 	{
 		"en": "Houbara Bustard",
@@ -1579,7 +1691,8 @@
 		"genus": "Chlamydotis",
 		"smallImg": "../images/birds/HoubaraBustard (LQ).jpg",
 		"img": "../images/birds/HoubaraBustard.jpg",
-		"credit": "By Jimfbleak - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5116662"
+		"credit": "By Jimfbleak - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=5116662"
 	},
 	{
 		"en": "Great Bustard",
@@ -1593,7 +1706,8 @@
 		"genus": "Otis",
 		"smallImg": "../images/birds/GreatBustard (LQ).jpg",
 		"img": "../images/birds/GreatBustard.jpg",
-		"credit": "By zh:User:Snowyowls - Photo taken at Beijing Zoo, and uploaded to zh.wikipedia 23:08, 27. Jan 2005 2005 by zh:User:Snowyowls. Moved to the Commons by User:ONAR. Link to original file zh:Image:Dabao.jpg, CC BY-SA 1.0, https://commons.wikimedia.org/w/index.php?curid=657696"
+		"credit": "By zh:User:Snowyowls - Photo taken at Beijing Zoo, and uploaded to zh.wikipedia 23:08, 27. Jan 2005 2005 by zh:User:Snowyowls. Moved to the Commons by User:ONAR. Link to original file zh:Image:Dabao.jpg, CC BY-SA 1.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=657696"
 	},
 	{
 		"en": "Eurasian Oystercatcher",
@@ -1607,7 +1721,8 @@
 		"genus": "Haematopus",
 		"smallImg": "../images/birds/EurasianOystercatcher (LQ).jpg",
 		"img": "../images/birds/EurasianOystercatcher.jpg",
-		"credit": "By Diliff - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33722173"
+		"credit": "By Diliff - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=33722173"
 	},
 	{
 		"en": "Black-Winged Stilt",
@@ -1621,7 +1736,8 @@
 		"genus": "Himantopus",
 		"smallImg": "../images/birds/BlackWingedStilt (LQ).jpg",
 		"img": "../images/birds/BlackWingedStilt.jpg",
-		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37066105"
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=37066105"
 	},
 	{
 		"en": "Pied Avocet",
@@ -1635,7 +1751,8 @@
 		"genus": "Recurvirostra",
 		"smallImg": "../images/birds/PiedAvocet (LQ).jpg",
 		"img": "../images/birds/PiedAvocet.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=10610115"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=10610115"
 	},
 	{
 		"en": "Eurasian Stone-Curlew",
@@ -1649,7 +1766,8 @@
 		"genus": "Burhinus",
 		"smallImg": "../images/birds/EurasianStoneCurlew (LQ).jpg",
 		"img": "../images/birds/EurasianStoneCurlew.jpg",
-		"credit": "By Frank Vassen from Brussels, Belgium - Eurasian Stone-curlew (Eastern Canary Island sub-species), Tao, Lanzarote, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25498784"
+		"credit": "By Frank Vassen from Brussels, Belgium - Eurasian Stone-curlew (Eastern Canary Island sub-species), Tao, Lanzarote, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=25498784"
 	},
 	{
 		"en": "Cream-Coloured Courser",
@@ -1663,7 +1781,8 @@
 		"genus": "Cursorius",
 		"smallImg": "../images/birds/CreamColouredCourser (LQ).jpg",
 		"img": "../images/birds/CreamColouredCourser.jpg",
-		"credit": "By Mohamed Sabry Photographer - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133184655"
+		"credit": "By Mohamed Sabry Photographer - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=133184655"
 	},
 	{
 		"en": "Collared Pratincole",
@@ -1677,7 +1796,8 @@
 		"genus": "Glareola",
 		"smallImg": "../images/birds/CollaredPratincole (LQ).jpg",
 		"img": "../images/birds/CollaredPratincole.jpg",
-		"credit": "By Steve Garvie (rainbirder) - https://www.flickr.com/photos/rainbirder/14712594973/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35853456"
+		"credit": "By Steve Garvie (rainbirder) - https://www.flickr.com/photos/rainbirder/14712594973/, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=35853456"
 	},
 	{
 		"en": "Little Ringed Plover",
@@ -1691,7 +1811,8 @@
 		"genus": "Charadrius",
 		"smallImg": "../images/birds/LittleRingedPlover (LQ).jpg",
 		"img": "../images/birds/LittleRingedPlover.jpg",
-		"credit": "By Stephan Sprinz - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=139992181"
+		"credit": "By Stephan Sprinz - Own work, CC BY 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=139992181"
 	},
 	{
 		"en": "Common Ringed Plover",
@@ -1705,7 +1826,8 @@
 		"genus": "Charadrius",
 		"smallImg": "../images/birds/CommonRingedPlover (LQ).jpg",
 		"img": "../images/birds/CommonRingedPlover.jpg",
-		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134506685"
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=134506685"
 	},
 	{
 		"en": "Kentish Plover",
@@ -1719,7 +1841,8 @@
 		"genus": "Anarhynchus",
 		"smallImg": "../images/birds/KentishPlover (LQ).jpg",
 		"img": "../images/birds/KentishPlover.jpg",
-		"credit": "By Original: Davidvraju, edit: MPF - File:Kentish Plover David Raju.jpg, cropped, colour adjusted, & flipped left-right for taxobox use, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69423533"
+		"credit": "By Original: Davidvraju, edit: MPF - File:Kentish Plover David Raju.jpg, cropped, colour adjusted, & flipped left-right for taxobox use, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=69423533"
 	},
 	{
 		"en": "Greater Sand Plover",
@@ -1733,7 +1856,8 @@
 		"genus": "Anarhynchus",
 		"smallImg": "../images/birds/GreaterSandPlover (LQ).jpg",
 		"img": "../images/birds/GreaterSandPlover.jpg",
-		"credit": "By MPF - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150849518"
+		"credit": "By MPF - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=150849518"
 	},
 	{
 		"en": "Caspian Plover",
@@ -1747,7 +1871,8 @@
 		"genus": "Anarhynchus",
 		"smallImg": "../images/birds/CaspianPlover (LQ).jpg",
 		"img": "../images/birds/CaspianPlover.jpg",
-		"credit": "By Kudaibergen Amirekul - https://www.inaturalist.org/photos/206737679, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125969795"
+		"credit": "By Kudaibergen Amirekul - https://www.inaturalist.org/photos/206737679, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=125969795"
 	},
 	{
 		"en": "Eurasian Dotterel",
@@ -1761,7 +1886,8 @@
 		"genus": "Eudromias",
 		"smallImg": "../images/birds/EurasianDotterel (LQ).jpg",
 		"img": "../images/birds/EurasianDotterel.jpg",
-		"credit": "CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=786138"
+		"credit": "CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=786138"
 	},
 	{
 		"en": "Pacific Golden Plover",
@@ -1775,7 +1901,8 @@
 		"genus": "Pluvialis",
 		"smallImg": "../images/birds/PacificGoldenPlover (LQ).jpg",
 		"img": "../images/birds/PacificGoldenPlover.jpg",
-		"credit": "By Bering Land Bridge National Preserve - Pacific Golden PloverUploaded by snowmanradio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=21870271"
+		"credit": "By Bering Land Bridge National Preserve - Pacific Golden PloverUploaded by snowmanradio, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=21870271"
 	},
 	{
 		"en": "European Golden Plover",
@@ -1789,7 +1916,8 @@
 		"genus": "Pluvialis",
 		"smallImg": "../images/birds/EuropeanGoldenPlover (LQ).jpg",
 		"img": "../images/birds/EuropeanGoldenPlover.jpg",
-		"credit": "By Andrej Chudý from Slovakia - Kulík zlatý (Pluvialis apricaria)_a, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39987810"
+		"credit": "By Andrej Chudý from Slovakia - Kulík zlatý (Pluvialis apricaria)_a, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=39987810"
 	},
 	{
 		"en": "Grey Plover",
@@ -1803,7 +1931,8 @@
 		"genus": "Pluvialis",
 		"smallImg": "../images/birds/GreyPlover (LQ).jpg",
 		"img": "../images/birds/GreyPlover.png",
-		"credit": "By Chuck Homler, Focus On Wildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151390421"
+		"credit": "By Chuck Homler, Focus On Wildlife - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=151390421"
 	},
 	{
 		"en": "Spur-Winged Lapwing",
@@ -1817,7 +1946,8 @@
 		"genus": "Vanellus",
 		"smallImg": "../images/birds/SpurWingedLapwing (LQ).jpg",
 		"img": "../images/birds/SpurWingedLapwing.jpg",
-		"credit": "By Lip Kee from Singapore, Republic of Singapore - Spur-winged Lapwing (Vanellus spinosus), CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=48633238"
+		"credit": "By Lip Kee from Singapore, Republic of Singapore - Spur-winged Lapwing (Vanellus spinosus), CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=48633238"
 	},
 	{
 		"en": "Sociable Lapwing",
@@ -1831,7 +1961,8 @@
 		"genus": "Vanellus",
 		"smallImg": "../images/birds/SociableLapwing (LQ).jpg",
 		"img": "../images/birds/SociableLapwing.jpg",
-		"credit": "By Cks3976 - Photographed by mePreviously published: www.walkinthewild.net, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19046614"
+		"credit": "By Cks3976 - Photographed by mePreviously published: www.walkinthewild.net, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=19046614"
 	},
 	{
 		"en": "White-Tailed Lapwing",
@@ -1845,7 +1976,8 @@
 		"genus": "Vanellus",
 		"smallImg": "../images/birds/WhiteTailedLapwing (LQ).jpg",
 		"img": "../images/birds/WhiteTailedLapwing.jpg",
-		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65198894"
+		"credit": "By Charles J. Sharp - Own work, from Sharp Photography, sharpphotography.co.uk, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=65198894"
 	},
 	{
 		"en": "Northern Lapwing",
@@ -1859,7 +1991,8 @@
 		"genus": "Vanellus",
 		"smallImg": "../images/birds/NorthernLapwing (LQ).jpg",
 		"img": "../images/birds/NorthernLapwing.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=32486411"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=32486411"
 	},
 	{
 		"en": "Red Knot",
@@ -1873,7 +2006,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/RedKnot (LQ).jpg",
 		"img": "../images/birds/RedKnot.jpg",
-		"credit": "By Chuck Homler d/b/a Focus On Wildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69284157"
+		"credit": "By Chuck Homler d/b/a Focus On Wildlife - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=69284157"
 	},
 	{
 		"en": "Sanderling",
@@ -1887,7 +2021,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/Sanderling (LQ).jpg",
 		"img": "../images/birds/Sanderling.jpg",
-		"credit": "By Nosferattus - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=99661721"
+		"credit": "By Nosferattus - Own work, CC0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=99661721"
 	},
 	{
 		"en": "Little Stint",
@@ -1901,7 +2036,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/LittleStint (LQ).jpg",
 		"img": "../images/birds/LittleStint.jpg",
-		"credit": "By Lip Kee Yap - originally posted to Flickr as Little Stint (Calidris minuta), CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=5691489"
+		"credit": "By Lip Kee Yap - originally posted to Flickr as Little Stint (Calidris minuta), CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=5691489"
 	},
 	{
 		"en": "Temminck's Stint",
@@ -1915,7 +2051,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/TemmincksStint (LQ).jpg",
 		"img": "../images/birds/TemmincksStint.jpg",
-		"credit": "By Mildeep - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145309680"
+		"credit": "By Mildeep - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=145309680"
 	},
 	{
 		"en": "Pectoral Sandpiper",
@@ -1929,7 +2066,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/PectoralSandpiper (LQ).jpg",
 		"img": "../images/birds/PectoralSandpiper.jpg",
-		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5942806"
+		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=5942806"
 	},
 	{
 		"en": "Curlew Sandpiper",
@@ -1943,7 +2081,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/CurlewSandpiper (LQ).jpg",
 		"img": "../images/birds/CurlewSandpiper.jpg",
-		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24360331"
+		"credit": "By JJ Harrison (https://www.jjharrison.com.au/) - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=24360331"
 	},
 	{
 		"en": "Purple Sandpiper",
@@ -1957,7 +2096,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/PurpleSandpiper (LQ).jpg",
 		"img": "../images/birds/PurpleSandpiper.jpg",
-		"credit": "By Chuck Homler d/b/a Focus On Wildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=161519375"
+		"credit": "By Chuck Homler d/b/a Focus On Wildlife - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=161519375"
 	},
 	{
 		"en": "Dunlin",
@@ -1971,7 +2111,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/Dunlin (LQ).png",
 		"img": "../images/birds/Dunlin.png",
-		"credit": "By Charles Homler d/b/a FocusOnWildlife - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128322464"
+		"credit": "By Charles Homler d/b/a FocusOnWildlife - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=128322464"
 	},
 	{
 		"en": "Broad-Billed Sandpiper",
@@ -1985,7 +2126,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/BroadBilledSandpiper (LQ).jpg",
 		"img": "../images/birds/BroadBilledSandpiper.jpg",
-		"credit": "By Sreedev Puthur - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35459351"
+		"credit": "By Sreedev Puthur - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=35459351"
 	},
 	{
 		"en": "Buff-Breasted Sandpiper",
@@ -1999,7 +2141,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/BuffBreastedSandpiper (LQ).jpg",
 		"img": "../images/birds/BuffBreastedSandpiper.jpg",
-		"credit": "By Mario Suarez Porras, Mario Suárez Porras - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12878947"
+		"credit": "By Mario Suarez Porras, Mario Suárez Porras - Own work, CC BY-SA 3.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=12878947"
 	},
 	{
 		"en": "Ruff",
@@ -2013,7 +2156,8 @@
 		"genus": "Calidris",
 		"smallImg": "../images/birds/Ruff (LQ).jpg",
 		"img": "../images/birds/Ruff.jpg",
-		"credit": "By Arjan Haverkamp - originally posted to Flickr as 2009-05-22-14h06m00.IMG_9725l, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9141547"
+		"credit": "By Arjan Haverkamp - originally posted to Flickr as 2009-05-22-14h06m00.IMG_9725l, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=9141547"
 	},
 	{
 		"en": "Jack Snipe",
@@ -2027,7 +2171,8 @@
 		"genus": "Lymnocryptes",
 		"smallImg": "../images/birds/JackSnipe (LQ).png",
 		"img": "../images/birds/JackSnipe.png",
-		"credit": "By Morhaf kamal aljanee - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138582472"
+		"credit": "By Morhaf kamal aljanee - Own work, CC BY-SA 4.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=138582472"
 	},
 	{
 		"en": "Common Snipe",
@@ -2041,7 +2186,8 @@
 		"genus": "Gallinago",
 		"smallImg": "../images/birds/CommonSnipe (LQ).jpg",
 		"img": "../images/birds/CommonSnipe.jpg",
-		"credit": "By Hobbyfotowiki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=75092178"
+		"credit": "By Hobbyfotowiki - Own work, CC0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=75092178"
 	},
 	{
 		"en": "Great Snipe",
@@ -2055,7 +2201,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatSnipe.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Woodcock",
@@ -2069,7 +2216,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Woodcock.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black-tailed Godwit",
@@ -2083,7 +2231,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-tailedGodwit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Bar-Tailed Godwit",
@@ -2097,7 +2246,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bar-TailedGodwit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Whimbrel",
@@ -2111,7 +2261,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Whimbrel.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Slender Billed Curlew",
@@ -2125,7 +2276,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SlenderBilledCurlew.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Eurasian Curlew",
@@ -2139,7 +2291,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EurasianCurlew.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Upland Sandpiper",
@@ -2153,7 +2306,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/UplandSandpiper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Spotted Redshank",
@@ -2167,7 +2321,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpottedRedshank.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Redshank",
@@ -2181,7 +2336,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRedshank.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Marsh Sandpiper",
@@ -2195,7 +2351,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MarshSandpiper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Greenshank",
@@ -2209,7 +2366,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Greenshank.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Green Sandpiper",
@@ -2223,7 +2381,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreenSandpiper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Wood Sandpiper",
@@ -2237,7 +2396,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodSandpiper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Terek Sandpiper",
@@ -2251,7 +2411,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TerekSandpiper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Sandpiper",
@@ -2265,7 +2426,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonSandpiper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Turnstone",
@@ -2279,7 +2441,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Turnstone.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Red-Necked Phalarope",
@@ -2293,7 +2456,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-NeckedPhalarope.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Grey Phalarope",
@@ -2307,7 +2471,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreyPhalarope.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Pomarine Skua",
@@ -2321,7 +2486,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PomarineSkua.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Arctic Skua",
@@ -2335,7 +2501,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ArcticSkua.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Long-Tailed Skua",
@@ -2349,7 +2516,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Long-TailedSkua.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Great Skua",
@@ -2363,7 +2531,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatSkua.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Great Black-Headed Gull",
@@ -2377,7 +2546,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatBlack-HeadedGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Mediterranean Gull",
@@ -2391,7 +2561,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MediterraneanGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Little Gull",
@@ -2405,7 +2576,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black-headed Gull",
@@ -2419,7 +2591,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-headedGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Slender-billed Gull",
@@ -2433,7 +2606,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Slender-billedGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Audouin's Gull",
@@ -2447,7 +2621,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AudouinsGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Gull",
@@ -2461,7 +2636,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Lesser Black-Backed Gull",
@@ -2475,7 +2651,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserBlack-BackedGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Herring Gull",
@@ -2489,7 +2666,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HerringGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Yellow Legged Gull",
@@ -2503,7 +2681,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/YellowLeggedGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Caspian Gull",
@@ -2517,7 +2696,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CaspianGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Glaucous Gull",
@@ -2531,7 +2711,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GlaucousGull.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Kittiwake",
@@ -2545,7 +2726,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Kittiwake.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Gull-Billed Tern",
@@ -2559,7 +2741,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Gull-BilledTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Caspian Tern",
@@ -2573,7 +2756,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CaspianTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Sandwich Tern",
@@ -2587,7 +2771,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SandwichTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Roseate Tern",
@@ -2601,7 +2786,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RoseateTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Tern",
@@ -2615,7 +2801,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Arctic Tern",
@@ -2629,7 +2816,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ArcticTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Little Tern",
@@ -2643,7 +2831,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Whiskered Tern",
@@ -2657,7 +2846,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiskeredTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black Tern",
@@ -2671,7 +2861,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "White-Winged Black Tern",
@@ -2685,7 +2876,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/White-WingedBlackTern.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Guillemot",
@@ -2699,7 +2891,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonGuillemot.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Razorbill",
@@ -2713,7 +2906,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Razorbill.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Murre",
@@ -2727,7 +2921,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonMurre.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Little Auk",
@@ -2741,7 +2936,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleAuk.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Atlantic Puffin",
@@ -2755,7 +2951,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Puffin.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black-Bellied Sandgrouse",
@@ -2769,7 +2966,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-BelliedSandgrouse.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Pin-Tailed Sandgrouse",
@@ -2783,7 +2981,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Pin-TailedSandgrouse.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rock Dove",
@@ -2797,7 +2996,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockDove.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Stock Dove",
@@ -2811,7 +3011,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/StockDove.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Wood Pigeon",
@@ -2825,7 +3026,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodPigeon.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Collared Dove",
@@ -2839,7 +3041,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CollaredDove.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Turtle Dove",
@@ -2853,7 +3056,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TurtleDove.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Laughing Dove",
@@ -2867,7 +3071,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LaughingDove.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Great Spotted Cuckoo",
@@ -2881,7 +3086,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatSpottedCuckoo.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Cuckoo",
@@ -2895,7 +3101,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonCuckoo.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Barn Owl",
@@ -2909,7 +3116,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BarnOwl.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Scops Owl",
@@ -2923,7 +3131,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ScopsOwl.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Little Owl",
@@ -2937,7 +3146,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleOwl.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Long Eared Owl",
@@ -2951,7 +3161,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LongEaredOwl.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Short Eared Owl",
@@ -2965,7 +3176,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ShortEaredOwl.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "European Nightjar",
@@ -2979,7 +3191,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EuropeanNightjar.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Red-Necked Nightjar",
@@ -2993,7 +3206,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-NeckedNightjar.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Egyptian Nightjar",
@@ -3007,7 +3221,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EgyptianNightjar.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "White-Throated Needletailed Swift",
@@ -3021,7 +3236,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/White-ThroatedNeedletailedSwift.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Alpine Swift",
@@ -3035,7 +3251,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AlpineSwift.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Swift",
@@ -3049,7 +3266,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonSwift.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Pallid Swift",
@@ -3063,7 +3281,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PallidSwift.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "White Rumped Swift",
@@ -3077,7 +3296,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteRumpedSwift.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Little Swift",
@@ -3091,7 +3311,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleSwift.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Kingfisher",
@@ -3105,7 +3326,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Kingfisher.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Bee-Eater",
@@ -3119,7 +3341,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bee-Eater.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Blue Cheeked Bee Eater",
@@ -3133,7 +3356,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlueCheekedBeeEater.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Roller",
@@ -3147,7 +3371,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Roller.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Hoopoe",
@@ -3161,7 +3386,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Hoopoe.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Wryneck",
@@ -3175,7 +3401,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Wryneck.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Green Woodpecker",
@@ -3189,7 +3416,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreenWoodpecker.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Bar-tailed Lark",
@@ -3203,7 +3431,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bar-tailedLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Hoopoe Lark",
@@ -3217,7 +3446,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HoopoeLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Dupont's Lark",
@@ -3231,7 +3461,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DupontsLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Calandra Lark",
@@ -3245,7 +3476,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CalandraLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "White Winged Lark",
@@ -3259,7 +3491,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteWingedLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black Lark",
@@ -3273,7 +3506,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Short-toed Lark",
@@ -3287,7 +3521,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Short-toedLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Lesser Short-toed Lark",
@@ -3301,7 +3536,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserShort-toedLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Crested Lark",
@@ -3315,7 +3551,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CrestedLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Wood Lark",
@@ -3329,7 +3566,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Sky Lark",
@@ -3343,7 +3581,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SkyLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Shore Lark",
@@ -3357,7 +3596,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ShoreLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Teminck's Lark",
@@ -3371,7 +3611,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TemincksLark.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Sand Martin",
@@ -3385,7 +3626,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SandMartin.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Crag Martin",
@@ -3399,7 +3641,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CragMartin.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Barn Swallow",
@@ -3413,7 +3656,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BarnSwallow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Red-rumped Swallow",
@@ -3427,7 +3671,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-rumpedSwallow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "House Martin",
@@ -3441,7 +3686,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HouseMartin.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Richard's Pipit",
@@ -3455,7 +3701,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RichardsPipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Tawny Pipit",
@@ -3469,7 +3716,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TawnyPipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Olive-Backed Pipit",
@@ -3483,7 +3731,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Olive-BackedPipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Tree Pipit",
@@ -3497,7 +3746,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TreePipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Meadow Pipit",
@@ -3511,7 +3761,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MeadowPipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Red-Throated pipit",
@@ -3525,7 +3776,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-Throatedpipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Water Pipit",
@@ -3539,7 +3791,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WaterPipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rock Pipit",
@@ -3553,7 +3806,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockPipit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Yellow Wagtail",
@@ -3567,7 +3821,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/YellowWagtail.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Grey Wagtail",
@@ -3581,7 +3836,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreyWagtail.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "White Wagtail",
@@ -3595,7 +3851,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteWagtail.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Waxwing",
@@ -3609,7 +3866,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Waxwing.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Dipper",
@@ -3623,7 +3881,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Dipper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Wren",
@@ -3637,7 +3896,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Wren.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Dunnock",
@@ -3651,7 +3911,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Dunnock.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Alpine Accentor",
@@ -3665,7 +3926,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AlpineAccentor.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rufous Bush Chat",
@@ -3679,7 +3941,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RufousBushChat.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Robin",
@@ -3693,7 +3956,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Robin.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Nightingale",
@@ -3707,7 +3971,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonNightingale.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Thrush Nightingale",
@@ -3721,7 +3986,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ThrushNightingale.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Siberian Rubythroat",
@@ -3735,7 +4001,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SiberianRubythroat.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Bluethroat",
@@ -3749,7 +4016,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bluethroat.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black Redstart",
@@ -3763,7 +4031,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackRedstart.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Redstart",
@@ -3777,7 +4046,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRedstart.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Moussier's Redstart",
@@ -3791,7 +4061,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MoussiersRedstart.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Whinchat",
@@ -3805,7 +4076,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Whinchat.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Stonechat",
@@ -3819,7 +4091,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonStonechat.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Northern Wheatear",
@@ -3833,7 +4106,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/NorthernWheatear.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Isabelline Wheatear",
@@ -3847,7 +4121,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/IsabellineWheatear.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Pied Wheatear",
@@ -3861,7 +4136,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PiedWheatear.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black-Eared Wheatear",
@@ -3875,7 +4151,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-EaredWheatear.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Desert Wheatear",
@@ -3889,7 +4166,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DesertWheatear.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "White Crowned Black Wheatear",
@@ -3903,7 +4181,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WhiteCrownedBlackWheatear.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black Wheatear",
@@ -3917,7 +4196,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlackWheatear.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rock Thrush",
@@ -3931,7 +4211,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockThrush.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Blue Rock Thrush",
@@ -3945,7 +4226,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlueRockThrush.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Siberian Trush",
@@ -3959,7 +4241,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SiberianTrush.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Ring Ouzel",
@@ -3973,7 +4256,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RingOuzel.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Blackbird",
@@ -3987,7 +4271,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Blackbird.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Eyebrowed Trush",
@@ -4001,7 +4286,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EyebrowedTrush.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Fieldfare",
@@ -4015,7 +4301,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Fieldfare.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Song Thrush",
@@ -4029,7 +4316,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SongThrush.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Redwing",
@@ -4043,7 +4331,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Redwing.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Mistle Trush",
@@ -4057,7 +4346,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MistleTrush.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Cetti's Warbler",
@@ -4071,7 +4361,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CettisWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Zitting Cisticola",
@@ -4085,7 +4376,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ZittingCisticola.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Grasshopper Warbler",
@@ -4099,7 +4391,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GrasshopperWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "River Warbler",
@@ -4113,7 +4406,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RiverWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Savi's Warbler",
@@ -4127,7 +4421,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SavisWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Moustached Warbler",
@@ -4141,7 +4436,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MoustachedWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Aquatic Warbler",
@@ -4155,7 +4451,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AquaticWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Sedge Warbler",
@@ -4169,7 +4466,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SedgeWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Paddyfield Warbler",
@@ -4183,7 +4481,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PaddyfieldWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Blyth's Reed Warbler",
@@ -4197,7 +4496,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlythsReedWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Marsh Warbler",
@@ -4211,7 +4511,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MarshWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Reed Warbler",
@@ -4225,7 +4526,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ReedWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Great Reed Warbler",
@@ -4239,7 +4541,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatReedWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Eastern Olivaceous Warbler",
@@ -4253,7 +4556,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EasternOlivaceousWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Western Olivaceous Warbler",
@@ -4267,7 +4571,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternOlivaceousWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Icterine Warbler",
@@ -4281,7 +4586,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/IcterineWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Melodious Warbler",
@@ -4295,7 +4601,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MelodiousWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Blackcap",
@@ -4309,7 +4616,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Blackcap.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Garden Warbler",
@@ -4323,7 +4631,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GardenWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Barred Warbler",
@@ -4337,7 +4646,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BarredWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Lesser Whitethroat",
@@ -4351,7 +4661,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserWhitethroat.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Western Orphean Warbler",
@@ -4365,7 +4676,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternOrpheanWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Eastern Orphean Warbler",
@@ -4379,7 +4691,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EasternOrpheanWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "African Desert Warbler",
@@ -4393,7 +4706,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/AfricanDesertWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Whitethroat",
@@ -4407,7 +4721,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonWhitethroat.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Dartford Warbler",
@@ -4421,7 +4736,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DartfordWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Marmora's Warbler",
@@ -4435,7 +4751,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MarmorasWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Tristram's Warbler",
@@ -4449,7 +4766,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TristramsWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Spectacled Warbler",
@@ -4463,7 +4781,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpectacledWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Subalpine Warbler",
@@ -4477,7 +4796,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SubalpineWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Sardinian Warbler",
@@ -4491,7 +4811,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SardinianWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Ruppell's Warbler",
@@ -4505,7 +4826,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RuppellsWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Arctic Warbler",
@@ -4519,7 +4841,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ArcticWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Greenish Warbler",
@@ -4533,7 +4856,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreenishWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Pallas's Leaf Warbler",
@@ -4547,7 +4871,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PallassLeafWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Yellow Browed Warbler",
@@ -4561,7 +4886,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/YellowBrowedWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Radde's Warbler",
@@ -4575,7 +4901,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RaddesWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Dusky Warbler",
@@ -4589,7 +4916,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/DuskyWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Western Bonelli's Warbler",
@@ -4603,7 +4931,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternBonellisWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Eastern Bonelli's Warbler",
@@ -4617,7 +4946,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EasternBonellisWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Wood Warbler",
@@ -4631,7 +4961,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Chiffchaff",
@@ -4645,7 +4976,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonChiffchaff.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Iberian Chiffchaff",
@@ -4659,7 +4991,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/IberianChiffchaff.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Willow Warbler",
@@ -4673,7 +5006,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WillowWarbler.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Goldcrest",
@@ -4687,7 +5021,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Goldcrest.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Firecrest",
@@ -4701,7 +5036,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Firecrest.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Spotted Flycatcher",
@@ -4715,7 +5051,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpottedFlycatcher.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Red-breasted Flycatcher",
@@ -4729,7 +5066,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-breastedFlycatcher.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Semi-collared Flycatcher",
@@ -4743,7 +5081,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Semi-collaredFlycatcher.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Collared Flycatcher",
@@ -4757,7 +5096,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CollaredFlycatcher.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Pied Flycatcher",
@@ -4771,7 +5111,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PiedFlycatcher.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Blue Tit",
@@ -4785,7 +5126,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/BlueTit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Great Tit",
@@ -4799,7 +5141,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatTit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Wallcreeper",
@@ -4813,7 +5156,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Wallcreeper.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Penduline Tit",
@@ -4827,7 +5171,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PendulineTit.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Golden Oriole",
@@ -4841,7 +5186,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GoldenOriole.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Woodchat Shrike",
@@ -4855,7 +5201,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WoodchatShrike.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Red-backed Shrike",
@@ -4869,7 +5216,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-backedShrike.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Lesser Grey Shrike",
@@ -4883,7 +5231,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserGreyShrike.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Great Grey Shrike",
@@ -4897,7 +5246,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/GreatGreyShrike.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Southern Grey Shrike",
@@ -4911,7 +5261,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SouthernGreyShrike.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Masked Shrike",
@@ -4925,7 +5276,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/MaskedShrike.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Eurasian Jay",
@@ -4939,7 +5291,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EurasianJay.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Western Jackdaw",
@@ -4953,7 +5306,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/WesternJackdaw.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rook",
@@ -4967,7 +5321,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Rook.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Carrion Crow",
@@ -4981,7 +5336,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CarrionCrow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Hooded Crow",
@@ -4995,7 +5351,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/HoodedCrow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Raven",
@@ -5009,7 +5366,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRaven.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Starling",
@@ -5023,7 +5381,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonStarling.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Spotless Starling",
@@ -5037,7 +5396,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpotlessStarling.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rose-Coloured Starling",
@@ -5051,7 +5411,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Rose-ColouredStarling.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Spanish Sparrow",
@@ -5065,7 +5426,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SpanishSparrow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Tree Sparrow",
@@ -5079,7 +5441,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TreeSparrow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rock Sparrow",
@@ -5093,7 +5456,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockSparrow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Snowfinch",
@@ -5107,7 +5471,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Snowfinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Red-eyed Vireo",
@@ -5121,7 +5486,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Red-eyedVireo.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Chaffinch",
@@ -5135,7 +5501,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Chaffinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Brambling",
@@ -5149,7 +5516,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Brambling.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "European Serin",
@@ -5163,7 +5531,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/EuropeanSerin.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Greenfinch",
@@ -5177,7 +5546,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Greenfinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Goldfinch",
@@ -5191,7 +5561,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Goldfinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Siskin",
@@ -5205,7 +5576,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Siskin.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Linnet",
@@ -5219,7 +5591,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Linnet.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Lesser Redpoll",
@@ -5233,7 +5606,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LesserRedpoll.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Redpoll",
@@ -5247,7 +5621,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRedpoll.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Crossbill",
@@ -5261,7 +5636,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonCrossbill.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Trumpeter Finch",
@@ -5275,7 +5651,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/TrumpeterFinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Rosefinch",
@@ -5289,7 +5666,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CommonRosefinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Bullfinch",
@@ -5303,7 +5681,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Bullfinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Hawfinch",
@@ -5317,7 +5696,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Hawfinch.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "White-Throated Sparrow",
@@ -5331,7 +5711,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/White-ThroatedSparrow.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Lapland Bunting",
@@ -5345,7 +5726,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LaplandBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Snow Bunting",
@@ -5359,7 +5741,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/SnowBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Pine Bunting",
@@ -5373,7 +5756,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/PineBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Yellohammer",
@@ -5387,7 +5771,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Yellohammer.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Cirl Bunting",
@@ -5401,7 +5786,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CirlBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rock Bunting",
@@ -5415,7 +5801,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RockBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Ortolan Bunting",
@@ -5429,7 +5816,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/OrtolanBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Cretzschmar's Bunting",
@@ -5443,7 +5831,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CretzschmarsBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rustic Bunting",
@@ -5457,7 +5846,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/RusticBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Little Bunting",
@@ -5471,7 +5861,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/LittleBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Chestnut Bunting",
@@ -5485,7 +5876,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ChestnutBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Yellow-Breasted Bunting",
@@ -5499,7 +5891,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Yellow-BreastedBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Reed Bunting",
@@ -5513,7 +5906,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/ReedBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Black-Headed Bunting",
@@ -5527,7 +5921,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Black-HeadedBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Corn Bunting",
@@ -5541,7 +5936,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/CornBunting.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Rose-Breasted Grosbeak",
@@ -5555,7 +5951,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/Rose-BreastedGrosbeak.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Common Eider",
@@ -5569,7 +5966,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Brown Booby",
@@ -5583,7 +5981,8 @@
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
 		"img": "../images/birds/.jpg",
-		"credit": "No image to credit"
+		"credit": "No image to credit",
+		"source": ""
 	},
 	{
 		"en": "Budgerigar",
@@ -5597,6 +5996,7 @@
 		"genus": "Melopsittacus",
 		"smallImg": "../images/birds/Budgerigar (LQ).jpg",
 		"img": "../images/birds/Budgerigar.jpg",
-		"credit": "https://en.wikipedia.org/wiki/File%3AMelopsittacus_undulatus_%2824082227505%29.jpg"
+		"credit": "By Sean Kelleher from Melbourne, Australia - PA030282.jpg, CC BY-SA 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=110204636"
 	}
 ]
