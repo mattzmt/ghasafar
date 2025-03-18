@@ -2199,7 +2199,7 @@
 		"order": "Charadriiformes",
 		"family": "Scolopacidae",
 		"genus": "Gallinago",
-		"smallImg": "../images/birds/.jpg",
+		"smallImg": "../images/birds/GreatSnipe (LQ).jpg",
 		"img": "../images/birds/GreatSnipe.jpg",
 		"credit": "By Thho46 - Own work, CC0",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=26628597"
@@ -2244,8 +2244,8 @@
 		"order": "Charadriiformes",
 		"family": "Scolopacidae",
 		"genus": "Limosa",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Bar-TailedGodwit.jpg",
+		"smallImg": "../images/birds/BarTailedGodwit (LQ).jpg",
+		"img": "../images/birds/BarTailedGodwit.jpg",
 		"credit": "By Andreas Trepte - Own work, CC BY-SA 2.5",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=15764240"
 	},
