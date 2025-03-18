@@ -237,7 +237,7 @@ main {
 
 #lang-filters>button,
 #rty-filters>button {
-  background: var(--inactive);
+  background: var(--dark2);
   transition: ease-in-out 0.25s;
   padding: 10px;
   cursor: pointer;
@@ -251,7 +251,7 @@ main {
 
 #lang-filters>button:hover,
 #rty-filters>button:hover {
-  background: var(--inactiveHover);
+  background: var(--dark3);
 }
 
 #lang-filters>button.active,
