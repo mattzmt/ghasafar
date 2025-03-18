@@ -32,28 +32,46 @@
             <a href="../search" id="selected">Search</a>
             <a href="../places">Places</a>
             <a href="../contact">Contact</a>
-            <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank">Report</a>
+            <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank">Issues?</a>
         </nav>
         <a href=".." id="logo"><img src="../images/ui/logo.svg"></a>
     </header>
 
     <main>
-        <span class="warning"><img src="../images/ui/warning.svg">Translation contributions are appreciated! Click <a href="https://forms.gle/dgQqDYfPkHdtR5E78">here</a> to contribute.</span>
+        <span class="warning"><img src="../images/ui/warning.svg">Translation contributions are appreciated! Click <a href="https://forms.gle/dgQqDYfPkHdtR5E78" target="_blank">here</a> to contribute.</span>
 
         <div id="items"></div>
 
         <div id="popup" class="hidden">
             <div id="popup-content">
-                <div id="popup-details">
-                    <h1>English Name: <span id="popup-en"></span></h1>
-                    <h1>Maltese Name: <span id="popup-mt"></span></h1>
-                    <h2>Binomial Name: <span id="popup-scn"></span></h2>
-                    <h2>Order: <span id="popup-order"></span></h2>
-                    <h2>Family: <span id="popup-family"></span></h2>
-                    <h2>Genus: <span id="popup-genus"></span></h2>
-                    <h3>Conservation Status: <span id="popup-status"></span></h3>
-                    <h4 id="popup-desc"></h4>
+                <div id="popup-names">
+                    <h1>🇬🇧 <span id="popup-en"></span></h1>
+                    <h1>🇲🇹 <span id="popup-mt"></span></h1>
                 </div>
+                <div id="popup-info">
+                    <div id="popup-classification">
+                        <h1>Binomial Name: <span id="popup-scn"></span></h1>
+                        <h1>Order: <span id="popup-order"></span></h1>
+                        <h1>Family: <span id="popup-family"></span></h1>
+                        <h1>Genus: <span id="popup-genus"></span></h1>
+                    </div>
+                    <div id="popup-conservation">
+                        <h1>Conservation Status</h1>
+                        <h2 id="popup-status"></h2>
+                        <div id="popup-statuses">
+                            <h3 id="ex">EX</h3>
+                            <h3 id="ew">EW</h3>
+                            <h3 id="cr">CR</h3>
+                            <h3 id="en">EN</h3>
+                            <h3 id="vu">VU</h3>
+                            <h3 id="nt">NT</h3>
+                            <h3 id="lc">LC</h3>
+                        </div>
+                    </div>
+                </div>
+                <h4 id="popup-desc"></h4>
+                <img id="popup-img">
+                <h1 id="popup-credit"></h1>
             </div>
             <img id="close-popup" src="../images/ui/close.svg">
         </div>

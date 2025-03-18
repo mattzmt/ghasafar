@@ -1,16 +1,16 @@
 :root {
   --active: #22416b;
   --activeHover: #2564B7;
-  --inactive: #252525;
-  --inactiveHover: #353535;
   --subText: rgba(255, 255, 255, 0.8);
   --standard: #212d3f;
   --standardHover: #22416b;
-  --background: #151515;
+  --dark1: #151515;
+  --dark2: #252525;
+  --dark3: #353535;
 }
 
 body {
-  background: var(--background);
+  background: var(--dark1);
   margin: 0;
   padding: 0;
 }
@@ -79,10 +79,6 @@ header>#logo {
   border-radius: 10px;
   pointer-events: auto;
   cursor: pointer;
-}
-
-#nav-toggle:hover {
-  background: rgba(0, 0, 0, 0.5);
 }
 
 #nav-toggle>img {
@@ -182,7 +178,7 @@ footer {
   display: block;
   width: fit-content;
   height: fit-content;
-  background: linear-gradient(to right, var(--standard), var(--background));
+  background: linear-gradient(to right, var(--standard), rgba(21, 21, 21, 0));
   font-size: 15px;
   text-align: center;
   padding: 10px 20px 10px 40px;
