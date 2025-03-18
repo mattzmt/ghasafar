@@ -65,32 +65,13 @@ main {
   width: 100%;
   height: 100%;
   background: inherit;
-  filter: blur(10px);
+  filter: blur(6px);
   z-index: -1;
   opacity: 0.75;
 }
 
-@keyframes blurCircle {
-  0% {
-    translate: -2px -2px;
-  }
-  25% {
-    translate: -2px 2px;
-  }
-  50% {
-    translate: 2px 2px;
-  }
-  75% {
-    translate: 2px -2px;
-  }
-  100% {
-    translate: -2px -2px;
-  }
-}
-
 .item:hover::after {
-  filter: blur(15px) brightness(150%);
-  animation: blurCircle linear infinite 5s;
+  filter: blur(10px) brightness(150%);
 }
 
 .item>* {
