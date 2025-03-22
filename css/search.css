@@ -397,7 +397,7 @@ main {
   left: 0;
   width: calc(100vw - 50px);
   height: fit-content;
-  padding: 25px 25px 50px 25px;
+  padding: 25px;
   background: rgba(0, 0, 0, 0.75);
   opacity: 0;
   animation: fadeIn 0.25s ease-out forwards;
