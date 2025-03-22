@@ -41,10 +41,8 @@ fetch('../js/birds.json')
 function normalizeText(text) {
 	return text
 		.toLowerCase()
-		.replace(/[żġħċ]-|-/g, (match) => {
-			if (match === "-") return " "; // Replace standalone dashes with spaces
-			return { 'ż': 'z', 'ġ': 'g', 'ħ': 'h', 'ċ': 'c' }[match[0]] + " "; // Replace letter and dash with letter + space
-		})		
+		.replace(/[żġħċ]/g, (match) => ({ 'ż': 'z', 'ġ': 'g', 'ħ': 'h', 'ċ': 'c' }[match]))
+		.replace(/-/g, " ");
 }
 
 function displayItems(items) {
