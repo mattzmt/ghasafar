@@ -391,13 +391,13 @@ main {
 #popup {
   z-index: 2;
   overflow-y: auto;
-  max-height: calc(100vh - 75px);
+  max-height: calc(100vh - 55px);
   position: fixed;
   top: 0;
   left: 0;
   width: calc(100vw - 50px);
   height: fit-content;
-  padding: 25px;
+  padding: 20px 20px 35px 20px;
   background: rgba(0, 0, 0, 0.75);
   opacity: 0;
   animation: fadeIn 0.25s ease-out forwards;
