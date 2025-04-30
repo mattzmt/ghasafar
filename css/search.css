@@ -1,3 +1,5 @@
+/* ---------- MAIN ---------- */
+
 main {
   position: absolute;
   top: 70px;
@@ -152,8 +154,8 @@ main {
   bottom: 0;
   left: 0;
   width: 100vw;
-  height: 225px;
-  padding: 0 0 20px 0;
+  height: 125px;
+  padding: 0 0 30px 0;
   z-index: 1;
   gap: 10px;
   background: linear-gradient(rgba(0, 0, 0, 0) 145px, rgba(0, 0, 0, 0.7));
@@ -172,14 +174,14 @@ main {
   }
   to {
     clip-path: inset(0 0 100% 0);
-    transform: translateY(145px);
+    transform: translateY(65px);
   }
 }
 
 @keyframes undoClip {
   from {
     clip-path: inset(0 0 100% 0);
-    transform: translateY(145px);
+    transform: translateY(65px);
   }
   to {
     clip-path: inset(0);
@@ -197,19 +199,18 @@ main {
   pointer-events: auto !important;
 }
 
-#filters {
+/* #filters {
   pointer-events: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
   width: calc(100vw - 30px);
-  height: 140px;
+  height: 65px;
   margin: 0 15px;
 }
 
-#lang-filters,
-#rty-filters {
+#name-filters {
   user-select: none;
   display: flex;
   align-items: center;
@@ -225,8 +226,7 @@ main {
   border-radius: 15px;
 }
 
-#lang-filters span,
-#rty-filters span {
+#name-filters span {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -235,8 +235,7 @@ main {
   font-size: 15px;
 }
 
-#lang-filters>button,
-#rty-filters>button {
+#name-filters>button {
   background: var(--dark2);
   transition: ease-in-out 0.25s;
   padding: 10px;
@@ -249,23 +248,19 @@ main {
   height: min-content;
 }
 
-#lang-filters>button:hover,
-#rty-filters>button:hover {
+#name-filters>button:hover {
   background: var(--dark3);
 }
 
-#lang-filters>button.active,
-#rty-filters>button.active {
+#name-filters>button.active {
   background: var(--active);
 }
 
-#lang-filters>button.active:hover,
-#rty-filters>button.active:hover {
+#name-filters>button.active:hover {
   background: var(--activeHover);
 }
 
-#lang-filters>button>.tick,
-#rty-filters>button>.tick {
+#name-filters>button>.tick {
   transition: ease-in-out 0.25s;
   position: absolute;
   bottom: -7px;
@@ -275,10 +270,9 @@ main {
   transform: scale(0);
 }
 
-#lang-filters>button.active>.tick,
-#rty-filters>button.active>.tick {
+#name-filters>button.active>.tick {
   transform: scale(1);
-}
+} */
 
 /* ---------- BOTTOM BAR ---------- */
 
@@ -433,7 +427,7 @@ main {
   position: relative;
   top: 0;
   left: 0;
-  width: calc(100% - 45px);
+  width: calc(100% - 75px);
   height: fit-content;
   padding: 15px 30px 15px 15px;
   border-radius: 10px;
@@ -579,4 +573,18 @@ main {
 
 body.no-scroll {
   overflow: hidden;
+}
+
+/* ---------- MEDIA ---------- */
+
+@media (min-width: 500px) {
+  #filters {
+    height: fit-content;
+  }
+
+  #name-filters {
+    background: transparent;
+    flex-direction: column;
+    height: fit-content;
+  }
 }

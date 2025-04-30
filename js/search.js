@@ -1,5 +1,4 @@
-let currentLanguageFilters = new Set(["en", "mt", "scn"]);
-let currentRarityFilters = new Set(["Common", "Uncommon", "Rare"]);
+let currentNameFilters = new Set(["en", "mt", "scn", "order", "family", "genus"]);
 
 const root = document.documentElement;
 
@@ -20,8 +19,7 @@ const popupDesc = document.getElementById("popup-desc");
 const popupImg = document.getElementById("popup-img");
 const popupCredit = document.getElementById("popup-credit");
 
-const langFilters = document.querySelectorAll("#lang-filters button");
-const rarityFilters = document.querySelectorAll("#rty-filters button");
+const nameFilters = document.querySelectorAll("#name-filters button");
 const searchInput = document.getElementById("search");
 const resultsCount = document.getElementById("results-count");
 const backToTop = document.getElementById("go-top");
@@ -127,14 +125,16 @@ document.addEventListener("keydown", function(event) {
 function filterItems(query) {
 	return data.filter(item => {
 		const matchesQuery = (
-			(currentLanguageFilters.size === 0 ||
-				(currentLanguageFilters.has("en") && normalizeText(item["en"]).includes(query)) ||
-				(currentLanguageFilters.has("mt") && normalizeText(item["mt"]).includes(query)) ||
-				(currentLanguageFilters.has("scn") && normalizeText(item["scn"]).includes(query)))
+			(currentNameFilters.size === 0 ||
+				(currentNameFilters.has("en") && normalizeText(item["en"]).includes(query)) ||
+				(currentNameFilters.has("mt") && normalizeText(item["mt"]).includes(query)) ||
+				(currentNameFilters.has("scn") && normalizeText(item["scn"]).includes(query)) ||
+				(currentNameFilters.has("order") && normalizeText(item["order"]).includes(query)) ||
+				(currentNameFilters.has("family") && normalizeText(item["family"]).includes(query))
+				(currentNameFilters.has("genus") && normalizeText(item["genus"]).includes(query)))
 		);
 
-		const matchesRarity = currentRarityFilters.size === 0 || currentRarityFilters.has(item["rty"]);
-		return matchesQuery && matchesRarity;
+		return matchesQuery;
 	});
 }
 
@@ -153,15 +153,9 @@ function debounce(func, wait) {
 }
 
 function updateTagColors() {
-	langFilters.forEach(button => {
+	nameFilters.forEach(button => {
 		const filterKey = button.id.split("-")[0];
-		button.classList.toggle("active", currentLanguageFilters.has(filterKey));
-	});
-
-	rarityFilters.forEach(button => {
-		const rarityKey = button.id.split("-")[0];
-		const formattedRarity = rarityKey.charAt(0).toUpperCase() + rarityKey.slice(1);
-		button.classList.toggle("active", currentRarityFilters.has(formattedRarity));
+		button.classList.toggle("active", currentNameFilters.has(filterKey));
 	});
 }
 
@@ -194,9 +188,9 @@ backToTop.addEventListener("click", () => {
 	window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
-document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "en"));
-document.getElementById("mt-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "mt"));
-document.getElementById("scn-filter").addEventListener("click", (event) => handleFilterClick(event, currentLanguageFilters, "scn"));
-document.getElementById("common-filter").addEventListener("click", (event) => handleFilterClick(event, currentRarityFilters, "Common"));
-document.getElementById("uncommon-filter").addEventListener("click", (event) => handleFilterClick(event, currentRarityFilters, "Uncommon"));
-document.getElementById("rare-filter").addEventListener("click", (event) => handleFilterClick(event, currentRarityFilters, "Rare"));
+document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "en"));
+document.getElementById("mt-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "mt"));
+document.getElementById("scn-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "scn"));
+document.getElementById("order-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "order"));
+document.getElementById("family-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "family"));
+document.getElementById("genus-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "genus"));
