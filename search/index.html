@@ -2,27 +2,31 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>[Search] ghasafar.com</title>
     <link rel="icon" type="image/x-icon" href="../images/ui/favicon.svg">
-    <link rel="stylesheet" href="../css/main.css"/>
-    <link rel="stylesheet" href="../css/search.css"/>
+    <link rel="stylesheet" href="../css/main.css" />
+    <link rel="stylesheet" href="../css/search.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
     <script>
-        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-5RRWDL4F');
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5RRWDL4F');
     </script>
 </head>
 
 <body>
     <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RRWDL4F" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RRWDL4F" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe>
     </noscript>
 
     <header>
@@ -38,7 +42,8 @@
     </header>
 
     <main>
-        <span class="warning"><img src="../images/ui/warning.svg">Translation contributions are appreciated! Click <a href="https://forms.gle/dgQqDYfPkHdtR5E78" target="_blank">here</a> to contribute.</span>
+        <span class="warning"><img src="../images/ui/warning.svg">Translation contributions are appreciated! Click <a
+                href="https://forms.gle/dgQqDYfPkHdtR5E78" target="_blank">here</a> to contribute.</span>
 
         <div id="items"></div>
 
@@ -82,38 +87,36 @@
     </footer>
 
     <div id="tools">
-        <div id="filters" class="clip" style="visibility: hidden;">
-            <div id="name-filters">
-                <span>Use:</span>
-                <button id="en-filter">
-                    English names
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="mt-filter">
-                    Maltese names
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="scn-filter">
-                    Scientific names
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="order-filter">
-                    Order
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="family-filter">
-                    Family
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-                <button id="genus-filter">
-                    Genus
-                    <img class="tick" src="../images/ui/tick.svg">
-                </button>
-            </div>
+        <div id="name-filters">
+            <span>Use:</span>
+            <button id="en-filter">
+                English names
+                <img class="tick" src="../images/ui/tick.svg">
+            </button>
+            <button id="mt-filter">
+                Maltese names
+                <img class="tick" src="../images/ui/tick.svg">
+            </button>
+            <button id="scn-filter">
+                Scientific names
+                <img class="tick" src="../images/ui/tick.svg">
+            </button>
+            <button id="order-filter">
+                Order
+                <img class="tick" src="../images/ui/tick.svg">
+            </button>
+            <button id="family-filter">
+                Family
+                <img class="tick" src="../images/ui/tick.svg">
+            </button>
+            <button id="genus-filter">
+                Genus
+                <img class="tick" src="../images/ui/tick.svg">
+            </button>
         </div>
 
         <div id="btm-bar">
-            <input type="text" id="search" placeholder="Search for birds..."/>
+            <input type="text" id="search" placeholder="Search for birds..." />
             <div id="results">
                 <span id="results-count">0</span>
                 results

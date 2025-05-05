@@ -172,15 +172,15 @@ function handleFilterClick(event, set, filter) {
 }
 
 document.querySelector("#filter-toggle").addEventListener("click", function () {
-    const filters = document.querySelector("#filters");
+    const filter = document.querySelector("#name-filters");
 
-    if (filters.classList.contains("clip")) {
-        filters.classList.remove("clip");
-        filters.classList.add("undoClip");
-		filters.style.visibility = "visible";
+    if (filter.classList.contains("clip")) {
+        filter.classList.remove("clip");
+        filter.classList.add("undoClip");
+		filter.style.visibility = "visible";
     } else {
-        filters.classList.remove("undoClip");
-        filters.classList.add("clip");
+        filter.classList.remove("undoClip");
+        filter.classList.add("clip");
     }
 });
 
