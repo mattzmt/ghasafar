@@ -112,35 +112,6 @@ main {
   user-select: text;
 }
 
-.more {
-  visibility: hidden;
-  transition: ease-in-out 0.25s;
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  width: fit-content;
-  height: 20px;
-  background: rgba(0, 0, 0, 0.4);
-  font-size: 17px;
-  color: #fff;
-  text-decoration: none;
-  padding: 10px 8px 10px 15px;
-  border-radius: 10px;
-  cursor: pointer;
-}
-
-.more:hover {
-  background: rgba(0, 0, 0, 0.65);
-}
-
-.more>img {
-  margin: 2px 5px 0 5px;
-  height: 15px;
-}
-
 /* ---------- TOOLS ---------- */
 
 #tools {
@@ -153,9 +124,9 @@ main {
   flex-wrap: nowrap;
   bottom: 0;
   left: 0;
-  width: 100vw;
+  width: calc(100vw - 100px);
   height: 125px;
-  padding: 0 0 30px 0;
+  padding: 0 50px 35px 50px;
   z-index: 1;
   gap: 10px;
   background: linear-gradient(rgba(0, 0, 0, 0) 145px, rgba(0, 0, 0, 0.7));
@@ -199,53 +170,41 @@ main {
   pointer-events: auto !important;
 }
 
-/* #filters {
-  pointer-events: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  width: calc(100vw - 30px);
-  height: 65px;
-  margin: 0 15px;
-}
-
 #name-filters {
   user-select: none;
+  width: 100%;
+  height: fit-content;
+  padding: 15px 0;
+  border-radius: 10px;
   display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  width: 100%;
-  height: 35px;
-  align-items: center;
-  padding: 15px 0;
-  background: var(--standard);
   gap: 10px;
-  border-radius: 15px;
+  background-color: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
 }
 
-#name-filters span {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+#name-filters>span {
   text-align: center;
-  font-size: 15px;
+  font-size: 20px;
+}
+
+#name-filters>span::after {
+  content: "Search Using:";
 }
 
 #name-filters>button {
-  background: var(--dark2);
   transition: ease-in-out 0.25s;
+  position: relative;
+  background: var(--dark2);
   padding: 10px;
   cursor: pointer;
   border: none;
   border-radius: 10px;
-  position: relative;
-  font-size: 13px;
-  width: min-content;
-  height: min-content;
+  font-size: 15px;
+  width: fit-content;
+  height: fit-content;
 }
 
 #name-filters>button:hover {
@@ -266,6 +225,19 @@ main {
   bottom: -7px;
   right: -7px;
   width: 20px;
+  transform: scale(0);
+}
+
+#name-filters>button.active>.tick {
+  transform: scale(1);
+}
+
+/*#name-filters>button>.tick {
+  transition: ease-in-out 0.25s;
+  position: absolute;
+  bottom: -7px;
+  right: -7px;
+  width: 20px;
   height: 20px;
   transform: scale(0);
 }
@@ -280,7 +252,7 @@ main {
   bottom: 0;
   left: 0;
   pointer-events: auto;
-  width: calc(100vw - 30px);
+  width: 100%;
   height: 50px;
   display: flex;
   flex-direction: row;
@@ -290,19 +262,21 @@ main {
 }
 
 #search {
+  transition: ease-in-out 0.25s;
   text-align: left;
   width: 100%;
   height: 20px;
   border: none;
   border-radius: 10px 5px 5px 10px;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   display: block;
-  padding: 15px 5px 15px 10px;
+  padding: 15px;
   font-size: 15px;
 }
 
 #search:focus {
-  background: var(--standardHover);
+  background: rgba(125, 125, 125, 0.45);
   outline: none;
 }
 
@@ -316,7 +290,8 @@ main {
   font-size: 15px;
   border-radius: 5px;
   font-size: 12px;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   color: var(--subText);
 }
 
@@ -331,7 +306,8 @@ main {
   transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   padding: 15px 0;
   min-width: 50px;
   height: 20px;
@@ -340,7 +316,7 @@ main {
 }
 
 #filter-toggle:hover {
-  background: var(--standardHover);
+  background: rgba(125, 125, 125, 0.45);
 }
 
 #filter-toggle>img {
@@ -353,7 +329,8 @@ main {
   transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   padding: 15px 0;
   min-width: 50px;
   height: 20px;
@@ -362,7 +339,7 @@ main {
 }
 
 #go-top:hover {
-  background: var(--standardHover);
+  background: rgba(125, 125, 125, 0.45);
 }
 
 #go-top>img {
@@ -577,7 +554,7 @@ body.no-scroll {
 
 /* ---------- MEDIA ---------- */
 
-@media (min-width: 500px) {
+/* @media (max-width: 829px) {
   #filters {
     height: fit-content;
   }

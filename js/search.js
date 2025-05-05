@@ -130,7 +130,7 @@ function filterItems(query) {
 				(currentNameFilters.has("mt") && normalizeText(item["mt"]).includes(query)) ||
 				(currentNameFilters.has("scn") && normalizeText(item["scn"]).includes(query)) ||
 				(currentNameFilters.has("order") && normalizeText(item["order"]).includes(query)) ||
-				(currentNameFilters.has("family") && normalizeText(item["family"]).includes(query))
+				(currentNameFilters.has("family") && normalizeText(item["family"]).includes(query)) ||
 				(currentNameFilters.has("genus") && normalizeText(item["genus"]).includes(query)))
 		);
 
@@ -172,15 +172,15 @@ function handleFilterClick(event, set, filter) {
 }
 
 document.querySelector("#filter-toggle").addEventListener("click", function () {
-    const filter = document.querySelector("#name-filters");
+    const filters = document.querySelector("#name-filters");
 
-    if (filter.classList.contains("clip")) {
-        filter.classList.remove("clip");
-        filter.classList.add("undoClip");
-		filter.style.visibility = "visible";
+    if (filters.classList.contains("clip")) {
+        filters.classList.remove("clip");
+        filters.classList.add("undoClip");
+		filters.style.visibility = "visible";
     } else {
-        filter.classList.remove("undoClip");
-        filter.classList.add("clip");
+        filters.classList.remove("undoClip");
+        filters.classList.add("clip");
     }
 });
 
