@@ -145,14 +145,14 @@ main {
   }
   to {
     clip-path: inset(0 0 100% 0);
-    transform: translateY(65px);
+    transform: translateY(70px);
   }
 }
 
 @keyframes undoClip {
   from {
     clip-path: inset(0 0 100% 0);
-    transform: translateY(65px);
+    transform: translateY(70px);
   }
   to {
     clip-path: inset(0);
@@ -173,7 +173,7 @@ main {
 #name-filters {
   user-select: none;
   width: 100%;
-  height: fit-content;
+  height: 70px;
   padding: 15px 0;
   border-radius: 10px;
   display: flex;
@@ -285,7 +285,8 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-width: 65px;
+  width: fit-content;
+  padding: 0 10px;
   height: 50px;
   font-size: 15px;
   border-radius: 5px;
@@ -554,14 +555,92 @@ body.no-scroll {
 
 /* ---------- MEDIA ---------- */
 
-/* @media (max-width: 829px) {
-  #filters {
+@media (max-width: 915px) {
+  #tools {
+    width: calc(100vw - 30px);
+    padding: 0 15px 35px 15px;
+  }
+}
+
+@media (max-width: 830px) {
+  #name-filters>span {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 800px) {
+  #name-filters>span, #name-filters>button {
+    width: min-content;
+  }
+}
+
+@media (max-width: 590px) {
+  #tools {
     height: fit-content;
   }
 
   #name-filters {
-    background: transparent;
     flex-direction: column;
-    height: fit-content;
+    width: fit-content;
+    height: 340px;
+    padding: 0 15px;
+  }
+
+  #name-filters>span, #name-filters>button {
+    width: fit-content;
+  }
+
+  #name-filters>button {
+    width: fit-content;
+  }
+
+  @keyframes clip {
+    from {
+      clip-path: inset(0);
+      transform: translateY(0);
+    }
+    to {
+      clip-path: inset(0 0 100% 0);
+      transform: translateY(340px);
+    }
+  }
+
+  @keyframes undoClip {
+    from {
+      clip-path: inset(0 0 100% 0);
+      transform: translateY(340px);
+    }
+    to {
+      clip-path: inset(0);
+      transform: translateY(0);
+    }
+  }
+
+  @media (max-width: 380px) {
+    #results {
+      font-size: 10px;
+    }
+
+    #results>span {
+      font-size: 18px;
+    }
+
+    #filter-toggle {
+      min-width: 40px;
+    }
+
+    #go-top {
+      min-width: 40px;
+    }
+  }
+
+  @media (max-width: 380px) {
+    #results {
+      font-size: 8px;
+    }
+
+    #results>span {
+      font-size: 12px;
+    }
   }
 }
