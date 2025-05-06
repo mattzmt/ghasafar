@@ -1,3 +1,5 @@
+/* ---------- MAIN ---------- */
+
 main {
   position: absolute;
   top: 70px;
@@ -110,35 +112,6 @@ main {
   user-select: text;
 }
 
-.more {
-  visibility: hidden;
-  transition: ease-in-out 0.25s;
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  width: fit-content;
-  height: 20px;
-  background: rgba(0, 0, 0, 0.4);
-  font-size: 17px;
-  color: #fff;
-  text-decoration: none;
-  padding: 10px 8px 10px 15px;
-  border-radius: 10px;
-  cursor: pointer;
-}
-
-.more:hover {
-  background: rgba(0, 0, 0, 0.65);
-}
-
-.more>img {
-  margin: 2px 5px 0 5px;
-  height: 15px;
-}
-
 /* ---------- TOOLS ---------- */
 
 #tools {
@@ -151,9 +124,9 @@ main {
   flex-wrap: nowrap;
   bottom: 0;
   left: 0;
-  width: 100vw;
-  height: 225px;
-  padding: 0 0 20px 0;
+  width: calc(100vw - 100px);
+  height: 125px;
+  padding: 0 50px 35px 50px;
   z-index: 1;
   gap: 10px;
   background: linear-gradient(rgba(0, 0, 0, 0) 145px, rgba(0, 0, 0, 0.7));
@@ -172,14 +145,14 @@ main {
   }
   to {
     clip-path: inset(0 0 100% 0);
-    transform: translateY(145px);
+    transform: translateY(70px);
   }
 }
 
 @keyframes undoClip {
   from {
     clip-path: inset(0 0 100% 0);
-    transform: translateY(145px);
+    transform: translateY(70px);
   }
   to {
     clip-path: inset(0);
@@ -197,75 +170,69 @@ main {
   pointer-events: auto !important;
 }
 
-#filters {
-  pointer-events: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  width: calc(100vw - 30px);
-  height: 140px;
-  margin: 0 15px;
-}
-
-#lang-filters,
-#rty-filters {
+#name-filters {
   user-select: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: nowrap;
   width: 100%;
-  height: 35px;
-  align-items: center;
+  height: 70px;
   padding: 15px 0;
-  background: var(--standard);
-  gap: 10px;
-  border-radius: 15px;
-}
-
-#lang-filters span,
-#rty-filters span {
+  border-radius: 10px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  text-align: center;
-  font-size: 15px;
+  gap: 10px;
+  background-color: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
 }
 
-#lang-filters>button,
-#rty-filters>button {
-  background: var(--dark2);
+#name-filters>span {
+  text-align: center;
+  font-size: 20px;
+}
+
+#name-filters>span::after {
+  content: "Search Using:";
+}
+
+#name-filters>button {
   transition: ease-in-out 0.25s;
+  position: relative;
+  background: var(--dark2);
   padding: 10px;
   cursor: pointer;
   border: none;
   border-radius: 10px;
-  position: relative;
-  font-size: 13px;
-  width: min-content;
-  height: min-content;
+  font-size: 15px;
+  width: fit-content;
+  height: fit-content;
 }
 
-#lang-filters>button:hover,
-#rty-filters>button:hover {
+#name-filters>button:hover {
   background: var(--dark3);
 }
 
-#lang-filters>button.active,
-#rty-filters>button.active {
+#name-filters>button.active {
   background: var(--active);
 }
 
-#lang-filters>button.active:hover,
-#rty-filters>button.active:hover {
+#name-filters>button.active:hover {
   background: var(--activeHover);
 }
 
-#lang-filters>button>.tick,
-#rty-filters>button>.tick {
+#name-filters>button>.tick {
+  transition: ease-in-out 0.25s;
+  position: absolute;
+  bottom: -7px;
+  right: -7px;
+  width: 20px;
+  transform: scale(0);
+}
+
+#name-filters>button.active>.tick {
+  transform: scale(1);
+}
+
+/*#name-filters>button>.tick {
   transition: ease-in-out 0.25s;
   position: absolute;
   bottom: -7px;
@@ -275,10 +242,9 @@ main {
   transform: scale(0);
 }
 
-#lang-filters>button.active>.tick,
-#rty-filters>button.active>.tick {
+#name-filters>button.active>.tick {
   transform: scale(1);
-}
+} */
 
 /* ---------- BOTTOM BAR ---------- */
 
@@ -286,7 +252,7 @@ main {
   bottom: 0;
   left: 0;
   pointer-events: auto;
-  width: calc(100vw - 30px);
+  width: 100%;
   height: 50px;
   display: flex;
   flex-direction: row;
@@ -296,19 +262,21 @@ main {
 }
 
 #search {
+  transition: ease-in-out 0.25s;
   text-align: left;
   width: 100%;
   height: 20px;
   border: none;
   border-radius: 10px 5px 5px 10px;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   display: block;
-  padding: 15px 5px 15px 10px;
+  padding: 15px;
   font-size: 15px;
 }
 
 #search:focus {
-  background: var(--standardHover);
+  background: rgba(125, 125, 125, 0.45);
   outline: none;
 }
 
@@ -317,12 +285,14 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-width: 65px;
+  width: fit-content;
+  padding: 0 10px;
   height: 50px;
   font-size: 15px;
   border-radius: 5px;
   font-size: 12px;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   color: var(--subText);
 }
 
@@ -337,7 +307,8 @@ main {
   transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   padding: 15px 0;
   min-width: 50px;
   height: 20px;
@@ -346,7 +317,7 @@ main {
 }
 
 #filter-toggle:hover {
-  background: var(--standardHover);
+  background: rgba(125, 125, 125, 0.45);
 }
 
 #filter-toggle>img {
@@ -359,7 +330,8 @@ main {
   transition: ease-in-out 0.25s;
   user-select: none;
   outline: none;
-  background: var(--standard);
+  background: rgba(25, 25, 25, 0.65);
+  backdrop-filter: blur(5px);
   padding: 15px 0;
   min-width: 50px;
   height: 20px;
@@ -368,7 +340,7 @@ main {
 }
 
 #go-top:hover {
-  background: var(--standardHover);
+  background: rgba(125, 125, 125, 0.45);
 }
 
 #go-top>img {
@@ -433,7 +405,7 @@ main {
   position: relative;
   top: 0;
   left: 0;
-  width: calc(100% - 45px);
+  width: calc(100% - 75px);
   height: fit-content;
   padding: 15px 30px 15px 15px;
   border-radius: 10px;
@@ -579,4 +551,96 @@ main {
 
 body.no-scroll {
   overflow: hidden;
+}
+
+/* ---------- MEDIA ---------- */
+
+@media (max-width: 915px) {
+  #tools {
+    width: calc(100vw - 30px);
+    padding: 0 15px 35px 15px;
+  }
+}
+
+@media (max-width: 830px) {
+  #name-filters>span {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 800px) {
+  #name-filters>span, #name-filters>button {
+    width: min-content;
+  }
+}
+
+@media (max-width: 590px) {
+  #tools {
+    height: fit-content;
+  }
+
+  #name-filters {
+    flex-direction: column;
+    width: fit-content;
+    height: 340px;
+    padding: 0 15px;
+  }
+
+  #name-filters>span, #name-filters>button {
+    width: fit-content;
+  }
+
+  #name-filters>button {
+    width: fit-content;
+  }
+
+  @keyframes clip {
+    from {
+      clip-path: inset(0);
+      transform: translateY(0);
+    }
+    to {
+      clip-path: inset(0 0 100% 0);
+      transform: translateY(340px);
+    }
+  }
+
+  @keyframes undoClip {
+    from {
+      clip-path: inset(0 0 100% 0);
+      transform: translateY(340px);
+    }
+    to {
+      clip-path: inset(0);
+      transform: translateY(0);
+    }
+  }
+
+  @media (max-width: 380px) {
+    #results {
+      font-size: 10px;
+    }
+
+    #results>span {
+      font-size: 18px;
+    }
+
+    #filter-toggle {
+      min-width: 40px;
+    }
+
+    #go-top {
+      min-width: 40px;
+    }
+  }
+
+  @media (max-width: 380px) {
+    #results {
+      font-size: 8px;
+    }
+
+    #results>span {
+      font-size: 12px;
+    }
+  }
 }

@@ -97,3 +97,31 @@ main>h2 {
   font-size: 20px;
   font-weight: bold;
 }
+
+@media (max-width: 500px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  main>h1 {
+    margin: 0;
+    font-size: 25px;
+  }
+
+  main>h2 {
+    margin-top: 10px;
+    font-size: 15px;
+  }
+
+  #wtd {
+    margin: 30px 50px 20px 50px;
+    width: calc(100vw - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
