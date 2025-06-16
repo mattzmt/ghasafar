@@ -54,11 +54,11 @@ main {
   overflow: hidden;
 }
 
-.item:hover::before {
+.item:not(.performance):hover::before {
   background: rgba(0, 0, 0, 0.25);
 }
 
-.item::after {
+.item:not(.performance)::after {
   transition: ease-in-out 0.25s;
   content: "";
   position: absolute;
@@ -72,7 +72,7 @@ main {
   opacity: 0.75;
 }
 
-.item:hover::after {
+.item:not(.performance):hover::after {
   filter: blur(10px) brightness(150%);
 }
 

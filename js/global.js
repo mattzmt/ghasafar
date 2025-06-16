@@ -1,13 +1,13 @@
 document.querySelector("#nav-toggle").addEventListener("click", function () {
     const filters = document.querySelector("nav");
     
-    if (filters.classList.contains("collapse")) {
-        filters.classList.remove("collapse");
-        filters.classList.add("expand");
+    if (filters.classList.contains("collapseNav")) {
+        filters.classList.remove("collapseNav");
+        filters.classList.add("expandNav");
         filters.style.visibility = "visible";
     } else {
-        filters.classList.remove("expand");
-        filters.classList.add("collapse");
+        filters.classList.remove("expandNav");
+        filters.classList.add("collapseNav");
     }
 });
 
@@ -53,6 +53,7 @@ function setBorderState(visible) {
     document.querySelectorAll('[data-border]').forEach(el => {
         el.style.border = visible ? '3px solid #fff' : 'none';
     });
+    
     localStorage.setItem(borderPref, visible ? 'true' : 'false');
 }
 
@@ -60,8 +61,29 @@ if (borderToggle) {
     borderToggle.addEventListener('click', () => {
         const current = localStorage.getItem(borderPref) === 'true';
         setBorderState(!current);
-        console.log("HEY");
     });
 }
 
 setBorderState(localStorage.getItem(borderPref) === 'true');
+
+//PERFORMANCE TOGGLE
+
+const perfToggle = document.getElementById('perfToggle');
+const perfPref = 'true';
+
+function setPerfState(on) {
+    document.querySelectorAll('[data-taxing]').forEach(el => {
+        el.classList.toggle('performance', on);
+    });
+    
+    localStorage.setItem(perfPref, on ? 'true' : 'false');
+}
+
+if (perfToggle) {
+    perfToggle.addEventListener('click', () => {
+        const current = localStorage.getItem(perfPref) === 'true';
+        setPerfState(!current);
+    });
+}
+
+setPerfState(localStorage.getItem(perfPref) === 'true');

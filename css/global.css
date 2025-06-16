@@ -82,7 +82,7 @@ header {
   height: 100%;
 }
 
-@keyframes collapse {
+@keyframes collapseNav {
   from {
     clip-path: inset(0);
     transform: translateY(0);
@@ -93,7 +93,7 @@ header {
   } 
 }
 
-@keyframes expand {
+@keyframes expandNav {
   from {
     clip-path: inset(100% 0 0 0);
     transform: translateY(-218.8px);
@@ -104,13 +104,13 @@ header {
   }
 }
 
-.collapse {
-  animation: collapse 0.5s ease-in-out forwards;
+.collapseNav {
+  animation: collapseNav 0.5s ease-in-out forwards;
   pointer-events: none !important;
 }
 
-.expand {
-  animation: expand 0.5s ease-in-out forwards;
+.expandNav {
+  animation: expandNav 0.5s ease-in-out forwards;
   pointer-events: auto !important;
 }
 
@@ -180,6 +180,47 @@ nav>a:hover {
   height: 26px;
 }
 
+/* ---------- ACCESSIBILITY ---------- */
+
+#accessibility {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  outline: none;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(5px);
+  padding: 15px;
+  width: 92px;
+  min-width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+#accessibility>div {
+  width: 80px;
+  height: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#accessibility>div>span {
+  font-size: 15px;
+}
+
+#borderToggle {
+  pointer-events: auto;
+  cursor: pointer;
+}
+
 /* ---------- LANG TOGGLE ---------- */
 
 #langToggle {
@@ -199,13 +240,6 @@ nav>a:hover {
   pointer-events: auto;
   cursor: pointer;
   font-size: 30px;
-}
-
-/* ---------- ACCESSIBILITY ---------- */
-
-#borderToggle {
-  pointer-events: auto;
-  cursor: pointer;
 }
 
 /* ---------- FOOTER ---------- */
