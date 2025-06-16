@@ -14,41 +14,49 @@
 </head>
 
 <body>
+    <span data-title-lang="en" style="display: none;">[Search] ghasafar.com</span>
+    <span data-title-lang="mt" style="display: none;">[Fittex] ghasafar.com</span>
+
     <header>
         <div id="left">
-            <div id="nav-toggle" data-border
-            ><img src="../images/ui/nav.svg"></div>
+            <div id="nav-toggle" data-border data-taxing><img src="../images/ui/nav.svg"></div>
             
-            <nav class="collapse" style="visibility: hidden;" data-border>
-                <a href=".." data-lang="en">Home</a>
-                <a href=".." data-lang="mt">Oriġni</a>
+            <nav class="collapseNav" style="visibility: hidden;" data-border data-taxing>
+                <a href=".." data-border data-taxing>Home</a>
                 
-                <a href="" class="selected" data-lang="mt">Fittex</a>
-                <a href="" class="selected" data-lang="en">Search</a>
+                <a href="" class="selected" data-lang="en" data-border data-taxing>Search</a>
+                <a href="" class="selected" data-lang="mt" data-border data-taxing>Fittex</a>
                 
-                <a href="../places" data-lang="en">Places</a>
-                <a href="../places" data-lang="mt">Postijiet</a>
+                <a href="../places" data-lang="en" data-border data-taxing>Places</a>
+                <a href="../places" data-lang="mt" data-border data-taxing>Postijiet</a>
                 
                 
-                <a href="../contact" data-lang="en">Contact</a>
-                <a href="../contact" data-lang="mt">Kuntatti</a>
+                <a href="../contact" data-lang="en" data-border data-taxing>Contact</a>
+                <a href="../contact" data-lang="mt" data-border data-taxing>Kuntatti</a>
                 
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en">Issues?</a>
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt">Problemi?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en" data-border data-taxing>Issues?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt" data-border data-taxing>Problemi?</a>
             </nav>
             
-            <a href=".." id="logo" data-border><img src="../images/ui/logo.svg"></a>
+            <a href=".." id="logo" data-border data-taxing><img src="../images/ui/logo.svg"></a>
         </div>
         
         <div id="right">
-            <div id="accessibility" data-border>
-                <div id="borderToggle" data-border>
+            <div id="langToggle" data-border data-taxing></div>
+            
+            <div id="accessibility" data-border data-taxing><img src="../images/ui/accessibility.svg"></div>
+            
+            <div id="acc-list" class="collapseAcc" style="visibility: hidden;" data-border data-taxing>
+                <div id="borderToggle" data-border data-taxing>
                     <span data-lang="en">Borders</span>
                     <span data-lang="mt">Truf</span>
                 </div>
+                
+                <div id="perfToggle" data-border data-taxing>
+                    <span data-lang="en">Performance</span>
+                    <span data-lang="mt">Prestazzjoni</span>
+                </div>
             </div>
-            
-            <div id="langToggle" data-border></div>
         </div>
     </header>
     
@@ -107,7 +115,7 @@
                 </div>
                 <h4 id="popup-desc"></h4>
                 <img id="popup-img">
-                <a href="" target="_blank" id="popup-credit"></a>
+                <a href="" target="_blank" id="popup-credit" data-border></a>
                 <img id="close-popup" src="../images/ui/close.svg">
             </div>
         </div>
@@ -118,35 +126,35 @@
     </footer>
     
     <div id="tools">
-        <div id="name-filters" class="clip" style="visibility: hidden;">
+        <div id="name-filters" class="clip" style="visibility: hidden;" data-taxing>
             <span data-lang="en">Search Using:</span>
             <span data-lang="mt">Fittex bl-użu ta':</span>
-            <button id="en-filter">
+            <button id="en-filter" data-border>
                 <span data-lang="en">English names</span>
                 <span data-lang="mt">Ismijiet bl-Ingliż</span>
                 <img class="tick" src="../images/ui/tick.svg">
             </button>
-            <button id="mt-filter">
+            <button id="mt-filter" data-border>
                 <span data-lang="en">Maltese names</span>
                 <span data-lang="mt">Ismijiet bil-Malti</span>
                 <img class="tick" src="../images/ui/tick.svg">
             </button>
-            <button id="scn-filter">
+            <button id="scn-filter" data-border>
                 <span data-lang="en">Binomial names</span>
                 <span data-lang="mt">Ismijiet binomji</span>
                 <img class="tick" src="../images/ui/tick.svg">
             </button>
-            <button id="order-filter">
+            <button id="order-filter" data-border>
                 <span data-lang="en">Order</span>
                 <span data-lang="mt">Ordni</span>
                 <img class="tick" src="../images/ui/tick.svg">
             </button>
-            <button id="family-filter">
+            <button id="family-filter" data-border>
                 <span data-lang="en">Family</span>
                 <span data-lang="mt">Familja</span>
                 <img class="tick" src="../images/ui/tick.svg">
             </button>
-            <button id="genus-filter">
+            <button id="genus-filter" data-border>
                 <span data-lang="en">Genus</span>
                 <span data-lang="mt">Ġeneru</span>
                 <img class="tick" src="../images/ui/tick.svg">
@@ -154,19 +162,19 @@
         </div>
         
         <div id="btm-bar">
-            <input type="text" id="search" placeholder="Search for birds..."/>
-            <div id="results">
+            <input type="text" id="search" placeholder="Search for birds..." data-border data-taxing/>
+            <div id="results" data-taxing>
                 <span id="results-count">0</span>
                 <span data-lang="en">results</span>
                 <span data-lang="mt">riżultati</span>
             </div>
-            <div id="filter-toggle"><img src="../images/ui/filters.svg"></div>
-            <div id="go-top"><img src="../images/ui/up.svg"></div>
+            <div id="filter-toggle" data-border data-taxing><img src="../images/ui/filters.svg"></div>
+            <div id="go-top" data-border data-taxing><img src="../images/ui/up.svg"></div>
         </div>
     </div>
     
     <template id="template">
-        <div class="item">
+        <div class="item" data-border data-taxing>
             <h1 class="en"></h1>
             <h1 class="mt"></h1>
             <h2 class="scn"></h2>

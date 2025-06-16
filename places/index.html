@@ -14,31 +14,50 @@
     <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
 </head>
 
-<body>    
+<body>
+    <span data-title-lang="en" style="display: none;">[Places] ghasafar.com</span>
+    <span data-title-lang="mt" style="display: none;">[Postijiet] ghasafar.com</span>
+
     <header>
         <div id="left">
-            <div id="nav-toggle"><img src="../images/ui/nav.svg"></div>
-            <nav class="collapse" style="visibility: hidden;">
-                <a href=".." data-lang="en">Home</a>
-                <a href=".." data-lang="mt">Oriġni</a>
+            <div id="nav-toggle" data-border data-taxing><img src="../images/ui/nav.svg"></div>
+            
+            <nav class="collapseNav" style="visibility: hidden;" data-border data-taxing>
+                <a href=".." data-border data-taxing>Home</a>
                 
-                <a href="../search" data-lang="en">Search</a>
-                <a href="../search" data-lang="mt">Fittex</a>
+                <a href="../search" data-lang="en" data-border data-taxing>Search</a>
+                <a href="../search" data-lang="mt" data-border data-taxing>Fittex</a>
                 
-                <a href="" class="selected" data-lang="en">Places</a>
-                <a href="" class="selected" data-lang="mt">Postijiet</a>
+                <a href="" class="selected" data-lang="en" data-border data-taxing>Places</a>
+                <a href="" class="selected" data-lang="mt" data-border data-taxing>Postijiet</a>
                 
                 
-                <a href="../contact" data-lang="en">Contact</a>
-                <a href="../contact" data-lang="mt">Kuntatti</a>
+                <a href="../contact" data-lang="en" data-border data-taxing>Contact</a>
+                <a href="../contact" data-lang="mt" data-border data-taxing>Kuntatti</a>
                 
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en">Issues?</a>
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt">Problemi?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en" data-border data-taxing>Issues?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt" data-border data-taxing>Problemi?</a>
             </nav>
-            <a href=".." id="logo"><img src="../images/ui/logo.svg"></a>
+            
+            <a href=".." id="logo" data-border data-taxing><img src="../images/ui/logo.svg"></a>
         </div>
+        
         <div id="right">
-            <div id="langToggle"></div>
+            <div id="langToggle" data-border data-taxing></div>
+            
+            <div id="accessibility" data-border data-taxing><img src="../images/ui/accessibility.svg"></div>
+            
+            <div id="acc-list" class="collapseAcc" style="visibility: hidden;" data-border data-taxing>
+                <div id="borderToggle" data-border data-taxing>
+                    <span data-lang="en">Borders</span>
+                    <span data-lang="mt">Truf</span>
+                </div>
+                
+                <div id="perfToggle" data-border data-taxing>
+                    <span data-lang="en">Performance</span>
+                    <span data-lang="mt">Prestazzjoni</span>
+                </div>
+            </div>
         </div>
     </header>
     
@@ -46,7 +65,7 @@
         <div id="places"></div>
         
         <template id="template">
-            <div class="place">
+            <div class="place" data-taxing>
                 <h1 class="name"></h1>
                 <h2 class="owner"></h2>
                 <h2 class="loc"><img src="../images/ui/pin.svg"></h2>

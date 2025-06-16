@@ -30,4 +30,7 @@ function displayItems(places) {
 		fragment.appendChild(clone);
 	});
 	container.appendChild(fragment);
+	
+	const perfOn = localStorage.getItem('perfOn') === 'true';
+	setPerfState(perfOn)
 }

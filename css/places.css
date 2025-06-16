@@ -45,7 +45,7 @@ main {
     overflow: hidden;
 }
 
-.place::after {
+.place:not(.performance)::after {
     content: "";
     position: absolute;
     top: 0;

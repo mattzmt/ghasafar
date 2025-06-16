@@ -59,6 +59,12 @@ function displayItems(items) {
 	});
 	container.appendChild(fragment);
 	
+	const borderVisible = localStorage.getItem('borderVisible') === 'true';
+	setBorderState(borderVisible);
+	
+	const perfOn = localStorage.getItem('perfOn') === 'true';
+	setPerfState(perfOn)
+	
 	const resultText = items.length === 1 ? "1" : `${items.length}`;
 	resultsCount.textContent = resultText;
 }

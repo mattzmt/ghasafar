@@ -11,6 +11,19 @@ document.querySelector("#nav-toggle").addEventListener("click", function () {
     }
 });
 
+document.querySelector("#accessibility").addEventListener("click", function () {
+    const filters = document.querySelector("#acc-list");
+    
+    if (filters.classList.contains("collapseAcc")) {
+        filters.classList.remove("collapseAcc");
+        filters.classList.add("expandAcc");
+        filters.style.visibility = "visible";
+    } else {
+        filters.classList.remove("expandAcc");
+        filters.classList.add("collapseAcc");
+    }
+});
+
 //LANGUAGE
 
 const defaultLang = 'en';
@@ -21,7 +34,14 @@ function setLanguage(lang) {
     document.querySelectorAll('[data-lang]').forEach(el => {
         el.hidden = el.getAttribute('data-lang') !== lang;
     });
+    
+    const matchingTitle = document.querySelector(`[data-title-lang="${lang}"]`);
+    if (matchingTitle) {
+        document.title = matchingTitle.textContent;
+    }
+    
     document.documentElement.lang = lang;
+    
     localStorage.setItem('lang', lang);
     
     if (langToggle) {
@@ -51,7 +71,7 @@ const borderPref = 'borderVisible';
 
 function setBorderState(visible) {
     document.querySelectorAll('[data-border]').forEach(el => {
-        el.style.border = visible ? '3px solid #fff' : 'none';
+        el.style.border = visible ? '1px solid #fff' : 'none';
     });
     
     localStorage.setItem(borderPref, visible ? 'true' : 'false');
@@ -69,7 +89,7 @@ setBorderState(localStorage.getItem(borderPref) === 'true');
 //PERFORMANCE TOGGLE
 
 const perfToggle = document.getElementById('perfToggle');
-const perfPref = 'true';
+const perfPref = 'perfOn';
 
 function setPerfState(on) {
     document.querySelectorAll('[data-taxing]').forEach(el => {

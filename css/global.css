@@ -66,16 +66,20 @@ header {
   align-items: center;
   user-select: none;
   outline: none;
-  background: rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(5px);
+  background: var(--dark2);
   padding: 15px;
-  width: 92px;
+  width: 90px;
   min-width: 20px;
   height: 20px;
   border-radius: 10px;
   pointer-events: auto;
   cursor: pointer;
   
+}
+
+#nav-toggle:not(.performance) {
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(5px);
 }
 
 #nav-toggle>img {
@@ -89,14 +93,14 @@ header {
   }
   to {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-218.8px);
+    transform: translateY(-220px);
   } 
 }
 
 @keyframes expandNav {
   from {
     clip-path: inset(100% 0 0 0);
-    transform: translateY(-218.8px);
+    transform: translateY(-220px);
   }
   to {
     clip-path: inset(0);
@@ -118,9 +122,9 @@ nav {
   position: fixed;
   top: 85px;
   left: 20px;
-  width: 92px;
-  height: 182px;
-  padding: 16px 15px;
+  width: 90px;
+  height: 190px;
+  padding: 15px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -128,9 +132,12 @@ nav {
   align-items: center;
   pointer-events: auto;
   user-select: none;
+  background-color: var(--dark2);
+}
+
+nav:not(.performance) {
   background-color: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(5px);
-  
 }
 
 nav>a {
@@ -139,7 +146,7 @@ nav>a {
   height: 20px;
   padding: 5px;
   border-radius: 5px;
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--dark3);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -149,7 +156,11 @@ nav>a {
   font-size: 15px;
 }
 
-nav>a:hover {
+nav>a:not(.performance) {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+nav>a:not(.performance):hover {
   color: #fff;
   background: rgba(255, 255, 255, 0.25);
 }
@@ -161,15 +172,18 @@ nav>a:hover {
 
 /* ---------- LOGO ---------- */
 
-#left>#logo {
+#logo {
   width: fit-content;
   height: 26px;
-  background: rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(5px);
+  background: var(--dark2);
   border-radius: 10px;
   padding: 12px;
   pointer-events: auto;
-  
+}
+
+#logo:not(.performance) {
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(5px);
 }
 
 #logo>img {
@@ -189,30 +203,97 @@ nav>a:hover {
   align-items: center;
   user-select: none;
   outline: none;
-  background: rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(5px);
-  padding: 15px;
-  width: 92px;
+  background: var(--dark2);
+  padding: 10px 15px;
+  width: 110px;
   min-width: 20px;
-  height: 20px;
+  height: 30px;
   border-radius: 10px;
   pointer-events: auto;
   cursor: pointer;
 }
 
-#accessibility>div {
-  width: 80px;
+#accessibility:not(.performance) {
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(5px);
+}
+
+#accessibility>img {
+  height: 90%;
+}
+
+@keyframes collapseAcc {
+  from {
+    clip-path: inset(0);
+    transform: translateY(0);
+  }
+  to {
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(-100px);
+  } 
+}
+
+@keyframes expandAcc {
+  from {
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(-100px);
+  }
+  to {
+    clip-path: inset(0);
+    transform: translateY(0);
+  }
+}
+
+.collapseAcc {
+  animation: collapseAcc 0.35s ease-in-out forwards;
+  pointer-events: none !important;
+}
+
+.expandAcc {
+  animation: expandAcc 0.35s ease-in-out forwards;
+  pointer-events: auto !important;
+}
+
+#acc-list {
+  position: fixed;
+  top: 85px;
+  right: 20px;
+  width: 110px;
+  height: 70px;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  pointer-events: auto;
+  user-select: none;
+  background-color: var(--dark2);
+}
+
+#acc-list:not(.performance) {
+  background-color: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(5px);
+}
+
+#acc-list>div {
+  transition: ease-in-out 0.25s;
+  width: 100px;
   height: 20px;
   padding: 5px;
   border-radius: 5px;
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--dark3);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-#accessibility>div>span {
+#acc-list>div:not(.performance) {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+#acc-list>div>span {
   font-size: 15px;
 }
 
@@ -230,8 +311,7 @@ nav>a:hover {
   align-items: center;
   user-select: none;
   outline: none;
-  background: rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(5px);
+  background: var(--dark2);
   padding: 15px;
   width: 50px;
   min-width: 20px;
@@ -240,6 +320,11 @@ nav>a:hover {
   pointer-events: auto;
   cursor: pointer;
   font-size: 30px;
+}
+
+#langToggle:not(.performance) {
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(5px);
 }
 
 /* ---------- FOOTER ---------- */
@@ -251,12 +336,16 @@ footer {
   left: 0;
   padding: 5px;
   border-radius: 0 5px 0 0;
-  background: rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(5px);
+  background: var(--dark2);
   font-size: 12px;
 }
 
-/* ---------- NOTICE ---------- */
+footer:not(.performance) {
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(5px);
+}
+
+/* ---------- MESSAGES ---------- */
 
 .notice,.warning {
   margin-top: 10px;

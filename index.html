@@ -16,43 +16,44 @@
 <body>
     <header>
         <div id="left">
-            <div id="nav-toggle" data-border><img src="images/ui/nav.svg"></div>
+            <div id="nav-toggle" data-border data-taxing><img src="images/ui/nav.svg"></div>
             
-            <nav class="collapseNav" style="visibility: hidden;" data-border>
-                <a href="" class="selected" data-lang="en" data-border>Home</a>
-                <a href="" class="selected" data-lang="mt" data-border>Oriġni</a>
+            <nav class="collapseNav" style="visibility: hidden;" data-border data-taxing>
+                <a href="" class="selected" data-border data-taxing>Home</a>
                 
-                <a href="search" data-lang="en" data-border>Search</a>
-                <a href="search" data-lang="mt" data-border>Fittex</a>
+                <a href="search" data-lang="en" data-border data-taxing>Search</a>
+                <a href="search" data-lang="mt" data-border data-taxing>Fittex</a>
                 
-                <a href="places" data-lang="en" data-border>Places</a>
-                <a href="places" data-lang="mt" data-border>Postijiet</a>
+                <a href="places" data-lang="en" data-border data-taxing>Places</a>
+                <a href="places" data-lang="mt" data-border data-taxing>Postijiet</a>
                 
                 
-                <a href="contact" data-lang="en" data-border>Contact</a>
-                <a href="contact" data-lang="mt" data-border>Kuntatti</a>
+                <a href="contact" data-lang="en" data-border data-taxing>Contact</a>
+                <a href="contact" data-lang="mt" data-border data-taxing>Kuntatti</a>
                 
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en" data-border>Issues?</a>
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt" data-border>Problemi?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en" data-border data-taxing>Issues?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt" data-border data-taxing>Problemi?</a>
             </nav>
             
-            <a href="" id="logo" data-border><img src="images/ui/logo.svg"></a>
+            <a href="" id="logo" data-border data-taxing><img src="images/ui/logo.svg"></a>
         </div>
         
         <div id="right">
-            <div id="accessibility" data-border>
-                <div id="borderToggle" data-border>
+            <div id="langToggle" data-border data-taxing></div>
+            
+            <div id="accessibility" data-border data-taxing><img src="images/ui/accessibility.svg"></div>
+            
+            <div id="acc-list" class="collapseAcc" style="visibility: hidden;" data-border data-taxing>
+                <div id="borderToggle" data-border data-taxing>
                     <span data-lang="en">Borders</span>
                     <span data-lang="mt">Truf</span>
                 </div>
-
-                <div id="perfToggle" data-border>
+                
+                <div id="perfToggle" data-border data-taxing>
                     <span data-lang="en">Performance</span>
-                    <span data-lang="mt"></span>
+                    <span data-lang="mt">Prestazzjoni</span>
                 </div>
             </div>
-            
-            <div id="langToggle" data-border></div>
         </div>
     </header>
     
@@ -60,8 +61,8 @@
         <h1 style="opacity: 0;" data-lang="en">Welcome to ghasafar.com</h1>
         <h1 style="opacity: 0;" data-lang="mt">Merħba f'ghasafar.com</h1>
         
-        <h2 style="opacity: 0;" data-lang="en">Latest news:</h2>
-        <h2 style="opacity: 0;" data-lang="mt">Aħbar riċenti:</h2>
+        <h2 data-lang="en">Latest news:</h2>
+        <h2 data-lang="mt">Aħbar riċenti:</h2>
         
         <span class="notice" data-lang="en">You can now toggle the language of the website! Tap the flag on the top right to toggle between Maltese 🇲🇹 and English 🇬🇧.</span>
         <span class="notice" data-lang="mt">Issa tista' taqleb il-lingwa tas-sit! Agħfas il-bandiera fuq il-lemin ta' fuq biex taqleb bejn il-Malti 🇲🇹 u l-Ingliż 🇬🇧.</span>
@@ -69,19 +70,19 @@
         <span class="notice" data-lang="en">Finding it difficult to make out where buttons are? Press the accessibility button and tap "Borders" to highlight the edges of various elements.</span>
         <span class="notice" data-lang="mt">Qed issibha diffiċli biex tifhem fejn jinstabu xi buttuni? Agħfas il-buttuna tal-aċċessibilità u agħfas "Truf" sabiex it-truf ta' bosta elementi jispikkaw.</span>
         
-        <span class="notice" data-lang="en">Does your device struggle to load certain pages? Press the accessibility button and tap "Performance" to toggle taxing effects (some effects are only removed after reloading the page).</button></span>
-        <span class="notice" data-lang="mt">Għandek l-apparat jbati biex jiftaħ ċertu paġni? Agħfas il-buttuna tal-aċċessibilità u agħfas "Prestazzjoni" sabiex titfi jew tixgħel effetti kumplessi (ċertu effetti jeħtieġu li l-paġna tiġġedded sabiex jitneħħu).</span>
+        <span class="notice" data-lang="en">Does your device struggle to load certain pages? Press the accessibility button and tap "Performance" to toggle taxing effects.</button></span>
+        <span class="notice" data-lang="mt">Għandek l-apparat jbati biex jiftaħ ċertu paġni? Agħfas il-buttuna tal-aċċessibilità u agħfas "Prestazzjoni" sabiex titfi jew tixgħel effetti kumplessi.</span>
         
-        <h2 style="opacity: 0;" data-lang="en">What would you like to do?</h2>
-        <h2 style="opacity: 0;" data-lang="mt">X'tixtieq tagħmel?</h2>
+        <h2 data-lang="en">Things to do:</h2>
+        <h2 data-lang="mt">Affarijiet x'tagħmel:</h2>
         
         <div id="wtd">
-            <div class="wtd-item" id="wtd-birds"><a href="search">
+            <div class="wtd-item" id="wtd-birds" data-border data-taxing><a href="search">
                 <span data-lang="en">Search for birds</span>
                 <span data-lang="mt">Fittex għall-għasafar</span>
             </a></div>
             
-            <div class="wtd-item" id="wtd-places"><a href="places">
+            <div class="wtd-item" id="wtd-places" data-border data-taxing><a href="places">
                 <span data-lang="en">Find somewhere to go</span>
                 <span data-lang="mt">Sib post biex iżżur</span>
             </a></div>
