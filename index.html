@@ -1,55 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>ghasafar.com</title>
-        <link rel="icon" type="image/x-icon" href="images/ui/favicon.svg">
-        <link rel="stylesheet" href="css/main.css"/>
-        <link rel="stylesheet" href="css/index.css"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-5RRWDL4F');
-        </script>
-    </head>
 
-    <body>
-        <noscript>
-            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RRWDL4F" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-        </noscript>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>ghasafar.com</title>
+    <link rel="icon" type="image/x-icon" href="images/ui/favicon.svg">
+    <link rel="stylesheet" href="css/global.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+</head>
 
-        <header>
-            <div id="nav-toggle"><img src="images/ui/nav.svg"></div>
-            <nav class="collapse" style="visibility: hidden;">
-                <a href="" id="selected">Home</a>
-                <a href="search">Search</a>
-                <a href="places">Places</a>
-                <a href="contact">Contact</a>
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank">Issues?</a>
+<body>
+    <header>
+        <div id="left">
+            <div id="nav-toggle" data-border><img src="images/ui/nav.svg"></div>
+            
+            <nav class="collapse" style="visibility: hidden;" data-border>
+                <a href="" class="selected" data-lang="en">Home</a>
+                <a href="" class="selected" data-lang="mt">Sors</a>
+                
+                <a href="search" data-lang="en">Search</a>
+                <a href="search" data-lang="mt">Fittex</a>
+                
+                <a href="places" data-lang="en">Places</a>
+                <a href="places" data-lang="mt">Postijiet</a>
+                
+                
+                <a href="contact" data-lang="en">Contact</a>
+                <a href="contact" data-lang="mt">Kuntatti</a>
+                
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en">Issues?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt">Problemi?</a>
             </nav>
-            <a href="" id="logo"><img src="images/ui/logo.svg"></a>
-        </header>
-
-        <main>
-            <h1 style="opacity: 0;">Welcome to ghasafar.com</h1>
-            <h2 style="opacity: 0;">What would you like to do?</h2>
-            <div id="wtd">
-                <div class="wtd-item" id="wtd-birds"><a href="search"><span>Search for birds</span></a></div>
-                <div class="wtd-item" id="wtd-places"><a href="places"><span>Find somewhere to go</span></a></div>
+            
+            <a href="" id="logo" data-border><img src="images/ui/logo.svg"></a>
+        </div>
+        
+        <div id="right">
+            <div id="accessibility" data-border>
+                <div id="borderToggle" data-border>
+                    <span data-lang="en">Borders</span>
+                    <span data-lang="mt">Truf</span>
+                </div>
             </div>
-        </main>
+            
+            <div id="langToggle" data-border></div>
+        </div>
+    </header>
+    
+    <main>
+        <h1 style="opacity: 0;" data-lang="en">Welcome to ghasafar.com</h1>
+        <h1 style="opacity: 0;" data-lang="mt">Merħba f'ghasafar.com</h1>
+        
+        <h2 style="opacity: 0;" data-lang="en">Latest news:</h2>
+        <h2 style="opacity: 0;" data-lang="mt">Aħbar riċenti:</h2>
+        
+        <span class="notice" data-lang="en">You can now toggle the language of the website! Tap the flag on the top right to toggle between Maltese and English.</span>
+        <span class="notice" data-lang="mt">Issa tista' taqleb il-lingwa tas-sit! Agħfas il-bandiera fuq il-lemin ta' fuq biex taqleb bejn il-Malti u l-Ingliż.</span>
+        
+        <span class="notice" data-lang="en">Finding it difficult to make out where buttons are? Press the accessibility button and tap "Borders" to highlight the edges of various elements.</span>
+        <span class="notice" data-lang="mt">Qed issibha diffiċli biex tifhem fejn qegħdin il-buttuni? Agħfas il-buttuna tal-aċċessibilità u agħfas "Truf" sabiex it-truf ta' bosta elementi jispikkaw.</span>
+        
+        <h2 style="opacity: 0;" data-lang="en">What would you like to do?</h2>
+        <h2 style="opacity: 0;" data-lang="mt">X'tixtieq tagħmel?</h2>
+        
+        <div id="wtd">
+            <div class="wtd-item" id="wtd-birds"><a href="search">
+                <span data-lang="en">Search for birds</span>
+                <span data-lang="mt">Fittex għall-għasafar</span>
+            </a></div>
+            
+            <div class="wtd-item" id="wtd-places"><a href="places">
+                <span data-lang="en">Find somewhere to go</span>
+                <span data-lang="mt">Sib post biex iżżur</span>
+            </a></div>
+        </div>
+    </main>
+    
+    <footer>
+        © 2025 ghasafar.com. All rights reserved.
+    </footer>
+    
+    <script src="js/global.js"></script>
+    <script src="js/index.js"></script>
+</body>
 
-        <footer>
-            © 2025 ghasafar.com. All rights reserved.
-        </footer>
-
-        <script src="js/nav.js"></script>
-        <script src="js/index.js"></script>
-    </body>
 </html>

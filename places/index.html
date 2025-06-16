@@ -1,61 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <meta name="description" content="ghasafar.com lets you translate over 400 bird species from English to Maltese and vice versa. Find a new place to go birding, contribute to the preservation of Maltese in simple ways and more to come!">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>[Places] ghasafar.com</title>
-        <link rel="icon" type="image/x-icon" href="../images/ui/favicon.svg">
-        <link rel="stylesheet" href="../css/main.css"/>
-        <link rel="stylesheet" href="../css/places.css"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-5RRWDL4F');
-        </script>
-    </head>
-    
-    <body>
-        <noscript>
-            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RRWDL4F" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-        </noscript>
-    
-        <header>
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="ghasafar.com lets you translate over 400 bird species from English to Maltese and vice versa. Find a new place to go birding, contribute to the preservation of Maltese in simple ways and more to come!">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>[Places] ghasafar.com</title>
+    <link rel="icon" type="image/x-icon" href="../images/ui/favicon.svg">
+    <link rel="stylesheet" href="../css/global.css"/>
+    <link rel="stylesheet" href="../css/places.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>    
+    <header>
+        <div id="left">
             <div id="nav-toggle"><img src="../images/ui/nav.svg"></div>
             <nav class="collapse" style="visibility: hidden;">
-                <a href="..">Home</a>
-                <a href="../search">Search</a>
-                <a href="../places" id="selected">Places</a>
-                <a href="../contact">Contact</a>
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank">Issues?</a>
+                <a href=".." data-lang="en">Home</a>
+                <a href=".." data-lang="mt">Sors</a>
+                
+                <a href="../search" data-lang="en">Search</a>
+                <a href="../search" data-lang="mt">Fittex</a>
+                
+                <a href="" class="selected" data-lang="en">Places</a>
+                <a href="" class="selected" data-lang="mt">Postijiet</a>
+                
+                
+                <a href="../contact" data-lang="en">Contact</a>
+                <a href="../contact" data-lang="mt">Kuntatti</a>
+                
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en">Issues?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt">Problemi?</a>
             </nav>
             <a href=".." id="logo"><img src="../images/ui/logo.svg"></a>
-        </header>
+        </div>
+        <div id="right">
+            <div id="langToggle"></div>
+        </div>
+    </header>
+    
+    <main>
+        <div id="places"></div>
+        
+        <template id="template">
+            <div class="place">
+                <h1 class="name"></h1>
+                <h2 class="owner"></h2>
+                <h2 class="loc"><img src="../images/ui/pin.svg"></h2>
+                <h3 class="credit"></h3>
+            </div>
+        </template>
+    </main>
+    
+    <footer>
+        © 2025 ghasafar.com. All rights reserved.
+    </footer>
+    
+    <script src="../js/global.js"></script>
+    <script src="../js/places.js"></script>
+</body>
 
-        <main>
-            <div id="places"></div>
-
-            <template id="template">
-                <div class="place">
-                    <h1 class="name"></h1>
-                    <h2 class="owner"></h2>
-                    <h2 class="loc"><img src="../images/ui/pin.svg"></h2>
-                    <h3 class="credit"></h3>
-                    <div class="more">View more<img src="../images/ui/right.svg"></div>
-                </div>
-            </template>
-        </main>
-
-        <footer>
-            © 2025 ghasafar.com. All rights reserved.
-        </footer>
-
-        <script src="../js/nav.js"></script>
-        <script src="../js/places.js"></script>
-    </body>
 </html>

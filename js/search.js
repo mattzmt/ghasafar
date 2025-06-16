@@ -28,79 +28,95 @@ const backToTop = document.getElementById("go-top");
 let data = [];
 
 fetch('../js/birds.json')
-	.then(response => response.json())
-	.then(jsonData => {
-		data = jsonData;
-		displayItems(data);
-		updateTagColors();
-	})
-	.catch(error => console.error("Error loading data:", error));
+.then(response => response.json())
+.then(jsonData => {
+	data = jsonData;
+	displayItems(data);
+	updateTagColors();
+})
+.catch(error => console.error("Error loading data:", error));
 
 function normalizeText(text) {
 	return text
-		.toLowerCase()
-		.replace(/[żġħċ]/g, (match) => ({ 'ż': 'z', 'ġ': 'g', 'ħ': 'h', 'ċ': 'c' }[match]))
-		.replace(/-/g, " ");
+	.toLowerCase()
+	.replace(/[żġħċ]/g, (match) => ({ 'ż': 'z', 'ġ': 'g', 'ħ': 'h', 'ċ': 'c' }[match]))
+	.replace(/-/g, " ");
 }
 
 function displayItems(items) {
 	container.innerHTML = "";
 	const fragment = document.createDocumentFragment();
-
+	
 	items.forEach(item => {
 		const clone = template.content.cloneNode(true);
 		clone.querySelector(".en").textContent = item["en"];
 		clone.querySelector(".mt").textContent = item["mt"];
 		clone.querySelector(".scn").textContent = item["scn"];
-		clone.querySelector(".credit").textContent = "Image credit: "+item["credit"];
+		clone.querySelector(".credit").textContent = item["credit"];
 		clone.querySelector(".item").style.backgroundImage = `url('${item["smallImg"]}')`;
 		clone.querySelector(".item").addEventListener("click", () => showPopup(item));
 		fragment.appendChild(clone);
 	});
 	container.appendChild(fragment);
-
+	
 	const resultText = items.length === 1 ? "1" : `${items.length}`;
 	resultsCount.textContent = resultText;
 }
 
 function showPopup(item) {
-    document.body.classList.add("no-scroll");
-
-    popupEn.textContent = item["en"];
-    popupMt.textContent = item["mt"];
-    popupScn.textContent = item["scn"];
-    popupDesc.textContent = item["desc"];
-    popupStatus.textContent = item["status"];
-    popupOrder.textContent = item["order"];
-    popupFamily.textContent = item["family"];
-    popupGenus.textContent = item["genus"];
+	document.body.classList.add("no-scroll");
+	
+	popupEn.textContent = item["en"];
+	popupMt.textContent = item["mt"];
+	popupScn.textContent = item["scn"];
+	popupDesc.textContent = item["desc"];
+	
+	const statusMap = {
+		"Extinct": "ex",
+		"Extinct in the Wild": "ew",
+		"Critically Endangered": "cr",
+		"Endangered": "en",
+		"Vulnerable": "vu",
+		"Near Threatened": "nt",
+		"Least Concern": "lc"
+	};
+	
+	const statusMapMt = {
+		"Extinct": "Estint",
+		"Extinct in the Wild": "Estint fis-Selvaġġ",
+		"Critically Endangered": "Fil-Periklu Kritiku",
+		"Endangered": "Fil-Periklu",
+		"Vulnerable": "Vulnerabbli",
+		"Near Threatened": "Kważi Mhedded",
+		"Least Concern": "Ta' Tħassib Minimu"
+	};
+	
+	const statusKey = item["status"]?.trim();
+	
+	const currentLang = localStorage.getItem('lang') || 'en';
+	popupStatus.textContent =
+	currentLang === 'mt' && statusMapMt[statusKey]
+	? statusMapMt[statusKey]
+	: statusKey;
+	
+	popupOrder.textContent = item["order"];
+	popupFamily.textContent = item["family"];
+	popupGenus.textContent = item["genus"];
 	popupImg.style.visibility = "hidden";
 	popupImg.src = item["img"];
 	popupCredit.textContent = item["credit"];
 	popupCredit.href = item["source"];
-    popup.style.display = "flex";
-
-    document.querySelectorAll("#popup-statuses h3").forEach(el => el.classList.remove("statusSelected"));
-
-    const statusMap = {
-        "Extinct": "ex",
-        "Extinct in the Wild": "ew",
-        "Critically Endangered": "cr",
-        "Endangered": "en",
-        "Vulnerable": "vu",
-        "Near Threatened": "nt",
-        "Least Concern": "lc"
-    };
-
-    const statusKey = item["status"]?.trim();
-
-    if (statusKey !== "No Data" && statusMap[statusKey]) {
-        document.getElementById(statusMap[statusKey]).classList.add("statusSelected");
-    }
+	popup.style.display = "flex";
+	
+	document.querySelectorAll("#popup-statuses h3").forEach(el => el.classList.remove("statusSelected"));
+	
+	if (statusKey !== "No Data" && statusMap[statusKey]) {
+		document.getElementById(statusMap[statusKey]).classList.add("statusSelected");
+	}
 }
 
 popupImg.onload = function() {
-    popupImg.style.visibility = 'visible';
+	popupImg.style.visibility = 'visible';
 };
 
 popup.addEventListener("click", (event) => {
@@ -116,10 +132,10 @@ document.getElementById("close-popup").addEventListener("click", () => {
 });
 
 document.addEventListener("keydown", function(event) {
-    if (event.key === "Escape" && popup.style.display === "flex") {
-        popup.style.display = "none";
-        document.body.classList.remove("no-scroll");
-    }
+	if (event.key === "Escape" && popup.style.display === "flex") {
+		popup.style.display = "none";
+		document.body.classList.remove("no-scroll");
+	}
 });
 
 function filterItems(query) {
@@ -132,65 +148,65 @@ function filterItems(query) {
 				(currentNameFilters.has("order") && normalizeText(item["order"]).includes(query)) ||
 				(currentNameFilters.has("family") && normalizeText(item["family"]).includes(query)) ||
 				(currentNameFilters.has("genus") && normalizeText(item["genus"]).includes(query)))
-		);
-
-		return matchesQuery;
+			);
+			
+			return matchesQuery;
+		});
+	}
+	
+	searchInput.addEventListener("input", debounce(function() {
+		const query = normalizeText(this.value);
+		displayItems(filterItems(query));
+		updateTagColors();
+	}, 300));
+	
+	function debounce(func, wait) {
+		let timeout;
+		return function(...args) {
+			clearTimeout(timeout);
+			timeout = setTimeout(() => func.apply(this, args), wait);
+		};
+	}
+	
+	function updateTagColors() {
+		nameFilters.forEach(button => {
+			const filterKey = button.id.split("-")[0];
+			button.classList.toggle("active", currentNameFilters.has(filterKey));
+		});
+	}
+	
+	function toggleFilter(set, filter, query) {
+		if (set.has(filter) && set.size === 1) return;
+		set.has(filter) ? set.delete(filter) : set.add(filter);
+		displayItems(filterItems(query));
+		updateTagColors();
+	}
+	
+	function handleFilterClick(event, set, filter) {
+		const query = normalizeText(searchInput.value);
+		toggleFilter(set, filter, query);
+	}
+	
+	document.querySelector("#filter-toggle").addEventListener("click", function () {
+		const filters = document.querySelector("#name-filters");
+		
+		if (filters.classList.contains("clip")) {
+			filters.classList.remove("clip");
+			filters.classList.add("undoClip");
+			filters.style.visibility = "visible";
+		} else {
+			filters.classList.remove("undoClip");
+			filters.classList.add("clip");
+		}
 	});
-}
-
-searchInput.addEventListener("input", debounce(function() {
-	const query = normalizeText(this.value);
-	displayItems(filterItems(query));
-	updateTagColors();
-}, 300));
-
-function debounce(func, wait) {
-	let timeout;
-	return function(...args) {
-		clearTimeout(timeout);
-		timeout = setTimeout(() => func.apply(this, args), wait);
-	};
-}
-
-function updateTagColors() {
-	nameFilters.forEach(button => {
-		const filterKey = button.id.split("-")[0];
-		button.classList.toggle("active", currentNameFilters.has(filterKey));
+	
+	backToTop.addEventListener("click", () => {
+		window.scrollTo({ top: 0, behavior: "smooth" });
 	});
-}
-
-function toggleFilter(set, filter, query) {
-	if (set.has(filter) && set.size === 1) return;
-	set.has(filter) ? set.delete(filter) : set.add(filter);
-	displayItems(filterItems(query));
-	updateTagColors();
-}
-
-function handleFilterClick(event, set, filter) {
-	const query = normalizeText(searchInput.value);
-	toggleFilter(set, filter, query);
-}
-
-document.querySelector("#filter-toggle").addEventListener("click", function () {
-    const filters = document.querySelector("#name-filters");
-
-    if (filters.classList.contains("clip")) {
-        filters.classList.remove("clip");
-        filters.classList.add("undoClip");
-		filters.style.visibility = "visible";
-    } else {
-        filters.classList.remove("undoClip");
-        filters.classList.add("clip");
-    }
-});
-
-backToTop.addEventListener("click", () => {
-	window.scrollTo({ top: 0, behavior: "smooth" });
-});
-
-document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "en"));
-document.getElementById("mt-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "mt"));
-document.getElementById("scn-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "scn"));
-document.getElementById("order-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "order"));
-document.getElementById("family-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "family"));
-document.getElementById("genus-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "genus"));
+	
+	document.getElementById("en-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "en"));
+	document.getElementById("mt-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "mt"));
+	document.getElementById("scn-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "scn"));
+	document.getElementById("order-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "order"));
+	document.getElementById("family-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "family"));
+	document.getElementById("genus-filter").addEventListener("click", (event) => handleFilterClick(event, currentNameFilters, "genus"));
