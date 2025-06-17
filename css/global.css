@@ -368,13 +368,15 @@ footer:not(.performance) {
 
 .notice>img {
   position: absolute;
-  margin: auto 0;
-  height: 20px;
+  margin: 2px 0 3px 0;
+  height: 15px;
+  width: 15px;
+  object-fit: contain;
 }
 
 .space {
   display: inline-block;
-  width: 20px;
+  width: 15px;
 }
 
 .warning {
