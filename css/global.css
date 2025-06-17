@@ -312,19 +312,22 @@ nav>a:not(.performance):hover {
   user-select: none;
   outline: none;
   background: var(--dark2);
-  padding: 15px;
+  padding: 10px;
   width: 50px;
   min-width: 20px;
-  height: 20px;
+  height: 30px;
   border-radius: 10px;
   pointer-events: auto;
   cursor: pointer;
-  font-size: 30px;
 }
 
 #langToggle:not(.performance) {
   background: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(5px);
+}
+
+#langImg {
+  height: 30px;
 }
 
 /* ---------- FOOTER ---------- */
@@ -361,6 +364,17 @@ footer:not(.performance) {
 
 .notice {
   padding: 10px 10px 10px 20px;
+}
+
+.notice>img {
+  position: absolute;
+  margin: auto 0;
+  height: 20px;
+}
+
+.space {
+  display: inline-block;
+  width: 20px;
 }
 
 .warning {

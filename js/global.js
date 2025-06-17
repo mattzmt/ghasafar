@@ -28,6 +28,7 @@ document.querySelector("#accessibility").addEventListener("click", function () {
 
 const defaultLang = 'en';
 const langToggle = document.getElementById('langToggle');
+const langImg = document.getElementById('langImg');
 const storedLang = localStorage.getItem('lang') || defaultLang;
 
 function setLanguage(lang) {
@@ -45,7 +46,7 @@ function setLanguage(lang) {
     localStorage.setItem('lang', lang);
     
     if (langToggle) {
-        langToggle.textContent = lang === 'en' ? '🇬🇧' : '🇲🇹';
+        langImg.src = lang === 'en' ? '../images/ui/GB.png' : '../images/ui/MT.png';
     }
     
     const searchInput = document.getElementById('search');
