@@ -1,61 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <meta name="description" content="ghasafar.com lets you translate over 400 bird species from English to Maltese and vice versa. Find a new place to go birding, contribute to the preservation of Maltese in simple ways and more to come!">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>[Places] ghasafar.com</title>
-        <link rel="icon" type="image/x-icon" href="../images/ui/favicon.svg">
-        <link rel="stylesheet" href="../css/main.css"/>
-        <link rel="stylesheet" href="../css/places.css"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-5RRWDL4F');
-        </script>
-    </head>
-    
-    <body>
-        <noscript>
-            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RRWDL4F" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-        </noscript>
-    
-        <header>
-            <div id="nav-toggle"><img src="../images/ui/nav.svg"></div>
-            <nav class="collapse" style="visibility: hidden;">
-                <a href="..">Home</a>
-                <a href="../search">Search</a>
-                <a href="../places" id="selected">Places</a>
-                <a href="../contact">Contact</a>
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank">Issues?</a>
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="ghasafar.com lets you translate over 400 bird species from English to Maltese and vice versa. Find a new place to go birding, contribute to the preservation of Maltese in simple ways and more to come!">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>[Places] ghasafar.com</title>
+    <link rel="icon" type="image/x-icon" href="../images/ui/favicon.svg">
+    <link rel="stylesheet" href="../css/global.css"/>
+    <link rel="stylesheet" href="../css/places.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <span data-title-lang="en" style="display: none;">[Places] ghasafar.com</span>
+    <span data-title-lang="mt" style="display: none;">[Postijiet] ghasafar.com</span>
+
+    <header>
+        <div id="left">
+            <div id="nav-toggle" data-border data-taxing><img src="../images/ui/nav.svg"></div>
+            
+            <nav class="collapseNav" style="visibility: hidden;" data-border data-taxing>
+                <a href=".." data-border data-taxing>Home</a>
+                
+                <a href="../search" data-lang="en" data-border data-taxing>Search</a>
+                <a href="../search" data-lang="mt" data-border data-taxing>Fittex</a>
+                
+                <a href="" class="selected" data-lang="en" data-border data-taxing>Places</a>
+                <a href="" class="selected" data-lang="mt" data-border data-taxing>Postijiet</a>
+                
+                
+                <a href="../contact" data-lang="en" data-border data-taxing>Contact</a>
+                <a href="../contact" data-lang="mt" data-border data-taxing>Kuntatti</a>
+                
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en" data-border data-taxing>Issues?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt" data-border data-taxing>Problemi?</a>
             </nav>
-            <a href=".." id="logo"><img src="../images/ui/logo.svg"></a>
-        </header>
-
-        <main>
-            <div id="places"></div>
-
-            <template id="template">
-                <div class="place">
-                    <h1 class="name"></h1>
-                    <h2 class="owner"></h2>
-                    <h2 class="loc"><img src="../images/ui/pin.svg"></h2>
-                    <h3 class="credit"></h3>
-                    <div class="more">View more<img src="../images/ui/right.svg"></div>
+            
+            <a href=".." id="logo" data-border data-taxing><img src="../images/ui/logo.svg"></a>
+        </div>
+        
+        <div id="right">
+            <div id="langToggle" data-border data-taxing><img id="langImg" src="../images/ui/GB.png"></div>
+            
+            <div id="accessibility" data-border data-taxing><img src="../images/ui/accessibility.svg"></div>
+            
+            <div id="acc-list" class="collapseAcc" style="visibility: hidden;" data-border data-taxing>
+                <div id="borderToggle" data-border data-taxing>
+                    <span data-lang="en">Borders</span>
+                    <span data-lang="mt">Truf</span>
                 </div>
-            </template>
-        </main>
+                
+                <div id="perfToggle" data-border data-taxing>
+                    <span data-lang="en">Performance</span>
+                    <span data-lang="mt">Prestazzjoni</span>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <main>
+        <div id="places"></div>
+        
+        <template id="template">
+            <div class="place" data-taxing>
+                <h1 class="name"></h1>
+                <h2 class="owner"></h2>
+                <h2 class="loc"><img src="../images/ui/pin.svg"></h2>
+                <h3 class="credit"></h3>
+            </div>
+        </template>
+    </main>
+    
+    <footer>
+        © 2025 ghasafar.com. All rights reserved.
+    </footer>
+    
+    <script src="../js/global.js"></script>
+    <script src="../js/places.js"></script>
+</body>
 
-        <footer>
-            © 2025 ghasafar.com. All rights reserved.
-        </footer>
-
-        <script src="../js/nav.js"></script>
-        <script src="../js/places.js"></script>
-    </body>
 </html>

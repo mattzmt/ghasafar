@@ -1,55 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>ghasafar.com</title>
-        <link rel="icon" type="image/x-icon" href="images/ui/favicon.svg">
-        <link rel="stylesheet" href="css/main.css"/>
-        <link rel="stylesheet" href="css/index.css"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-5RRWDL4F');
-        </script>
-    </head>
 
-    <body>
-        <noscript>
-            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RRWDL4F" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-        </noscript>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>ghasafar.com</title>
+    <link rel="icon" type="image/x-icon" href="images/ui/favicon.svg">
+    <link rel="stylesheet" href="css/global.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+</head>
 
-        <header>
-            <div id="nav-toggle"><img src="images/ui/nav.svg"></div>
-            <nav class="collapse" style="visibility: hidden;">
-                <a href="" id="selected">Home</a>
-                <a href="search">Search</a>
-                <a href="places">Places</a>
-                <a href="contact">Contact</a>
-                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank">Issues?</a>
+<body>
+    <header>
+        <div id="left">
+            <div id="nav-toggle" data-border data-taxing><img src="images/ui/nav.svg"></div>
+            
+            <nav class="collapseNav" style="visibility: hidden;" data-border data-taxing>
+                <a href="" class="selected" data-border data-taxing>Home</a>
+                
+                <a href="search" data-lang="en" data-border data-taxing>Search</a>
+                <a href="search" data-lang="mt" data-border data-taxing>Fittex</a>
+                
+                <a href="places" data-lang="en" data-border data-taxing>Places</a>
+                <a href="places" data-lang="mt" data-border data-taxing>Postijiet</a>
+                
+                
+                <a href="contact" data-lang="en" data-border data-taxing>Contact</a>
+                <a href="contact" data-lang="mt" data-border data-taxing>Kuntatti</a>
+                
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="en" data-border data-taxing>Issues?</a>
+                <a href="https://forms.gle/WF1FnjsDyfW4Hwdm7" target="_blank" data-lang="mt" data-border data-taxing>Problemi?</a>
             </nav>
-            <a href="" id="logo"><img src="images/ui/logo.svg"></a>
-        </header>
-
-        <main>
-            <h1 style="opacity: 0;">Welcome to ghasafar.com</h1>
-            <h2 style="opacity: 0;">What would you like to do?</h2>
-            <div id="wtd">
-                <div class="wtd-item" id="wtd-birds"><a href="search"><span>Search for birds</span></a></div>
-                <div class="wtd-item" id="wtd-places"><a href="places"><span>Find somewhere to go</span></a></div>
+            
+            <a href="" id="logo" data-border data-taxing><img src="images/ui/logo.svg"></a>
+        </div>
+        
+        <div id="right">
+            <div id="langToggle" data-border data-taxing><img id="langImg" src="../images/ui/GB.png"></div>
+            
+            <div id="accessibility" data-border data-taxing><img src="images/ui/accessibility.svg"></div>
+            
+            <div id="acc-list" class="collapseAcc" style="visibility: hidden;" data-border data-taxing>
+                <div id="borderToggle" data-border data-taxing>
+                    <span data-lang="en">Borders</span>
+                    <span data-lang="mt">Truf</span>
+                </div>
+                
+                <div id="perfToggle" data-border data-taxing>
+                    <span data-lang="en">Performance</span>
+                    <span data-lang="mt">Prestazzjoni</span>
+                </div>
             </div>
-        </main>
+        </div>
+    </header>
+    
+    <main>
+        <h1 style="opacity: 0;" data-lang="en">Welcome to ghasafar.com</h1>
+        <h1 style="opacity: 0;" data-lang="mt">Merħba f'ghasafar.com</h1>
+        
+        <h2 data-lang="en">Latest news:</h2>
+        <h2 data-lang="mt">Aħbar riċenti:</h2>
+        
+        <span class="notice" data-lang="en">You can now toggle the language of the website! Tap the flag on the top right to toggle between Maltese <img src="images/ui/MT.png"><div class="space"></div> and English <img src="images/ui/GB.png"><div class="space"></div>.</span>
+        <span class="notice" data-lang="mt">Issa tista' taqleb il-lingwa tas-sit! Agħfas il-bandiera fuq il-lemin ta' fuq biex taqleb bejn il-Malti <img src="images/ui/MT.png"><div class="space"></div> u l-Ingliż <img src="images/ui/GB.png"><div class="space"></div>.</span>
+        
+        <span class="notice" data-lang="en">Finding it difficult to make out where buttons are? Press the accessibility <img src="images/ui/accessibility.svg"><div class="space"></div> button and tap "Borders" to highlight the edges of various elements.</span>
+        <span class="notice" data-lang="mt">Qed issibha diffiċli biex tifhem fejn jinstabu xi buttuni? Agħfas il-buttuna tal-aċċessibilità <img src="images/ui/accessibility.svg"><div class="space"></div> u agħfas "Truf" sabiex it-truf ta' bosta elementi jispikkaw.</span>
+        
+        <span class="notice" data-lang="en">Does your device struggle to load certain pages? Press the accessibility button and tap "Performance" to toggle taxing effects.</button></span>
+        <span class="notice" data-lang="mt">Għandek l-apparat jbati biex jiftaħ ċertu paġni? Agħfas il-buttuna tal-aċċessibilità u agħfas "Prestazzjoni" sabiex titfi jew tixgħel effetti kumplessi.</span>
+        
+        <h2 data-lang="en">Things to do:</h2>
+        <h2 data-lang="mt">Affarijiet x'tagħmel:</h2>
+        
+        <div id="wtd">
+            <div class="wtd-item" id="wtd-birds" data-border data-taxing><a href="search">
+                <span data-lang="en">Search for birds</span>
+                <span data-lang="mt">Fittex għall-għasafar</span>
+            </a></div>
+            
+            <div class="wtd-item" id="wtd-places" data-border data-taxing><a href="places">
+                <span data-lang="en">Find somewhere to go</span>
+                <span data-lang="mt">Sib post biex iżżur</span>
+            </a></div>
+        </div>
+    </main>
+    
+    <footer>
+        © 2025 ghasafar.com. All rights reserved.
+    </footer>
+    
+    <script src="js/global.js"></script>
+    <script src="js/index.js"></script>
+</body>
 
-        <footer>
-            © 2025 ghasafar.com. All rights reserved.
-        </footer>
-
-        <script src="js/nav.js"></script>
-        <script src="js/index.js"></script>
-    </body>
 </html>

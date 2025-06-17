@@ -17,12 +17,15 @@ main>a {
     height: fit-content;
     padding: 15px 20px;
     background: var(--active);
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 20px;
     border-radius: 10px;
 }
 
 main>a:hover {
     background: var(--activeHover);
+}
+
+main>a>span{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
 }
