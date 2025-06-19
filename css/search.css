@@ -129,13 +129,12 @@ main {
   width: calc(100vw - 100px);
   height: 125px;
   padding: 0 50px 45px 50px;
-  z-index: 1;
+  z-index: 2;
   gap: 10px;
-  background: linear-gradient(rgba(0, 0, 0, 0) 145px, rgba(0, 0, 0, 0.7));
 }
 
 #tools>* {
-  z-index: 1;
+  z-index: 2;
 }
 
 /* ---------- FILTERS ---------- */
@@ -373,7 +372,7 @@ main {
 }
 
 #popup {
-  z-index: 2;
+  z-index: 3;
   overflow-y: auto;
   max-height: calc(100vh - 55px);
   position: fixed;
@@ -388,7 +387,7 @@ main {
 }
 
 #popup>*{
-  z-index: 2;
+  z-index: 3;
 }
 
 #popup-content {

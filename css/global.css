@@ -29,8 +29,20 @@ body {
   user-select: none;
 }
 
-header {
+#shadow {
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: block;
+  width: 100vw;
+  height: 100vh;
   z-index: 1;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 15%, rgba(0, 0, 0, 0) 85%, rgba(0, 0, 0, 0.5) 100%);
+}
+
+header {
+  z-index: 2;
   position: fixed;
   top: 0;
   left: 0;
@@ -38,7 +50,6 @@ header {
   height: 50px;
   margin: 0;
   padding: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
   pointer-events: none;
   display: flex;
   flex-direction: row;
