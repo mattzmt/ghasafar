@@ -173,6 +173,7 @@ nav>a:not(.performance):hover {
 /* ---------- LOGO ---------- */
 
 #logo {
+  content: url(../images/ui/logo-wide.svg);
   width: fit-content;
   height: 26px;
   background: var(--dark2);
@@ -403,8 +404,17 @@ footer:not(.performance) {
 
 /* ---------- DYNAMIC CHANGES ---------- */
 
-@media (max-width: 400px) {
-  #left>#logo{
-    display: none;
+@media (max-width: 569px) {
+  #logo {
+    content: url(../images/ui/logo-narrow.svg);
+  }
+}
+
+@media (max-width: 456px) {
+  #nav-toggle {
+    width: 20px;
+  }
+  #accessibility {
+    width: 20px;
   }
 }
