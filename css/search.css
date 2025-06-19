@@ -631,7 +631,7 @@ body.no-scroll {
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 415px) {
   #results>span {
     font-size: 10px;
   }
@@ -649,7 +649,7 @@ body.no-scroll {
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 388px) {
   #results>span {
     font-size: 8px;
   }

@@ -97,7 +97,7 @@ main>h2 {
   font-weight: bold;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 584px) {
   main {
     display: flex;
     flex-direction: column;
