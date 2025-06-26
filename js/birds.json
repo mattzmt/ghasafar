@@ -29,7 +29,7 @@
 	},
 	{
 		"en": "Little Grebe",
-		"mt": "Blongun Zgħir",
+		"mt": "Blonġun Żgħir",
 		"scn": "Tachybaptus ruficollis",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -43,7 +43,7 @@
 	},
 	{
 		"en": "Great Crested Grebe",
-		"mt": "Blongun Prim",
+		"mt": "Blonġun Prim",
 		"scn": "Podiceps cristatus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -57,7 +57,7 @@
 	},
 	{
 		"en": "Black-Necked Grebe",
-		"mt": "Blongun Sekond",
+		"mt": "Blonġun Sekond",
 		"scn": "Podiceps nigricollis",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -252,7 +252,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=33043685"
 	},
 	{
-		"en": "Little Bittern",
+		"en": "Common Little Bittern",
 		"mt": "Russett tas-Siġar",
 		"scn": "Botaurus minutus",
 		"desc": "No description yet",
@@ -260,13 +260,13 @@
 		"order": "Pelecaniformes",
 		"family": "Ardeidae",
 		"genus": "Botaurus",
-		"smallImg": "../images/birds/LittleBittern (LQ).jpg",
-		"img": "../images/birds/LittleBittern.jpg",
+		"smallImg": "../images/birds/CommonLittleBittern (LQ).jpg",
+		"img": "../images/birds/CommonLittleBittern.jpg",
 		"credit": "Biser Todorov - Own work, CC BY 3.0",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=40954200"
 	},
 	{
-		"en": "Black-Crowned Night Heron",
+		"en": "Black-Crowned Night-Heron",
 		"mt": "Kwakka",
 		"scn": "Nycticorax nycticorax",
 		"desc": "No description yet",
@@ -294,16 +294,16 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=30117976"
 	},
 	{
-		"en": "Western Cattle Egret",
-		"mt": "Agrett tal-Bħejjem",
+		"en": "Cattle Egret",
+		"mt": "Agrett tal-Bhejjem",
 		"scn": "Ardea ibis",
 		"desc": "No description yet",
 		"status": "Least Concern",
 		"order": "Pelecaniformes",
 		"family": "Ardeidae",
 		"genus": "Ardea",
-		"smallImg": "../images/birds/WesternCattleEgret (LQ).jpg",
-		"img": "../images/birds/WesternCattleEgret.jpg",
+		"smallImg": "../images/birds/CattleEgret (LQ).jpg",
+		"img": "../images/birds/CattleEgret.jpg",
 		"credit": "Manjith Kainickara from Dallas, Texas, USA - One more stick...Uploaded by snowmanradio, CC BY-SA 2.0",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=20329327"
 	},
@@ -490,21 +490,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=1385514"
 	},
 	{
-		"en": "Pink-Footed Goose",
-		"mt": "Wiżża tal-Ful",
-		"scn": "Anser brachyrhynchus",
-		"desc": "No description yet",
-		"status": "Least Concern",
-		"order": "Anseriformes",
-		"family": "Anatidae",
-		"genus": "Anser",
-		"smallImg": "../images/birds/PinkFootedGoose (LQ).jpg",
-		"img": "../images/birds/PinkFootedGoose.jpg",
-		"credit": "MPF - Own work, CC BY-SA 4.0",
-		"source": "https://commons.wikimedia.org/w/index.php?curid=150443788"
-	},
-	{
-		"en": "Taiga Bean Goose",
+		"en": "Bean Goose",
 		"mt": "Wiżża tal-Ful",
 		"scn": "Anser fabalis",
 		"desc": "No description yet",
@@ -672,7 +658,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=118451553"
 	},
 	{
-		"en": "Eurasian Teal",
+		"en": "Common Teal",
 		"mt": "Sarsella",
 		"scn": "Anas crecca",
 		"desc": "No description yet",
@@ -757,7 +743,7 @@
 	},
 	{
 		"en": "Red-Crested Pochard",
-		"mt": "Brajmla tat-Toppu Aħmar",
+		"mt": "Brajmla Prima",
 		"scn": "Netta rufina",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -785,7 +771,7 @@
 	},
 	{
 		"en": "Ferruginous Duck",
-		"mt": "Brajmla t'Għajna Bajda",
+		"mt": "Brajmla Ħamra",
 		"scn": "Aythya nyroca",
 		"desc": "No description yet",
 		"status": "Near Threatened",
@@ -827,7 +813,7 @@
 	},
 	{
 		"en": "Common Scoter",
-		"mt": "Borka Sewda",
+		"mt": "Brajmla Sewda",
 		"scn": "Melanitta nigra",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1023,7 +1009,7 @@
 	},
 	{
 		"en": "Hen Harrier",
-		"mt": "Bagħadan Ikħal",
+		"mt": "Bagħdan Ikħal",
 		"scn": "Circus cyaneus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1051,7 +1037,7 @@
 	},
 	{
 		"en": "Montagu's Harrier",
-		"mt": "Bagħadan Griż",
+		"mt": "Bagħdan Griż",
 		"scn": "Circus pygargus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1078,7 +1064,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=27184634"
 	},
 	{
-		"en": "Common Buzzard",
+		"en": "Eurasian Buzzard",
 		"mt": "Kuċċarda Prima",
 		"scn": "Buteo buteo",
 		"desc": "No description yet",
@@ -1414,7 +1400,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=82409147"
 	},
 	{
-		"en": "Corn Crake",
+		"en": "Corncrake",
 		"mt": "Gallozz Aħmar",
 		"scn": "Crex crex",
 		"desc": "No description yet",
@@ -1422,14 +1408,14 @@
 		"order": "Gruiformes",
 		"family": "Rallidae",
 		"genus": "Crex",
-		"smallImg": "../images/birds/CornCrake (LQ).jpg",
-		"img": "../images/birds/CornCrake.jpg",
+		"smallImg": "../images/birds/Corncrake (LQ).jpg",
+		"img": "../images/birds/Corncrake.jpg",
 		"credit": "Alpo Roikola - Own work by the original uploader, CC BY 3.0",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=132715911"
 	},
 	{
 		"en": "Striped Crake",
-		"mt": "Gallozz tal-Istrixxi",
+		"mt": "Gallozz Imnaqqax",
 		"scn": "Aenigmatolimnas marginalis",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1498,7 +1484,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=62554717"
 	},
 	{
-		"en": "Eurasian Coot",
+		"en": "Common Coot",
 		"mt": "Tiġieġa tal-Baħar",
 		"scn": "Fulica atra",
 		"desc": "No description yet",
@@ -1568,7 +1554,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=72739189"
 	},
 	{
-		"en": "Houbara Bustard",
+		"en": "African Houbara",
 		"mt": "Għubara",
 		"scn": "Chlamydotis undulata",
 		"desc": "No description yet",
@@ -2324,7 +2310,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=2321086"
 	},
 	{
-		"en": "Arctic Skua",
+		"en": "Arctic Jaeger",
 		"mt": "Skuwa tal-Artiku",
 		"scn": "Stercorarius Parasiticus",
 		"desc": "No description yet",
@@ -2332,8 +2318,8 @@
 		"order": "Charadriiformes",
 		"family": "Stercorariidae",
 		"genus": "Stercorarius",
-		"smallImg": "../images/birds/ArcticSkua (LQ).jpg",
-		"img": "../images/birds/ArcticSkua.jpg",
+		"smallImg": "../images/birds/ArcticJaeger (LQ).jpg",
+		"img": "../images/birds/ArcticJaeger.jpg",
 		"credit": "Jinesh PS - Previously unpublished work, CC BY-SA 4.0",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=81494339"
 	},
@@ -2548,7 +2534,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=4111831"
 	},
 	{
-		"en": "Gull-Billed Tern",
+		"en": "Common Gull-Billed Tern",
 		"mt": "Ċirlewwa Bumunqar",
 		"scn": "Sterna nilotica",
 		"desc": "No description yet",
@@ -2557,7 +2543,7 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Gull-BilledTern.jpg",
+		"img": "../images/birds/CommonGullBilledTern.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
@@ -2814,7 +2800,7 @@
 		"source": ""
 	},
 	{
-		"en": "Wood Pigeon",
+		"en": "Common Woodpigeon",
 		"mt": "Tudun",
 		"scn": "Columba palumbus",
 		"desc": "No description yet",
@@ -2828,7 +2814,7 @@
 		"source": ""
 	},
 	{
-		"en": "Collared Dove",
+		"en": "Eurasian Collared-Dove",
 		"mt": "Gamiema tal-Kullar",
 		"scn": "Streptopelia decaocto",
 		"desc": "No description yet",
@@ -2898,7 +2884,7 @@
 		"source": ""
 	},
 	{
-		"en": "Western Barn Owl",
+		"en": "Common Barn-Owl",
 		"mt": "Barbaġann",
 		"scn": "Tyto alba",
 		"desc": "No description yet",
@@ -2906,8 +2892,8 @@
 		"order": "Strigiformes",
 		"family": "Tytonidae",
 		"genus": "Tyto",
-		"smallImg": "../images/birds/WesternBarnOwl (LQ).jpg",
-		"img": "../images/birds/WesternBarnOwl.jpg",
+		"smallImg": "../images/birds/CommonBarnOwl (LQ).jpg",
+		"img": "../images/birds/CommonBarnOwl.jpg",
 		"credit": "Steven Ward - https://www.flickr.com/photos/steventimothyphotography/8555506918/, CC BY 2.0",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=31517017"
 	},
@@ -3094,7 +3080,7 @@
 		"source": ""
 	},
 	{
-		"en": "Kingfisher",
+		"en": "Common Kingfisher",
 		"mt": "Għasfur ta' San Martin",
 		"scn": "Alcedo atthis",
 		"desc": "No description yet",
@@ -3122,7 +3108,7 @@
 		"source": ""
 	},
 	{
-		"en": "Blue Cheeked Bee Eater",
+		"en": "Blue-Cheeked Bee-Eater",
 		"mt": "Qerd in-Naħal Aħdar",
 		"scn": "Merops persicus",
 		"desc": "No description yet",
@@ -3150,7 +3136,7 @@
 		"source": ""
 	},
 	{
-		"en": "Hoopoe",
+		"en": "Common Hoopoe",
 		"mt": "Daqquqa tat-Toppu",
 		"scn": "Upupa epops",
 		"desc": "No description yet",
@@ -3193,7 +3179,7 @@
 	},
 	{
 		"en": "Bar-tailed Lark",
-		"mt": "Alwetta Qastanija",
+		"mt": "Alwetta Qastnija",
 		"scn": "Ammomanes cinctures",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -3374,7 +3360,7 @@
 		"source": ""
 	},
 	{
-		"en": "Sand Martin",
+		"en": "Collared Sand Martin",
 		"mt": "Ħawwiefa tax-Xtut",
 		"scn": "Riparia riparia",
 		"desc": "No description yet",
@@ -3383,12 +3369,12 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/SandMartin.jpg",
+		"img": "../images/birds/CollaredSandMartin.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
 	{
-		"en": "Crag Martin",
+		"en": "Eurasian Crag Martin",
 		"mt": "Ħawwiefa tal-Blat",
 		"scn": "Ptyonoprogne rupestris",
 		"desc": "No description yet",
@@ -3397,7 +3383,7 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/CragMartin.jpg",
+		"img": "../images/birds/EurasianCragMartin.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
@@ -3598,7 +3584,7 @@
 		"source": ""
 	},
 	{
-		"en": "Waxwing",
+		"en": "Bohemian Waxwing",
 		"mt": "Sultan l-Isponsuni",
 		"scn": "Bombycilla garrulus",
 		"desc": "No description yet",
@@ -3808,7 +3794,7 @@
 		"source": ""
 	},
 	{
-		"en": "European Stonechat",
+		"en": "Common Stonechat",
 		"mt": "Buċaqq tax-Xitwa",
 		"scn": "Saxicola rubicola",
 		"desc": "No description yet",
@@ -3934,7 +3920,7 @@
 		"source": ""
 	},
 	{
-		"en": "Blue Rock Thrush",
+		"en": "Blue Rock-Thrush",
 		"mt": "Merill",
 		"scn": "Monticola solitarius",
 		"desc": "No description yet",
@@ -3976,7 +3962,7 @@
 		"source": ""
 	},
 	{
-		"en": "Blackbird",
+		"en": "Eurasian Blackbird",
 		"mt": "Malvizz Iswed",
 		"scn": "Turdus merula",
 		"desc": "No description yet",
@@ -3985,7 +3971,7 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Blackbird.jpg",
+		"img": "../images/birds/EurasianBlackbird.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
@@ -4088,7 +4074,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=151647210"
 	},
 	{
-		"en": "Grasshopper Warbler",
+		"en": "Common Grasshopper-Warbler",
 		"mt": "Bufula tal-Ġurati",
 		"scn": "Locustella naevia",
 		"desc": "No description yet",
@@ -4131,7 +4117,7 @@
 	},
 	{
 		"en": "Moustached Warbler",
-		"mt": "Bufula Qastanija",
+		"mt": "Bufula Qastnija",
 		"scn": "Acrocephalus melanopogon",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4186,7 +4172,7 @@
 		"source": ""
 	},
 	{
-		"en": "Blyth's Reed Warbler",
+		"en": "Blyth's Reed-Warbler",
 		"mt": "Bufula tal-Bagħli",
 		"scn": "Acrocephalus dumetorum",
 		"desc": "No description yet",
@@ -4214,7 +4200,7 @@
 		"source": ""
 	},
 	{
-		"en": "Reed Warbler",
+		"en": "Common Reed-Warbler",
 		"mt": "Bufula tal-Qasab",
 		"scn": "Acrocephalus scirpaceus",
 		"desc": "No description yet",
@@ -4223,7 +4209,7 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/ReedWarbler.jpg",
+		"img": "../images/birds/CommonReedWarbler.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
@@ -4243,7 +4229,7 @@
 	},
 	{
 		"en": "Olivaceous Warbler",
-		"mt": "Bekkafik Griż",
+		"mt": "Bekkafik tal-Lvant",
 		"scn": "Hippolais pallida",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4341,7 +4327,7 @@
 	},
 	{
 		"en": "Western Orphean Warbler",
-		"mt": "Bekkafik Sewdieni tal-Punent",
+		"mt": "Bekkafik Sewdieni",
 		"scn": "Sylvia hortensis",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4349,27 +4335,13 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/WesternOrpheanWarbler.jpg",
-		"credit": "No image to credit",
-		"source": ""
-	},
-	{
-		"en": "Eastern Orphean Warbler",
-		"mt": "Bekkafik Sewdieni tal-Lvant",
-		"scn": "Sylvia crassirostris",
-		"desc": "No description yet",
-		"status": "No Data",
-		"order": "No data yet",
-		"family": "No data yet",
-		"genus": "No data yet",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/EasternOrpheanWarbler.jpg",
+		"img": "../images/birds/OrpheanWarbler.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
 	{
 		"en": "African Desert Warbler",
-		"mt": "Bekkafik tad-Deżert",
+		"mt": "Bufula tad-Deżert",
 		"scn": "Sylvia deserti",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4453,7 +4425,7 @@
 	},
 	{
 		"en": "Subalpine Warbler",
-		"mt": "Bufula Passarija",
+		"mt": "Bufula Passajra",
 		"scn": "Sylvia cantillans",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4676,7 +4648,7 @@
 		"source": ""
 	},
 	{
-		"en": "Firecrest",
+		"en": "Common Firecrest",
 		"mt": "Bufula tax-Xemx",
 		"scn": "Regulus ignicapillus",
 		"desc": "No description yet",
@@ -4760,7 +4732,7 @@
 		"source": ""
 	},
 	{
-		"en": "Blue Tit",
+		"en": "Eurasian Blue Tit",
 		"mt": "Primavera",
 		"scn": "Cyanistes caeruleus",
 		"desc": "No description yet",
@@ -5110,7 +5082,7 @@
 		"source": ""
 	},
 	{
-		"en": "Chaffinch",
+		"en": "Common Chaffinch",
 		"mt": "Sponsun",
 		"scn": "Fringilla coelebs",
 		"desc": "No description yet",
@@ -5119,7 +5091,7 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Chaffinch.jpg",
+		"img": "../images/birds/CommonChaffinch.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
@@ -5194,7 +5166,7 @@
 		"source": ""
 	},
 	{
-		"en": "Linnet",
+		"en": "Common Linnet",
 		"mt": "Ġojjin",
 		"scn": "Carduelis cannabina",
 		"desc": "No description yet",
@@ -5203,7 +5175,7 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Linnet.jpg",
+		"img": "../images/birds/CommonLinnet.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
@@ -5278,7 +5250,7 @@
 		"source": ""
 	},
 	{
-		"en": "Bullfinch",
+		"en": "Eurasian Bullfinch",
 		"mt": "Bugeddum",
 		"scn": "Pyrrhula pyrrhula",
 		"desc": "No description yet",
@@ -5287,7 +5259,7 @@
 		"family": "No data yet",
 		"genus": "No data yet",
 		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/Bullfinch.jpg",
+		"img": "../images/birds/EurasianBullfinch.jpg",
 		"credit": "No image to credit",
 		"source": ""
 	},
@@ -5584,5 +5556,285 @@
 		"img": "../images/birds/Budgerigar.jpg",
 		"credit": "Sean Kelleher from Melbourne, Australia - PA030282.jpg, CC BY-SA 2.0",
 		"source": "https://commons.wikimedia.org/w/index.php?curid=110204636"
+	},
+	{
+		"en": "African Blue Tit",
+		"mt": "Primavera tat-Tuneżija",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Black-Throated Wheatear",
+		"mt": "Kuda tal-Atlas",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Black-Winged Kite",
+		"mt": "Astun Abjad",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Bonaparte's Gull",
+		"mt": "Gawwija Amerikana",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Booted Warbler",
+		"mt": "Bekkafik tal-Asja",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Brown Shrike",
+		"mt": "Kaċċamendula tal-Asja",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Chukar",
+		"mt": "Ċukar",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Citrine Wagtail",
+		"mt": "Zakak tal-Lvant",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Cory's Shearwater",
+		"mt": "Ċiefa tal-Atlantiku",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Eastern Imperial Eagle",
+		"mt": "Ajkla tal-Lvant",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Eastern Yellow Wagtail",
+		"mt": "Isfar tas-Siberja",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Moltoni's Warbler",
+		"mt": "Bufula ta' Sardenja",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Budgerigar",
+		"mt": "Amorin",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
 	}
 ]
