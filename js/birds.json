@@ -1,7 +1,7 @@
 [
 	{
 		"en": "Red-Throated Loon",
-		"mt": "Bugħaddas tal-Maltemp",
+		"mt": "Bugħaddas",
 		"scn": "Gavia stellata",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -15,7 +15,7 @@
 	},
 	{
 		"en": "Black-Throated Loon",
-		"mt": "Bugħaddas Iswed tal-Maltemp",
+		"mt": "Bugħaddas Iswed",
 		"scn": "Gavia arctica",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -127,7 +127,7 @@
 	},
 	{
 		"en": "Balearic Shearwater",
-		"mt": "Garnija tal-Baleariku",
+		"mt": "Garnija Balearika",
 		"scn": "Puffinus mauretanicus",
 		"desc": "No description yet",
 		"status": "Critically Endangered",
@@ -140,8 +140,8 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=15076773"
 	},
 	{
-		"en": "European Storm Petrel",
-		"mt": "Kangu ta' Filfla",
+		"en": "European Storm-Petrel",
+		"mt": "Kanġu ta' Filfla",
 		"scn": "Hydrobates pelagicus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -154,8 +154,8 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=25987162"
 	},
 	{
-		"en": "Leach's Storm Petrel",
-		"mt": "Kangu tal-Atlantiku",
+		"en": "Leach's Storm-Petrel",
+		"mt": "Kanġu tal-Atlantiku",
 		"scn": "Hydrobates leucorhous",
 		"desc": "No description yet",
 		"status": "Vulnerable",
@@ -183,7 +183,7 @@
 	},
 	{
 		"en": "Pygmy Cormorant",
-		"mt": "Margun Zgħir",
+		"mt": "Margun Żgħir",
 		"scn": "Microcarbo pygmaeus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -308,7 +308,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=20329327"
 	},
 	{
-		"en": "Western Reef Heron",
+		"en": "Western Reef-Egret",
 		"mt": "Agrett tax-Xatt",
 		"scn": "Egretta gularis",
 		"desc": "No description yet",
@@ -336,7 +336,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=47024149"
 	},
 	{
-		"en": "Great Egret",
+		"en": "Great White Egret",
 		"mt": "Russett Abjad",
 		"scn": "Ardea alba",
 		"desc": "No description yet",
@@ -351,7 +351,7 @@
 	},
 	{
 		"en": "Grey Heron",
-		"mt": "Russet Griż",
+		"mt": "Russett Griż",
 		"scn": "Ardea cinerea",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -505,7 +505,7 @@
 	},
 	{
 		"en": "Greater White-Fronted Goose",
-		"mt": "Wiżża tal-Maskra Bajda",
+		"mt": "Wiżża tal-Maskra",
 		"scn": "Anser albifrons",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -589,7 +589,7 @@
 	},
 	{
 		"en": "Eurasian Wigeon",
-		"mt": "Silfjun Ewropej",
+		"mt": "Silfjun Ewropew",
 		"scn": "Mareca penelope",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -645,7 +645,7 @@
 	},
 	{
 		"en": "Blue-Winged Teal",
-		"mt": "Sarsella tal-Ġewnah Ikhal",
+		"mt": "Sarsella tal-Faxx",
 		"scn": "Spatula discors",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -728,7 +728,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=113067243"
 	},
 	{
-		"en": "Marbled Duck",
+		"en": "Marbled Teal",
 		"mt": "Sarsella Mnaqqxa",
 		"scn": "Marmaronetta angustirostris",
 		"desc": "No description yet",
@@ -896,7 +896,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=18061334"
 	},
 	{
-		"en": "European Honey Buzzard",
+		"en": "European Honey-Buzzard",
 		"mt": "Kuċċarda",
 		"scn": "Pernis apivorus",
 		"desc": "No description yet",
@@ -938,7 +938,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=103248580"
 	},
 	{
-		"en": "White-Tailed Eagle",
+		"en": "White-Tailed Sea-Eagle",
 		"mt": "Ajkla tal-Baħar",
 		"scn": "Haliaeetus albicilla",
 		"desc": "No description yet",
@@ -966,7 +966,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=58812344"
 	},
 	{
-		"en": "Eurasian Griffon Vulture",
+		"en": "Griffon Vulture",
 		"mt": "Avultun Prim",
 		"scn": "Gyps fulvus",
 		"desc": "No description yet",
@@ -980,7 +980,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=29066936"
 	},
 	{
-		"en": "Short-Toed Snake Eagle",
+		"en": "Short-Toed Snake-Eagle",
 		"mt": "Ajkla Bajda",
 		"scn": "Circaetus gallicus",
 		"desc": "No description yet",
@@ -994,7 +994,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=27397932"
 	},
 	{
-		"en": "Western Marsh Harrier",
+		"en": "Western Marsh-Harrier",
 		"mt": "Bagħdan Aħmar",
 		"scn": "Circus aeruginosus",
 		"desc": "No description yet",
@@ -1205,7 +1205,7 @@
 	},
 	{
 		"en": "Red-Footed Falcon",
-		"mt": "Zumbrell",
+		"mt": "Żumbrell",
 		"scn": "Falco vespertinus",
 		"desc": "No description yet",
 		"status": "Vulnerable",
@@ -1261,7 +1261,7 @@
 	},
 	{
 		"en": "Sooty Falcon",
-		"mt": "Zumbrell Għarbi",
+		"mt": "Żumbrell Għarbi",
 		"scn": "Falco concolor",
 		"desc": "No description yet",
 		"status": "Vulnerable",
@@ -1344,7 +1344,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=127002883"
 	},
 	{
-		"en": "Water Rail",
+		"en": "Western Water Rail",
 		"mt": "Gallozz tax-Xitwa",
 		"scn": "Rallus aquaticus",
 		"desc": "No description yet",
@@ -1373,7 +1373,7 @@
 	},
 	{
 		"en": "Little Crake",
-		"mt": "Gallozz Zgħir",
+		"mt": "Gallozz Żgħir",
 		"scn": "Zapornia parva",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1470,8 +1470,8 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=158156488"
 	},
 	{
-		"en": "Western Swamphen",
-		"mt": "Gallozz Prim",
+		"en": "Purple Swamphen",
+		"mt": "Gallozz Sultan",
 		"scn": "Porphyrio porphyrio",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1527,7 +1527,7 @@
 	},
 	{
 		"en": "Demoiselle Crane",
-		"mt": "Damigella",
+		"mt": "Damiġella",
 		"scn": "Grus virgo",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1624,7 +1624,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=10610115"
 	},
 	{
-		"en": "Eurasian Stone-Curlew",
+		"en": "Eurasian Thick-Knee",
 		"mt": "Tellerita",
 		"scn": "Burhinus oedicnemus",
 		"desc": "No description yet",
@@ -1695,7 +1695,7 @@
 	},
 	{
 		"en": "Kentish Plover",
-		"mt": "Monakella Zgħira",
+		"mt": "Monakella Żgħira",
 		"scn": "Anarhynchus alexandrinus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1708,7 +1708,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=69423533"
 	},
 	{
-		"en": "Greater Sand Plover",
+		"en": "Greater Sandplover",
 		"mt": "Birwina tal-Lvant",
 		"scn": "Anarhynchus leschenaultii",
 		"desc": "No description yet",
@@ -1751,7 +1751,7 @@
 	},
 	{
 		"en": "Pacific Golden Plover",
-		"mt": "Pluviera Zgħira",
+		"mt": "Pluviera Żgħira",
 		"scn": "Pluvialis fulva",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -1764,7 +1764,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=21870271"
 	},
 	{
-		"en": "European Golden Plover",
+		"en": "Eurasian Golden Plover",
 		"mt": "Pluviera",
 		"scn": "Pluvialis apricaria",
 		"desc": "No description yet",
@@ -1793,7 +1793,7 @@
 	},
 	{
 		"en": "Spur-Winged Lapwing",
-		"mt": "Venewwa tal-Ixpuni",
+		"mt": "Venewwa tal-Ixpruni",
 		"scn": "Vanellus spinosus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -2086,7 +2086,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=15764240"
 	},
 	{
-		"en": "Eurasian Whimbrel",
+		"en": "Whimbrel",
 		"mt": "Gurlin Sekond",
 		"scn": "Numenius phaeopus",
 		"desc": "No description yet",
@@ -2101,7 +2101,7 @@
 	},
 	{
 		"en": "Slender-Billed Curlew",
-		"mt": "Gurlin Zgħir",
+		"mt": "Gurlin Żgħir",
 		"scn": "Numenius tenuirostris",
 		"desc": "No description yet",
 		"status": "Extinct",
@@ -2171,7 +2171,7 @@
 	},
 	{
 		"en": "Marsh Sandpiper",
-		"mt": "Ċewċewwa Zgħira",
+		"mt": "Ċewċewwa Żgħira",
 		"scn": "Tringa stagnatilis",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -2282,7 +2282,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=23694963"
 	},
 	{
-		"en": "Grey Phalarope",
+		"en": "Red Phalarope",
 		"mt": "Baruża Griża",
 		"scn": "Phalaropus fulicarius",
 		"desc": "No description yet",
@@ -2296,7 +2296,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=110989487"
 	},
 	{
-		"en": "Pomarine Skua",
+		"en": "Pomarine Jaeger",
 		"mt": "Skuwa",
 		"scn": "Stercorarius pomarinus",
 		"desc": "No description yet",
@@ -2381,7 +2381,7 @@
 	},
 	{
 		"en": "Little Gull",
-		"mt": "Gawwija Zgħira",
+		"mt": "Gawwija Żgħira",
 		"scn": "Hydrocoloeus minutus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -2436,7 +2436,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=121185520"
 	},
 	{
-		"en": "Common Gull",
+		"en": "Mew Gull",
 		"mt": "Gawwija Sekonda",
 		"scn": "Larus canus",
 		"desc": "No description yet",
@@ -2451,7 +2451,7 @@
 	},
 	{
 		"en": "Lesser Black-Backed Gull",
-		"mt": "Gawwija Darha Iswed",
+		"mt": "Gawwija Daharha Iswed",
 		"scn": "Larus fuscus",
 		"desc": "No description yet",
 		"status": "Least Concern",
@@ -2619,7 +2619,7 @@
 	},
 	{
 		"en": "Little Tern",
-		"mt": "Ċirlewwa Zgħira",
+		"mt": "Ċirlewwa Żgħira",
 		"scn": "Sterna albifrons",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -2660,7 +2660,7 @@
 		"source": ""
 	},
 	{
-		"en": "White-Winged Black Tern",
+		"en": "White-Winged Tern",
 		"mt": "Ċirlewwa tal-Lvant",
 		"scn": "Chlidonias leucopterus",
 		"desc": "No description yet",
@@ -2689,7 +2689,7 @@
 	},
 	{
 		"en": "Razorbill",
-		"mt": "Mus tal-Baħar",
+		"mt": "Mus",
 		"scn": "Alca torda",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -2717,7 +2717,7 @@
 	},
 	{
 		"en": "Little Auk",
-		"mt": "Purċinell Zgħir",
+		"mt": "Purċinell Żgħir",
 		"scn": "Alle alle",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -2731,7 +2731,7 @@
 	},
 	{
 		"en": "Atlantic Puffin",
-		"mt": "Purċinell tal-Baħar",
+		"mt": "Purċinell",
 		"scn": "Fratercula arctica",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -2828,7 +2828,7 @@
 		"source": ""
 	},
 	{
-		"en": "Turtle Dove",
+		"en": "European Turtle-Dove",
 		"mt": "Gamiema",
 		"scn": "Streptopelia turtur",
 		"desc": "No description yet",
@@ -2898,7 +2898,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=31517017"
 	},
 	{
-		"en": "Eurasian Scops Owl",
+		"en": "Eurasian Scops-Owl",
 		"mt": "Kokka",
 		"scn": "Otus scops",
 		"desc": "No description yet",
@@ -2926,7 +2926,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=3969785"
 	},
 	{
-		"en": "Long-Eared Owl",
+		"en": "Northern Long-Eared Owl",
 		"mt": "Qattus",
 		"scn": "Asio otus",
 		"desc": "No description yet",
@@ -2996,7 +2996,7 @@
 		"source": ""
 	},
 	{
-		"en": "White-Throated Needletailed Swift",
+		"en": "White-Throated Needletail",
 		"mt": "Rundun tal-Labar",
 		"scn": "Hirundapus caudacutus",
 		"desc": "No description yet",
@@ -3039,7 +3039,7 @@
 	},
 	{
 		"en": "Pallid Swift",
-		"mt": "Rundun Kanneli",
+		"mt": "Rundun Kannelli",
 		"scn": "Apus pallidus",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -3052,7 +3052,7 @@
 		"source": ""
 	},
 	{
-		"en": "White Rumped Swift",
+		"en": "White-Rumped Swift",
 		"mt": "Rundun tal-Ħawwief",
 		"scn": "Zoonavena sylvatica",
 		"desc": "No description yet",
@@ -3067,7 +3067,7 @@
 	},
 	{
 		"en": "Little Swift",
-		"mt": "Rundun Zgħir",
+		"mt": "Rundun Żgħir",
 		"scn": "Apus affinis",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -3094,7 +3094,7 @@
 		"source": ""
 	},
 	{
-		"en": "Bee-Eater",
+		"en": "European Bee-Eater",
 		"mt": "Qerd in-Naħal",
 		"scn": "Merops apiaster",
 		"desc": "No description yet",
@@ -3122,7 +3122,7 @@
 		"source": ""
 	},
 	{
-		"en": "Roller",
+		"en": "European Roller",
 		"mt": "Farruġ",
 		"scn": "Coracias garrulus",
 		"desc": "No description yet",
@@ -3150,7 +3150,7 @@
 		"source": ""
 	},
 	{
-		"en": "Wryneck",
+		"en": "Eurasian Wryneck",
 		"mt": "Bulebbiet",
 		"scn": "Jynx torquilla",
 		"desc": "No description yet",
@@ -3192,7 +3192,7 @@
 		"source": ""
 	},
 	{
-		"en": "Hoopoe Lark",
+		"en": "Greater Hoopoe-Lark",
 		"mt": "Alwetta Bumunqar",
 		"scn": "Alaemon alaudipes",
 		"desc": "No description yet",
@@ -3262,7 +3262,7 @@
 		"source": ""
 	},
 	{
-		"en": "Short-toed Lark",
+		"en": "Greater Short-Toed Lark",
 		"mt": "Bilbla",
 		"scn": "Calandrella brachydactyla",
 		"desc": "No description yet",
@@ -3276,7 +3276,7 @@
 		"source": ""
 	},
 	{
-		"en": "Lesser Short-toed Lark",
+		"en": "Mediterranean Short-Toed Lark",
 		"mt": "Bilbla Sekonda",
 		"scn": "Calandrella rufescens",
 		"desc": "No description yet",
@@ -3304,7 +3304,7 @@
 		"source": ""
 	},
 	{
-		"en": "Wood Lark",
+		"en": "Woodlark",
 		"mt": "Ċuqlajta",
 		"scn": "Lullula arborea",
 		"desc": "No description yet",
@@ -3318,7 +3318,7 @@
 		"source": ""
 	},
 	{
-		"en": "Sky Lark",
+		"en": "Eurasian Skylark",
 		"mt": "Alwetta",
 		"scn": "Alauda arvensis",
 		"desc": "No description yet",
@@ -3332,7 +3332,7 @@
 		"source": ""
 	},
 	{
-		"en": "Shore Lark",
+		"en": "Horned Lark",
 		"mt": "Alwetta Safra",
 		"scn": "Eremophila alpestris",
 		"desc": "No description yet",
@@ -3346,7 +3346,7 @@
 		"source": ""
 	},
 	{
-		"en": "Teminck's Lark",
+		"en": "Temminck's Lark",
 		"mt": "Alwetta tal-Qrun",
 		"scn": "Eremophila bilopha",
 		"desc": "No description yet",
@@ -3416,7 +3416,7 @@
 		"source": ""
 	},
 	{
-		"en": "House Martin",
+		"en": "Northern House Martin",
 		"mt": "Ħawwiefa",
 		"scn": "Delichon urbica",
 		"desc": "No description yet",
@@ -3542,8 +3542,8 @@
 		"source": ""
 	},
 	{
-		"en": "Yellow Wagtail",
-		"mt": "Zakak Isfar",
+		"en": "Western Yellow Wagtail",
+		"mt": "Isfar",
 		"scn": "Motacilla flava",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -3598,7 +3598,7 @@
 		"source": ""
 	},
 	{
-		"en": "Dipper",
+		"en": "White-Throated Dipper",
 		"mt": "Għasfur tax-Xmajjar",
 		"scn": "Cinclus cinclus",
 		"desc": "No description yet",
@@ -3612,7 +3612,7 @@
 		"source": ""
 	},
 	{
-		"en": "Wren",
+		"en": "Northern Wren",
 		"mt": "Bumistur",
 		"scn": "Troglodytes Troglodytes",
 		"desc": "No description yet",
@@ -3654,7 +3654,7 @@
 		"source": ""
 	},
 	{
-		"en": "Rufous Bush Chat",
+		"en": "Rufous-Tailed Scrub-Robin",
 		"mt": "Rożinjol tax-Xagħri",
 		"scn": "Cercotrichas galactotes",
 		"desc": "No description yet",
@@ -3668,7 +3668,7 @@
 		"source": ""
 	},
 	{
-		"en": "Robin",
+		"en": "European Robin",
 		"mt": "Pitirross",
 		"scn": "Erithacus rubecula",
 		"desc": "No description yet",
@@ -3878,7 +3878,7 @@
 		"source": ""
 	},
 	{
-		"en": "White Crowned Black Wheatear",
+		"en": "White-Crowned Wheatear",
 		"mt": "Kuda Rasha Bajda",
 		"scn": "Oenanthe leucopyga",
 		"desc": "No description yet",
@@ -3906,8 +3906,8 @@
 		"source": ""
 	},
 	{
-		"en": "Rock Thrush",
-		"mt": "Ganbublu",
+		"en": "Rufous-Tailed Rock-Thrush",
+		"mt": "Ġanbublu",
 		"scn": "Monticola saxatilis",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -3934,7 +3934,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=76012977"
 	},
 	{
-		"en": "Siberian Trush",
+		"en": "Siberian Thrush",
 		"mt": "Malvizz tas-Siberja",
 		"scn": "Zoothera sibirica",
 		"desc": "No description yet",
@@ -3976,7 +3976,7 @@
 		"source": ""
 	},
 	{
-		"en": "Eyebrowed Trush",
+		"en": "Eyebrowed Thrush",
 		"mt": "Malvizz Nordiku",
 		"scn": "Turdus obscurus",
 		"desc": "No description yet",
@@ -3991,7 +3991,7 @@
 	},
 	{
 		"en": "Fieldfare",
-		"mt": "Malvizzun tal-Qtajja",
+		"mt": "Malvizzun tal-Qtajja'",
 		"scn": "Turdus pilaris",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4032,7 +4032,7 @@
 		"source": ""
 	},
 	{
-		"en": "Mistle Trush",
+		"en": "Mistle Thrush",
 		"mt": "Malvizzun Prim",
 		"scn": "Turdus viscivorus",
 		"desc": "No description yet",
@@ -4159,7 +4159,7 @@
 	},
 	{
 		"en": "Paddyfield Warbler",
-		"mt": "Bufala tas-Saqwi",
+		"mt": "Bufula tas-Saqwi",
 		"scn": "Acrocephalus agricola",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4214,7 +4214,7 @@
 		"source": ""
 	},
 	{
-		"en": "Great Reed Warbler",
+		"en": "Great Reed-Warbler",
 		"mt": "Bufula Prima",
 		"scn": "Acrocephalus arundinaceus",
 		"desc": "No description yet",
@@ -4452,7 +4452,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=6530319"
 	},
 	{
-		"en": "Ruppell's Warbler",
+		"en": "Rüppell's Warbler",
 		"mt": "Bufula tal-Pavalor",
 		"scn": "Sylvia rueppelli",
 		"desc": "No description yet",
@@ -4494,7 +4494,7 @@
 		"source": ""
 	},
 	{
-		"en": "Pallas's Leaf Warbler",
+		"en": "Pallas's Leaf-Warbler",
 		"mt": "Vjolin tal-Ferq",
 		"scn": "Phylloscopus proregulus",
 		"desc": "No description yet",
@@ -4508,7 +4508,7 @@
 		"source": ""
 	},
 	{
-		"en": "Yellow Browed Warbler",
+		"en": "Yellow-Browed Warbler",
 		"mt": "Vjolin tal-Faxx",
 		"scn": "Phylloscopus inornatus",
 		"desc": "No description yet",
@@ -4607,7 +4607,7 @@
 	},
 	{
 		"en": "Iberian Chiffchaff",
-		"mt": "Vjolin tal-Iberja",
+		"mt": "Vjolin Spanjol",
 		"scn": "Phylloscopus ibericus",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4676,8 +4676,8 @@
 		"source": ""
 	},
 	{
-		"en": "Red-breasted Flycatcher",
-		"mt": "Żanżarell Zgħir",
+		"en": "Red-Breasted Flycatcher",
+		"mt": "Żanżarell Żgħir",
 		"scn": "Ficedula parva",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -4718,7 +4718,7 @@
 		"source": ""
 	},
 	{
-		"en": "Pied Flycatcher",
+		"en": "European Pied Flycatcher",
 		"mt": "Żanżarell Iswed",
 		"scn": "Ficedula hypoleuca",
 		"desc": "No description yet",
@@ -4774,7 +4774,7 @@
 		"source": ""
 	},
 	{
-		"en": "Penduline Tit",
+		"en": "Eurasian Penduline-Tit",
 		"mt": "Pendulin",
 		"scn": "Remiz pendulinus",
 		"desc": "No description yet",
@@ -4788,7 +4788,7 @@
 		"source": ""
 	},
 	{
-		"en": "Golden Oriole",
+		"en": "Eurasian Golden Oriole",
 		"mt": "Tajra Safra",
 		"scn": "Oriolus oriolus",
 		"desc": "No description yet",
@@ -4900,7 +4900,7 @@
 		"source": ""
 	},
 	{
-		"en": "Western Jackdaw",
+		"en": "Eurasian Jackdaw",
 		"mt": "Ċawla",
 		"scn": "Corvus monedula",
 		"desc": "No description yet",
@@ -4998,7 +4998,7 @@
 		"source": ""
 	},
 	{
-		"en": "Rose-Coloured Starling",
+		"en": "Rosy Starling",
 		"mt": "Sturnell Roża",
 		"scn": "Pastor roseus",
 		"desc": "No description yet",
@@ -5026,7 +5026,7 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=147030690"
 	},
 	{
-		"en": "Tree Sparrow",
+		"en": "Eurasian Tree Sparrow",
 		"mt": "Ġaħġaħ",
 		"scn": "Passer montanus",
 		"desc": "No description yet",
@@ -5054,7 +5054,7 @@
 		"source": ""
 	},
 	{
-		"en": "Snowfinch",
+		"en": "White-Winged Snowfinch",
 		"mt": "Sponsun tas-Silġ",
 		"scn": "Montifringilla nivalis",
 		"desc": "No description yet",
@@ -5124,7 +5124,7 @@
 		"source": ""
 	},
 	{
-		"en": "Greenfinch",
+		"en": "European Greenfinch",
 		"mt": "Verdun",
 		"scn": "Carduelis chloris",
 		"desc": "No description yet",
@@ -5138,7 +5138,7 @@
 		"source": ""
 	},
 	{
-		"en": "Goldfinch",
+		"en": "European Goldfinch",
 		"mt": "Gardell",
 		"scn": "Carduelis carduelis",
 		"desc": "No description yet",
@@ -5152,7 +5152,7 @@
 		"source": ""
 	},
 	{
-		"en": "Siskin",
+		"en": "Eurasian Siskin",
 		"mt": "Ekru",
 		"scn": "Carduelis spinus",
 		"desc": "No description yet",
@@ -5194,7 +5194,7 @@
 		"source": ""
 	},
 	{
-		"en": "Common Redpoll",
+		"en": "Redpoll",
 		"mt": "Ġojjin Sekond",
 		"scn": "Carduelis flammea",
 		"desc": "No description yet",
@@ -5208,7 +5208,7 @@
 		"source": ""
 	},
 	{
-		"en": "Common Crossbill",
+		"en": "Red Crossbill",
 		"mt": "Kruċjat",
 		"scn": "Loxia curvirostra",
 		"desc": "No description yet",
@@ -5265,7 +5265,7 @@
 	},
 	{
 		"en": "Hawfinch",
-		"mt": "Taż-Żebbug",
+		"mt": "Taż-Żebbuġ",
 		"scn": "Coccothraustes coccothraustes",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -5293,7 +5293,7 @@
 	},
 	{
 		"en": "Lapland Bunting",
-		"mt": "Durrajsa Nordika",
+		"mt": "Lapland Longspur",
 		"scn": "Calcarius lapponicus",
 		"desc": "No description yet",
 		"status": "No Data",
@@ -5334,7 +5334,7 @@
 		"source": ""
 	},
 	{
-		"en": "Yellohammer",
+		"en": "Yellowhammer",
 		"mt": "Durrajsa Safra",
 		"scn": "Emberiza citrinella",
 		"desc": "No description yet",
@@ -5726,8 +5726,8 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "Ménétries's Warbler",
+		"mt": "Bufula tal-Makkja",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
@@ -5740,8 +5740,8 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "Orange-Flanked Bush-Robin",
+		"mt": "Fjamma Kaħla",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
@@ -5754,8 +5754,8 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "White-Winged Lark",
+		"mt": "Kalandra tal-Ġewnaħ Abjad",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
@@ -5768,8 +5768,8 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "Long-billed Dowitcher",
+		"mt": "Girwiel tal-Bekkaċċ",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
@@ -5782,8 +5782,8 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "Swinhoe's Storm-Petrel",
+		"mt": "Kanġu tal-Lvant",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
@@ -5796,8 +5796,8 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "Red-Tailed Shrike",
+		"mt": "Kaċċamendula Denbha Aħmar",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
@@ -5810,8 +5810,8 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "Levant Sparrowhawk",
+		"mt": "Sparvier tal-Lvant",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
@@ -5824,8 +5824,92 @@
 		"source": ""
 	},
 	{
-		"en": "Budgerigar",
-		"mt": "Amorin",
+		"en": "Mongolian Finch",
+		"mt": "Trumbettier tal-Lvant",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Mountain Chiffchaff",
+		"mt": "Vjolin tal-Muntanji",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Siberian Chiffchaff",
+		"mt": "Vjolin Ċar",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Lesser Crested Tern",
+		"mt": "Ċirlewwa tal-Libja",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Pale Rock Martin",
+		"mt": "Ħawwiefa Griża",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Hume's Leaf-Warbler",
+		"mt": "Vjolin tal-Faxx Ċar",
+		"scn": "",
+		"desc": "No description yet",
+		"status": "No data",
+		"order": "No data yet",
+		"family": "No data yet",
+		"genus": "No data yet",
+		"smallImg": "../images/birds/",
+		"img": "../images/birds/",
+		"credit": "",
+		"source": ""
+	},
+	{
+		"en": "Isabelline Warbler",
+		"mt": "Bekkafik Griż",
 		"scn": "",
 		"desc": "No description yet",
 		"status": "No data",
