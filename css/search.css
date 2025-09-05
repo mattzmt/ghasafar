@@ -499,6 +499,8 @@ main {
   height: 30px;
   background: var(--dark1);
   font-size: 15px;
+  font-weight: bold;
+  color: #555;
   padding: 5px;
   border-radius: 50%;
 }
@@ -515,22 +517,27 @@ main {
 
 #cr.statusSelected {
   background: #f44;
+  color: #fff;
 }
 
 #en.statusSelected {
   background: #c55;
+  color: #fff;
 }
 
 #vu.statusSelected {
   background: #c91;
+  color: #fff;
 }
 
 #nt.statusSelected {
   background: #086;
+  color: #fff;
 }
 
 #lc.statusSelected {
   background: #088;
+  color: #fff;
 }
 
 #popup-img {
