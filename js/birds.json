@@ -5602,16 +5602,16 @@
 	{
 		"en": "Bonaparte's Gull",
 		"mt": "Gawwija Amerikana",
-		"scn": "",
+		"scn": "Larus philadelphia",
 		"desc": "No description yet",
-		"status": "No data",
-		"order": "No data yet",
-		"family": "No data yet",
-		"genus": "No data yet",
-		"smallImg": "../images/birds/",
-		"img": "../images/birds/",
-		"credit": "",
-		"source": ""
+		"status": "Least Concern",
+		"order": "Charadriiformes",
+		"family": "Laridae",
+		"genus": "Larus",
+		"smallImg": "../images/birds/BonapartesGull (LQ).jpg",
+		"img": "../images/birds/BonapartesGull.jpg",
+		"credit": "By Wildreturn - https://www.flickr.com/photos/80270393@N06/52016973462/, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=130302143"
 	},
 	{
 		"en": "Booted Warbler",
