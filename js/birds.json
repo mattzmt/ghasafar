@@ -2534,18 +2534,18 @@
 		"source": "https://commons.wikimedia.org/w/index.php?curid=4111831"
 	},
 	{
-		"en": "Common Gull-Billed Tern",
+		"en": "Gull-Billed Tern",
 		"mt": "Ċirlewwa Bumunqar",
-		"scn": "Sterna nilotica",
+		"scn": "Gelochelidon nilotica",
 		"desc": "No description yet",
-		"status": "No Data",
-		"order": "No data yet",
-		"family": "No data yet",
-		"genus": "No data yet",
-		"smallImg": "../images/birds/.jpg",
-		"img": "../images/birds/CommonGullBilledTern.jpg",
-		"credit": "No image to credit",
-		"source": ""
+		"status": "Least Concern",
+		"order": "Charadriiformes",
+		"family": "Laridae",
+		"genus": "Gelochelidon",
+		"smallImg": "../images/birds/GullBilledTern (LQ).jpg",
+		"img": "../images/birds/GullBilledTern.jpg",
+		"credit": "By Eric Kershner/USFWS - Flickr at https://www.flickr.com/photos/usfws_pacificsw/5759704018/in/photostream/, CC BY 2.0",
+		"source": "https://commons.wikimedia.org/w/index.php?curid=21146941"
 	},
 	{
 		"en": "Caspian Tern",
